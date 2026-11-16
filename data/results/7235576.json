@@ -88,17 +88,6 @@
     },
     {
      "place": "8",
-     "mark": "2:06:40",
-     "name": "Filmon TESFU",
-     "nat": "NED",
-     "athleteId": "14844367",
-     "slug": "netherlands/filmon-tesfu-14844367",
-     "birthDate": "05 SEP 1993",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "9",
      "mark": "2:06:46",
      "name": "Pietro RIVA",
      "nat": "ITA",
@@ -109,7 +98,7 @@
      "remark": ""
     },
     {
-     "place": "10",
+     "place": "9",
      "mark": "2:08:18",
      "name": "Jirata DINKI",
      "nat": "ETH",
@@ -120,7 +109,7 @@
      "remark": ""
     },
     {
-     "place": "11",
+     "place": "10",
      "mark": "2:08:40",
      "name": "Hillary BOR",
      "nat": "USA",
@@ -131,7 +120,7 @@
      "remark": ""
     },
     {
-     "place": "12",
+     "place": "11",
      "mark": "2:09:23",
      "name": "Dorian BOULVIN",
      "nat": "BEL",
@@ -142,29 +131,18 @@
      "remark": ""
     },
     {
+     "place": "12",
+     "mark": "2:09:28",
+     "name": "Noah SCHUTTE",
+     "nat": "NED",
+     "athleteId": "14523635",
+     "slug": "netherlands/noah-schutte-14523635",
+     "birthDate": "15 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "13",
-     "mark": "2:09:28",
-     "name": "Noah SCHUTTE",
-     "nat": "NED",
-     "athleteId": "14523635",
-     "slug": "netherlands/noah-schutte-14523635",
-     "birthDate": "15 MAY 1995",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "14",
-     "mark": "2:09:28",
-     "name": "Noah SCHUTTE",
-     "nat": "NED",
-     "athleteId": "14523635",
-     "slug": "netherlands/noah-schutte-14523635",
-     "birthDate": "15 MAY 1995",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "15",
      "mark": "2:09:35",
      "name": "Yitayew ABUHAY",
      "nat": "ISR",
@@ -175,7 +153,7 @@
      "remark": ""
     },
     {
-     "place": "16",
+     "place": "14",
      "mark": "2:10:11",
      "name": "Mike Kiptum BOIT",
      "nat": "KEN",
@@ -186,7 +164,7 @@
      "remark": ""
     },
     {
-     "place": "17",
+     "place": "15",
      "mark": "2:10:12",
      "name": "Alem NIGUSE",
      "nat": "ETH",
@@ -197,7 +175,7 @@
      "remark": ""
     },
     {
-     "place": "18",
+     "place": "16",
      "mark": "2:10:17",
      "name": "Fikadu LICHE",
      "nat": "ETH",
@@ -208,7 +186,7 @@
      "remark": ""
     },
     {
-     "place": "19",
+     "place": "17",
      "mark": "2:10:17",
      "name": "Melesse BIRHAN",
      "nat": "ETH",
@@ -219,7 +197,7 @@
      "remark": ""
     },
     {
-     "place": "20",
+     "place": "18",
      "mark": "2:10:18",
      "name": "Thomas DE BOCK",
      "nat": "BEL",
@@ -228,9 +206,31 @@
      "birthDate": "20 AUG 1991",
      "records": "",
      "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:10:33",
+     "name": "Koen NAERT",
+     "nat": "BEL",
+     "athleteId": "14329163",
+     "slug": "belgium/koen-naert-14329163",
+     "birthDate": "03 SEP 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:11:58",
+     "name": "Sawan BARWAL",
+     "nat": "IND",
+     "athleteId": "14734651",
+     "slug": "india/sawan-barwal-14734651",
+     "birthDate": "18 FEB 1998",
+     "records": "",
+     "remark": ""
     }
    ],
-   "finishers": 169
+   "finishers": 104
   },
   {
    "event": "Women's Marathon",
@@ -328,17 +328,6 @@
     },
     {
      "place": "9",
-     "mark": "2:30:42",
-     "name": "Mikky KEETELS",
-     "nat": "NED",
-     "athleteId": "15190933",
-     "slug": "netherlands/mikky-keetels-15190933",
-     "birthDate": "25 JAN 1999",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "10",
      "mark": "2:31:09",
      "name": "Jana SOETHOUT",
      "nat": "GER",
@@ -349,7 +338,7 @@
      "remark": ""
     },
     {
-     "place": "11",
+     "place": "10",
      "mark": "2:31:50",
      "name": "Victoria WARPY",
      "nat": "BEL",
@@ -360,7 +349,7 @@
      "remark": ""
     },
     {
-     "place": "12",
+     "place": "11",
      "mark": "2:37:04",
      "name": "Erika FLUEHR",
      "nat": "USA",
@@ -371,7 +360,7 @@
      "remark": ""
     },
     {
-     "place": "13",
+     "place": "12",
      "mark": "2:38:55",
      "name": "Jacqueline GAUGHAN",
      "nat": "USA",
@@ -382,7 +371,7 @@
      "remark": ""
     },
     {
-     "place": "14",
+     "place": "13",
      "mark": "2:39:14",
      "name": "Brigid DENNEHY",
      "nat": "NZL",
@@ -393,7 +382,7 @@
      "remark": ""
     },
     {
-     "place": "15",
+     "place": "14",
      "mark": "2:39:30",
      "name": "Wuga HE",
      "nat": "CHN",
@@ -404,7 +393,7 @@
      "remark": ""
     },
     {
-     "place": "16",
+     "place": "15",
      "mark": "2:41:13",
      "name": "Elisabetta IAVARONE",
      "nat": "ITA",
@@ -415,29 +404,18 @@
      "remark": ""
     },
     {
+     "place": "16",
+     "mark": "2:41:39",
+     "name": "Natascha SCHIPPERS",
+     "nat": "NED",
+     "athleteId": "15085448",
+     "slug": "netherlands/natascha-schippers-15085448",
+     "birthDate": "1990",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "17",
-     "mark": "2:41:39",
-     "name": "Natascha SCHIPPERS",
-     "nat": "NED",
-     "athleteId": "15085448",
-     "slug": "netherlands/natascha-schippers-15085448",
-     "birthDate": "1990",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "18",
-     "mark": "2:41:39",
-     "name": "Natascha SCHIPPERS",
-     "nat": "NED",
-     "athleteId": "15085448",
-     "slug": "netherlands/natascha-schippers-15085448",
-     "birthDate": "1990",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "19",
      "mark": "2:42:15",
      "name": "Malejeva MATHIJS",
      "nat": "BEL",
@@ -448,7 +426,7 @@
      "remark": ""
     },
     {
-     "place": "20",
+     "place": "18",
      "mark": "2:42:44",
      "name": "Nella OENEMA",
      "nat": "NED",
@@ -457,9 +435,31 @@
      "birthDate": "25 AUG 1997",
      "records": "",
      "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:43:05",
+     "name": "Anna MORSINK",
+     "nat": "NED",
+     "athleteId": "15187762",
+     "slug": "netherlands/anna-morsink-15187762",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:44:34",
+     "name": "Melanie DE MUNNIK",
+     "nat": "NED",
+     "athleteId": "15142664",
+     "slug": "netherlands/melanie-de-munnik-15142664",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
     }
    ],
-   "finishers": 96
+   "finishers": 61
   }
  ]
 }

@@ -187,17 +187,6 @@
     },
     {
      "place": "17",
-     "mark": "2:10:14",
-     "name": "Andrew BUCHANAN",
-     "nat": "AUS",
-     "athleteId": "14446838",
-     "slug": "australia/andrew-buchanan-14446838",
-     "birthDate": "10 APR 1991",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "18",
      "mark": "2:10:56",
      "name": "Hagos GEBRHIWET",
      "nat": "ETH",
@@ -208,7 +197,7 @@
      "remark": ""
     },
     {
-     "place": "19",
+     "place": "18",
      "mark": "2:12:09",
      "name": "Timothy KIPLAGAT",
      "nat": "KEN",
@@ -219,7 +208,7 @@
      "remark": ""
     },
     {
-     "place": "20",
+     "place": "19",
      "mark": "2:12:14",
      "name": "Chala REGASA",
      "nat": "ETH",
@@ -228,9 +217,20 @@
      "birthDate": "30 APR 1997",
      "records": "",
      "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:13:28",
+     "name": "Yudai FUKUDA",
+     "nat": "JPN",
+     "athleteId": "14494476",
+     "slug": "japan/yudai-fukuda-14494476",
+     "birthDate": "19 NOV 1996",
+     "records": "",
+     "remark": ""
     }
    ],
-   "finishers": 128
+   "finishers": 120
   },
   {
    "event": "Women's Marathon",
@@ -339,17 +339,6 @@
     },
     {
      "place": "10",
-     "mark": "2:28:28",
-     "name": "Ellie PASHLEY",
-     "nat": "AUS",
-     "athleteId": "14448453",
-     "slug": "australia/ellie-pashley-14448453",
-     "birthDate": "10 DEC 1988",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "11",
      "mark": "2:28:30",
      "name": "Aberu AYANA",
      "nat": "ETH",
@@ -360,29 +349,18 @@
      "remark": ""
     },
     {
+     "place": "11",
+     "mark": "2:29:47",
+     "name": "Milly CLARK",
+     "nat": "AUS",
+     "athleteId": "14445318",
+     "slug": "australia/milly-clark-14445318",
+     "birthDate": "01 MAR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "12",
-     "mark": "2:29:47",
-     "name": "Milly CLARK",
-     "nat": "AUS",
-     "athleteId": "14445318",
-     "slug": "australia/milly-clark-14445318",
-     "birthDate": "01 MAR 1989",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "13",
-     "mark": "2:29:47",
-     "name": "Milly CLARK",
-     "nat": "AUS",
-     "athleteId": "14445318",
-     "slug": "australia/milly-clark-14445318",
-     "birthDate": "01 MAR 1989",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "14",
      "mark": "2:31:01",
      "name": "Mizuki NISHIMURA",
      "nat": "JPN",
@@ -393,7 +371,7 @@
      "remark": ""
     },
     {
-     "place": "15",
+     "place": "13",
      "mark": "2:31:11",
      "name": "Caitlin SCOTT",
      "nat": "AUS",
@@ -404,18 +382,7 @@
      "remark": ""
     },
     {
-     "place": "16",
-     "mark": "2:31:11",
-     "name": "Caitlin SCOTT",
-     "nat": "AUS",
-     "athleteId": "14554526",
-     "slug": "australia/caitlin-scott-14554526",
-     "birthDate": "07 JUL 1997",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "17",
+     "place": "14",
      "mark": "2:40:23",
      "name": "Mikky KEETELS",
      "nat": "NED",
@@ -426,7 +393,7 @@
      "remark": ""
     },
     {
-     "place": "18",
+     "place": "15",
      "mark": "2:40:56",
      "name": "Rosie WEBER-KEARNS",
      "nat": "AUS",
@@ -437,18 +404,7 @@
      "remark": ""
     },
     {
-     "place": "19",
-     "mark": "2:40:56",
-     "name": "Rosie WEBER-KEARNS",
-     "nat": "AUS",
-     "athleteId": "14548987",
-     "slug": "australia/rosie-weber-kearns-14548987",
-     "birthDate": "12 MAR 1993",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "20",
+     "place": "16",
      "mark": "2:42:56",
      "name": "Shiu Yan Leanne SZETO",
      "nat": "HKG",
@@ -457,9 +413,53 @@
      "birthDate": "05 JAN 1991",
      "records": "",
      "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:43:04",
+     "name": "Sarah LUDOWICI",
+     "nat": "AUS",
+     "athleteId": "14990521",
+     "slug": "australia/sarah-ludowici-14990521",
+     "birthDate": "04 AUG 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:43:09",
+     "name": "Melina KÜRSCHNER",
+     "nat": "CAN",
+     "athleteId": "14678082",
+     "slug": "canada/melina-kurschner-14678082",
+     "birthDate": "30 JUL 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:43:22",
+     "name": "Kathryn PARKINSON",
+     "nat": "AUS",
+     "athleteId": "14525730",
+     "slug": "australia/kathryn-parkinson-14525730",
+     "birthDate": "10 JUL 1983",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:44:05",
+     "name": "Kimberly BENNETT",
+     "nat": "CAN",
+     "athleteId": "14920855",
+     "slug": "canada/kimberly-bennett-14920855",
+     "birthDate": "24 NOV 1988",
+     "records": "",
+     "remark": ""
     }
    ],
-   "finishers": 121
+   "finishers": 113
   }
  ]
 }

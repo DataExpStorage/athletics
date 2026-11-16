@@ -357,9 +357,15 @@ def check_fetched(c):
             if not isinstance(ev, dict) or ev.get("gender") not in ("W", "M", "X"):
                 c.fail("an event has no valid gender")
                 continue
+            seen = set()
             for row in ev.get("results") or []:
                 if row.get("athleteId") is not None:
                     c.digits(row["athleteId"], "athleteId of %r" % (row.get("name"),))
+                # one athlete, one row: a repeat means two lists of the same race were merged
+                who = row.get("athleteId") or (row.get("name"), row.get("mark"))
+                if who in seen:
+                    c.fail("%s lists %r twice" % (ev.get("event"), row.get("name")))
+                seen.add(who)
     for path, top in json_files(c, "toplists", "*", "*.json"):
         c.url(top.get("source"), "source", required=True)
         for row in top.get("rows") or []:

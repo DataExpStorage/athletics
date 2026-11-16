@@ -47,14 +47,15 @@ def parse_events(props, top_n):
     return out
 
 
-def fetch_race(race, top_n):
+def fetch_race(race, top_n, max_age_hours=0):
+    """max_age_hours > 0 re-reads the page from the local cache when it is that fresh."""
     merged = {}
     order = []
-    props = wa.page_props(wa.fetch(RESULTS_PAGE % race["id"]))
+    props = wa.page_props(wa.fetch(RESULTS_PAGE % race["id"], max_age_hours=max_age_hours))
     days = ((props.get("calendarEventsResults") or {}).get("options") or {}).get("days") or []
     pages = [props]
     for d in days[1:]:  # multi-day championships
-        pages.append(wa.page_props(wa.fetch((RESULTS_PAGE % race["id"]) + "?day=%s" % d.get("day"))))
+        pages.append(wa.page_props(wa.fetch((RESULTS_PAGE % race["id"]) + "?day=%s" % d.get("day"), max_age_hours=max_age_hours)))
     for i, p in enumerate(pages):
         for ev in parse_events(p, top_n):
             key = (ev["eventId"], ev["gender"])
@@ -72,7 +73,18 @@ def fetch_race(race, top_n):
         ev = merged[key]
         rows = ev["results"]
         if ev.pop("_groups") > 1:
-            timed = [r for r in rows if wa.mark_seconds(r["mark"]) is not None]
+            # The separate lists can be different fields (Chicago: elite + a second field)
+            # or the same finishers listed again under a sub-classification (Sydney: the
+            # national championship inside the race). So: one row per athlete, then rank.
+            timed, seen = [], set()
+            for r in rows:
+                if wa.mark_seconds(r["mark"]) is None:
+                    continue
+                who = r["athleteId"] or ("name", r["name"], r["mark"])
+                if who in seen:
+                    continue
+                seen.add(who)
+                timed.append(r)
             timed.sort(key=lambda r: wa.mark_seconds(r["mark"]))
             for n, r in enumerate(timed):
                 r["place"] = str(n + 1)

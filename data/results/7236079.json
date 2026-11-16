@@ -44,17 +44,6 @@
     },
     {
      "place": "4",
-     "mark": "1:00:12",
-     "name": "Ali KAYA",
-     "nat": "TUR",
-     "athleteId": "14573513",
-     "slug": "turkiye/ali-kaya-14573513",
-     "birthDate": "20 APR 1994",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "5",
      "mark": "1:00:21",
      "name": "Benard Kibet MURKOMEN",
      "nat": "KEN",
@@ -65,7 +54,7 @@
      "remark": ""
     },
     {
-     "place": "6",
+     "place": "5",
      "mark": "1:00:40",
      "name": "Robert KETER",
      "nat": "KEN",
@@ -76,7 +65,7 @@
      "remark": ""
     },
     {
-     "place": "7",
+     "place": "6",
      "mark": "1:00:48",
      "name": "Moses CHERUIYOT",
      "nat": "KEN",
@@ -87,7 +76,7 @@
      "remark": ""
     },
     {
-     "place": "8",
+     "place": "7",
      "mark": "1:00:51",
      "name": "Teresa NYAKOLA",
      "nat": "ETH",
@@ -98,7 +87,7 @@
      "remark": ""
     },
     {
-     "place": "9",
+     "place": "8",
      "mark": "1:00:56",
      "name": "Mengistu BEKELE",
      "nat": "ETH",
@@ -109,7 +98,7 @@
      "remark": ""
     },
     {
-     "place": "10",
+     "place": "9",
      "mark": "1:01:13",
      "name": "Solomon Kirwa YEGO",
      "nat": "KEN",
@@ -120,7 +109,7 @@
      "remark": ""
     },
     {
-     "place": "11",
+     "place": "10",
      "mark": "1:01:20",
      "name": "Shura KITATA",
      "nat": "ETH",
@@ -131,29 +120,18 @@
      "remark": ""
     },
     {
+     "place": "11",
+     "mark": "1:02:21",
+     "name": "Ramazan BAŞTUĞ",
+     "nat": "TUR",
+     "athleteId": "14740057",
+     "slug": "turkiye/ramazan-bastug-14740057",
+     "birthDate": "01 DEC 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "12",
-     "mark": "1:02:21",
-     "name": "Ramazan BAŞTUĞ",
-     "nat": "TUR",
-     "athleteId": "14740057",
-     "slug": "turkiye/ramazan-bastug-14740057",
-     "birthDate": "01 DEC 2000",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "13",
-     "mark": "1:02:21",
-     "name": "Ramazan BAŞTUĞ",
-     "nat": "TUR",
-     "athleteId": "14740057",
-     "slug": "turkiye/ramazan-bastug-14740057",
-     "birthDate": "01 DEC 2000",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "14",
      "mark": "1:02:28",
      "name": "Ellis CROSS",
      "nat": "GBR",
@@ -164,7 +142,7 @@
      "remark": ""
     },
     {
-     "place": "15",
+     "place": "13",
      "mark": "1:02:34",
      "name": "Shadrack Kipkurui KENDUIYWO",
      "nat": "KEN",
@@ -175,7 +153,7 @@
      "remark": ""
     },
     {
-     "place": "16",
+     "place": "14",
      "mark": "1:02:35",
      "name": "Kenneth LAGAT",
      "nat": "KEN",
@@ -186,51 +164,73 @@
      "remark": ""
     },
     {
-     "place": "17",
+     "place": "15",
      "mark": "1:02:52",
      "name": "Ömer AMAÇTAN",
      "nat": "TUR",
      "athleteId": "14735410",
      "slug": "turkiye/omer-amactan-14735410",
      "birthDate": "05 MAY 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:03:17",
+     "name": "Ahmet ALKANOĞLU",
+     "nat": "TUR",
+     "athleteId": "14846980",
+     "slug": "turkiye/ahmet-alkanoglu-14846980",
+     "birthDate": "29 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:03:25",
+     "name": "Shadrack Kimutai KOECH",
+     "nat": "KAZ",
+     "athleteId": "14747113",
+     "slug": "kazakhstan/shadrack-kimutai-koech-14747113",
+     "birthDate": "28 DEC 1999",
      "records": "",
      "remark": ""
     },
     {
      "place": "18",
-     "mark": "1:02:52",
-     "name": "Ömer AMAÇTAN",
+     "mark": "1:04:03",
+     "name": "Aras KAYA",
      "nat": "TUR",
-     "athleteId": "14735410",
-     "slug": "turkiye/omer-amactan-14735410",
-     "birthDate": "05 MAY 2001",
+     "athleteId": "14655103",
+     "slug": "turkiye/aras-kaya-14655103",
+     "birthDate": "04 APR 1994",
      "records": "",
      "remark": ""
     },
     {
      "place": "19",
-     "mark": "1:03:17",
-     "name": "Ahmet ALKANOĞLU",
+     "mark": "1:04:05",
+     "name": "Halil YASIN",
      "nat": "TUR",
-     "athleteId": "14846980",
-     "slug": "turkiye/ahmet-alkanoglu-14846980",
-     "birthDate": "29 JUL 1999",
+     "athleteId": "14866330",
+     "slug": "turkiye/halil-yasin-14866330",
+     "birthDate": "02 APR 1999",
      "records": "",
      "remark": ""
     },
     {
      "place": "20",
-     "mark": "1:03:17",
-     "name": "Ahmet ALKANOĞLU",
+     "mark": "1:06:37",
+     "name": "Enbiya YAZICI",
      "nat": "TUR",
-     "athleteId": "14846980",
-     "slug": "turkiye/ahmet-alkanoglu-14846980",
-     "birthDate": "29 JUL 1999",
+     "athleteId": "14925022",
+     "slug": "turkiye/enbiya-yazici-14925022",
+     "birthDate": "25 SEP 2003",
      "records": "",
      "remark": ""
     }
    ],
-   "finishers": 36
+   "finishers": 28
   },
   {
    "event": "Women's Half Marathon",
@@ -350,17 +350,6 @@
     },
     {
      "place": "11",
-     "mark": "1:11:27",
-     "name": "Nursena ÇETO",
-     "nat": "TUR",
-     "athleteId": "15099689",
-     "slug": "turkiye/nursena-ceto-15099689",
-     "birthDate": "01 MAY 2002",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "12",
      "mark": "1:11:40",
      "name": "Rose CHELIMO",
      "nat": "BRN",
@@ -371,7 +360,7 @@
      "remark": ""
     },
     {
-     "place": "13",
+     "place": "12",
      "mark": "1:11:52",
      "name": "Rebecca CHEPKWEMOI",
      "nat": "KEN",
@@ -382,7 +371,7 @@
      "remark": ""
     },
     {
-     "place": "14",
+     "place": "13",
      "mark": "1:12:48",
      "name": "Gelane BAYİSA",
      "nat": "ETH",
@@ -393,29 +382,18 @@
      "remark": ""
     },
     {
+     "place": "14",
+     "mark": "1:13:49",
+     "name": "Pinar DEMIR",
+     "nat": "TUR",
+     "athleteId": "14846991",
+     "slug": "turkiye/pinar-demir-14846991",
+     "birthDate": "06 APR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "15",
-     "mark": "1:13:49",
-     "name": "Pinar DEMIR",
-     "nat": "TUR",
-     "athleteId": "14846991",
-     "slug": "turkiye/pinar-demir-14846991",
-     "birthDate": "06 APR 1999",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "16",
-     "mark": "1:13:49",
-     "name": "Pinar DEMIR",
-     "nat": "TUR",
-     "athleteId": "14846991",
-     "slug": "turkiye/pinar-demir-14846991",
-     "birthDate": "06 APR 1999",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "17",
      "mark": "1:14:25",
      "name": "Marla Elena VALTIERRA",
      "nat": "MEX",
@@ -426,7 +404,7 @@
      "remark": ""
     },
     {
-     "place": "18",
+     "place": "16",
      "mark": "1:16:37",
      "name": "Yayla GÖNEN",
      "nat": "TUR",
@@ -437,18 +415,7 @@
      "remark": ""
     },
     {
-     "place": "19",
-     "mark": "1:16:37",
-     "name": "Yayla GÖNEN",
-     "nat": "TUR",
-     "athleteId": "14591866",
-     "slug": "turkiye/yayla-gonen-14591866",
-     "birthDate": "01 MAR 1997",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "20",
+     "place": "17",
      "mark": "1:17:05",
      "name": "Özlem KAYA ALICI",
      "nat": "TUR",
@@ -457,9 +424,42 @@
      "birthDate": "20 APR 1990",
      "records": "",
      "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:18:37",
+     "name": "Liz ROMO",
+     "nat": "MEX",
+     "athleteId": "14678600",
+     "slug": "mexico/liz-romo-14678600",
+     "birthDate": "27 MAR 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:18:50",
+     "name": "Demet MUTLU",
+     "nat": "TUR",
+     "athleteId": "14303235",
+     "slug": "turkiye/demet-mutlu-14303235",
+     "birthDate": "21 JUN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:19:43",
+     "name": "Hasibe DEMİR",
+     "nat": "TUR",
+     "athleteId": "14930913",
+     "slug": "turkiye/hasibe-demir-14930913",
+     "birthDate": "2001",
+     "records": "",
+     "remark": ""
     }
    ],
-   "finishers": 37
+   "finishers": 29
   }
  ]
 }

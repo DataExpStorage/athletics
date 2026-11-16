@@ -66,17 +66,6 @@
     },
     {
      "place": "6",
-     "mark": "2:22:53",
-     "name": "Anže ROBLEK",
-     "nat": "SLO",
-     "athleteId": "15248971",
-     "slug": "slovenia/anze-roblek-15248971",
-     "birthDate": null,
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "7",
      "mark": "2:23:58",
      "name": "Guta ABIYOTE",
      "nat": "ETH",
@@ -87,29 +76,18 @@
      "remark": ""
     },
     {
+     "place": "7",
+     "mark": "2:25:38",
+     "name": "Primož KOBE",
+     "nat": "SLO",
+     "athleteId": "14420489",
+     "slug": "slovenia/primoz-kobe-14420489",
+     "birthDate": "23 MAY 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "8",
-     "mark": "2:25:38",
-     "name": "Primož KOBE",
-     "nat": "SLO",
-     "athleteId": "14420489",
-     "slug": "slovenia/primoz-kobe-14420489",
-     "birthDate": "23 MAY 1981",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "9",
-     "mark": "2:25:38",
-     "name": "Primož KOBE",
-     "nat": "SLO",
-     "athleteId": "14420489",
-     "slug": "slovenia/primoz-kobe-14420489",
-     "birthDate": "23 MAY 1981",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "10",
      "mark": "2:29:20",
      "name": "Simon NAVODNIK",
      "nat": "SLO",
@@ -120,7 +98,7 @@
      "remark": ""
     },
     {
-     "place": "11",
+     "place": "9",
      "mark": "2:30:16",
      "name": "Jernej MARKOVC",
      "nat": "SLO",
@@ -131,18 +109,7 @@
      "remark": ""
     },
     {
-     "place": "12",
-     "mark": "2:30:16",
-     "name": "Jernej MARKOVC",
-     "nat": "SLO",
-     "athleteId": "15263509",
-     "slug": "slovenia/jernej-markovc-15263509",
-     "birthDate": null,
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "13",
+     "place": "10",
      "mark": "2:30:36",
      "name": "Matej ZRIMŠEK",
      "nat": "SLO",
@@ -153,7 +120,7 @@
      "remark": ""
     },
     {
-     "place": "14",
+     "place": "11",
      "mark": "2:33:25",
      "name": "Tadej SERDINŠEK",
      "nat": "SLO",
@@ -164,18 +131,7 @@
      "remark": ""
     },
     {
-     "place": "15",
-     "mark": "2:33:25",
-     "name": "Tadej SERDINŠEK",
-     "nat": "SLO",
-     "athleteId": "15234645",
-     "slug": "slovenia/tadej-serdinsek-15234645",
-     "birthDate": null,
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "16",
+     "place": "12",
      "mark": "2:34:18",
      "name": "Matevž ŠILAR",
      "nat": "SLO",
@@ -186,7 +142,7 @@
      "remark": ""
     },
     {
-     "place": "17",
+     "place": "13",
      "mark": "2:34:18",
      "name": "Kristaps VARNA",
      "nat": "LAT",
@@ -197,18 +153,7 @@
      "remark": ""
     },
     {
-     "place": "18",
-     "mark": "2:34:18",
-     "name": "Matevž ŠILAR",
-     "nat": "SLO",
-     "athleteId": "15353706",
-     "slug": "slovenia/matevz-silar-15353706",
-     "birthDate": null,
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "19",
+     "place": "14",
      "mark": "2:34:25",
      "name": "Mitja POTRČ",
      "nat": "SLO",
@@ -219,7 +164,7 @@
      "remark": ""
     },
     {
-     "place": "20",
+     "place": "15",
      "mark": "2:36:10",
      "name": "Dejan LAZNIK",
      "nat": "SLO",
@@ -230,7 +175,7 @@
      "remark": ""
     }
    ],
-   "finishers": 21
+   "finishers": 15
   },
   {
    "event": "Women's Marathon",
@@ -317,17 +262,6 @@
     },
     {
      "place": "8",
-     "mark": "2:49:39",
-     "name": "Saša PISK",
-     "nat": "SLO",
-     "athleteId": "14860709",
-     "slug": "slovenia/sasa-pisk-014860709",
-     "birthDate": "1985",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "9",
      "mark": "2:49:40",
      "name": "Mona KLEIN",
      "nat": "GER",
@@ -338,7 +272,7 @@
      "remark": ""
     },
     {
-     "place": "10",
+     "place": "9",
      "mark": "2:58:00",
      "name": "Vesna DOLENC",
      "nat": "SLO",
@@ -349,29 +283,18 @@
      "remark": ""
     },
     {
+     "place": "10",
+     "mark": "2:58:04",
+     "name": "Dominika PODOBNIK",
+     "nat": "SLO",
+     "athleteId": "15114477",
+     "slug": "slovenia/dominika-podobnik-15114477",
+     "birthDate": "1991",
+     "records": "",
+     "remark": ""
+    },
+    {
      "place": "11",
-     "mark": "2:58:04",
-     "name": "Dominika PODOBNIK",
-     "nat": "SLO",
-     "athleteId": "15114477",
-     "slug": "slovenia/dominika-podobnik-15114477",
-     "birthDate": "1991",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "12",
-     "mark": "2:58:04",
-     "name": "Dominika PODOBNIK",
-     "nat": "SLO",
-     "athleteId": "15114477",
-     "slug": "slovenia/dominika-podobnik-15114477",
-     "birthDate": "1991",
-     "records": "",
-     "remark": ""
-    },
-    {
-     "place": "13",
      "mark": "2:58:10",
      "name": "Charlotte JOHNSON",
      "nat": "GBR",
@@ -382,7 +305,7 @@
      "remark": ""
     },
     {
-     "place": "14",
+     "place": "12",
      "mark": "3:01:09",
      "name": "Ingrid LANTHALER",
      "nat": "SUI",
@@ -393,7 +316,7 @@
      "remark": ""
     },
     {
-     "place": "15",
+     "place": "13",
      "mark": "3:04:10",
      "name": "Jerca ZAJC",
      "nat": "SLO",
@@ -404,7 +327,7 @@
      "remark": ""
     }
    ],
-   "finishers": 15
+   "finishers": 13
   }
  ]
 }
