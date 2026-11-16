@@ -198,7 +198,13 @@ def cmd_gate(cfg, week, stage):
     return 0
 
 
+def plain(text):
+    """Notes come from a model that has read untrusted text: keep plain words only."""
+    return re.sub(r"[^\w .,;:()'/-]", "", text or "")[:300]
+
+
 def cmd_review(cfg, week, stage, verdict, notes):
+    notes = plain(notes)
     rec = read_record(week, stage)
     if not rec or rec.get("status") != "awaiting-review":
         out("%s is not awaiting review (status: %s)." % (stage, rec.get("status") if rec else "not run"))
@@ -225,6 +231,7 @@ def cmd_review(cfg, week, stage, verdict, notes):
 
 
 def cmd_skip(cfg, week, stage, reason):
+    reason = plain(reason)
     if pending_changes():
         out("Cannot record a skip: there are unchecked changes. Run the gate instead.")
         return 2

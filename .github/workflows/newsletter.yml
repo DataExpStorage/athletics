@@ -37,7 +37,7 @@ jobs:
         run: |
           if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then BEFORE=$(git rev-parse HEAD~1); fi
           echo "BEFORE=$BEFORE" >> "$GITHUB_ENV"
-          allowed='^(newsletters/[0-9]{4}-W[0-9]{2}\.md|data/(entries|reports|team)/[0-9]+\.json|config/(agencies|prize_money)\.json)$'
+          allowed='^(newsletters/[0-9]{4}-W[0-9]{2}\.md|data/(entries|reports|team)/[0-9]+\.json|data/news/[0-9]{4}-W[0-9]{2}\.json|config/(agencies|prize_money)\.json|pipeline/runs/[0-9]{4}-W[0-9]{2}/[a-z-]+\.json)$'
           other=$(git diff --name-only "$BEFORE" HEAD | grep -Ev "$allowed" || true)
           if [ -n "$other" ]; then
             echo "This push also changed files outside the researched data, so nothing is sent:"

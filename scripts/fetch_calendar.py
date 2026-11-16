@@ -79,7 +79,7 @@ def add_extras(cfg, season):
     extras = [dict(e) for e in cfg.get("extra_races", []) if str(e.get("startDate", "")).startswith(str(season))]
     if not extras:
         return
-    cal = wa.load_json(wa.calendar_path(season)) or {"season": season, "source": "config/races.json", "labelRaceCounts": {}, "races": []}
+    cal = wa.load_json(wa.calendar_path(season)) or {"season": season, "source": "config/disciplines/road-running.json", "labelRaceCounts": {}, "races": []}
     have = set(r["id"] for r in cal["races"])
     added = [e for e in extras if e["id"] not in have]
     if not added:
@@ -97,7 +97,7 @@ def main():
     cfg = wa.config()
     seasons = wa.active_seasons(cfg)
     if not seasons:
-        print("No active season in config/races.json ('seasons'). Add the new season there.")
+        print("No active season in config/disciplines/road-running.json ('seasons'). Add the new season there.")
         return
     # The page serves one season only (the site's own season switch needs a browser),
     # so each run stores the season the site is currently showing.
@@ -107,7 +107,7 @@ def main():
     if served in seasons:
         save_season(cfg, served, cal)
     else:
-        print("The site is showing season %s, which is not an active season in config/races.json." % served)
+        print("The site is showing season %s, which is not an active season in config/disciplines/road-running.json." % served)
     for season in seasons:
         if season == served:
             continue
@@ -118,7 +118,7 @@ def main():
             print("Season %s: site now shows %s; keeping the stored calendar." % (season, served))
         else:
             print("Season %s: published, but the site is showing %s. Add its races by hand "
-                  "(extra_races in config/races.json) until the site switches." % (season, served))
+                  "(extra_races in config/disciplines/road-running.json) until the site switches." % (season, served))
 
 
 if __name__ == "__main__":

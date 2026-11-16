@@ -7,10 +7,13 @@ withdrawals**, **race reports**, and **athlete teams** (coach, manager, agency, 
 sponsor; section 5). It defines what to collect, from where, in what
 format, to what standard, and what is still outstanding.
 
-The overall project is described in [SPECIFICATION.md](SPECIFICATION.md). The weekly
-Claude run follows `routine/newsletter_prompt.md`, which is the operational short form of
-this document; if the two disagree, this document is right and the prompt should be
-corrected.
+The overall project is described in [SPECIFICATION.md](SPECIFICATION.md). Each kind of
+data is gathered by its own pipeline stage, a skill under `.claude/skills/`
+(`athletics-prize-money`, `athletics-entries`, `athletics-reports`, `athletics-team`,
+and `athletics-news` for the week's news). The skills are the operational short form of
+this document; if a skill and this document disagree, this document is right and the
+skill should be corrected. Every stage's output is checked by `scripts/check_stage.py`
+and the `athletics-check` reviewer before the next stage uses it.
 
 ## 1. Principles for all four
 
@@ -449,7 +452,7 @@ Timetable around the turn of the year:
 - **January:** finish the old season's last races (late December races, late results),
   then write the season look-back in the first newsletter of the year.
 - **Each new season:** add the championship road races for that year to `extra_races`
-  in `config/races.json`, and check the currency rates in `config/prize_money.json`.
+  in `config/disciplines/road-running.json`, and check the currency rates in `config/prize_money.json`.
 
 Prize money in a new season: organisers often change the table (Tokyo has announced a
 first prize of $170,000 for 2027, up from $80,000). Always confirm the year on the

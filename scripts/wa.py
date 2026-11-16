@@ -148,8 +148,18 @@ def save_json(path, obj):
         f.write("\n")
 
 
+DISCIPLINE = os.environ.get("ATHLETICS_DISCIPLINE", "road-running")
+
+
 def config():
-    return load_json(os.path.join(ROOT, "config", "races.json"))
+    """Settings of the discipline being worked on (config/disciplines/<discipline>.json).
+    Road running is the default; set ATHLETICS_DISCIPLINE to work on another."""
+    if not re.match(r"^[a-z0-9-]{1,40}$", DISCIPLINE):
+        raise RuntimeError("Bad discipline name: %r" % DISCIPLINE)
+    cfg = load_json(os.path.join(ROOT, "config", "disciplines", DISCIPLINE + ".json"))
+    if cfg is None:
+        raise RuntimeError("No settings file config/disciplines/%s.json" % DISCIPLINE)
+    return cfg
 
 
 def today():

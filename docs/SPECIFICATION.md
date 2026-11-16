@@ -32,10 +32,10 @@ Priority races for a season ("the priority set"):
 |---|---|---|
 | World Athletics Platinum Label road races | 20 | `competitionSubgroup = Platinum` in the label calendar |
 | World Athletics Gold Label road races | 41 | `competitionSubgroup = Gold` |
-| Championship road races | 1 | Listed by hand in `config/races.json` (`extra_races`) |
+| Championship road races | 1 | Listed by hand in `config/disciplines/road-running.json` (`extra_races`) |
 
 The seven World Marathon Majors (Tokyo, Boston, London, Sydney, Berlin, Chicago, New York)
-are all Platinum and are flagged by event ID in `config/races.json` (`majors`).
+are all Platinum and are flagged by event ID in `config/disciplines/road-running.json` (`majors`).
 
 2026 split of the 61 label races by distance: marathon 39 (14 Platinum, 25 Gold), half
 marathon 16 (5 + 11), 10 km 4 (0 + 4), other 2 (a Platinum 5 km, a Gold 25 km).
@@ -48,7 +48,7 @@ Athletics event ID.
 The project is continuous: it runs on into 2027 and later seasons, and earlier seasons
 stay in the repository and on the dashboard.
 
-- `config/races.json` lists the seasons followed (`seasons`, currently 2026 and 2027).
+- `config/disciplines/road-running.json` lists the seasons followed (`seasons`, currently 2026 and 2027).
   Starting a new season means adding its year there, plus that year's championship
   races under `extra_races`. Nothing else has to be reset.
 - A season is **active** from 1 October of the year before (its calendar is published in
@@ -110,7 +110,7 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 
 | Path | Contents |
 |---|---|
-| `config/races.json` | Seasons followed, tiers followed, Majors, extra races, distance overrides, top list addresses, limits |
+| `config/disciplines/road-running.json` | Seasons followed, tiers followed, Majors, extra races, distance overrides, top list addresses, limits |
 | `config/prize_money.json` | Researched prize money per race, currency rates |
 | `scripts/wa.py` | The only module that knows how World Athletics pages are built: polite fetching, cache, parsing helpers |
 | `scripts/fetch_calendar.py` | Label calendar → `data/calendar/<season>.json` |
@@ -120,7 +120,14 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 | `scripts/fetch_reports.py` | Saves recent World Athletics report texts to the local cache for reading |
 | `scripts/build_index.py` | Merges everything into `site/data/site.json` and `site/data/athletes/` |
 | `scripts/update_all.py` | Runs the fetch scripts and the build in order |
-| `scripts/status.py` | Lists, per race, what has been gathered and what is missing |
+| `scripts/status.py` | Lists, per race, what has been gathered and what is missing; `--json` gives the pipeline's work list |
+| `scripts/validate.py` | Format and content checks for researched and fetched files |
+| `scripts/check_stage.py` | The checker between pipeline stages; writes the handoff records |
+| `pipeline/stages.json` | The stages: order, permitted files, checks, dependencies |
+| `pipeline/runs/<week>/` | Handoff records and work list of each weekly run |
+| `.claude/skills/athletics-*/` | One skill per stage, the reviewer skill and the coordinator |
+| `.claude/agents/athletics-*.md` | The researcher, writer and checker subagents with their tool limits |
+| `data/news/<week>.json` | The week's news items with sources, input to the newsletter |
 | `scripts/serve.py` | Local preview at http://localhost:8765 (served without caching, so a refresh always shows the latest build) |
 | `config/agencies.json` | Maps a World Athletics representative to an agency, by website or by name |
 | `data/team/<athleteId>.json` | Researched coach and shoe sponsor per athlete |
@@ -141,7 +148,7 @@ for top lists, from the HTML table. No key or login is involved.
 
 | Data | Source page | Stored | Notes |
 |---|---|---|---|
-| Calendar | `/competitions/world-athletics-label-road-races` | id, name, venue, country, dates, tier, Major flag, distance | The page has no distance field: distance is derived from the race name, with overrides in `config/races.json` |
+| Calendar | `/competitions/world-athletics-label-road-races` | id, name, venue, country, dates, tier, Major flag, distance | The page has no distance field: distance is derived from the race name, with overrides in `config/disciplines/road-running.json` |
 | Results | `/competition/calendar-results/results/<raceId>` | Per event: top 20 with place, time, name, nationality, athlete id, records; number of finishers | Multi-day championships are read day by day. Where a race lists its elite field and a second field separately, they are merged and re-ranked by time |
 | Top lists | `/records/toplists/road-running/<distance>/outdoor/<gender>/senior/<season>` | Top 100, best time per athlete | Marathon, half marathon, 10 km |
 | Athlete profile | `/athletes/<country>/<slug>` | Personal bests, season results, progression by season on the road, honours, world ranking | See the limit below |
@@ -243,11 +250,70 @@ Display rules:
 
 ## 9. Automation
 
+### The weekly pipeline
+
+The weekly work is a pipeline of eight stages. Each stage is a saved skill
+(`.claude/skills/athletics-<stage>/`) with only the tools it needs, and each is followed
+by a checker before the next stage may use its output.
+
+| # | Stage | Skill | Run by | Tools | May write |
+|---|---|---|---|---|---|
+| 1 | fetch | `athletics-fetch` | coordinator | the five fetch scripts | `data/calendar/`, `results/`, `toplists/`, `athletes/` |
+| 2 | reports | `athletics-reports` | researcher subagent | web, read, write | `data/reports/` |
+| 3 | prize-money | `athletics-prize-money` | researcher subagent | web, read, write | `config/prize_money.json` |
+| 4 | entries | `athletics-entries` | researcher subagent | web, read, write | `data/entries/` |
+| 5 | team | `athletics-team` | researcher subagent | web, read, write | `data/team/`, `config/agencies.json` |
+| 6 | news | `athletics-news` | researcher subagent | web, read, write | `data/news/<week>.json` |
+| 7 | newsletter | `athletics-newsletter` | writer subagent | read, write (no web) | `newsletters/<week>.md` |
+| 8 | publish | `athletics-publish` | coordinator | validation, build, git | nothing new |
+
+The coordinating skill is `athletics-weekly`. The three subagents are defined in
+`.claude/agents/`: `athletics-researcher`, `athletics-writer`, `athletics-checker`.
+Stages that read the open web cannot run commands or push. The stage that writes what is
+sent to Telegram cannot read the web. The stage that pushes never reads web content.
+
+**The checker** has two layers:
+
+1. `scripts/check_stage.py gate <stage>` (a script, and the real guarantee):
+   - *scope*: the stage changed only the files `pipeline/stages.json` allows it;
+   - *format and content*: its files pass the stage's checks in `scripts/validate.py`
+     (schema, no HTML, only plain web links, numeric ids, length limits; researched files
+     must point at races and athletes that exist; a fetched calendar may not lose more
+     than a fifth of its races).
+2. The `athletics-check` skill (the read-only `athletics-checker` subagent) reads the
+   files and looks for what a script cannot see: instruction-like text, commands,
+   off-topic content, contradictions with the fetched results, unsupported claims. It
+   returns a verdict only. It is a second look by a language model, not a guarantee.
+
+The outcome of each stage is a **handoff record**, `pipeline/runs/<week>/<stage>.json`,
+with the status (`passed`, `failed`, `skipped`), the files accepted and any problems. A
+stage starts only if the stages it needs have passed, and the newsletter stage reads the
+records to know which data it may use.
+
+Accepted files are staged in git; the git index is the set of accepted work. A failed
+stage's changes are discarded (changed files restored, new files removed) and the run
+continues, except that a failed fetch or newsletter stops it. Nothing is committed until
+the publish stage, which re-validates everything, rebuilds the site data and makes one
+commit.
+
+`scripts/status.py --json` produces the work list each stage reads: this week's items
+first, then a few from the backlog.
+
+**Refining or reusing a stage.** Each stage's instructions are in its own `SKILL.md`; its
+permitted files and checks are in `pipeline/stages.json`; its format rules are in
+`scripts/validate.py`. A stage can be run alone (see "Running one stage by itself" in the
+`athletics-weekly` skill). Stages 2 to 8 and the checker do not depend on the discipline.
+Stage 1 does: the fetch scripts read `config/disciplines/<discipline>.json`
+(`road-running` today) and know road-running pages; adding a discipline means a new
+settings file and fetch support for its pages, not new stages.
+
+### Scheduled jobs
+
 | Job | Where | When | Does |
 |---|---|---|---|
 | Data update | GitHub Actions `update.yml` | Mondays 06:00 UTC, on demand, and on pushes to site, scripts, config, newsletters, entries or reports | Fetches (scheduled and manual runs only), commits `data/`, builds `site/data/`, publishes to GitHub Pages |
 | Newsletter send | GitHub Actions `newsletter.yml` | When a new file appears in `newsletters/` | Sends it to Telegram |
-| Research and newsletter | Claude routine following `routine/newsletter_prompt.md` | Weekly, after the data update | Prize money, entries and reports for the week's races; writes and pushes the newsletter |
+| Research and newsletter | Claude run that invokes the `athletics-weekly` skill (`routine/newsletter_prompt.md`) | Weekly | The pipeline above: fetch, research, newsletter, publish |
 
 Fallback if the cloud jobs cannot reach World Athletics or cannot push: run
 `python scripts/update_all.py` and the research on the owner's PC (Windows Task
@@ -296,7 +362,7 @@ Known risks and open points:
 
 1. Publish (GitHub, Telegram, weekly routine) as soon as the owner's setup steps are done.
 2. Work through the researched-data backlog (DATA_GATHERING.md).
-3. 2027 season: already in `config/races.json`. When World Athletics publishes the 2027
+3. 2027 season: already in `config/disciplines/road-running.json`. When World Athletics publishes the 2027
    label calendar it is picked up by the next update. To do by hand: add the 2027
    championship road races to `extra_races`; check the Majors list; review the first
    2027 calendar for races that gained or lost a label. Each later season: add its year
