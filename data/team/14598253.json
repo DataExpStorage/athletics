@@ -1,0 +1,15 @@
+{
+ "athleteId": "14598253",
+ "name": "Sanjivani JADHAV",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Vijender Singh",
+  "reliability": "reported",
+  "source": "https://www.freepressjournal.in/sports/sanjivani-jadhav-shines-on-marathon-debut-as-kartik-karkera-tops-indian-men-at-mumbai-race",
+  "verified": false
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found."
+ }
+}

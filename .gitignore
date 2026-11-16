@@ -3,3 +3,4 @@ site/data/
 __pycache__/
 *.pyc
 .env
+.idea/

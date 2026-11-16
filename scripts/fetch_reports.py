@@ -10,6 +10,7 @@ Usage: python scripts/fetch_reports.py          list articles and save new ones
 """
 import hashlib
 import os
+import re
 import sys
 
 import wa
@@ -31,7 +32,8 @@ def main():
     seen = set()
     for art in (props.get("carouselArticles") or []) + (props.get("moreNewsArticles") or []):
         slug = art.get("urlSlug")
-        if not slug or slug in seen:
+        # the slug becomes a file name: accept plain slugs only
+        if not isinstance(slug, str) or not re.match(r"^[A-Za-z0-9._-]{1,150}$", slug) or slug in seen:
             continue
         seen.add(slug)
         try:

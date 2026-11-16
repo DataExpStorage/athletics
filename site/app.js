@@ -21,7 +21,7 @@
     var p = iso.split('-');
     return parseInt(p[2], 10) + ' ' + MONTHS[parseInt(p[1], 10) - 1] + (withYear ? ' ' + p[0] : '');
   }
-  function distName(d) { return DIST[d] || d; }
+  function distName(d) { return DIST[d] || esc(d); }   // always safe to put in HTML
   function tierBadge(r) {
     return '<span class="badge"><span class="dot ' + esc(r.tier) + '"></span>' + esc(r.tier) + '</span>' +
       (r.major ? '<span class="major" title="World Marathon Major">MAJOR</span>' : '');
@@ -30,7 +30,7 @@
     if (id && known[id]) return '<a href="#/athlete/' + esc(id) + '">' + esc(name) + '</a>';
     return esc(name);
   }
-  function raceLink(r) { return '<a href="#/race/' + r.id + '">' + esc(r.name) + '</a>'; }
+  function raceLink(r) { return '<a href="#/race/' + esc(r.id) + '">' + esc(r.name) + '</a>'; }
   function isRun(r) { return !!(r.events && r.events.length); }
   function winner(r, gender) {
     if (!isRun(r)) return null;
@@ -98,8 +98,11 @@
     var r = REL[rel] || REL.unconfirmed;
     return '<span class="badge" title="' + r[2] + '">' + r[0] + ' ' + r[1] + '</span>';
   }
+  // Links taken from data are only ever followed when they are plain web addresses.
+  function safeUrl(u) { return typeof u === 'string' && /^https?:\/\/[^\s<>"']+$/i.test(u) ? u : ''; }
   function srcLink(url) {
-    return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(url.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + ' ↗</a>' : '';
+    url = safeUrl(url);
+    return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(url.replace(/^https?:\/\/(www\.)?/i, '').split('/')[0]) + ' ↗</a>' : '';
   }
   function entryName(e) { return athleteLink(e.id, e.name) + ' <span class="muted">' + esc(e.nat || '') + '</span>'; }
   function raceEntries(r) { return (D.entries || {})[r.id] || null; }
@@ -197,7 +200,7 @@
         var ppl = people(d.performances || [], g[0]);
         return '<div><h3 style="margin-top:0">' + g[1] + '</h3>' + (d.story && d.story[g[0]] ? '<p style="margin:0 0 6px">' + esc(d.story[g[0]]) + '</p>' : '') + (ppl ? '<ul class="racelist">' + ppl + '</ul>' : '') + '</div>';
       }).join('') + '</div>' +
-      '<p class="muted" style="margin:10px 0 0">Summary of the World Athletics report: <a href="' + esc(d.source) + '" target="_blank" rel="noopener">' + esc(d.title) + ' ↗</a></p></div>';
+      '<p class="muted" style="margin:10px 0 0">Summary of the World Athletics report: ' + (safeUrl(d.source) ? '<a href="' + esc(safeUrl(d.source)) + '" target="_blank" rel="noopener noreferrer">' + esc(d.title) + ' ↗</a>' : esc(d.title)) + '</p></div>';
     return html;
   }
   function athleteNotesCard(id) {
@@ -247,7 +250,7 @@
     var text = '<span class="brandtext">' + esc(value) + '</span>';
     if (!icon) return text;
     return '<img class="brandlogo" style="height:' + size + 'px" alt="' + esc(value) + '" title="' + esc(value) + '" src="https://cdn.simpleicons.org/' + icon +
-      '/0b0b0b/f0efec" onerror="this.outerHTML=this.getAttribute(\'data-text\')" data-text="' + esc(text) + '">';
+      '/0b0b0b/f0efec" referrerpolicy="no-referrer">';
   }
   function teamBlock(id) {
     var t = (D.team || {})[id];
@@ -315,7 +318,7 @@
 
   var SYMBOL = { USD: '$', EUR: '€', AUD: 'A$', GBP: '£', JPY: '¥' };
   function money(amount, currency) {
-    return (SYMBOL[currency] || (currency + ' ')) + Math.round(amount).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+    return esc(SYMBOL[currency] || (currency + ' ')) + Math.round(Number(amount) || 0).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
   }
   function prizeCell(row, race) {
     if (!row.prize && !row.bonus) return '';
@@ -377,7 +380,7 @@
       marks.forEach(function (m) {
         var cy = y + h - 10 - m.lane * lane, col = 'var(--' + (m.r.tier === 'Platinum' ? 'platinum' : m.r.tier === 'Gold' ? 'gold' : 'champ') + ')';
         var run = isRun(m.r);
-        body += '<a href="#/race/' + m.r.id + '" data-race="' + m.r.id + '" aria-label="' + esc(m.r.name) + ', ' + fmtDate(m.r.startDate) + '">' +
+        body += '<a href="#/race/' + esc(m.r.id) + '" data-race="' + esc(m.r.id) + '" aria-label="' + esc(m.r.name) + ', ' + fmtDate(m.r.startDate) + '">' +
           '<circle cx="' + m.cx.toFixed(1) + '" cy="' + cy + '" r="14" fill="transparent"/>' +
           '<circle cx="' + m.cx.toFixed(1) + '" cy="' + cy + '" r="' + m.rad + '" fill="' + (run ? col : 'var(--surface)') + '" stroke="' + col + '" stroke-width="' + (run ? 0 : 2) + '"/></a>';
       });
@@ -495,7 +498,7 @@
   var raceFilter = { tier: 'All', dist: 'All' };
   function seg(name, options, current) {
     return '<div class="seg" role="group" aria-label="' + name + '">' + options.map(function (o) {
-      return '<button data-filter="' + name + '" data-value="' + esc(o) + '"' + (o === current ? ' class="on" aria-pressed="true"' : '') + '>' + esc(distName(o)) + '</button>';
+      return '<button data-filter="' + name + '" data-value="' + esc(o) + '"' + (o === current ? ' class="on" aria-pressed="true"' : '') + '>' + distName(o) + '</button>';
     }).join('') + '</div>';
   }
   function viewRaces() {
@@ -514,7 +517,7 @@
         var first = r.prize && r.prize.first ? money(r.prize.first, r.prize.currency) : '<span class="muted">' + (isRun(r) ? '?' : '') + '</span>';
         return '<tr><td class="nowrap">' + fmtDate(r.startDate) + '</td><td>' + raceLink(r) + '<div class="muted">' + esc(r.venue) + '</div></td><td class="nowrap">' +
           tierBadge(r) + '</td><td class="nowrap">' + distName(r.distance) + '</td>' +
-          (multi ? '<td colspan="2">' + (isRun(r) ? '<a href="#/race/' + r.id + '">' + r.events.length + ' events</a>' : '<span class="muted">–</span>') + '</td>'
+          (multi ? '<td colspan="2">' + (isRun(r) ? '<a href="#/race/' + esc(r.id) + '">' + r.events.length + ' events</a>' : '<span class="muted">–</span>') + '</td>'
             : '<td>' + winnerText(r, 'W') + '</td><td>' + winnerText(r, 'M') + '</td>') + '<td class="num">' + first + '</td></tr>';
       }).join('') + '</tbody></table></div></div>';
   }
@@ -537,7 +540,7 @@
       (p.bonusRules ? '<dt>Bonuses</dt><dd>' + esc(p.bonusRules) + '</dd>' : '') +
       (p.placesNote ? '<dt>Note</dt><dd>' + esc(p.placesNote) + '</dd>' : '') +
       '<dt>Reliability</dt><dd>' + conf + ' <span class="muted">· checked ' + fmtDate(p.checked, true) + '</span></dd>' +
-      '<dt>Sources</dt><dd>' + p.sources.map(function (s, i) { return '<a href="' + esc(s) + '" target="_blank" rel="noopener">' + esc(s.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + ' ↗</a>'; }).join(', ') + '</dd></dl>' +
+      '<dt>Sources</dt><dd>' + (p.sources || []).map(srcLink).filter(Boolean).join(', ') + '</dd></dl>' +
       '<p class="muted" style="margin:10px 0 0">Open-division place prizes, plus bonuses reported as paid. Appearance fees, sponsor bonuses and national-division prizes are not included.</p></div>';
   }
   function viewRace(id) {
@@ -659,7 +662,7 @@
       a = a || {};
       var name = full ? (a.givenName || '') + ' ' + (a.familyName || '') : k.name;
       var age = /^\d{4}-/.test(a.birthDate || '') ? Math.floor((Date.parse(TODAY) - Date.parse(a.birthDate)) / 31557600000) : null;
-      var html = '<a class="back" href="javascript:history.back()">← Back</a><div class="ath-head"><h1>' + esc(name) + '</h1>' + shoeHeader(id) + '</div><p class="sub">' + esc(a.countryName || a.country || k.nat) +
+      var html = '<a class="back" href="#/" data-back>← Back</a><div class="ath-head"><h1>' + esc(name) + '</h1>' + shoeHeader(id) + '</div><p class="sub">' + esc(a.countryName || a.country || k.nat) +
         (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>' + careerTiles(id, a, full);
       if (!full) {
         var best = [];
@@ -777,7 +780,19 @@
       a.classList.toggle('on', a.getAttribute('data-nav') === (key || ''));
     });
   }
+  // a brand logo that fails to load is replaced by the brand name as text
+  document.addEventListener('error', function (e) {
+    var t = e.target;
+    if (t && t.classList && t.classList.contains('brandlogo') && t.parentNode) {
+      var span = document.createElement('span');
+      span.className = 'brandtext';
+      span.textContent = t.getAttribute('alt') || '';
+      t.parentNode.replaceChild(span, t);
+    }
+  }, true);
   app.addEventListener('click', function (e) {
+    var back = e.target.closest('[data-back]');
+    if (back && history.length > 1) { e.preventDefault(); history.back(); return; }
     var b = e.target.closest('button');
     if (!b) return;
     if (b.hasAttribute('data-filter')) { raceFilter[b.getAttribute('data-filter')] = b.getAttribute('data-value'); route(); }

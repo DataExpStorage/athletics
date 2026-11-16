@@ -1,0 +1,229 @@
+{
+ "id": "14666137",
+ "givenName": "Silas",
+ "familyName": "TOO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1988-01-13",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:48",
+   "venue": "Louny (CZE)",
+   "date": "02 MAY 2015",
+   "resultScore": 1084,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:22",
+   "venue": "Bratislava (SVK)",
+   "date": "29 MAR 2015",
+   "resultScore": 1055,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:32",
+   "venue": "Eindhoven (NED)",
+   "date": "10 OCT 2021",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:17",
+   "venue": "Genève (SUI)",
+   "date": "10 MAY 2026",
+   "resultScore": 1143,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Generali Genève Marathon",
+   "listPosition": "341"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-10",
+   "competition": "Generali Genève Marathon, Genève",
+   "country": "SUI",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "2:09:17",
+   "score": 1143,
+   "competitionId": "7236124"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Standard Chartered Hong Kong Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:09:56",
+   "score": 1131,
+   "competitionId": "7235568"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "43:48",
+     "venue": "Louny (CZE)",
+     "date": "02 MAY 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "45:28",
+     "venue": "Louny (CZE)",
+     "date": "30 APR 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:05:26",
+     "venue": "Bytom (POL)",
+     "date": "21 SEP 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:03:22",
+     "venue": "Bratislava (SVK)",
+     "date": "29 MAR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:03:26",
+     "venue": "Wiazowna (POL)",
+     "date": "28 FEB 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:05:34",
+     "venue": "Pardubice (CZE)",
+     "date": "15 APR 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:15:56",
+     "venue": "Zagreb (CRO)",
+     "date": "11 OCT 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:15:50",
+     "venue": "Zagreb (CRO)",
+     "date": "09 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:15:19",
+     "venue": "Nairobi (KEN)",
+     "date": "26 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:08:26",
+     "venue": "Barcelona (ESP)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:12:08",
+     "venue": "Mumbai (IND)",
+     "date": "20 JAN 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:06:32",
+     "venue": "Eindhoven (NED)",
+     "date": "10 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:11:38",
+     "venue": "Riyadh (KSA)",
+     "date": "05 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:09:41",
+     "venue": "Genève (SUI)",
+     "date": "07 MAY 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:38",
+     "venue": "Eindhoven (NED)",
+     "date": "13 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:13:49",
+     "venue": "Sainte-Maxime (FRA)",
+     "date": "30 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:09:17",
+     "venue": "Genève (SUI)",
+     "date": "10 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 248,
+   "rankingScore": 1160
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1783,
+   "rankingScore": 1160
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/kenya/silas-too-014666137",
+ "representative": {
+  "name": "Christian Calanni",
+  "country": "Switzerland",
+  "website": null
+ }
+}

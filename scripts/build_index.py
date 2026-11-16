@@ -6,8 +6,10 @@ import glob
 import os
 import re
 import shutil
+import sys
 import unicodedata
 
+import validate
 import wa
 
 SITE_DATA = os.path.join(wa.ROOT, "site", "data")
@@ -178,6 +180,12 @@ def build_team():
 
 
 def main():
+    # researched files are untrusted input: nothing is built from them unless they pass
+    errors = validate.check()
+    if errors:
+        sys.stdout.buffer.write(("Not building: researched files failed validation (%d):\n  " % len(errors)
+                                 + "\n  ".join(errors) + "\n").encode("utf-8", "replace"))
+        sys.exit(1)
     prize_cfg = wa.load_json(os.path.join(wa.ROOT, "config", "prize_money.json"), {"races": {}, "usd_rates": {}})
     races = []
     for race in wa.all_races():

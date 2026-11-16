@@ -63,4 +63,18 @@ Needs Python 3.7 or newer; no extra packages.
 3. Create a Telegram bot with @BotFather, send the bot any message, and add repository
    secrets `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` (Settings → Secrets and variables →
    Actions). Optionally add a repository variable `DASHBOARD_URL` with the Pages address.
-4. Schedule a weekly Claude run that follows `routine/newsletter_prompt.md`.
+4. Schedule a weekly Claude run that follows `routine/newsletter_prompt.md`. Give it
+   access to this one repository only, with permission to write contents but **not** to
+   change workflows, so it cannot alter the automation that holds the Telegram token.
+
+## Safety of the automation
+
+- The researched files (prize money, entries, reports, teams, newsletters) are treated as
+  untrusted input. `scripts/validate.py` checks them, and neither the site build nor the
+  Telegram send runs unless they pass.
+- The Telegram workflow refuses to send if the same push changed anything other than
+  researched files, and only runs `scripts/send_telegram.py` if its checksum matches the
+  one written in the workflow. After changing that script on purpose, update the checksum
+  (the workflow file says how).
+- The dashboard only follows `http(s)` links from data and has a content security policy,
+  so data cannot run scripts in the browser.

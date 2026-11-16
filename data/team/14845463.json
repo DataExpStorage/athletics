@@ -1,0 +1,19 @@
+{
+ "athleteId": "14845463",
+ "name": "John KORIR",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Ron Mann",
+  "reliability": "reported",
+  "source": "https://tonireavis.com/2026/04/16/all-systems-go-john-korir-returns-to-defend-in-boston/",
+  "note": "Coaches him remotely; Korir trains with a small group in Kenya.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "ASICS",
+  "reliability": "reported",
+  "source": "https://marathonhandbook.com/john-korir-coros/",
+  "note": "Raced Boston 2026 in an unreleased Metaspeed Sky prototype.",
+  "verified": false
+ }
+}

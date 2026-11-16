@@ -78,11 +78,15 @@ def page_props(text):
 
 
 def athlete_id(href_or_slug):
-    """'/athletes/kenya/name-14989897' or '/athletes/athlete=14758189' -> '14989897'."""
+    """'/athletes/kenya/name-14989897' or '/athletes/athlete=14758189' -> '14989897'.
+
+    World Athletics writes the same number with a leading zero in some places
+    ('...-014989897') and without it in others, so leading zeros are dropped: one
+    athlete, one id."""
     if not href_or_slug:
         return None
-    m = re.search(r"(\d{6,})\s*$", href_or_slug.strip().rstrip("/"))
-    return m.group(1) if m else None
+    m = re.search(r"(\d{6,})\s*$", str(href_or_slug).strip().rstrip("/"))
+    return (m.group(1).lstrip("0") or None) if m else None
 
 
 def clean(fragment):

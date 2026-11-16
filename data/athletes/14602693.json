@@ -1,0 +1,190 @@
+{
+ "id": "14602693",
+ "givenName": "Sichala",
+ "familyName": "KUMESHI",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1995-06-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:34.6h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "24 MAY 2013",
+   "resultScore": 993,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "35:06",
+   "venue": "Praha (CZE)",
+   "date": "07 SEP 2013",
+   "resultScore": 981,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:53",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:53",
+   "venue": "Hamburg (GER)",
+   "date": "27 APR 2025",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:53",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "46"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "1:06:53",
+   "score": 1195,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "35:06",
+     "venue": "Praha (CZE)",
+     "date": "07 SEP 2013"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "1:15:06",
+     "venue": "Trento (ITA)",
+     "date": "15 SEP 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:10:56",
+     "venue": "Karlovy Vary (CZE)",
+     "date": "24 MAY 2014"
+    },
+    {
+     "season": "2019",
+     "mark": "1:11:20",
+     "venue": "Kyiv (UKR)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:53",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:30:56",
+     "venue": "Mumbai (IND)",
+     "date": "18 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:28:42",
+     "venue": "Warszawa (POL)",
+     "date": "24 APR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:38:52",
+     "venue": "Lisboa (POR)",
+     "date": "15 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:30:28",
+     "venue": "Hengshui (CHN)",
+     "date": "29 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:26:01",
+     "venue": "Košice (SVK)",
+     "date": "06 OCT 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "2:26:53",
+     "venue": "Hamburg (GER)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:25",
+     "venue": "Gold Coast (AUS)",
+     "date": "07 JUL 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:19:53",
+     "venue": "Hamburg (GER)",
+     "date": "27 APR 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 63,
+   "rankingScore": 1229
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 433,
+   "rankingScore": 1229
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/ethiopia/sichala-kumeshi-014602693",
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ }
+}

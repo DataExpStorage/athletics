@@ -36,7 +36,7 @@ def to_blocks(markdown):
         bullet = re.match(r"^\s*[-*]\s+(.*)$", line)
         if heading:
             flush()
-            blocks.append("\n<b>%s</b>" % inline(heading.group(2)).upper() if len(heading.group(1)) > 1
+            blocks.append("\n<b>%s</b>" % inline(heading.group(2).upper()) if len(heading.group(1)) > 1
                           else "<b>%s</b>" % inline(heading.group(2)))
         elif bullet:
             flush()

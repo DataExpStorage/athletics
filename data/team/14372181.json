@@ -1,0 +1,15 @@
+{
+ "athleteId": "14372181",
+ "name": "Violah CHEPTOO",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": null,
+  "note": "Not named in any source found."
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "reported",
+  "source": "https://www.womensrunning.com/culture/people/viola-cheptoo-is-ready-to-run-her-own-race/",
+  "verified": false
+ }
+}

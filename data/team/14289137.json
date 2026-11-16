@@ -1,0 +1,20 @@
+{
+ "athleteId": "14289137",
+ "name": "Edna Ngeringwony KIPLAGAT",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gilbert Koech",
+  "reliability": "reported",
+  "source": "https://beta.nation.co.ke/kenya/sports/athletics/marathoner-edna-kiplagat-my-secret-to-longevity-athletics-5003336",
+  "note": "Her husband.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "PUMA",
+  "reliability": "official",
+  "source": "https://mediahub.puma.com/articles/e7e96ef2-9242-48fa-87a5-011d0a9dfbbe",
+  "note": "Signed in February 2023.",
+  "verified": false
+ },
+ "manager_note": "A press article names Brendan Reilly as her manager; World Athletics currently lists Merhawi Keflezighi."
+}

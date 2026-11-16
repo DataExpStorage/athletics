@@ -26,6 +26,10 @@ def save_season(cfg, season, cal):
     races = []
     for e in events:
         tier = e.get("competitionSubgroup")
+        try:
+            e["id"] = int(e["id"])  # the id becomes a file name and a link: numbers only
+        except (KeyError, TypeError, ValueError):
+            continue
         all_tiers[tier] = all_tiers.get(tier, 0) + 1
         if tier not in cfg["tiers"]:
             continue
