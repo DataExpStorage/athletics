@@ -1,0 +1,25 @@
+{
+ "raceId": 7235593,
+ "title": "Course records fall in Ljubljana (short item in the Amsterdam report)",
+ "source": "https://worldathletics.org/news/report/amsterdam-marathon-2026-diriba-berhanu",
+ "published": "2026-10-18",
+ "weather": null,
+ "story": {
+  "W": "Haftamnesh Tesfaye won by seven seconds in a course record.",
+  "M": "Enock Onchari won in a course record with a 1:01:42 second half."
+ },
+ "performances": [
+  {
+   "name": "Haftamnesh TESFAYE",
+   "gender": "W",
+   "note": "Course record and personal best 2:19:17, winning by seven seconds."
+  },
+  {
+   "name": "Enock ONCHARI",
+   "gender": "M",
+   "note": "Course record and personal best 2:04:55, with a second half of 1:01:42."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

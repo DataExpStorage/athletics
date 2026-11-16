@@ -178,6 +178,45 @@
     }).join('') + '</ul></div>';
   }
 
+  /* ---------- race reports ---------- */
+  function reportCard(r) {
+    var d = (D.reports || {})[r.id];
+    if (!d) {
+      return isRun(r) ? '<div class="card"><h2>Race report</h2><p class="muted" style="margin:0">No World Athletics race report has been summarised for this race yet.</p></div>' : '';
+    }
+    function people(list, g) {
+      return list.filter(function (p) { return p.gender === g; }).map(function (p) {
+        return '<li><div>' + athleteLink(p.id, p.name) + '</div><div class="win"><span>' + esc(p.note) + '</span></div></li>';
+      }).join('');
+    }
+    var html = '<div class="card"><h2>Race report</h2><dl class="kv"><dt>Weather</dt><dd>' + (d.weather ? esc(d.weather) : '<span class="muted">Not mentioned in the report.</span>') + '</dd>' +
+      '<dt>Did not finish</dt><dd>' + (d.dnf && d.dnf.length ? d.dnf.map(function (p) { return '<b>' + athleteLink(p.id, p.name) + '</b>: ' + esc(p.note); }).join('<br>') : '<span class="muted">No notable non-finishers mentioned in the report.</span>') + '</dd></dl>' +
+      '<div class="grid2" style="margin:14px 0 0">' + [['W', 'Women'], ['M', 'Men']].map(function (g) {
+        var ppl = people(d.performances || [], g[0]);
+        return '<div><h3 style="margin-top:0">' + g[1] + '</h3>' + (d.story && d.story[g[0]] ? '<p style="margin:0 0 6px">' + esc(d.story[g[0]]) + '</p>' : '') + (ppl ? '<ul class="racelist">' + ppl + '</ul>' : '') + '</div>';
+      }).join('') + '</div>' +
+      '<p class="muted" style="margin:10px 0 0">Summary of the World Athletics report: <a href="' + esc(d.source) + '" target="_blank" rel="noopener">' + esc(d.title) + ' ↗</a></p></div>';
+    return html;
+  }
+  function athleteNotesCard(id) {
+    var rows = [];
+    Object.keys(D.reports || {}).forEach(function (rid) {
+      var d = D.reports[rid], r = raceById[rid];
+      if (!r) return;
+      (d.performances || []).forEach(function (p) { if (p.id === id) rows.push({ r: r, d: d, p: p, dnf: false }); });
+      (d.dnf || []).forEach(function (p) { if (p.id === id) rows.push({ r: r, d: d, p: p, dnf: true }); });
+    });
+    if (!rows.length) return '';
+    rows.sort(function (a, b) { return a.r.startDate < b.r.startDate ? 1 : -1; });
+    return '<div class="card"><h2>How the races went</h2><ul class="racelist">' + rows.map(function (x) {
+      var res = null;
+      (x.r.events || []).forEach(function (ev) { ev.results.forEach(function (y) { if (y.id === id) res = y; }); });
+      return '<li><div>' + raceLink(x.r) + ' <span class="muted">' + fmtDate(x.r.startDate, true) + '</span></div><div class="meta"><span><b>' +
+        (x.dnf ? 'Did not finish' : res ? 'Place ' + esc(res.place) + ' · ' + esc(res.mark) : 'Outside the top 20') + '</b></span>' +
+        (x.d.weather ? '<span>Weather: ' + esc(x.d.weather) + '</span>' : '') + '</div><div class="win">' + esc(x.p.note) + ' <span>' + srcLink(x.d.source) + '</span></div></li>';
+    }).join('') + '</ul></div>';
+  }
+
   var SYMBOL = { USD: '$', EUR: '€', AUD: 'A$', GBP: '£', JPY: '¥' };
   function money(amount, currency) {
     return (SYMBOL[currency] || (currency + ' ')) + Math.round(amount).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
@@ -412,7 +451,7 @@
       return html + '<div class="card">' + (r.startDate > TODAY ? 'This race has not been run yet.' : 'Results are not available from World Athletics yet.') + '</div>' + entriesCard(r);
     }
     var evs = r.events.slice().sort(function (a, b) { return (a.distance < b.distance ? -1 : a.distance > b.distance ? 1 : 0) || (a.gender === 'W' ? -1 : 1); });
-    html += '<div class="grid2">' + evs.map(function (ev) {
+    html += reportCard(r) + '<div class="grid2">' + evs.map(function (ev) {
       return '<div class="card"><h2>' + esc(ev.event) + '</h2>' + resultsTable(ev, r) + '<p class="muted" style="margin:10px 0 0">Top ' + ev.results.length +
         ' of ' + ev.finishers + ' listed finishers.</p></div>';
     }).join('') + '</div>' + prizeCard(r) + entriesCard(r);
@@ -463,7 +502,7 @@
         html += '<div class="grid2"><div class="card"><h2>Season bests ' + D.season + '</h2>' + (best.length ? simpleTable([['Distance'], ['Time'], ['World rank', 1], ['Where'], ['Date']], best.map(function (b) {
           return '<tr><td><a href="#/distance/' + b.d + '">' + distName(b.d) + '</a></td><td class="mark">' + esc(b.r.mark) + '</td><td class="num">' + esc(b.r.rank) + '</td><td>' + esc(b.r.venue) + '</td><td class="nowrap">' + fmtDate(b.r.date) + '</td></tr>';
         })) : '<p class="muted">Not in the season top 100 at marathon, half marathon or 10 km.</p>') + '</div>' +
-          appsCard(id) + '</div></div>' + athleteEntriesCard(id);
+          appsCard(id) + '</div></div>' + athleteNotesCard(id) + athleteEntriesCard(id);
         return html + '<p class="muted">Career details (personal bests, full results, honours) are added gradually, a few athletes per update. ' +
           '<a href="https://worldathletics.org/athletes/athlete=' + esc(id) + '" target="_blank" rel="noopener">Profile at World Athletics ↗</a></p>';
       }
@@ -486,7 +525,7 @@
         }).join('') + '</dl>';
       }
       right += '</div>';
-      html += '<div class="grid2">' + left + right + '</div>' + athleteEntriesCard(id);
+      html += '<div class="grid2">' + left + right + '</div>' + athleteNotesCard(id) + athleteEntriesCard(id);
 
       if ((a.seasonResults || []).length) {
         html += '<div class="card"><h2>All results ' + esc(a.seasonYear || '') + '</h2>' + simpleTable([['Date'], ['Event'], ['Competition'], ['Place', 1], ['Mark']], a.seasonResults.map(function (s) {
@@ -590,6 +629,9 @@
     });
     Object.keys(D.entries || {}).forEach(function (rid) {
       D.entries[rid].entries.forEach(function (e) { if (e.id && !known[e.id]) known[e.id] = { name: e.name, nat: e.nat, born: '' }; });
+    });
+    Object.keys(D.reports || {}).forEach(function (rid) {
+      (D.reports[rid].performances || []).concat(D.reports[rid].dnf || []).forEach(function (p) { if (p.id && !known[p.id]) known[p.id] = { name: p.name, nat: '', born: '' }; });
     });
     document.getElementById('season').textContent = D.season;
     document.getElementById('updated').textContent = 'Updated ' + fmtDate(D.updated, true) + '. ';

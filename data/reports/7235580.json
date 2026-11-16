@@ -1,0 +1,50 @@
+{
+ "raceId": 7235580,
+ "title": "Assefa holds on for 2:11:04 as Adola regains Berlin crown",
+ "source": "https://worldathletics.org/news/report/assefa-adola-berlin-marathon-2026",
+ "published": "2026-09-27",
+ "weather": null,
+ "story": {
+  "W": "Tigst Assefa ran alone from before 10 km and was on world record pace at 40 km (2:03:00, projecting 2:09:44). She then began limping with what turned out to be a partial Achilles tendon tear, but held on to win by almost six minutes in the third-fastest time in history.",
+  "M": "Nine men were together at halfway (1:01:01). Guye Adola went to the front by 30 km, made the decisive move soon after and was nine seconds clear at 35 km."
+ },
+ "performances": [
+  {
+   "name": "Tigst ASSEFA",
+   "gender": "W",
+   "note": "Led alone from before 10 km and was on world record pace at 40 km before suffering a partial Achilles tendon tear. Limped to the finish and still won in 2:11:04, a course record and the third-fastest time in history. Her third Berlin win."
+  },
+  {
+   "name": "Rosemary WANJIRU",
+   "gender": "W",
+   "note": "The defending champion ran alone in second early but was almost three minutes behind at halfway, only three seconds ahead of the chasing group; she was not in the top ten."
+  },
+  {
+   "name": "Bedatu HIRPA",
+   "gender": "W",
+   "note": "Second by two seconds after a close battle with Dera Dida."
+  },
+  {
+   "name": "Guye ADOLA",
+   "gender": "M",
+   "note": "Won in 2:02:50, finally beating the best he set on his debut in Berlin in 2017. Took the lead by 30 km and broke clear before 35 km. Second Berlin win, and his second marathon win of the year after Rotterdam."
+  },
+  {
+   "name": "Gemechu DIDA",
+   "gender": "M",
+   "note": "Second in 2:03:19, the last man to stay with Adola."
+  },
+  {
+   "name": "Gabriel Gerald GEAY",
+   "gender": "M",
+   "note": "Third in 2:03:59 after losing contact with the leaders shortly after 30 km."
+  },
+  {
+   "name": "Selemon BAREGA",
+   "gender": "M",
+   "note": "In the leading group past 30 km, third on the road at 35 km, and finished fifth in 2:04:58."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

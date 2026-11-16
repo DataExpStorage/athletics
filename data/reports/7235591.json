@@ -1,0 +1,25 @@
+{
+ "raceId": 7235591,
+ "title": "Tola runs Chinese all-comers' record in Beijing (short item in the Amsterdam report)",
+ "source": "https://worldathletics.org/news/report/amsterdam-marathon-2026-diriba-berhanu",
+ "published": "2026-10-18",
+ "weather": null,
+ "story": {
+  "W": "Anchinalu Dessie retained her title.",
+  "M": "Tamirat Tola won in 2:03:10, the fastest marathon ever run in China; the first three all beat the previous record."
+ },
+ "performances": [
+  {
+   "name": "Tamirat TOLA",
+   "gender": "M",
+   "note": "The Olympic champion ran 2:03:10, the fastest marathon ever run in China, taking almost four minutes off the Beijing course record."
+  },
+  {
+   "name": "Anchinalu DESSIE",
+   "gender": "W",
+   "note": "Retained her title in 2:20:36."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

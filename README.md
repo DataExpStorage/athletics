@@ -46,6 +46,10 @@ Needs Python 3.7 or newer; no extra packages.
   event graded official / reported / unconfirmed with its source. They are researched by
   the weekly Claude run, not fetched automatically. The site shows them on the Running
   next page, on each race page and on each athlete's page.
+- Race reports: `data/reports/<raceId>.json` holds a short summary, written in our own
+  words, of the World Athletics race report: weather, how each race was won, notes on
+  key athletes and notable non-finishers. `scripts/fetch_reports.py` saves the report
+  texts to the local cache for reading; the texts themselves are never committed.
 - Personal, non-commercial use. Every page links back to the World Athletics source.
 
 ## Publishing (one-time setup)

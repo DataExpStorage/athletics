@@ -57,8 +57,30 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
      start, reason unknown).
    In the newsletter's "What's next" section, lead with changes since last week: new
    names, and every withdrawal with its reason.
-10. Write `newsletters/<week>.md` in the format below.
-11. Commit the newsletter, `data/entries/` and `config/prize_money.json` (if changed) with
+   Race reports: for each race from step 4 with no file in `data/reports/`, find the World
+   Athletics race report (run `python scripts/fetch_reports.py`, which lists the recent
+   reports and saves their text under `.cache/reports/`; if that fails, search
+   worldathletics.org for the report and open it). Write `data/reports/<raceId>.json` in
+   the shape of `data/reports/7235563.json`:
+   - `weather`: what the report says about conditions (temperature, humidity, wind,
+     rain, course difficulty). `null` if the report says nothing; never fill it in from
+     elsewhere or from memory.
+   - `story`: for women (`W`) and men (`M`), two to four sentences on how the race was
+     won: who led, where the decisive move came, the margin.
+   - `performances`: one note per key athlete saying what they did in the race (led from
+     the start, attacked at 30 km, outsprinted a rival, faded after an injury, debut,
+     record). Include favourites and defending champions who underperformed.
+   - `dnf`: notable athletes the report says did not finish, with the reason if given,
+     otherwise "no reason given".
+   - Use each athlete's name exactly as it appears in `data/results/<raceId>.json` when
+     they are in it; if the report uses a different name, say so in the note.
+   - Write in your own words and keep it short; do not copy sentences from the report.
+     Only state what the report states. Set `source` to the report's URL.
+   If World Athletics published no report for a race, write no file. A short item inside
+   another race's report is enough for a short summary; say so in `title`.
+10. Write `newsletters/<week>.md` in the format below. Use the race reports for the
+   "Top results" context (how the race was won, conditions, notable non-finishers).
+11. Commit the newsletter, `data/entries/`, `data/reports/` and `config/prize_money.json` (if changed) with
    the message `Newsletter <week>` and push to `main`.
    Pushing sends it to Telegram automatically; do not send it any other way.
 

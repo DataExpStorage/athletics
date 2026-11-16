@@ -1,0 +1,56 @@
+{
+ "raceId": 7235563,
+ "title": "Feysa and Kipruto triumph in swift Chicago races",
+ "source": "https://worldathletics.org/news/report/feysa-kipruto-2026-chicago-marathon",
+ "published": "2026-10-11",
+ "weather": null,
+ "story": {
+  "W": "Very fast from the start (2:11 pace). Hawi Feysa and Brigid Kosgei broke away early but were caught by halfway (1:06:06). Feysa and Sharon Lokedi then ran side by side for more than an hour until Feysa surged in the last mile and won by 34 seconds. Three women broke 2:15 in one race for the first time.",
+  "M": "Six men reached halfway in 1:00:21, faster than the split in the world record run. Jacob Kiplimo attacked after 25 km and only Amos Kipruto followed; Kipruto moved ahead from mile 20 and Kiplimo faded with a hamstring injury."
+ },
+ "performances": [
+  {
+   "name": "Hawi FEYSA",
+   "gender": "W",
+   "note": "Retained her title in 2:13:33, fourth-fastest in history and 84 seconds off her best. Led early, was caught, then broke Lokedi with a surge in the final mile."
+  },
+  {
+   "name": "Sharon LOKEDI",
+   "gender": "W",
+   "note": "Second in 2:14:07, a big personal best and eighth-fastest in history. Closed an early gap, led at 30 km, and ran level with Feysa until the last mile."
+  },
+  {
+   "name": "Brigid KOSGEI",
+   "gender": "W",
+   "note": "Third in 2:14:55 after going clear with Feysa early; lost contact with the front two before 30 km."
+  },
+  {
+   "name": "Amos KIPRUTO",
+   "gender": "M",
+   "note": "Won in 2:01:09, a 30-second personal best and equal fifth-fastest in history. The only man to follow Kiplimo's attack; went ahead after mile 20 and won by almost two minutes. Third in 2024, second in 2025."
+  },
+  {
+   "name": "Jacob KIPLIMO",
+   "gender": "M",
+   "note": "The pre-race favourite and defending champion broke the field after 25 km, but pulled a hamstring, faded from 35 km and finished fourth."
+  },
+  {
+   "name": "Tadese TAKELE",
+   "gender": "M",
+   "note": "Called Tadese Bikila in the report. Finished strongly for second in a personal best of 2:02:56, passing Kiplimo late.",
+   "athleteId": "14894746"
+  },
+  {
+   "name": "Milkesa MENGESHA",
+   "gender": "M",
+   "note": "Came through late for third, passing Kiplimo."
+  },
+  {
+   "name": "Vincent MAURI",
+   "gender": "M",
+   "note": "Ran alone ahead of the second group, on course for under 2:05 at halfway, then stopped briefly with apparent cramp after 21 miles; finished tenth."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

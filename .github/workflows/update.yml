@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["site/**", "scripts/**", "config/**", "newsletters/**", "data/entries/**"]
+    paths: ["site/**", "scripts/**", "config/**", "newsletters/**", "data/entries/**", "data/reports/**"]
 
 permissions:
   contents: write

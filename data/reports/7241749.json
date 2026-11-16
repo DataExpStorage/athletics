@@ -1,0 +1,51 @@
+{
+ "raceId": 7241749,
+ "title": "Gobena and Kefale lead Ethiopian double at Hong Kong half marathon",
+ "source": "https://worldathletics.org/news/report/gobena-kefale-hong-kong-half-marathon-2026",
+ "published": "2026-11-15",
+ "weather": "Hot and humid, up to 28°C, with wind on an undulating bridge course. The winner said the conditions made fast times difficult.",
+ "story": {
+  "W": "A close race: 12 seconds covered the first three. Wede Kefale won by seven seconds from Glenrose Xaba.",
+  "M": "Addisu Gobena dominated and finished 56 seconds clear."
+ },
+ "performances": [
+  {
+   "name": "Addisu GOBENA",
+   "gender": "M",
+   "note": "Dominated the race, passing 10 km in 28:43 and winning by 56 seconds, less than three months after his Sydney Marathon course record."
+  },
+  {
+   "name": "Aliyi KASIM",
+   "gender": "M",
+   "note": "Second on his half marathon debut."
+  },
+  {
+   "name": "Alex LENALEPISHO",
+   "gender": "M",
+   "note": "Third on his half marathon debut."
+  },
+  {
+   "name": "Wede KEFALE",
+   "gender": "W",
+   "note": "First half marathon win in six attempts, in a tight finish; her 1:09:04 was well off her 1:05:21 best because of the heat."
+  },
+  {
+   "name": "Glenrose XABA",
+   "gender": "W",
+   "note": "Second, seven seconds behind the winner."
+  }
+ ],
+ "dnf": [
+  {
+   "name": "Selemon BAREGA",
+   "gender": "M",
+   "note": "The 2021 Olympic 10,000 m champion and a pre-race favourite did not finish; no reason given."
+  },
+  {
+   "name": "Grace NAWOWUNA",
+   "gender": "W",
+   "note": "The defending champion did not finish; no reason given."
+  }
+ ],
+ "written": "2026-11-16"
+}

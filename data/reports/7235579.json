@@ -1,0 +1,60 @@
+{
+ "raceId": 7235579,
+ "title": "Gobena breaks course record while Jepchirchir dominates in Sydney",
+ "source": "https://worldathletics.org/news/report/sydney-marathon-2026-gobena-jepchirchir",
+ "published": "2026-08-30",
+ "weather": null,
+ "story": {
+  "W": "Priscah Cherono, 46, broke away from the start and led by 29 seconds at halfway. Peres Jepchirchir and Irine Cheptai caught her before 28 km; Jepchirchir dropped Cheptai before 35 km and won by more than three minutes, nine seconds off the course record.",
+  "M": "A tactical race in a big group: seven men were still together at 40 km. Addisu Gobena and Chimdessa Debele broke clear at the end and Gobena won by three seconds. The first seven beat the old course record."
+ },
+ "performances": [
+  {
+   "name": "Addisu GOBENA",
+   "gender": "M",
+   "note": "Course record 2:04:42. Tried a move at 28 km that was brought back, then outsprinted Debele from a group of seven in the closing stages. Second the year before."
+  },
+  {
+   "name": "Chimdessa DEBELE",
+   "gender": "M",
+   "note": "Second by three seconds after breaking clear with Gobena; had tried to force the pace at 37 km."
+  },
+  {
+   "name": "Tebello RAMAKONGOANA",
+   "gender": "M",
+   "note": "Third in 2:04:57 from the group of seven."
+  },
+  {
+   "name": "Alphonce SIMBU",
+   "gender": "M",
+   "note": "The world champion was in the leading seven at 40 km and finished fourth."
+  },
+  {
+   "name": "Hailemaryam KIROS",
+   "gender": "M",
+   "note": "The defending champion was in the leading seven at 40 km and finished sixth, inside his own previous course record."
+  },
+  {
+   "name": "Sisay LEMMA",
+   "gender": "M",
+   "note": "The fastest man in the field (2:01:48) dropped off the leading group by 30 km and was not in the top ten."
+  },
+  {
+   "name": "Peres JEPCHIRCHIR",
+   "gender": "W",
+   "note": "Let the early leader go, caught her before 28 km, dropped Cheptai before 35 km and won unchallenged by more than three minutes."
+  },
+  {
+   "name": "Irine Chepet CHEPTAI",
+   "gender": "W",
+   "note": "Ran with Jepchirchir until just before 35 km and held on for second."
+  },
+  {
+   "name": "Priscah Jepleting CHERONO",
+   "gender": "W",
+   "note": "Aged 46, led alone from the start to almost 28 km, passing 10 km and halfway faster than her official bests at those distances; finished sixth in a personal best."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

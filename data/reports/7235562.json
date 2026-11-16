@@ -1,0 +1,24 @@
+{
+ "raceId": 7235562,
+ "title": "Sawe breaks two-hour barrier with 1:59:30 world record at London Marathon",
+ "source": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/sawe-two-hour-assefa-world-record-london-marathon",
+ "published": "2026-04-26",
+ "weather": null,
+ "story": {
+  "W": "Four women went out at 2:12 pace and three were together at halfway (1:06:12). The pace eased in the second half, and Tigst Assefa edged clear in the closing stages to win by 12 seconds. Three women broke 2:16 in one race for the first time.",
+  "M": "Six men reached halfway together in 1:00:29. Sabastian Sawe and Yomif Kejelcha pulled clear between 30 and 35 km and kept accelerating; Sawe broke away with a mile to go and became the first man to run an official marathon under two hours. The first three all beat the previous world record."
+ },
+ "performances": [
+  {"name": "Sabastian Kimaru SAWE", "gender": "M", "note": "World record 1:59:30, the first official marathon under two hours, 65 seconds inside the old record. Ran the second half in 59:01, went clear with Kejelcha after 30 km and dropped him with a mile left. He was the defending champion."},
+  {"name": "Yomif KEJELCHA", "gender": "M", "note": "Second in 1:59:41 on his marathon debut: the second-fastest time in history, the fastest debut ever and an Ethiopian record. Stayed with Sawe until the final mile."},
+  {"name": "Jacob KIPLIMO", "gender": "M", "note": "Third in a Ugandan record of 2:00:28, also inside the previous world record, after being dropped by the front two between 30 and 35 km."},
+  {"name": "Amos KIPRUTO", "gender": "M", "note": "Fourth in a personal best of 2:01:39 after running in the lead group of six to 25 km."},
+  {"name": "Tamirat TOLA", "gender": "M", "note": "The Olympic champion was fifth in a personal best of 2:02:59."},
+  {"name": "Tigst ASSEFA", "gender": "W", "note": "Retained her title in 2:15:41, nine seconds inside her own women-only world record. Led a group of three through most of the race and edged clear in the closing stages."},
+  {"name": "Hellen OBIRI", "gender": "W", "note": "Second in a personal best of 2:15:53 in her first London Marathon, with the leaders until the closing stages."},
+  {"name": "Joyciline JEPKOSGEI", "gender": "W", "note": "Third in 2:15:55, two seconds behind Obiri, after running in the leading trio throughout."},
+  {"name": "Catherine Reline AMANANG'OLE", "gender": "W", "note": "Went out with the leaders at 2:12 pace, dropped back before 15 km and faded to fifth."}
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

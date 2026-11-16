@@ -1,0 +1,23 @@
+{
+ "raceId": 7235561,
+ "title": "Korir smashes course record at Boston Marathon",
+ "source": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/korir-lokedi-course-record-boston-marathon",
+ "published": "2026-04-20",
+ "weather": null,
+ "story": {
+  "W": "A slow, patient race with a large pack at halfway (1:11:02). The Newton Hills cut it to three Kenyans by 21 miles, and Sharon Lokedi broke clear shortly before the two-hour mark to win by 44 seconds.",
+  "M": "Milkesa Mengesha led by 12 seconds at 30 km. John Korir surged past him before mile 20 on the approach to Heartbreak Hill and kept extending his lead to the finish, breaking a course record that had stood since 2011. Both champions retained their titles, the first time that has happened in Boston since 1996. Boston's point-to-point course means times do not count as personal bests or records."
+ },
+ "performances": [
+  {"name": "John KORIR", "gender": "M", "note": "Retained his title in a course record of 2:01:52. Bridged to the leaders at halfway, then surged past Mengesha before mile 20 and led by 43 seconds at 40 km. His fourth win in his last four completed marathons."},
+  {"name": "Alphonce Felix SIMBU", "gender": "M", "note": "The world champion won a sprint with Benson Kipruto for second in 2:02:47, also inside the old course record."},
+  {"name": "Benson KIPRUTO", "gender": "M", "note": "Third in 2:02:50 after losing the sprint for second."},
+  {"name": "Milkesa MENGESHA", "gender": "M", "note": "Led alone from 25 km and was 12 seconds clear at 30 km, but was caught before mile 20 and faded to tenth."},
+  {"name": "Lemi BERHANU", "gender": "M", "note": "The 2016 winner made the first solo move shortly after 20 km and led at halfway before being joined and passed."},
+  {"name": "Sharon LOKEDI", "gender": "W", "note": "Retained her title in 2:18:51. Waited in the pack, was one of three left by 21 miles, and broke away just before the two-hour mark."},
+  {"name": "Loice CHEMNUNG", "gender": "W", "note": "Second, 44 seconds back, after being in the final group of three."},
+  {"name": "Irine Chepet CHEPTAI", "gender": "W", "note": "In the final group of three at 21 miles but faded to sixth."}
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

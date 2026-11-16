@@ -1,0 +1,61 @@
+{
+ "raceId": 7236397,
+ "title": "Kosgei runs Asian all-comers' record, Takele retains title in Tokyo",
+ "source": "https://worldathletics.org/news/report/tokyo-marathon-2026-kosgei-takele",
+ "published": "2026-03-01",
+ "weather": null,
+ "story": {
+  "W": "Six women were together at halfway (1:07:37). Brigid Kosgei and Sutume Asefa Kebede broke away, then Kosgei went clear between 30 and 35 km and won by more than two minutes in the fastest women's marathon ever run in Asia.",
+  "M": "A Japanese runner led the first half before a big pack caught him. Four men were still together at 40 km; Tadese Takele waited, then outkicked Geofry Kipchumba, who was given the same time, with third one second back."
+ },
+ "performances": [
+  {
+   "name": "Brigid KOSGEI",
+   "gender": "W",
+   "note": "Won in 2:14:29, a course record, the seventh-fastest time in history and her second-fastest ever. At the front from the start; dropped Kebede after 30 km and won by more than two minutes. She also won here in 2021."
+  },
+  {
+   "name": "Bertukan WELDE",
+   "gender": "W",
+   "note": "Aged 21 and in her fourth marathon, passed Kebede late for second in a big personal best of 2:16:36."
+  },
+  {
+   "name": "Hawi FEYSA",
+   "gender": "W",
+   "note": "Outsprinted Kebede for third; both were given 2:17:39."
+  },
+  {
+   "name": "Sutume Asefa KEBEDE",
+   "gender": "W",
+   "note": "The two-time winner and previous course record holder ran with Kosgei for 30 km, then faded to fourth."
+  },
+  {
+   "name": "Tadese TAKELE",
+   "gender": "M",
+   "note": "Retained his title, only the second man to win twice in a row. Sat in the group until after 40 km, then kicked and held off Kipchumba in a same-time finish."
+  },
+  {
+   "name": "Geofry Toroitich KIPCHUMBA",
+   "gender": "M",
+   "note": "Second in the same time as the winner after chasing him to the line."
+  },
+  {
+   "name": "Alexander MUNYAO",
+   "gender": "M",
+   "note": "Called Alexander Mutiso Munyao in the report. Led the breakaway group of five after 36 km and finished third, one second behind the winner.",
+   "athleteId": "14590685"
+  },
+  {
+   "name": "Daniel MATEIKO",
+   "gender": "M",
+   "note": "Drove the late breakaway with Munyao, was the first of the final four to be dropped, and finished fourth."
+  },
+  {
+   "name": "Iliass AOUANI",
+   "gender": "M",
+   "note": "Sixth in an Italian record of 2:04:26."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

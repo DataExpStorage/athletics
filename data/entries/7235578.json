@@ -4,62 +4,292 @@
  "checked": "2026-11-16",
  "note": "The organisers promised a complete line-up in October; no final start list has been found yet.",
  "entries": [
-  {"name": "Yomif KEJELCHA", "nat": "ETH", "gender": "M", "pb": "1:59:41", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "note": "Headline name in the organisers' first elite list.", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "withdrawn", "reliability": "official", "reason": "Injury during his build-up; the type of injury and a return date were not given.", "note": "Announced by Kejelcha on Instagram and confirmed by the organisers the same day: \"I have to stop now, recover properly and work hard to be back on the start line soon.\"", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "John KORIR", "nat": "KEN", "gender": "M", "pb": "2:02:24", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "note": "Named as the leading man after Kejelcha's withdrawal.", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Alexander MUTISO", "nat": "KEN", "gender": "M", "pb": "2:03:11", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Dawit WOLDE", "nat": "ETH", "gender": "M", "pb": "2:03:48", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Nibret MELAK", "nat": "ETH", "gender": "M", "pb": "2:04:00", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Leul GEBRESELASSIE", "nat": "ETH", "gender": "M", "pb": "2:04:02", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Awet KIBRAB", "nat": "NOR", "gender": "M", "pb": "2:04:24", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Fotyen TESFAY", "nat": "ETH", "gender": "W", "pb": "2:10:51", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "note": "Headline name in the organisers' first elite list.", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Agnes Jebet NGETICH", "nat": "KEN", "gender": "W", "pb": "debut", "history": [
-   {"date": "2026-11-13", "type": "announced", "reliability": "reported", "note": "Marathon debut. Not in the July list; first seen in press coverage, date of the original announcement not found.", "source": "https://www.marathons.com/en/marathon/yomif-kejelcha-pulls-out-of-valencia-agnes-jebet-ngetich-gets-set-for-her-marathon-debut_m433"}
-  ]},
-  {"name": "Joyciline JEPKOSGEI", "nat": "KEN", "gender": "W", "pb": "2:14:00", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"},
-   {"date": "2026-11-13", "type": "confirmed", "reliability": "reported", "note": "Defending champion and course record holder.", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-  ]},
-  {"name": "Emily SISSON", "nat": "USA", "gender": "W", "pb": "2:18:29", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]},
-  {"name": "Lilian KASAIT", "nat": "KEN", "gender": "W", "pb": "2:19:35", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]},
-  {"name": "Aberu AYANA", "nat": "ETH", "gender": "W", "pb": "2:20:20", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]},
-  {"name": "Alisa VAINIO", "nat": "FIN", "gender": "W", "pb": "2:20:39", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]},
-  {"name": "Ejgayehu TAYE", "nat": "ETH", "gender": "W", "pb": "", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "note": "The organisers' article lists a marathon best of 2:51:35, which looks like an error; her half marathon best is given as 1:04:14.", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]},
-  {"name": "Winnie JEPKOSGEI", "nat": "KEN", "gender": "W", "pb": "debut", "history": [
-   {"date": "2026-07-02", "type": "announced", "reliability": "official", "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"}
-  ]}
+  {
+   "name": "Yomif KEJELCHA",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "1:59:41",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Headline name in the organisers' first elite list.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "withdrawn",
+     "reliability": "official",
+     "reason": "Injury during his build-up; the type of injury and a return date were not given.",
+     "note": "Announced by Kejelcha on Instagram and confirmed by the organisers the same day: \"I have to stop now, recover properly and work hard to be back on the start line soon.\"",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "John KORIR",
+   "nat": "KEN",
+   "gender": "M",
+   "pb": "2:02:24",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "note": "Named as the leading man after Kejelcha's withdrawal.",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Alexander MUTISO",
+   "nat": "KEN",
+   "gender": "M",
+   "pb": "2:03:11",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ],
+   "athleteId": "14590685"
+  },
+  {
+   "name": "Dawit WOLDE",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:03:48",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Nibret MELAK",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:04:00",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Leul GEBRESELASSIE",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:04:02",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Awet KIBRAB",
+   "nat": "NOR",
+   "gender": "M",
+   "pb": "2:04:24",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Fotyen TESFAY",
+   "nat": "ETH",
+   "gender": "W",
+   "pb": "2:10:51",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Headline name in the organisers' first elite list.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Agnes Jebet NGETICH",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "debut",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "type": "announced",
+     "reliability": "reported",
+     "note": "Marathon debut. Not in the July list; first seen in press coverage, date of the original announcement not found.",
+     "source": "https://www.marathons.com/en/marathon/yomif-kejelcha-pulls-out-of-valencia-agnes-jebet-ngetich-gets-set-for-her-marathon-debut_m433"
+    }
+   ]
+  },
+  {
+   "name": "Joyciline JEPKOSGEI",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "2:14:00",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "reported",
+     "note": "Defending champion and course record holder.",
+     "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    }
+   ]
+  },
+  {
+   "name": "Emily SISSON",
+   "nat": "USA",
+   "gender": "W",
+   "pb": "2:18:29",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Lilian KASAIT",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "2:19:35",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Aberu AYANA",
+   "nat": "ETH",
+   "gender": "W",
+   "pb": "2:20:20",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Alisa VAINIO",
+   "nat": "FIN",
+   "gender": "W",
+   "pb": "2:20:39",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Ejgayehu TAYE",
+   "nat": "ETH",
+   "gender": "W",
+   "pb": "",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "note": "The organisers' article lists a marathon best of 2:51:35, which looks like an error; her half marathon best is given as 1:04:14.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Winnie JEPKOSGEI",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "debut",
+   "history": [
+    {
+     "date": "2026-07-02",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    }
+   ]
+  }
  ]
 }

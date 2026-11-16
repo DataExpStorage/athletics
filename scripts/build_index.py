@@ -119,6 +119,18 @@ def build_entries(index):
     return out
 
 
+def build_reports(index):
+    """data/reports/*.json -> per race: summary of the race report, athletes matched to ids."""
+    out = {}
+    for f in sorted(glob.glob(os.path.join(wa.DATA, "reports", "*.json"))):
+        d = wa.load_json(f)
+        for key in ("performances", "dnf"):
+            for p in d.get(key, []):
+                p["id"] = p.get("athleteId") or find_athlete(index, p.get("gender"), p["name"])
+        out[str(d["raceId"])] = d
+    return out
+
+
 def main():
     cal = wa.load_json(os.path.join(wa.DATA, "calendar.json"))
     prize_cfg = wa.load_json(os.path.join(wa.ROOT, "config", "prize_money.json"), {"races": {}, "usd_rates": {}})
@@ -181,6 +193,7 @@ def main():
         "races": races,
         "toplists": toplists,
         "entries": build_entries(build_name_index()),
+        "reports": build_reports(build_name_index()),
         "athleteIds": sorted(athlete_ids),
         "newsletters": newsletters,
     })

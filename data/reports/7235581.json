@@ -1,0 +1,56 @@
+{
+ "raceId": 7235581,
+ "title": "Diriba breaks course record, Berhanu threatens mark at Amsterdam Marathon",
+ "source": "https://worldathletics.org/news/report/amsterdam-marathon-2026-diriba-berhanu",
+ "published": "2026-10-18",
+ "weather": "Wet conditions.",
+ "story": {
+  "W": "Four women were together at halfway (1:08:34). Buze Diriba and Aynalem Desta dropped the others after 30 km, then Diriba kicked and won by almost a minute in a course record, with a faster second half.",
+  "M": "A large group passed halfway in 1:02:24 behind pacemakers. Nicholas Kipkorir attacked near the Vondelpark with Lemi Berhanu; Berhanu edged clear after 40 km and missed the course record by three seconds. Eight men broke 2:05."
+ },
+ "performances": [
+  {
+   "name": "Buze DIRIBA",
+   "gender": "W",
+   "note": "Course record 2:16:12, more than three minutes off her best, with a faster second half. Broke Desta after 30 km and won by almost a minute; 16th-fastest in history."
+  },
+  {
+   "name": "Aynalem DESTA",
+   "gender": "W",
+   "note": "The defending champion was second in a personal best after running with Diriba until the final kick."
+  },
+  {
+   "name": "Meseret BELETE",
+   "gender": "W",
+   "note": "Third in a personal best, dropped by the leading pair after 30 km."
+  },
+  {
+   "name": "Lemi BERHANU",
+   "gender": "M",
+   "note": "Won in 2:03:33, a minute faster than the best he set ten years ago and three seconds off the course record. Followed Kipkorir's attack, then edged ahead after 40 km."
+  },
+  {
+   "name": "Nicholas KIPKORIR",
+   "gender": "M",
+   "note": "Made the decisive attack near the Vondelpark and was shoulder to shoulder with Berhanu at 40 km before losing by six seconds. Second marathon, a best by more than two minutes."
+  },
+  {
+   "name": "Patrick MOSIN",
+   "gender": "M",
+   "note": "Third in a personal best, 11 seconds behind the leaders at 40 km."
+  },
+  {
+   "name": "Justus KANGOGO",
+   "gender": "M",
+   "note": "Took over the pace when the pacemakers stepped aside at 30 km and stretched the field; finished sixth."
+  }
+ ],
+ "dnf": [
+  {
+   "name": "Geofry Toroitich KIPCHUMBA",
+   "gender": "M",
+   "note": "The defending champion and course record holder was eight seconds behind the leaders at halfway and dropped out shortly afterwards; no reason given."
+  }
+ ],
+ "written": "2026-11-16"
+}

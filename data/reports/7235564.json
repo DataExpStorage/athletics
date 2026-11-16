@@ -1,0 +1,60 @@
+{
+ "raceId": 7235564,
+ "title": "Almgren wins on marathon debut, Chepkirui regains title in New York",
+ "source": "https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui",
+ "published": "2026-11-01",
+ "weather": "Still, sunny autumn conditions.",
+ "story": {
+  "W": "A cautious start (halfway in 1:13:52) left the race to be decided in Central Park. Sheila Chepkirui covered Hellen Obiri's kick with 400 m to go and sprinted clear; Jessica McClain passed Obiri for second by one second.",
+  "M": "A large pack ran together until a surge at mile 23 cut it to four. Andreas Almgren, on his marathon debut, pulled away from Yemaneberhan Crippa in Central Park to win by 13 seconds."
+ },
+ "performances": [
+  {
+   "name": "Andreas ALMGREN",
+   "gender": "M",
+   "note": "Won on his marathon debut. Sat in the pack throughout, looked untroubled, led narrowly at 40 km and eased away from Crippa in Central Park."
+  },
+  {
+   "name": "Yemaneberhan CRIPPA",
+   "gender": "M",
+   "note": "Second, 13 seconds back, after being one of the last two in contention. He won Paris earlier in the year."
+  },
+  {
+   "name": "Kamohelo MOFOLO",
+   "gender": "M",
+   "note": "Fast finish for third in a personal best, passing Benson Kipruto on the line."
+  },
+  {
+   "name": "Benson KIPRUTO",
+   "gender": "M",
+   "note": "The defending champion made the decisive surge at mile 23 (a 4:38 mile) but was dropped late and lost third on the line."
+  },
+  {
+   "name": "Zouhair TALBI",
+   "gender": "M",
+   "note": "Attacked repeatedly from halfway (1:04:01) but each move was covered; first of the final four to be dropped, finished sixth."
+  },
+  {
+   "name": "Sheila CHEPKIRUI",
+   "gender": "W",
+   "note": "Regained the title she won in 2024. Shadowed by Obiri all the way, she covered Obiri's kick with 400 m left and sprinted away."
+  },
+  {
+   "name": "Jessica MCCLAIN",
+   "gender": "W",
+   "note": "Led at halfway, was dropped by the leaders, then closed in Central Park to take second by one second: the first US woman in the top three since 2018."
+  },
+  {
+   "name": "Hellen OBIRI",
+   "gender": "W",
+   "note": "The defending champion kicked with 400 m to go but could not hold it and was passed for second on the line. The report notes an injury scare in July."
+  },
+  {
+   "name": "Edna KIPLAGAT",
+   "gender": "W",
+   "note": "Fourth at the age of 46, in the lead group of eight late into the race."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

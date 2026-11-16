@@ -1,0 +1,50 @@
+{
+ "raceId": 7236005,
+ "title": "Chepkirui and Kwizera clinch fast half marathon wins in Valencia",
+ "source": "https://worldathletics.org/news/report/valencia-half-marathon-chepkirui-kwizera",
+ "published": "2026-10-25",
+ "weather": null,
+ "story": {
+  "W": "Three Kenyans broke away early and were 24 seconds clear at 15 km. Sheila Chepkirui outkicked Diana Wanza by one second. The first six all broke 65 minutes, which had never happened before.",
+  "M": "Rodrigue Kwizera controlled the race from the front, led a group of seven at 15 km, and kicked away from the last two challengers after 20 km."
+ },
+ "performances": [
+  {
+   "name": "Sheila CHEPKIRUI",
+   "gender": "W",
+   "note": "World-leading 1:03:51, a personal best that made her equal fifth-fastest in history. Broke away with two compatriots and won the sprint by one second."
+  },
+  {
+   "name": "Diana WANZA",
+   "gender": "W",
+   "note": "Second by one second in a personal best, sixth-fastest in history, after chasing Chepkirui's kick to the line."
+  },
+  {
+   "name": "Daisilah JERONO",
+   "gender": "W",
+   "note": "Third in a personal best after being dropped from the leading trio before 20 km."
+  },
+  {
+   "name": "Yalemzerf YEHUALAW",
+   "gender": "W",
+   "note": "16th in 1:07:21 in her first race since becoming a mother earlier in the year."
+  },
+  {
+   "name": "Rodrigue KWIZERA",
+   "gender": "M",
+   "note": "Controlled the race and kicked clear in the last kilometre for 58:03, eighth-fastest in history. He now has Spanish citizenship, but the time will not count as a European record because his transfer from Burundi is not yet formalised."
+  },
+  {
+   "name": "Thierry NDIKUMWENAYO",
+   "gender": "M",
+   "note": "Second in 58:09; the winner's training partner, in the leading trio at 20 km."
+  },
+  {
+   "name": "Victor KIPRUTO",
+   "gender": "M",
+   "note": "Third in 58:12, in the leading trio at 20 km."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}

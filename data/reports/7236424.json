@@ -1,0 +1,25 @@
+{
+ "raceId": 7236424,
+ "title": "Matata breaks course record, Alemu sets world U20 best in New Delhi (short item in the Amsterdam report)",
+ "source": "https://worldathletics.org/news/report/amsterdam-marathon-2026-diriba-berhanu",
+ "published": "2026-10-18",
+ "weather": null,
+ "story": {
+  "W": "Wudinesh Alemu, 19, won in a world under-20 best.",
+  "M": "Charles Matata won in a course record, leading a Kenyan sweep of the podium."
+ },
+ "performances": [
+  {
+   "name": "Charles Mbatha MATATA",
+   "gender": "M",
+   "note": "Course record and personal best 58:52. Runner-up in 2023; his twin brother Alex won the 2025 race."
+  },
+  {
+   "name": "Wudinesh ALEMU",
+   "gender": "W",
+   "note": "Won aged 19 in 1:06:35, a world under-20 best."
+  }
+ ],
+ "dnf": [],
+ "written": "2026-11-16"
+}
