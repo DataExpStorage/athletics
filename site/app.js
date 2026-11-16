@@ -500,7 +500,8 @@
   }
   function viewRaces() {
     var rows = D.races.filter(function (r) {
-      var okT = raceFilter.tier === 'All' || (raceFilter.tier === 'Majors' ? r.major : r.tier === raceFilter.tier);
+      // Majors have their own filter, so the Platinum filter shows the other Platinum races only
+      var okT = raceFilter.tier === 'All' || (raceFilter.tier === 'Majors' ? r.major : r.tier === raceFilter.tier && !r.major);
       var d = (r.distance === 'marathon' || r.distance === 'half-marathon' || r.distance === '10km') ? r.distance : 'other';
       return okT && (raceFilter.dist === 'All' || d === raceFilter.dist);
     });
