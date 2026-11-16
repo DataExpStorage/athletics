@@ -1,0 +1,274 @@
+{
+ "id": "14629097",
+ "givenName": "Guye Idemo",
+ "familyName": "ADOLA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1990-10-20",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:09.78",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "27 MAY 2016",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:22",
+   "venue": "Dongio (SUI)",
+   "date": "21 APR 2014",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:06",
+   "venue": "New Delhi (IND)",
+   "date": "23 NOV 2014",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:50",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1263,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:50",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1263,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "5"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:02:50",
+   "score": 1263,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "NN Marathon Rotterdam, Rotterdam",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:03:54",
+   "score": 1243,
+   "competitionId": "7235576"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "28:22",
+     "venue": "Dongio (SUI)",
+     "date": "21 APR 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "59:06",
+     "venue": "New Delhi (IND)",
+     "date": "23 NOV 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:00:45",
+     "venue": "Lisboa (POR)",
+     "date": "22 MAR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:03:26",
+     "venue": "Cardiff (GBR)",
+     "date": "26 MAR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "59:18",
+     "venue": "Ostia (ITA)",
+     "date": "12 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:15",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:01:44",
+     "venue": "Istanbul (TUR)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:00:50",
+     "venue": "Gdynia (POL)",
+     "date": "17 OCT 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:03:46",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:32:35",
+     "venue": "London (GBR)",
+     "date": "22 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:04:42",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:05:45",
+     "venue": "Berlin (GER)",
+     "date": "26 SEP 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:35",
+     "venue": "Paris (FRA)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:11",
+     "venue": "Berlin (GER)",
+     "date": "21 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:02:50",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Half Marathon Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Half Marathon",
+     "competition": "IAAF World Half Marathon Championships",
+     "mark": "59:21",
+     "date": "29 MAR 2014"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Half Marathon",
+     "competition": "Brazzaville All-Africa Games",
+     "mark": "1:04:22",
+     "date": "17 SEP 2015"
+    },
+    {
+     "place": "8.",
+     "discipline": "Half Marathon",
+     "competition": "African Games",
+     "mark": "1:04:12",
+     "date": "30 AUG 2019"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:02:50",
+     "date": "27 SEP 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:05:45",
+     "date": "26 SEP 2021"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Berlin Marathon",
+     "mark": "2:03:46",
+     "date": "24 SEP 2017"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:07:11",
+     "date": "21 SEP 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 8,
+   "rankingScore": 1338
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 113,
+   "rankingScore": 1338
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/ethiopia/guye-idemo-adola-14629097"
+}

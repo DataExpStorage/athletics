@@ -50,6 +50,10 @@ Needs Python 3.7 or newer; no extra packages.
   words, of the World Athletics race report: weather, how each race was won, notes on
   key athletes and notable non-finishers. `scripts/fetch_reports.py` saves the report
   texts to the local cache for reading; the texts themselves are never committed.
+- Seasons: `config/races.json` lists the seasons followed. Calendars and top lists are
+  stored per season; a season is fetched from the October before it until the end of the
+  following January. Earlier seasons stay in the repository and in the dashboard's
+  season selector. See `docs/SPECIFICATION.md` and `docs/DATA_GATHERING.md`.
 - Personal, non-commercial use. Every page links back to the World Athletics source.
 
 ## Publishing (one-time setup)

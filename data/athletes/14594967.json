@@ -1,0 +1,632 @@
+{
+ "id": "14594967",
+ "givenName": "Yomif",
+ "familyName": "KEJELCHA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-08-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:18.34",
+   "venue": "Seattle, WA (USA) (i)",
+   "date": "12 JAN 2019",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:31.25",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "03 MAR 2019",
+   "resultScore": 1282,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "3:31.25",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "03 MAR 2019",
+   "resultScore": 1282,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:47.01",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "03 MAR 2019",
+   "resultScore": 1304,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "3:47.01",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "03 MAR 2019",
+   "resultScore": 1304,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "4:57.74",
+   "venue": "Metz (FRA) (i)",
+   "date": "28 FEB 2014",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Short Track",
+   "mark": "4:57.74",
+   "venue": "Metz (FRA) (i)",
+   "date": "28 FEB 2014",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:23.64",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "17 SEP 2023",
+   "resultScore": 1280,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:38.67",
+   "venue": "Messehalle, Karlsruhe (GER) (i)",
+   "date": "03 FEB 2018",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:38.95",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "30 MAY 2024",
+   "resultScore": 1288,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:31.01",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "14 JUN 2024",
+   "resultScore": 1273,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "12:50",
+   "venue": "Lille (FRA)",
+   "date": "19 MAR 2023",
+   "resultScore": 1247,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:31",
+   "venue": "Castellón (ESP)",
+   "date": "16 FEB 2025",
+   "resultScore": 1273,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "56:51",
+   "venue": "Buenos Aires (ARG)",
+   "date": "23 AUG 2026",
+   "resultScore": 1316,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "1:59:41",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1324,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "56:51",
+   "venue": "Buenos Aires (ARG)",
+   "date": "23 AUG 2026",
+   "resultScore": 1316,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Media Maratón Ciudad de Buenos Aires",
+   "listPosition": "1"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "1:59:41",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1324,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "2"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Media Maratón Ciudad de Buenos Aires, Buenos Aires",
+   "country": "ARG",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "56:51",
+   "score": 1316,
+   "competitionId": "7243530"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "1:59:41",
+   "score": 1324,
+   "competitionId": "7235562"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "3:56.95",
+     "venue": "Seattle, WA (USA) (i)",
+     "date": "27 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "3:47.01",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "03 MAR 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "3:47.01",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "03 MAR 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "13:05",
+     "venue": "Sechseläutenplatz, Zürich (SUI)",
+     "date": "08 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "12:53",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "12:50",
+     "venue": "Lille (FRA)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "13:00",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "12:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "28:13",
+     "venue": "Rennes (FRA)",
+     "date": "13 OCT 2013"
+    },
+    {
+     "season": "2024",
+     "mark": "26:37",
+     "venue": "Laredo (ESP)",
+     "date": "16 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "26:31",
+     "venue": "Castellón (ESP)",
+     "date": "16 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "59:17",
+     "venue": "København (DEN)",
+     "date": "16 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "59:05",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "58:32",
+     "venue": "Valencia (ESP)",
+     "date": "23 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "57:41",
+     "venue": "Valencia (ESP)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "57:30",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "58:02",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "56:51",
+     "venue": "Buenos Aires (ARG)",
+     "date": "23 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:59:41",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "26:44.02",
+     "date": "02 AUG 2024"
+    },
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXII Olympic Games",
+     "mark": "27:52.03",
+     "date": "30 JUL 2021"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "28:55.83",
+     "date": "14 SEP 2025"
+    },
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "26:49.34",
+     "date": "06 OCT 2019"
+    },
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "13:33.51",
+     "date": "12 AUG 2017"
+    },
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "13:52.43",
+     "date": "29 AUG 2015"
+    },
+    {
+     "place": "5.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics Championships, Budapest 2023",
+     "mark": "13:12.51",
+     "date": "27 AUG 2023"
+    },
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics Championships, Oregon 2022",
+     "mark": "13:12.09",
+     "date": "24 JUL 2022"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League Final",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Bruxelles Memorial Van Damme",
+     "mark": "12:53.98",
+     "date": "11 SEP 2015"
+    }
+   ]
+  },
+  {
+   "category": "World Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "8:14.41",
+     "date": "04 MAR 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "7:57.21",
+     "date": "20 MAR 2016"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5 Kilometres Road",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "13:02",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country Relay",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "22:30",
+     "date": "26 MAR 2017"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "13:25.19",
+     "date": "25 JUL 2014"
+    }
+   ]
+  },
+  {
+   "category": "World U18 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World Youth Championships",
+     "mark": "7:53.56",
+     "date": "14 JUL 2013"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Meeting de Paris",
+     "mark": "12:47.84",
+     "date": "20 JUN 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Weltklasse Zürich",
+     "mark": "12:46.91",
+     "date": "31 AUG 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Oslo Bislett Games",
+     "mark": "12:41.73",
+     "date": "15 JUN 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Oslo Bislett Games",
+     "mark": "7:26.25",
+     "date": "01 JUL 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Athletissima Lausanne",
+     "mark": "13:00.56",
+     "date": "05 JUL 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF Diamond League",
+     "mark": "13:04.16",
+     "date": "18 MAY 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Meeting International Mohammed VI d'Athletisme de Rabat",
+     "mark": "7:32.93",
+     "date": "13 JUL 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Paris Meeting",
+     "mark": "7:28.19",
+     "date": "27 AUG 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Bruxelles Memorial Van Damme",
+     "mark": "12:53.98",
+     "date": "11 SEP 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Roma Golden Gala - Pietro Mennea",
+     "mark": "12:58.39",
+     "date": "04 JUN 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Eugene Prefontaine Classic",
+     "mark": "13:10.54",
+     "date": "29 MAY 2015"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "1:59:41",
+     "date": "26 APR 2026"
+    }
+   ]
+  },
+  {
+   "category": "Youth Olympic Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Nanjing Youth Olympic Games",
+     "mark": "7:56.20",
+     "date": "24 AUG 2014"
+    }
+   ]
+  },
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Addis Abeba African Junior Championships",
+     "mark": "14:31.03",
+     "date": "08 MAR 2015"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 3,
+   "rankingScore": 1283
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 5,
+   "rankingScore": 1375
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 19,
+   "rankingScore": 1191
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 46,
+   "rankingScore": 1375
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/ethiopia/yomif-kejelcha-14594967"
+}

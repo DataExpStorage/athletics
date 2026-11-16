@@ -71,7 +71,7 @@ def build_name_index():
         for ev in wa.load_json(f)["events"]:
             for r in ev["results"]:
                 add(ev["gender"], r["name"], r["athleteId"])
-    for f in glob.glob(os.path.join(wa.DATA, "toplists", "*.json")):
+    for f in glob.glob(os.path.join(wa.DATA, "toplists", "*", "*.json")):
         t = wa.load_json(f)
         for r in t["rows"]:
             add("W" if t["gender"] == "women" else "M", r["name"], r["athleteId"])
@@ -132,10 +132,9 @@ def build_reports(index):
 
 
 def main():
-    cal = wa.load_json(os.path.join(wa.DATA, "calendar.json"))
     prize_cfg = wa.load_json(os.path.join(wa.ROOT, "config", "prize_money.json"), {"races": {}, "usd_rates": {}})
     races = []
-    for race in cal["races"]:
+    for race in wa.all_races():
         race = dict(race)
         res = wa.load_json(os.path.join(wa.DATA, "results", "%s.json" % race["id"]))
         if res:
@@ -156,9 +155,9 @@ def main():
         races.append(race)
 
     toplists = {}
-    for f in sorted(glob.glob(os.path.join(wa.DATA, "toplists", "*.json"))):
+    for f in sorted(glob.glob(os.path.join(wa.DATA, "toplists", "*", "*.json"))):
         t = wa.load_json(f)
-        toplists["%s-%s" % (t["distance"], t["gender"])] = {
+        toplists.setdefault(str(t["season"]), {})["%s-%s" % (t["distance"], t["gender"])] = {
             "source": t["source"],
             "rows": [{
                 "rank": r["rank"], "mark": r["mark"], "name": r["name"], "nat": r["nat"], "id": r["athleteId"],
@@ -187,9 +186,9 @@ def main():
         })
 
     wa.save_json(os.path.join(SITE_DATA, "site.json"), {
-        "season": cal["season"],
+        "seasons": [season for season, _ in wa.calendars()],
         "updated": wa.today(),
-        "labelRaceCounts": cal.get("labelRaceCounts"),
+        "labelRaceCounts": dict((str(season), cal.get("labelRaceCounts")) for season, cal in wa.calendars()),
         "races": races,
         "toplists": toplists,
         "entries": build_entries(build_name_index()),
@@ -198,7 +197,7 @@ def main():
         "newsletters": newsletters,
     })
     print("Site data: %d races (%d with results), %d top lists, %d athletes, %d newsletters" % (
-        len(races), len([r for r in races if r.get("events")]), len(toplists), len(athlete_ids), len(newsletters)))
+        len(races), len([r for r in races if r.get("events")]), sum(len(v) for v in toplists.values()), len(athlete_ids), len(newsletters)))
 
 
 if __name__ == "__main__":

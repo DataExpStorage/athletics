@@ -1,0 +1,259 @@
+{
+ "id": "14894746",
+ "givenName": "Tadese",
+ "familyName": "TAKELE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2002-08-03",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "5:35.47",
+   "venue": "Abidjan (CIV)",
+   "date": "17 APR 2019",
+   "resultScore": 1077,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:09.37",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "08 JUN 2021",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:20",
+   "venue": "Lille (FRA)",
+   "date": "01 OCT 2022",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:41",
+   "venue": "Herzogenaurach (GER)",
+   "date": "30 APR 2022",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:56",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1262,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:56",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1262,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "6"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:02:56",
+   "score": 1262,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:03:37",
+   "score": 1249,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "27:20",
+     "venue": "Lille (FRA)",
+     "date": "01 OCT 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "59:41",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:04",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:03:24",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:05:13",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:03:23",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:02:56",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "World Athletics U20 Championships",
+     "mark": "8:33.15",
+     "date": "22 AUG 2021"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "African Athletics Championships",
+     "mark": "8:28.31",
+     "date": "10 JUN 2022"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:37",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:23",
+     "date": "02 MAR 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:03:24",
+     "date": "24 SEP 2023"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:05:13",
+     "date": "29 SEP 2024"
+    }
+   ]
+  },
+  {
+   "category": "International Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:37",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:23",
+     "date": "02 MAR 2025"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Ethiopian Championships",
+     "mark": "8:35.7h",
+     "date": "09 APR 2021"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 6,
+   "rankingScore": 1360
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 68,
+   "rankingScore": 1360
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/ethiopia/tadese-takele-14894746"
+}

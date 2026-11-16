@@ -36,23 +36,34 @@ def parse_table(text):
 
 def main():
     cfg = wa.config()
+    this_year = int(wa.today()[:4])
+    seasons = [s for s in wa.active_seasons(cfg) if s <= this_year]  # a season has no list before it starts
+    for season in seasons:
+        fetch_season(cfg, season)
+
+
+def fetch_season(cfg, season):
+    early = wa.today() < "%d-03-01" % season
     for distance, slug in cfg["toplists"].items():
         for gender in ("women", "men"):
-            page = TOPLIST_PAGE % (slug, gender, cfg["season"])
+            page = TOPLIST_PAGE % (slug, gender, season)
             rows = parse_table(wa.fetch(page))
             if len(rows) < 10:
-                raise RuntimeError("Top list %s %s has only %d rows - page changed?" % (distance, gender, len(rows)))
-            wa.save_json(os.path.join(wa.DATA, "toplists", "%s-%s.json" % (distance, gender)), {
+                if early:
+                    print("%s %-14s %-6s only %d rows so far - skipped" % (season, distance, gender, len(rows)))
+                    continue
+                raise RuntimeError("Top list %s %s %s has only %d rows - page changed?" % (season, distance, gender, len(rows)))
+            wa.save_json(os.path.join(wa.DATA, "toplists", str(season), "%s-%s.json" % (distance, gender)), {
                 "distance": distance,
                 "gender": gender,
-                "season": cfg["season"],
+                "season": season,
                 "updated": wa.today(),
                 "source": wa.BASE + page,
                 "rows": rows,
             })
             lead = rows[0]
-            print("%-14s %-6s %3d rows, leader %s %s" % (
-                distance, gender, len(rows), lead["mark"], lead["name"].encode("ascii", "replace").decode()))
+            print("%s %-14s %-6s %3d rows, leader %s %s" % (
+                season, distance, gender, len(rows), lead["mark"], lead["name"].encode("ascii", "replace").decode()))
 
 
 if __name__ == "__main__":

@@ -9,13 +9,14 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
 1. Work in this repository. Pull the latest `main` first.
 2. Work out the ISO week of today's date (for example `2026-W47`). If
    `newsletters/<week>.md` already exists, stop: this week's issue is done.
-3. Read `data/calendar.json` (the season's priority races: Platinum and Gold label races,
+3. Read every file in `data/calendar/` (one per season, named by year; a week around New
+   Year spans two of them). They hold the priority races: Platinum and Gold label races,
    championships; `major: true` marks the World Marathon Majors).
 4. For every race whose `startDate` falls in the last 7 days, read `data/results/<id>.json`
    (top 20 women and men). If a race in that window has no results file, say results were
    not available yet rather than guessing.
 5. Find the races whose `startDate` falls in the next 10 days.
-6. Read the six files in `data/toplists/` to see whether any of last week's marks entered
+6. Read the files in `data/toplists/<season>/` for the season each race belongs to, to see whether any of last week's marks entered
    the season's top 10 at marathon, half marathon or 10 km.
 7. Search the web for road running news from the last 7 days: start lists and withdrawals
    for the upcoming races, injuries, retirements, doping cases (Athletics Integrity Unit),
@@ -30,7 +31,7 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
    `confidence`, `checked` (today), `sources`. Use figures for this year only; never copy
    an earlier year's table or estimate. If nothing reliable turns up, add nothing.
    You may mention the winner's prize in the newsletter when it is in that file.
-9. Announced entries: for every race in `data/calendar.json` starting in the next 6 weeks,
+9. Announced entries: for every race in `data/calendar/` (any season) starting in the next 6 weeks,
    check who is announced to run and who has withdrawn, and update
    `data/entries/<raceId>.json` (create it if missing; `data/entries/7235578.json` is the
    model). Look at the race's official website and press releases first, then major and
@@ -103,6 +104,18 @@ No tables, no images, no nested bullets.
 ## What's next
 - **<Race>**, <day and date> (<label>, <distance>): <who is entered and what to watch, if known.> [Source](url)
 ```
+
+## Seasons
+
+- The repository holds every season side by side. Never delete or overwrite an earlier
+  season's files.
+- If `data/calendar/` has no file for a year whose January is less than six weeks away,
+  World Athletics has not published that season's label races yet. Say so in "What's
+  next", and for well-known January races (for example Xiamen, Houston, Osaka Women's,
+  Mumbai, Hong Kong) report announced fields in the newsletter from organiser sources
+  without creating entry files, because the races have no World Athletics id yet.
+- In the first issue of January, add a short look back at the finished season (Majors
+  winners, fastest times, records) from the repository data.
 
 ## Rules
 

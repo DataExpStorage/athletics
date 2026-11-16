@@ -1,7 +1,22 @@
 {
- "season": 2026,
- "tiers": ["Platinum", "Gold"],
- "majors": [7236397, 7235561, 7235562, 7235579, 7235580, 7235563, 7235564],
+ "seasons": [
+  2026,
+  2027
+ ],
+ "tiers": [
+  "Platinum",
+  "Gold"
+ ],
+ "majors": [
+  "Tokyo Marathon",
+  "Boston Marathon",
+  "London Marathon",
+  "Sydney Marathon",
+  "Berlin Marathon",
+  "Chicago Marathon",
+  "New York City Marathon"
+ ],
+ "majors_note": "A race is a Major when it is a Platinum marathon whose name contains one of these.",
  "distance_overrides": {
   "7238772": "half-marathon"
  },

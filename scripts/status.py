@@ -11,7 +11,7 @@ import wa
 
 def main():
     only_missing = "--missing" in sys.argv
-    cal = wa.load_json(os.path.join(wa.DATA, "calendar.json"))["races"]
+    cal = wa.all_races()
     prize = wa.load_json(os.path.join(wa.ROOT, "config", "prize_money.json"), {"races": {}})["races"]
     today = wa.today()
     totals = {"run": 0, "prize": 0, "report": 0, "upcoming": 0, "entries": 0}

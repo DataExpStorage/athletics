@@ -1,6 +1,7 @@
 (function () {
   'use strict';
-  var D = null;            // site.json
+  var D = null;            // site.json; races, toplists and labelRaceCounts are narrowed to the selected season
+  var ALL = null;          // the same three for every season
   var raceById = {};
   var hasProfile = {};
   var known = {};          // every athlete seen in results or top lists: id -> {name, nat, born}
@@ -153,7 +154,8 @@
       (d ? changeLog(r) + '<p class="muted" style="margin:10px 0 0">' + (d.note ? esc(d.note) + ' ' : '') + 'Last checked ' + fmtDate(d.checked, true) +
         '. ● Official = organiser or athlete; ◐ Reported = news outlet; ○ Unconfirmed = single secondary source.</p>' : '') + '</div>';
   }
-  function upcoming() { return D.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }); }
+  // upcoming races come from every season, so December shows January's races too
+  function upcoming() { return ALL.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }); }
   function viewNext() {
     var next = upcoming();
     return '<h1>Running next</h1><p class="sub">Athletes announced for the upcoming priority races, with how reliable each announcement is, and everyone who has withdrawn.</p>' +
@@ -348,13 +350,14 @@
     return html + '</li>';
   }
   function viewOverview() {
-    var run = D.races.filter(isRun), next = D.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; });
+    var run = D.races.filter(isRun), next = upcoming();
+    var left = D.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }).length;
     var majors = D.races.filter(function (r) { return r.major; });
     var nxt = next[0];
     var html = '<h1>Road running ' + D.season + '</h1><p class="sub">The ' + D.races.length +
       ' priority races of the season: Platinum and Gold label races plus championships.</p>';
     html += '<div class="tiles">' +
-      '<div class="tile"><div class="k">Races run</div><div class="v">' + run.length + ' of ' + D.races.length + '</div><div class="n">' + next.length + ' still to come</div></div>' +
+      '<div class="tile"><div class="k">Races run</div><div class="v">' + run.length + ' of ' + D.races.length + '</div><div class="n">' + left + ' still to come</div></div>' +
       '<div class="tile"><div class="k">Marathon Majors run</div><div class="v">' + majors.filter(isRun).length + ' of ' + majors.length + '</div><div class="n">All Platinum label</div></div>' +
       '<div class="tile"><div class="k">Next race</div><div class="v">' + (nxt ? fmtDate(nxt.startDate) : '–') + '</div><div class="n">' + (nxt ? raceLink(nxt) : 'Season complete') + '</div></div>' +
       '<div class="tile"><div class="k">Label races worldwide</div><div class="v">' + Object.keys(D.labelRaceCounts || {}).reduce(function (s, k) { return s + D.labelRaceCounts[k]; }, 0) +
@@ -460,7 +463,10 @@
 
   var listGender = 'women';
   function viewDistance(d) {
-    if (!D.toplists[d + '-women']) return notFound();
+    if (!DIST[d]) return notFound();
+    if (!D.toplists[d + '-women'] || !D.toplists[d + '-men']) {
+      return '<h1>' + distName(d) + '</h1><div class="card">No ' + D.season + ' season list yet: World Athletics has too few results at this distance so far.</div>';
+    }
     var t = D.toplists[d + '-' + listGender];
     var races = D.races.filter(function (r) { return r.distance === d; });
     var html = '<h1>' + distName(d) + '</h1><p class="sub">Fastest athletes of ' + D.season + ' (best time per athlete, all races worldwide) and the priority races at this distance.</p>';
@@ -608,14 +614,15 @@
   });
   window.addEventListener('hashchange', function () { window.scrollTo(0, 0); route(); });
 
-  fetch('data/site.json').then(function (r) { return r.json(); }).then(function (data) {
-    D = data;
-    D.races.forEach(function (r) { raceById[r.id] = r; });
-    D.athleteIds.forEach(function (i) { hasProfile[i] = true; });
+  function setSeason(s) {
+    D.season = s;
+    D.races = ALL.races.filter(function (r) { return r.season === s; });
+    D.toplists = ALL.toplists[s] || {};
+    D.labelRaceCounts = ALL.labelRaceCounts[s] || {};
+    prizeTotals = {};
     D.races.forEach(function (r) {
       (r.events || []).forEach(function (ev) {
         ev.results.forEach(function (x) {
-          if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born };
           if (x.id && x.usd) {
             var t = prizeTotals[x.id] || (prizeTotals[x.id] = { usd: 0, races: 0, gender: ev.gender });
             t.usd += x.usd;
@@ -624,16 +631,46 @@
         });
       });
     });
-    Object.keys(D.toplists).forEach(function (key) {
-      D.toplists[key].rows.forEach(function (x) { if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born }; });
+    try { localStorage.setItem('season', String(s)); } catch (e) { /* storage unavailable */ }
+  }
+  fetch('data/site.json').then(function (r) { return r.json(); }).then(function (data) {
+    D = data;
+    ALL = { races: data.races, toplists: data.toplists, labelRaceCounts: data.labelRaceCounts || {} };
+    ALL.races.forEach(function (r) { raceById[r.id] = r; });
+    D.athleteIds.forEach(function (i) { hasProfile[i] = true; });
+    ALL.races.forEach(function (r) {
+      (r.events || []).forEach(function (ev) {
+        ev.results.forEach(function (x) {
+          if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born };
+        });
+      });
     });
+    Object.keys(ALL.toplists).forEach(function (season) {
+      Object.keys(ALL.toplists[season]).forEach(function (key) {
+        ALL.toplists[season][key].rows.forEach(function (x) { if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born }; });
+      });
+    });
+    var seasons = data.seasons.slice().sort(), saved = null;
+    try { saved = parseInt(localStorage.getItem('season'), 10); } catch (e) { /* storage unavailable */ }
+    var thisYear = parseInt(TODAY.slice(0, 4), 10);
+    var pick = seasons.indexOf(saved) >= 0 ? saved : seasons.indexOf(thisYear) >= 0 ? thisYear : seasons[seasons.length - 1];
+    setSeason(pick);
+    var holder = document.getElementById('season');
+    if (seasons.length > 1) {
+      holder.innerHTML = '<select id="seasonSel" aria-label="Season">' + seasons.map(function (s) {
+        return '<option value="' + s + '"' + (s === pick ? ' selected' : '') + '>' + s + '</option>';
+      }).join('') + '</select>';
+      document.getElementById('seasonSel').addEventListener('change', function (e) { setSeason(parseInt(e.target.value, 10)); route(); });
+      holder.addEventListener('click', function (e) { e.preventDefault(); e.stopPropagation(); });
+    } else {
+      holder.textContent = pick;
+    }
     Object.keys(D.entries || {}).forEach(function (rid) {
       D.entries[rid].entries.forEach(function (e) { if (e.id && !known[e.id]) known[e.id] = { name: e.name, nat: e.nat, born: '' }; });
     });
     Object.keys(D.reports || {}).forEach(function (rid) {
       (D.reports[rid].performances || []).concat(D.reports[rid].dnf || []).forEach(function (p) { if (p.id && !known[p.id]) known[p.id] = { name: p.name, nat: '', born: '' }; });
     });
-    document.getElementById('season').textContent = D.season;
     document.getElementById('updated').textContent = 'Updated ' + fmtDate(D.updated, true) + '. ';
     route();
   }).catch(function (err) {

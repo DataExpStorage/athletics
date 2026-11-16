@@ -1,0 +1,347 @@
+{
+ "id": "14786742",
+ "givenName": "Hawi",
+ "familyName": "FEYSA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-02-01",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:04.13",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "20 JUN 2019",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:38.66",
+   "venue": "Montreuil (FRA)",
+   "date": "11 JUN 2019",
+   "resultScore": 1144,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:38.48",
+   "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "date": "26 AUG 2022",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:50.80",
+   "venue": "Gallur, Madrid (ESP) (i)",
+   "date": "08 FEB 2018",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:33.66",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "16 JUN 2022",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:03.32",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "06 JUN 2022",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:58",
+   "venue": "Sechseläutenplatz, Zürich (SUI)",
+   "date": "07 SEP 2022",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:24",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2022",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:09",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2017",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:41",
+   "venue": "København (DEN)",
+   "date": "19 SEP 2021",
+   "resultScore": 1220,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:13:33",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1276,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:13:33",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1276,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "3"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:13:33",
+   "score": 1276,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:17:39",
+   "score": 1235,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "14:58",
+     "venue": "Sechseläutenplatz, Zürich (SUI)",
+     "date": "07 SEP 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "31:24",
+     "venue": "Atlanta, GA (USA)",
+     "date": "04 JUL 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "50:09",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:05:41",
+     "venue": "København (DEN)",
+     "date": "19 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:06:00",
+     "venue": "Valencia (ESP)",
+     "date": "23 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:07:18",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "2:23:36",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "2:24:03",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "16 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:17:25",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:14:57",
+     "venue": "Chicago, IL (USA)",
+     "date": "12 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:13:33",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "14:44.92",
+     "date": "05 OCT 2019"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "18:57",
+     "date": "26 MAR 2017"
+    },
+    {
+     "place": "6.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "44th World Athletics Cross Country Championships",
+     "mark": "34:36",
+     "date": "18 FEB 2023"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "African Games",
+     "mark": "15:33.99",
+     "date": "26 AUG 2019"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:14:57",
+     "date": "12 OCT 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:17:39",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:17:00",
+     "date": "02 MAR 2025"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "31:48.9h",
+     "date": "29 MAR 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "15:31.5h",
+     "date": "22 APR 2018"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 2,
+   "rankingScore": 1389
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 34,
+   "rankingScore": 1389
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/ethiopia/hawi-feysa-14786742"
+}

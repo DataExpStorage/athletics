@@ -1,0 +1,305 @@
+{
+ "id": "14833335",
+ "givenName": "Sabastian Kimaru",
+ "familyName": "SAWE",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1995-03-16",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:51.01",
+   "venue": "Kampala (UGA)",
+   "date": "03 MAR 2018",
+   "resultScore": 964,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:42.28",
+   "venue": "Nairobi (KEN)",
+   "date": "22 JUN 2019",
+   "resultScore": 1060,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:09.46",
+   "venue": "Estádio José Vieira de Carvalho, Maia (POR)",
+   "date": "04 JUN 2022",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15,000 Metres",
+   "mark": "41:51.64",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "01 SEP 2022",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20,000 Metres",
+   "mark": "56:20.55",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "01 SEP 2022",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "One Hour",
+   "mark": "21250",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "02 SEP 2022",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:49",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "29 APR 2023",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "42:35",
+   "venue": "Heerenberg (NED)",
+   "date": "03 DEC 2023",
+   "resultScore": 1156,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:05",
+   "venue": "Copenhagen (DEN)",
+   "date": "15 SEP 2024",
+   "resultScore": 1265,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:02",
+   "venue": "Roma (ITA)",
+   "date": "06 MAR 2022",
+   "resultScore": 1258,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "1:59:30",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1328,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "1:59:30",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1328,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "1"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "1:59:30",
+   "score": 1328,
+   "competitionId": "7235562"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "26:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "26:49",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:06",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "42:35",
+     "venue": "Heerenberg (NED)",
+     "date": "03 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "58:58",
+     "venue": "Manama (BRN)",
+     "date": "23 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "58:29",
+     "venue": "Valencia (ESP)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "58:05",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:02:05",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:02:16",
+     "venue": "Berlin (GER)",
+     "date": "21 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:59:30",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "59:10",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "45th World Athletics Cross Country Championships",
+     "mark": "28:31",
+     "date": "30 MAR 2024"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "44th World Athletics Cross Country Championships",
+     "mark": "30:04",
+     "date": "18 FEB 2023"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "One Hour",
+     "competition": "Memorial van Damme",
+     "mark": "21250",
+     "date": "02 SEP 2022"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "1:59:30",
+     "date": "26 APR 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:02:16",
+     "date": "21 SEP 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:02:27",
+     "date": "27 APR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 1,
+   "rankingScore": 1441
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 11,
+   "rankingScore": 1441
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/kenya/sabastian-kimaru-sawe-14833335"
+}

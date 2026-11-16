@@ -45,6 +45,7 @@ a:hover { text-decoration: underline; }
 .top { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 5; }
 .top-in { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; padding-top: 10px; padding-bottom: 10px; }
 .brand { font-weight: 700; font-size: 17px; color: var(--ink); white-space: nowrap; }
+.brand select { font: inherit; font-weight: 700; color: var(--ink); background: var(--surface); border: 1px solid var(--axis); border-radius: 6px; padding: 1px 4px; }
 nav { display: flex; gap: 4px; overflow-x: auto; }
 nav a { color: var(--ink-2); padding: 5px 10px; border-radius: 6px; white-space: nowrap; }
 nav a:hover { background: var(--wash); text-decoration: none; }

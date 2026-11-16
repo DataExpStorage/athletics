@@ -87,10 +87,9 @@ def fetch_race(race, top_n):
 def main():
     force = "--force" in sys.argv
     cfg = wa.config()
-    cal = wa.load_json(os.path.join(wa.DATA, "calendar.json"))
     today = wa.today()
     got = missing = kept = 0
-    for race in cal["races"]:
+    for race in wa.all_races():
         if race["startDate"] > today:
             continue
         path = os.path.join(wa.DATA, "results", "%s.json" % race["id"])

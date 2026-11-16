@@ -1,6 +1,7 @@
 # Athletics Tracker: data gathering specification
 
-Version of 16 November 2026. Specifies the three kinds of data that cannot be fetched
+Version of 16 November 2026. The project continues into 2027 and later seasons, and so
+does this work (section 6). Specifies the three kinds of data that cannot be fetched
 automatically and have to be researched: **prize money**, **announced elite fields and
 withdrawals**, and **race reports**. It defines what to collect, from where, in what
 format, to what standard, and what is still outstanding.
@@ -90,7 +91,7 @@ masters prizes, series prizes (for example the Marathon Majors series jackpot).
 ### Rules
 
 - If sources conflict and no official source settles it, do not enter the race; note the
-  conflict in section 6 of this document.
+  conflict in section 7 of this document.
 - If only some places are known, enter those and say so in `places_note`.
 - Multi-event championships: not supported by the current format (one prize table per
   race). Leave out until the format is extended.
@@ -231,7 +232,7 @@ From the World Athletics race report for each priority race:
 ### Rules
 
 - `weather` is `null` when the report says nothing. Do not add weather from other
-  sources unless a separate field is introduced for it (see open questions).
+  sources unless a separate field is introduced for it (see section 7).
 - An athlete who finished but dropped out of contention goes in `performances`, not
   `dnf`.
 - Reports use everyday names that can differ from World Athletics' result names (for
@@ -349,7 +350,45 @@ After each of these races is run, its prize money and race report join the backl
    Boston, Chicago, Berlin).
 4. Race reports, then prize money, for the Gold races, most recent first.
 
-## 6. Open questions
+## 6. Continuing into 2027 and later seasons
+
+The work in this document does not end with a season. Each season brings a new set of
+races, each with a new World Athletics id, and everything is gathered again for it.
+
+What carries over and what does not:
+
+| | Carries over to the new season? |
+|---|---|
+| Formats, rules, reliability grades | Yes, unchanged |
+| Prize money | **No.** A new entry per race per year, from that year's sources. Last year's table is a guide to where to look, never a value to copy |
+| Announced entries | No. A new file per race per year |
+| Race reports | No. A new file per race per year |
+| Athlete identities | Yes. Athlete ids are permanent, so a profile shows withdrawals and race notes from every season |
+| The 2026 backlog | Stays open. Earlier seasons' gaps can still be filled; the new season's races take priority |
+
+Timetable around the turn of the year:
+
+- **October to December:** watch for the new season's label calendar (the update prints
+  "label calendar not published yet" until it appears). Elite fields for the January
+  races (Xiamen, Houston, Osaka Women's, Mumbai, Hong Kong, Doha and others) are
+  announced from November.
+- **Before the calendar is published:** January races have no World Athletics id, so no
+  entry file can be made. Record announcements in the newsletter with sources, and keep
+  a note of them; create the files as soon as the ids exist, with the original
+  announcement dates.
+- **When the calendar appears:** run `python scripts/status.py --missing`; create entry
+  files for races in the next six weeks; compare the new priority set with last year's
+  and note races that gained or lost a Platinum or Gold label.
+- **January:** finish the old season's last races (late December races, late results),
+  then write the season look-back in the first newsletter of the year.
+- **Each new season:** add the championship road races for that year to `extra_races`
+  in `config/races.json`, and check the currency rates in `config/prize_money.json`.
+
+Prize money in a new season: organisers often change the table (Tokyo has announced a
+first prize of $170,000 for 2027, up from $80,000). Always confirm the year on the
+source.
+
+## 7. Open questions
 
 - **Sydney prize money:** needs an official source for the international elite prizes.
 - **Championship prize money:** the format holds one prize table per race; the World
@@ -364,9 +403,10 @@ After each of these races is run, its prize money and race report join the backl
 - **Cadence:** a weekly check can be up to a week late on a withdrawal. In the fortnight
   before a Major or other headline race, a second check mid-week is worth considering.
 
-## 7. Weekly checklist
+## 8. Weekly checklist
 
-1. `python scripts/update_all.py`, then `python scripts/status.py --missing`.
+1. `python scripts/update_all.py`, then `python scripts/status.py --missing` (it lists
+   every season).
 2. Races run in the last 7 days: race report summary, then prize money.
 3. Races in the next 6 weeks: review entries, append changes, set `checked`.
 4. Races run in the last 7 days that had an entry list: compare with results.

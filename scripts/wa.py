@@ -150,3 +150,35 @@ def config():
 
 def today():
     return datetime.date.today().isoformat()
+
+
+def active_seasons(cfg=None):
+    """Seasons worth fetching today: from the October before a season (its calendar is
+    published in advance and January races need attention in December) until the end of
+    the following January (late results and corrections)."""
+    cfg = cfg or config()
+    now = today()
+    return [s for s in cfg["seasons"] if "%d-10-01" % (s - 1) <= now <= "%d-01-31" % (s + 1)]
+
+
+def calendar_path(season):
+    return os.path.join(DATA, "calendar", "%s.json" % season)
+
+
+def calendars():
+    """Every stored season calendar, oldest first: [(season, calendar dict)]."""
+    out = []
+    folder = os.path.join(DATA, "calendar")
+    for name in sorted(os.listdir(folder)) if os.path.isdir(folder) else []:
+        if name.endswith(".json"):
+            out.append((int(name[:-5]), load_json(os.path.join(folder, name))))
+    return out
+
+
+def all_races():
+    """Priority races of every stored season, each with its 'season'."""
+    races = []
+    for season, cal in calendars():
+        for r in cal["races"]:
+            races.append(dict(r, season=season))
+    return races

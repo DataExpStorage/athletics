@@ -26,15 +26,22 @@ def wanted(cfg):
                     max(date or "", old[1] if old else ""),
                     min(prominence, old[2] if old else 999))
 
-    cal = dict((r["id"], r) for r in wa.load_json(os.path.join(wa.DATA, "calendar.json"))["races"])
+    # only the active seasons decide who needs a (fresh) profile; older profiles are kept
+    active = set(wa.active_seasons(cfg))
+    cal = dict((r["id"], r) for r in wa.all_races() if r["season"] in active)
     for f in glob.glob(os.path.join(wa.DATA, "results", "*.json")):
         d = wa.load_json(f)
-        race = cal.get(d["id"], {})
+        race = cal.get(d["id"])
+        if not race:
+            continue
         offset = 0 if race.get("major") else 3 if race.get("tier") in ("Platinum", "Championship") else 6
         for ev in d["events"]:
             for n, r in enumerate(ev["results"][:cfg["athletes_from_race_top"]]):
                 add(r["athleteId"], r.get("slug"), race.get("startDate", ""), n + offset)
-    for f in glob.glob(os.path.join(wa.DATA, "toplists", "*.json")):
+    lists = []
+    for season in active:
+        lists += glob.glob(os.path.join(wa.DATA, "toplists", str(season), "*.json"))
+    for f in lists:
         for n, r in enumerate(wa.load_json(f)["rows"][:cfg["athletes_from_toplist_top"]]):
             add(r["athleteId"], None, r.get("date"), n)
     return out

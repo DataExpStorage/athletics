@@ -1,0 +1,811 @@
+{
+ "id": "14460738",
+ "givenName": "Andreas",
+ "familyName": "ALMGREN",
+ "country": "SWE",
+ "countryName": "Sweden",
+ "birthDate": "1995-06-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "100 Metres",
+   "mark": "11.65",
+   "venue": "Sollentuna (SWE)",
+   "date": "09 AUG 2011",
+   "resultScore": 704,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "200 Metres",
+   "mark": "22.88",
+   "venue": "Sollentuna (SWE)",
+   "date": "09 AUG 2011",
+   "resultScore": 809,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "400 Metres",
+   "mark": "48.33",
+   "venue": "Gävle (SWE)",
+   "date": "13 AUG 2011",
+   "resultScore": 960,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "400 Metres Short Track",
+   "mark": "48.38",
+   "venue": "Göteborg (SWE) (i)",
+   "date": "01 MAR 2015",
+   "resultScore": 1018,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "600 Metres",
+   "mark": "1:23.30",
+   "venue": "Sätra (SWE)",
+   "date": "28 MAY 2011",
+   "resultScore": 823,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres",
+   "mark": "1:45.59",
+   "venue": "Sollentuna (SWE)",
+   "date": "25 JUN 2015",
+   "resultScore": 1156,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "1:46.56",
+   "venue": "Globe Arena, Stockholm (SWE) (i)",
+   "date": "19 FEB 2015",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:21.23",
+   "venue": "Varberg (SWE)",
+   "date": "15 JUL 2019",
+   "resultScore": 1040,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:32.00",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "15 JUN 2023",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:04.68",
+   "venue": "Uddevalla (SWE) (i)",
+   "date": "24 FEB 2013",
+   "resultScore": 838,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:00.23",
+   "venue": "Sollentunavallen, Sollentuna (SWE)",
+   "date": "10 AUG 2020",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:26.48",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1262,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:34.31",
+   "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+   "date": "17 FEB 2022",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:11.12",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "03 JUL 2026",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:44.27",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "15 JUN 2025",
+   "resultScore": 1268,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:52.87",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "16 MAR 2024",
+   "resultScore": 1238,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:05",
+   "venue": "Marienlyst Stadion, Drammen (NOR)",
+   "date": "05 APR 2025",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:45",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:45=",
+   "venue": "Castellón (ESP)",
+   "date": "22 FEB 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:06",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1264,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:01",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x400 Metres Relay",
+   "mark": "3:12.13",
+   "venue": "Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+   "date": "11 AUG 2019",
+   "resultScore": 1016,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x800 Metres Relay",
+   "mark": "7:27.65",
+   "venue": "Stockholm (SWE)",
+   "date": "28 MAY 2016",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:36.81",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "07 JUN 2026",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BAUHAUS-Galan",
+   "listPosition": "191"
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:26.48",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1262,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wanda Diamond League",
+   "listPosition": "3"
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:11.12",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "03 JUL 2026",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Prefontaine Classic",
+   "listPosition": "11"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:48.61",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "10 JUN 2026",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Oslo Bislett Games",
+   "listPosition": "8"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:23.44",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "15 AUG 2026",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "European Athletics Championships",
+   "listPosition": "11"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:45",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "3"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:45=",
+   "venue": "Castellón (ESP)",
+   "date": "22 FEB 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Facsa Castellón"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:06",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1264,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "5"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:01",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "93"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:06:01",
+   "score": 1203,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "58:06",
+   "score": 1264,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-30",
+   "competition": "Finnkampen, Olympiastadion, Helsinki",
+   "country": "FIN",
+   "category": "D",
+   "race": "F1",
+   "place": "1",
+   "mark": "29:09.87",
+   "score": 1027,
+   "competitionId": "7237754"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-15",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "27:23.44",
+   "score": 1189,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-24",
+   "competition": "Swedish Championships, Uppsala Friidrottsarena, Uppsala",
+   "country": "SWE",
+   "category": "B",
+   "race": "F1",
+   "place": "1",
+   "mark": "28:49.73",
+   "score": 1056,
+   "competitionId": "7237432"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-07-03",
+   "competition": "Prefontaine Classic, Hayward Field, Eugene, OR - Split times",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "",
+   "mark": "7:42.18",
+   "score": 1163,
+   "competitionId": "7214024"
+  },
+  {
+   "discipline": "2 Miles",
+   "date": "2026-07-03",
+   "competition": "Prefontaine Classic, Hayward Field, Eugene, OR - Promotional Events",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "8:11.12",
+   "score": 1203,
+   "competitionId": "7214024"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-28",
+   "competition": "Meeting de Paris, Stade Charléty, Paris - Diamond Discipline",
+   "country": "FRA",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "12:55.38",
+   "score": 1227,
+   "competitionId": "7214022"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-10",
+   "competition": "Oslo Bislett Games, Bislett Stadion, Oslo - Diamond Discipline",
+   "country": "NOR",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "12:48.61",
+   "score": 1252,
+   "competitionId": "7214020"
+  },
+  {
+   "discipline": "1500 Metres",
+   "date": "2026-06-07",
+   "competition": "BAUHAUS-Galan, Olympiastadion, Stockholm - Diamond Discipline",
+   "country": "SWE",
+   "category": "GW",
+   "race": "F",
+   "place": "14",
+   "mark": "3:36.81",
+   "score": 1150,
+   "competitionId": "7214021"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "Wanda Diamond League Xiamen, Egret Stadium, Xiamen - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7214017"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-16",
+   "competition": "Wanda Diamond League, China Textile City Sports Centre, Shaoxing/Keqiao - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "7:26.48",
+   "score": 1262,
+   "competitionId": "7214016"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-02-22",
+   "competition": "10K Facsa Castellón, Castellón",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "26:45",
+   "score": 1250,
+   "competitionId": "7237361"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "26:45",
+   "score": 1250,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "8:11.12",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "03 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "13:05",
+     "venue": "Marienlyst Stadion, Drammen (NOR)",
+     "date": "05 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "27:20",
+     "venue": "Valencia (ESP)",
+     "date": "14 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "26:53",
+     "venue": "Valencia (ESP)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "26:45",
+     "venue": "Castellón (ESP)",
+     "date": "22 FEB 2026"
+    },
+    {
+     "season": "2026",
+     "mark": "26:45",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "59:23",
+     "venue": "Barcelona (ESP)",
+     "date": "11 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "58:41",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "58:06",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:06:01",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "28:56.02",
+     "date": "14 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "58:06",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "800 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "1:45.65",
+     "date": "27 JUL 2014"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "27:23.44",
+     "date": "15 AUG 2026"
+    },
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "28:01.16",
+     "date": "12 JUN 2024"
+    },
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "13:26.48",
+     "date": "16 AUG 2022"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "BAUHAUS-Galan",
+     "mark": "12:44.27",
+     "date": "15 JUN 2025"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:06:01",
+     "date": "01 NOV 2026"
+    }
+   ]
+  },
+  {
+   "category": "European Indoor Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Athletics Indoor Championships",
+     "mark": "7:50.66",
+     "date": "09 MAR 2025"
+    },
+    {
+     "place": "4.",
+     "discipline": "800 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "1:47.78",
+     "date": "08 MAR 2015"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships First Division",
+     "mark": "13:25.70",
+     "date": "25 JUN 2023"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Swedish Championships",
+     "mark": "28:49.73",
+     "date": "24 JUL 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Swedish Championships",
+     "mark": "28:53.49",
+     "date": "31 JUL 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "Swedish Championships",
+     "mark": "3:34.55",
+     "date": "29 JUL 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Swedish Championships",
+     "mark": "13:54.38",
+     "date": "07 AUG 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Swedish Championships",
+     "mark": "14:01.91",
+     "date": "29 AUG 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "Swedish Championships",
+     "mark": "3:48.15",
+     "date": "26 AUG 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "800 Metres",
+     "competition": "Swedish Championships",
+     "mark": "1:48.06",
+     "date": "09 AUG 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "800 Metres",
+     "competition": "Swedish Championships",
+     "mark": "1:50.24",
+     "date": "03 AUG 2014"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Swedish Indoor Championships",
+     "mark": "7:36.38",
+     "date": "21 FEB 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Swedish Indoor Championships",
+     "mark": "7:57.55",
+     "date": "25 FEB 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Swedish Indoor Championships",
+     "mark": "7:48.34",
+     "date": "22 FEB 2020"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 2,
+   "rankingScore": 1292
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 2,
+   "rankingScore": 1259
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 11,
+   "rankingScore": 1332
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 17,
+   "rankingScore": 1309
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 65,
+   "rankingScore": 1363
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/sweden/andreas-almgren-14460738"
+}

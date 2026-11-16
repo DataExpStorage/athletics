@@ -43,6 +43,40 @@ marathon 16 (5 + 11), 10 km 4 (0 + 4), other 2 (a Platinum 5 km, a Gold 25 km).
 Any other race can be added to the priority set through `extra_races` with its World
 Athletics event ID.
 
+### Seasons
+
+The project is continuous: it runs on into 2027 and later seasons, and earlier seasons
+stay in the repository and on the dashboard.
+
+- `config/races.json` lists the seasons followed (`seasons`, currently 2026 and 2027).
+  Starting a new season means adding its year there, plus that year's championship
+  races under `extra_races`. Nothing else has to be reset.
+- A season is **active** from 1 October of the year before (its calendar is published in
+  advance, and January races need attention in December) until 31 January of the year
+  after (late results and corrections). Only active seasons are fetched.
+- Calendars and top lists are stored per season (`data/calendar/<season>.json`,
+  `data/toplists/<season>/`). Results, entries, reports and prize money are stored per
+  race; a race's World Athletics id is new every year, so one race in two seasons is two
+  records.
+- Marathon Majors are recognised by name (a Platinum marathon whose name contains one of
+  the names in `majors`), so the list carries over from year to year. It needs editing
+  only if the series itself changes.
+- The priority set is whatever is Platinum or Gold in that season: races can gain or
+  lose a label from one year to the next.
+- The dashboard has a season selector. Upcoming races, Running next and the newsletter
+  work across the year boundary: in December they include the January races of the next
+  season, once those are known.
+
+Limits found when building this:
+
+- The World Athletics label page serves one season only, its latest; the site's own
+  season switch works only in a browser. Each update therefore stores the season the
+  site is showing. Once the site switches to 2027, the stored 2026 calendar is kept as
+  it is and its remaining results are still fetched race by race.
+- As of 16 November 2026 the 2027 label calendar is not published. Until it is, 2027
+  races are unknown to the scripts. A race can be added by hand in `extra_races` once
+  its World Athletics event id exists.
+
 ## 3. Architecture
 
 ```
@@ -51,7 +85,7 @@ Athletics event ID.
           scripts/fetch_*.py (automatic)          research (Claude, weekly or on request)
                           |                                     |
                           v                                     v
-   data/calendar.json, results/, toplists/,      config/prize_money.json, data/entries/,
+   data/calendar/, results/, toplists/,          config/prize_money.json, data/entries/,
    athletes/                                      data/reports/, newsletters/
                           \                                     /
                            scripts/build_index.py  ->  site/data/
@@ -76,12 +110,12 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 
 | Path | Contents |
 |---|---|
-| `config/races.json` | Season, tiers followed, Majors, extra races, distance overrides, top list addresses, limits |
+| `config/races.json` | Seasons followed, tiers followed, Majors, extra races, distance overrides, top list addresses, limits |
 | `config/prize_money.json` | Researched prize money per race, currency rates |
 | `scripts/wa.py` | The only module that knows how World Athletics pages are built: polite fetching, cache, parsing helpers |
-| `scripts/fetch_calendar.py` | Label calendar → `data/calendar.json` |
+| `scripts/fetch_calendar.py` | Label calendar → `data/calendar/<season>.json` |
 | `scripts/fetch_results.py` | Results of races run → `data/results/<raceId>.json` |
-| `scripts/fetch_toplists.py` | Season top 100 per distance and gender → `data/toplists/` |
+| `scripts/fetch_toplists.py` | Season top 100 per distance and gender → `data/toplists/<season>/` |
 | `scripts/fetch_athletes.py` | Athlete profiles → `data/athletes/<athleteId>.json` |
 | `scripts/fetch_reports.py` | Saves recent World Athletics report texts to the local cache for reading |
 | `scripts/build_index.py` | Merges everything into `site/data/site.json` and `site/data/athletes/` |
@@ -199,7 +233,9 @@ Scheduler) and push from there.
 
 Built and working on the owner's PC:
 
-- All fetch scripts; calendar (62 races), results (50 races run), six top lists.
+- All fetch scripts; the 2026 calendar (62 races), results (50 races run), six top lists.
+- Multi-season storage and the season selector. The selector was tested with a simulated
+  second season; switching by hand in a browser has not been checked.
 - The dashboard with all views above, checked in desktop-width screenshots.
 - Prize money for 6 races, race report summaries for 13, announced entries for 1
   upcoming race, one newsletter issue.
@@ -214,6 +250,7 @@ Not done yet:
 | Telegram delivery | Owner: create a bot with @BotFather and message it once; then store token and chat ID as repository secrets |
 | Weekly Claude routine | The GitHub repository, and GitHub connected to the owner's Claude account |
 | Athlete profiles | 14 of about 770 fetched; limited to 15 per run by the site |
+| 2027 calendar | World Athletics has not published it yet |
 | Researched data backlog | See DATA_GATHERING.md |
 
 Known risks and open points:
@@ -235,8 +272,11 @@ Known risks and open points:
 
 1. Publish (GitHub, Telegram, weekly routine) as soon as the owner's setup steps are done.
 2. Work through the researched-data backlog (DATA_GATHERING.md).
-3. Season rollover: set `season` in `config/races.json`, update `majors` and
-   `extra_races` with the new event IDs, keep earlier seasons' data.
+3. 2027 season: already in `config/races.json`. When World Athletics publishes the 2027
+   label calendar it is picked up by the next update. To do by hand: add the 2027
+   championship road races to `extra_races`; check the Majors list; review the first
+   2027 calendar for races that gained or lost a label. Each later season: add its year
+   to `seasons` in the autumn before.
 4. Adapt the method to the other three groups, one at a time: Olympic track and field,
    race walking, cross country. Each needs its own definition of the priority set
    (for example Diamond League and championships for track and field), its own top list

@@ -1,0 +1,339 @@
+{
+ "id": "14679812",
+ "givenName": "Fotyen",
+ "familyName": "TESFAY",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-02-17",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:23.37",
+   "venue": "National Stadium, Gaborone (BOT)",
+   "date": "28 MAY 2014",
+   "resultScore": 1025,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:41.08",
+   "venue": "Reggie Lewis Center, Boston, MA (USA) (i)",
+   "date": "10 FEB 2018",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:41.08",
+   "venue": "Reggie Lewis Center, Boston, MA (USA) (i)",
+   "date": "10 FEB 2018",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:28.53",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "14 SEP 2024",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:47.71",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "14 JUN 2024",
+   "resultScore": 1259,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:41",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "27 APR 2024",
+   "resultScore": 1200,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:42",
+   "venue": "Valencia (ESP)",
+   "date": "12 JAN 2025",
+   "resultScore": 1264,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:21",
+   "venue": "Valencia (ESP)",
+   "date": "27 OCT 2024",
+   "resultScore": 1270,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:51",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1303,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:57",
+   "venue": "Buenos Aires (ARG)",
+   "date": "23 AUG 2026",
+   "resultScore": 1257,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Media Maratón Ciudad de Buenos Aires",
+   "listPosition": "3"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:51",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1303,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Marató de Barcelona",
+   "listPosition": "1"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Media Maratón Ciudad de Buenos Aires, Buenos Aires",
+   "country": "ARG",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:03:57",
+   "score": 1257,
+   "competitionId": "7243530"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Zurich Marató de Barcelona, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:10:51",
+   "score": 1303,
+   "competitionId": "7236009"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "15:23",
+     "venue": "Boston, MA (USA)",
+     "date": "14 APR 2018"
+    },
+    {
+     "season": "2024",
+     "mark": "14:41",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "14:50",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "33:10",
+     "venue": "Addis Ababa (ETH)",
+     "date": "20 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "32:39",
+     "venue": "Addis Ababa (ETH)",
+     "date": "26 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "33:44",
+     "venue": "Addis Ababa (ETH)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "33:00",
+     "venue": "Addis Ababa (ETH)",
+     "date": "17 NOV 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "33:02",
+     "venue": "Addis Ababa (ETH)",
+     "date": "20 NOV 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "30:26",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "29:54",
+     "venue": "Castellón (ESP)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "29:42",
+     "venue": "Valencia (ESP)",
+     "date": "12 JAN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:08:46",
+     "venue": "Boston, MA (USA)",
+     "date": "12 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:03:21",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:03:35",
+     "venue": "Berlin (GER)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:03:57",
+     "venue": "Buenos Aires (ARG)",
+     "date": "23 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:10:51",
+     "venue": "Barcelona (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "30:46.93",
+     "date": "09 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "31:21.67",
+     "date": "13 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "44th World Athletics Cross Country Championships",
+     "mark": "34:30",
+     "date": "18 FEB 2023"
+    },
+    {
+     "place": "6.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "19:24",
+     "date": "26 MAR 2017"
+    },
+    {
+     "place": "11.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "37:29",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "8:47.46",
+     "date": "20 JUL 2016"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 16,
+   "rankingScore": 1296
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 155,
+   "rankingScore": 1296
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/athlete=14679812"
+}
