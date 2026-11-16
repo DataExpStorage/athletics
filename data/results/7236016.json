@@ -1,0 +1,465 @@
+{
+ "id": 7236016,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236016",
+ "events": [
+  {
+   "event": "Men's 10 Kilometres Road",
+   "eventId": 10229507,
+   "gender": "M",
+   "distance": "10km",
+   "results": [
+    {
+     "place": "1",
+     "mark": "27:31",
+     "name": "Rodrigue KWIZERA",
+     "nat": "BDI",
+     "athleteId": "14786905",
+     "slug": "burundi/rodrigue-kwizera-14786905",
+     "birthDate": "10 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "27:39",
+     "name": "Harbert KIBET",
+     "nat": "UGA",
+     "athleteId": "15138312",
+     "slug": "uganda/harbert-kibet-15138312",
+     "birthDate": "17 JUN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "27:43",
+     "name": "Gilbert Kipkosgei KIPROTICH",
+     "nat": "KEN",
+     "athleteId": "14989875",
+     "slug": "kenya/gilbert-kipkosgei-kiprotich-14989875",
+     "birthDate": "12 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "27:44",
+     "name": "Saymon AMANUEL",
+     "nat": "ERI",
+     "athleteId": "15186316",
+     "slug": "eritrea/saymon-amanuel-15186316",
+     "birthDate": "27 MAY 2007",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "27:47",
+     "name": "Benjamin Fernandi RATSIM",
+     "nat": "TAN",
+     "athleteId": "15248963",
+     "slug": "tanzania/benjamin-fernandi-ratsim-15248963",
+     "birthDate": "15 SEP 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "27:52",
+     "name": "Victor KIPRUTO",
+     "nat": "KEN",
+     "athleteId": "15208108",
+     "slug": "kenya/victor-kipruto-15208108",
+     "birthDate": "03 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "27:53",
+     "name": "Vincent Kipkemoi NGETICH",
+     "nat": "KEN",
+     "athleteId": "14813827",
+     "slug": "kenya/vincent-kipkemoi-ngetich-14813827",
+     "birthDate": "03 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "27:56",
+     "name": "Dan KIBET",
+     "nat": "UGA",
+     "athleteId": "14913746",
+     "slug": "uganda/dan-kibet-14913746",
+     "birthDate": "10 FEB 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "28:01",
+     "name": "Eyob SIMEGN",
+     "nat": "ETH",
+     "athleteId": "15268452",
+     "slug": "ethiopia/eyob-simegn-15268452",
+     "birthDate": "08 JUN 2007",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "28:14",
+     "name": "Gabriel Gerald GEAY",
+     "nat": "TAN",
+     "athleteId": "14677692",
+     "slug": "tanzania/gabriel-gerald-geay-14677692",
+     "birthDate": "10 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "28:15",
+     "name": "Vincent KIMAIYO",
+     "nat": "KEN",
+     "athleteId": "15057124",
+     "slug": "kenya/vincent-kimaiyo-15057124",
+     "birthDate": "2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "28:21",
+     "name": "Dolphine CHELIMO",
+     "nat": "UGA",
+     "athleteId": "15035409",
+     "slug": "uganda/dolphine-chelimo-15035409",
+     "birthDate": "10 JUL 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "28:40",
+     "name": "Mao AKO",
+     "nat": "TAN",
+     "athleteId": "15134885",
+     "slug": "tanzania/mao-ako-15134885",
+     "birthDate": "24 DEC 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "28:59",
+     "name": "Yismaw DILLU",
+     "nat": "ETH",
+     "athleteId": "15058747",
+     "slug": "ethiopia/yismaw-dillu-15058747",
+     "birthDate": "11 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "28:59",
+     "name": "Vincent KIPKORIR",
+     "nat": "KEN",
+     "athleteId": "15226978",
+     "slug": "kenya/vincent-kipkorir-15226978",
+     "birthDate": "25 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "29:10",
+     "name": "Tadese WORKU",
+     "nat": "ETH",
+     "athleteId": "14566477",
+     "slug": "ethiopia/tadese-worku-14566477",
+     "birthDate": "20 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "29:13",
+     "name": "Harmanjot SINGH",
+     "nat": "IND",
+     "athleteId": "14919158",
+     "slug": "india/harmanjot-singh-14919158",
+     "birthDate": "10 OCT 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "29:15",
+     "name": "Muktar EDRIS",
+     "nat": "ETH",
+     "athleteId": "14464221",
+     "slug": "ethiopia/muktar-edris-14464221",
+     "birthDate": "14 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "29:21",
+     "name": "Shailesh KUSHWAHA",
+     "nat": "IND",
+     "athleteId": "15178932",
+     "slug": "india/shailesh-kushwaha-15178932",
+     "birthDate": "05 FEB 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "29:52",
+     "name": "Deepak BHATT",
+     "nat": "IND",
+     "athleteId": "15059905",
+     "slug": "india/deepak-bhatt-15059905",
+     "birthDate": "14 SEP 2000",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  },
+  {
+   "event": "Women's 10 Kilometres Road",
+   "eventId": 10229537,
+   "gender": "W",
+   "distance": "10km",
+   "results": [
+    {
+     "place": "1",
+     "mark": "30:45",
+     "name": "Florence NIYONKURU",
+     "nat": "RWA",
+     "athleteId": "15098714",
+     "slug": "rwanda/florence-niyonkuru-15098714",
+     "birthDate": "01 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "30:59",
+     "name": "Brenda JEPCHIRCHIR",
+     "nat": "KEN",
+     "athleteId": "14989897",
+     "slug": "kenya/brenda-jepchirchir-14989897",
+     "birthDate": "10 JUL 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "31:03",
+     "name": "Chaltu DIDA",
+     "nat": "ETH",
+     "athleteId": "15119269",
+     "slug": "ethiopia/chaltu-dida-15119269",
+     "birthDate": "05 DEC 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "31:08",
+     "name": "Melal SIYOUM",
+     "nat": "ETH",
+     "athleteId": "15261729",
+     "slug": "ethiopia/melal-siyoum-15261729",
+     "birthDate": "01 JUN 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "31:14",
+     "name": "Judy Jepngetich CHEPASKWONY",
+     "nat": "KEN",
+     "athleteId": "14933950",
+     "slug": "kenya/judy-jepngetich-chepaskwony-14933950",
+     "birthDate": "24 DEC 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "31:15",
+     "name": "Janeth CHEPNGETICH",
+     "nat": "KEN",
+     "athleteId": "14689606",
+     "slug": "kenya/janeth-chepngetich-14689606",
+     "birthDate": "23 JUL 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "31:32",
+     "name": "Asefu ABREHA",
+     "nat": "ETH",
+     "athleteId": "14848747",
+     "slug": "ethiopia/asefu-abreha-14848747",
+     "birthDate": "31 MAY 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "31:43",
+     "name": "Wede KEFALE",
+     "nat": "ETH",
+     "athleteId": "14786747",
+     "slug": "ethiopia/wede-kefale-14786747",
+     "birthDate": "02 MAR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "32:04",
+     "name": "Veronica LOLEO",
+     "nat": "KEN",
+     "athleteId": "15040766",
+     "slug": "kenya/veronica-loleo-15040766",
+     "birthDate": "18 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "32:08",
+     "name": "Esther CHEBET",
+     "nat": "UGA",
+     "athleteId": "14677914",
+     "slug": "uganda/esther-chebet-14677914",
+     "birthDate": "09 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "32:22",
+     "name": "Meselech ALEMAYEHU",
+     "nat": "ETH",
+     "athleteId": "15024108",
+     "slug": "ethiopia/meselech-alemayehu-15024108",
+     "birthDate": "09 MAY 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "32:29",
+     "name": "Rebecca CHELANGAT",
+     "nat": "UGA",
+     "athleteId": "14885455",
+     "slug": "uganda/rebecca-chelangat-14885455",
+     "birthDate": "01 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "32:31",
+     "name": "Abigael CHEPKOECH",
+     "nat": "KEN",
+     "athleteId": "15180675",
+     "slug": "kenya/abigael-chepkoech-15180675",
+     "birthDate": "17 MAR 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "32:32",
+     "name": "Margret Gati CHACHA",
+     "nat": "KEN",
+     "athleteId": "14892088",
+     "slug": "kenya/margret-gati-chacha-14892088",
+     "birthDate": "20 JAN 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "32:35",
+     "name": "Sarah CHELANGAT",
+     "nat": "UGA",
+     "athleteId": "14786748",
+     "slug": "uganda/sarah-chelangat-14786748",
+     "birthDate": "05 JUN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "33:12",
+     "name": "Tigist TESEMA",
+     "nat": "ETH",
+     "athleteId": "15253734",
+     "slug": "ethiopia/tigist-tesema-15253734",
+     "birthDate": "15 OCT 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "35:01",
+     "name": "Sanjivani JADHAV",
+     "nat": "IND",
+     "athleteId": "014598253",
+     "slug": "india/sanjivani-jadhav-014598253",
+     "birthDate": "12 JUL 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "35:31",
+     "name": ". SONIYA",
+     "nat": "IND",
+     "athleteId": "15022252",
+     "slug": "india/soniya-15022252",
+     "birthDate": "25 JUL 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "35:32",
+     "name": "Bisht BHAGIRATHI",
+     "nat": "IND",
+     "athleteId": "15195972",
+     "slug": "india/bisht-bhagirathi-15195972",
+     "birthDate": "06 SEP 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "36:05",
+     "name": "Ravina GAYAKWAD",
+     "nat": "IND",
+     "athleteId": "15181340",
+     "slug": "india/ravina-gayakwad-15181340",
+     "birthDate": "10 OCT 2004",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  }
+ ]
+}

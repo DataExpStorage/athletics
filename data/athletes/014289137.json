@@ -1,0 +1,757 @@
+{
+ "id": "014289137",
+ "givenName": "Edna Ngeringwony",
+ "familyName": "KIPLAGAT",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1979-11-15",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:25.20",
+   "venue": "Dortmund (GER) (i)",
+   "date": "21 DEC 1997",
+   "resultScore": 1030,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:25.20",
+   "venue": "Dortmund (GER) (i)",
+   "date": "21 DEC 1997",
+   "resultScore": 1030,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:53.06",
+   "venue": "SIAC Homebush, Sydney (AUS)",
+   "date": "22 AUG 1996",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:57.3h",
+   "venue": "Nairobi (KEN)",
+   "date": "01 JUL 2006",
+   "resultScore": 1055,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:27.0h",
+   "venue": "Nairobi (KEN)",
+   "date": "15 JUN 2007",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "26:38",
+   "venue": "Manchester, CT (USA)",
+   "date": "28 NOV 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:20",
+   "venue": "Albany, NY (USA)",
+   "date": "05 JUN 2010",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:06",
+   "venue": "Boston, MA (USA)",
+   "date": "26 JUN 2016",
+   "resultScore": 1187,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:57",
+   "venue": "Utica, NY (USA)",
+   "date": "11 JUL 2010",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "54:56",
+   "venue": "Flint, MI (USA)",
+   "date": "22 AUG 2009",
+   "resultScore": 1065,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:52",
+   "venue": "Houston, TX (USA)",
+   "date": "14 JAN 2024",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:41",
+   "venue": "South Shields (GBR)",
+   "date": "16 SEP 2012",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:50",
+   "venue": "London (GBR)",
+   "date": "22 APR 2012",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:42",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "171"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:25:42",
+   "score": 1158,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "2:25:44",
+   "score": 1157,
+   "competitionId": "7237458"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "36:28",
+     "venue": "Falmouth, MA (USA)",
+     "date": "21 AUG 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "26:38",
+     "venue": "Manchester, CT (USA)",
+     "date": "28 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2003",
+     "mark": "16:06",
+     "venue": "Carlsbad, CA (USA)",
+     "date": "13 APR 2003"
+    },
+    {
+     "season": "2006",
+     "mark": "15:37",
+     "venue": "Carlsbad, CA (USA)",
+     "date": "09 APR 2006"
+    },
+    {
+     "season": "2009",
+     "mark": "16:20",
+     "venue": "Wheeling, WV (USA)",
+     "date": "01 AUG 2009"
+    },
+    {
+     "season": "2010",
+     "mark": "15:20",
+     "venue": "Albany, NY (USA)",
+     "date": "05 JUN 2010"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2001",
+     "mark": "32:14",
+     "venue": "Toronto (CAN)",
+     "date": "06 MAY 2001"
+    },
+    {
+     "season": "2002",
+     "mark": "35:03",
+     "venue": "Clarksburg, WV (USA)",
+     "date": "27 JUL 2002"
+    },
+    {
+     "season": "2003",
+     "mark": "32:12",
+     "venue": "Mobile, AL (USA)",
+     "date": "23 MAR 2003"
+    },
+    {
+     "season": "2005",
+     "mark": "35:56",
+     "venue": "Provo, UT (USA)",
+     "date": "18 JUN 2005"
+    },
+    {
+     "season": "2007",
+     "mark": "32:28",
+     "venue": "Green Bay, WI (USA)",
+     "date": "09 JUN 2007"
+    },
+    {
+     "season": "2011",
+     "mark": "32:24",
+     "venue": "New York, NY (USA)",
+     "date": "11 JUN 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "32:08",
+     "venue": "New York, NY (USA)",
+     "date": "09 JUN 2012"
+    },
+    {
+     "season": "2015",
+     "mark": "31:57",
+     "venue": "Manchester (GBR)",
+     "date": "10 MAY 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "31:06",
+     "venue": "Boston, MA (USA)",
+     "date": "26 JUN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "32:23",
+     "venue": "New York, NY (USA)",
+     "date": "10 JUN 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "32:34",
+     "venue": "Manchester (GBR)",
+     "date": "19 MAY 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "32:20",
+     "venue": "New York, NY (USA)",
+     "date": "12 JUN 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "32:09",
+     "venue": "Boston, MA (USA)",
+     "date": "26 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "32:23",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "05 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "32:17",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "03 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "32:28",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "02 AUG 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2005",
+     "mark": "52:46",
+     "venue": "Utica, NY (USA)",
+     "date": "10 JUL 2005"
+    },
+    {
+     "season": "2010",
+     "mark": "47:57",
+     "venue": "Utica, NY (USA)",
+     "date": "11 JUL 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "49:42",
+     "venue": "Heerenberg (NED)",
+     "date": "04 DEC 2011"
+    },
+    {
+     "season": "2016",
+     "mark": "48:54",
+     "venue": "Heerenberg (NED)",
+     "date": "04 DEC 2016"
+    },
+    {
+     "season": "2021",
+     "mark": "49:41",
+     "venue": "Tyler, TX (USA)",
+     "date": "15 MAY 2021"
+    },
+    {
+     "season": "2025",
+     "mark": "50:07",
+     "venue": "Utica, NY (USA)",
+     "date": "13 JUL 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2009",
+     "mark": "54:56",
+     "venue": "Flint, MI (USA)",
+     "date": "22 AUG 2009"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2006",
+     "mark": "1:09:32",
+     "venue": "San José (USA)",
+     "date": "08 OCT 2006"
+    },
+    {
+     "season": "2007",
+     "mark": "1:10:11",
+     "venue": "Philadelphia, PA (USA)",
+     "date": "16 SEP 2007"
+    },
+    {
+     "season": "2009",
+     "mark": "1:14:02",
+     "venue": "Coahuila (MEX)",
+     "date": "14 JUN 2009"
+    },
+    {
+     "season": "2013",
+     "mark": "1:08:48",
+     "venue": "Lisboa (POR)",
+     "date": "24 MAR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:07:57",
+     "venue": "Glasgow (GBR)",
+     "date": "05 OCT 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:08:21",
+     "venue": "Glasgow (GBR)",
+     "date": "04 OCT 2015"
+    },
+    {
+     "season": "2017",
+     "mark": "1:09:37",
+     "venue": "New York, NY (USA)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:13:56",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:13:18",
+     "venue": "New York, NY (USA)",
+     "date": "17 MAR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:22",
+     "venue": "New York, NY (USA)",
+     "date": "20 MAR 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:07:52",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2005",
+     "mark": "2:50:20",
+     "venue": "Las Vegas, NV (USA)",
+     "date": "04 DEC 2005"
+    },
+    {
+     "season": "2010",
+     "mark": "2:25:38",
+     "venue": "Los Angeles, CA (USA)",
+     "date": "21 MAR 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "2:20:46",
+     "venue": "London (GBR)",
+     "date": "17 APR 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "2:19:50",
+     "venue": "London (GBR)",
+     "date": "22 APR 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "2:21:32",
+     "venue": "London (GBR)",
+     "date": "21 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "2:20:21",
+     "venue": "London (GBR)",
+     "date": "13 APR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:27:16",
+     "venue": "London (GBR)",
+     "date": "26 APR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:22:36",
+     "venue": "Tokyo (JPN)",
+     "date": "28 FEB 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:27:18",
+     "venue": "Olympic Stadium, London (GBR)",
+     "date": "06 AUG 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:21:18",
+     "venue": "Berlin (GER)",
+     "date": "16 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:35:36",
+     "venue": "Corniche, Doha (QAT)",
+     "date": "27 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:24:16",
+     "venue": "New York, NY (USA)",
+     "date": "06 NOV 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:29:40",
+     "venue": "New York, NY (USA)",
+     "date": "05 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:29:56",
+     "venue": "New York, NY (USA)",
+     "date": "03 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:07",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "13 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:42",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships",
+     "mark": "2:25:44",
+     "date": "10 AUG 2013"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships",
+     "mark": "2:28:43",
+     "date": "27 AUG 2011"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:27:18",
+     "date": "06 AUG 2017"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:35:36",
+     "date": "27 SEP 2019"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships",
+     "mark": "2:28:18",
+     "date": "30 AUG 2015"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "25th IAAF World Cross Country Championships",
+     "mark": "15:10",
+     "date": "23 MAR 1997"
+    },
+    {
+     "place": "5.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "24th IAAF World Cross Country Championships",
+     "mark": "13:50",
+     "date": "23 MAR 1996"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres",
+     "competition": "Sydney IAAF World Junior Championships",
+     "mark": "8:53.06",
+     "date": "22 AUG 1996"
+    },
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "Annecy IAAF World Junior Championships",
+     "mark": "9:05.46",
+     "date": "30 JUL 1998"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "B.A.A. Boston Marathon",
+     "mark": "2:25:09",
+     "date": "11 OCT 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:21:52",
+     "date": "17 APR 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:20:21",
+     "date": "13 APR 2014"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "New York City Marathon",
+     "mark": "2:28:20",
+     "date": "07 NOV 2010"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Chicago Marathon",
+     "mark": "2:23:28",
+     "date": "09 OCT 2016"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:21:32",
+     "date": "21 APR 2013"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:19:50",
+     "date": "22 APR 2012"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:20:46",
+     "date": "17 APR 2011"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:23:21",
+     "date": "15 APR 2024"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:22:36",
+     "date": "28 FEB 2016"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:25:42",
+     "date": "01 NOV 2026"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:24:16",
+     "date": "06 NOV 2022"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "B.A.A. Boston Marathon",
+     "mark": "2:21:40",
+     "date": "18 APR 2022"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS New York Marathon",
+     "mark": "2:29:40",
+     "date": "05 NOV 2023"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Berlin Marathon",
+     "mark": "2:21:18",
+     "date": "16 SEP 2018"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "New York Marathon",
+     "mark": "2:29:36",
+     "date": "05 NOV 2017"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 89,
+   "rankingScore": 1208
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 264,
+   "rankingScore": 1108
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 632,
+   "rankingScore": 1208
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/kenya/edna-ngeringwony-kiplagat-014289137"
+}

@@ -1,0 +1,31 @@
+{
+ "season": 2026,
+ "tiers": ["Platinum", "Gold"],
+ "majors": [7236397, 7235561, 7235562, 7235579, 7235580, 7235563, 7235564],
+ "distance_overrides": {
+  "7238772": "half-marathon"
+ },
+ "extra_races": [
+  {
+   "id": 7204187,
+   "name": "World Athletics Road Running Championships",
+   "venue": "Copenhagen (DEN)",
+   "country": "DEN",
+   "startDate": "2026-09-19",
+   "endDate": "2026-09-20",
+   "tier": "Championship",
+   "distance": "multi"
+  }
+ ],
+ "toplists": {
+  "marathon": "marathon",
+  "half-marathon": "half-marathon",
+  "10km": "10-kilometres"
+ },
+ "results_top_n": 20,
+ "athletes_from_race_top": 10,
+ "athletes_from_toplist_top": 30,
+ "athlete_refresh_days": 28,
+ "athlete_max_per_run": 15,
+ "athlete_request_interval_seconds": 6
+}

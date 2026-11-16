@@ -1,0 +1,259 @@
+{
+ "id": "014680895",
+ "givenName": "Justus",
+ "familyName": "KANGOGO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1995-10-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:30.0h",
+   "venue": "Nairobi (KEN)",
+   "date": "04 JUN 2015",
+   "resultScore": 1086,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:51",
+   "venue": "Praha (CZE)",
+   "date": "09 SEP 2017",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "44:16",
+   "venue": "Massamagrell (ESP)",
+   "date": "14 MAY 2016",
+   "resultScore": 1057,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:31",
+   "venue": "Ostia (ITA)",
+   "date": "12 MAR 2017",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:24",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1234,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:24",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1234,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "30"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:04:24",
+   "score": 1234,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "10",
+   "mark": "2:07:42",
+   "score": 1172,
+   "competitionId": "7237458"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "29:37",
+     "venue": "Maldonado (URU)",
+     "date": "09 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "27:51",
+     "venue": "Praha (CZE)",
+     "date": "09 SEP 2017"
+    },
+    {
+     "season": "2020",
+     "mark": "28:48",
+     "venue": "Chon Buri (THA)",
+     "date": "26 JAN 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "27:58",
+     "venue": "Port Gentil (GAB)",
+     "date": "25 JUN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "44:16",
+     "venue": "Massamagrell (ESP)",
+     "date": "14 MAY 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:01:17",
+     "venue": "Reims (FRA)",
+     "date": "11 OCT 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:03:12",
+     "venue": "Albacete (ESP)",
+     "date": "08 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "59:31",
+     "venue": "Ostia (ITA)",
+     "date": "12 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:24",
+     "venue": "Praha (CZE)",
+     "date": "07 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:01:11",
+     "venue": "Lille (FRA)",
+     "date": "31 AUG 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:00",
+     "venue": "Paris (FRA)",
+     "date": "05 SEP 2021"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:07",
+     "venue": "Rio de Janeiro (BRA)",
+     "date": "01 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:02:19",
+     "venue": "Guadalajara (MEX)",
+     "date": "23 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "3:43:27",
+     "venue": "Libreville (GAB)",
+     "date": "29 NOV 2015"
+    },
+    {
+     "season": "2019",
+     "mark": "2:16:28",
+     "venue": "Shanghai (CHN)",
+     "date": "17 NOV 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:13:34",
+     "venue": "Venezia (ITA)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:21:12",
+     "venue": "New Taipei City (TPE)",
+     "date": "20 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:57",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:45",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:10",
+     "venue": "Valencia (ESP)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:24",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 41,
+   "rankingScore": 1270
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 315,
+   "rankingScore": 1270
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/kenya/justus-kangogo-014680895"
+}

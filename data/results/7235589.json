@@ -1,0 +1,245 @@
+{
+ "id": 7235589,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235589",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:10:03",
+     "name": "Christian PACHECO",
+     "nat": "PER",
+     "athleteId": "14609456",
+     "slug": "peru/christian-pacheco-14609456",
+     "birthDate": "26 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:11:25",
+     "name": "Tesfaye Lencho ANBESA",
+     "nat": "ETH",
+     "athleteId": "14788972",
+     "slug": "ethiopia/tesfaye-lencho-anbesa-14788972",
+     "birthDate": "28 JAN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:11:58",
+     "name": "Balew YIHUNLE",
+     "nat": "ETH",
+     "athleteId": "014863951",
+     "slug": "ethiopia/balew-yihunle-014863951",
+     "birthDate": "21 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:12:37",
+     "name": "Héctor GARIBAY",
+     "nat": "BOL",
+     "athleteId": "14840354",
+     "slug": "bolivia/hector-garibay-14840354",
+     "birthDate": "09 JUL 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:17:11",
+     "name": "Derese WORKNEH",
+     "nat": "ETH",
+     "athleteId": "14708837",
+     "slug": "ethiopia/derese-workneh-14708837",
+     "birthDate": "23 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:17:32",
+     "name": "Mike Kiptum BOIT",
+     "nat": "KEN",
+     "athleteId": "14812860",
+     "slug": "kenya/mike-kiptum-boit-14812860",
+     "birthDate": "14 SEP 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:17:38",
+     "name": "Cornelius Kibiwott CHEPKOK",
+     "nat": "KEN",
+     "athleteId": "14818913",
+     "slug": "kenya/cornelius-kibiwott-chepkok-14818913",
+     "birthDate": "31 DEC 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:21:12",
+     "name": "Fernando MORENO",
+     "nat": "ECU",
+     "athleteId": "14610168",
+     "slug": "ecuador/fernando-moreno-14610168",
+     "birthDate": "10 FEB 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:21:35",
+     "name": "Emmanuel REYES",
+     "nat": "MEX",
+     "athleteId": "15017427",
+     "slug": "mexico/emmanuel-reyes-15017427",
+     "birthDate": "03 APR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:22:38",
+     "name": "Stanley BETT",
+     "nat": "KEN",
+     "athleteId": "014642724",
+     "slug": "kenya/stanley-bett-014642724",
+     "birthDate": "13 DEC 1986",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 10
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:29:30",
+     "name": "Alemtsehay ASEFA",
+     "nat": "ETH",
+     "athleteId": "14839997",
+     "slug": "ethiopia/alemtsehay-asefa-14839997",
+     "birthDate": "11 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:32:23",
+     "name": "Kidsan ALEMA",
+     "nat": "ETH",
+     "athleteId": "014526495",
+     "slug": "ethiopia/kidsan-alema-014526495",
+     "birthDate": "29 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:34:04",
+     "name": "Kolole MEKASHU",
+     "nat": "ETH",
+     "athleteId": "14922353",
+     "slug": "ethiopia/kolole-mekashu-14922353",
+     "birthDate": "13 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:34:41",
+     "name": "Saida MENESES",
+     "nat": "PER",
+     "athleteId": "14693566",
+     "slug": "peru/saida-meneses-14693566",
+     "birthDate": "25 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:36:05",
+     "name": "Derartu HAILU",
+     "nat": "ETH",
+     "athleteId": "15084878",
+     "slug": "ethiopia/derartu-hailu-15084878",
+     "birthDate": "08 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:36:32",
+     "name": "Dorine Jerop MURKOMEN",
+     "nat": "KEN",
+     "athleteId": "14810923",
+     "slug": "kenya/dorine-jerop-murkomen-14810923",
+     "birthDate": "06 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:46:14",
+     "name": "Margarita HERNANDEZ FLORES",
+     "nat": "MEX",
+     "athleteId": "14385600",
+     "slug": "mexico/margarita-hernandez-flores-14385600",
+     "birthDate": "03 DEC 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:50:04",
+     "name": "Estefani VELAZQUEZ",
+     "nat": "MEX",
+     "athleteId": "14942084",
+     "slug": "mexico/estefani-velazquez-14942084",
+     "birthDate": "09 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:55:20",
+     "name": "Ines HERNANDEZ",
+     "nat": "ESP",
+     "athleteId": "15227819",
+     "slug": "spain/ines-hernandez-15227819",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:55:58",
+     "name": "Micaela RAYO",
+     "nat": "MEX",
+     "athleteId": "14916149",
+     "slug": "mexico/micaela-rayo-14916149",
+     "birthDate": "26 MAR 1984",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 10
+  }
+ ]
+}

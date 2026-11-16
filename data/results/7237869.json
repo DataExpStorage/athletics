@@ -1,0 +1,267 @@
+{
+ "id": 7237869,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7237869",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:26",
+     "name": "Joshua CHEPTEGEI",
+     "nat": "UGA",
+     "athleteId": "14645612",
+     "slug": "uganda/joshua-cheptegei-14645612",
+     "birthDate": "12 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "59:28",
+     "name": "Nicholas KIPKORIR",
+     "nat": "KEN",
+     "athleteId": "14708978",
+     "slug": "kenya/nicholas-kipkorir-14708978",
+     "birthDate": "29 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "59:30",
+     "name": "Alphonce Felix SIMBU",
+     "nat": "TAN",
+     "athleteId": "14487535",
+     "slug": "tanzania/alphonce-felix-simbu-14487535",
+     "birthDate": "14 FEB 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:00:03",
+     "name": "Enos Kipruto SAAT",
+     "nat": "KEN",
+     "athleteId": "15241644",
+     "slug": "kenya/enos-kipruto-saat-15241644",
+     "birthDate": "20 APR 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:00:04",
+     "name": "Lulu BABSA",
+     "nat": "ETH",
+     "athleteId": "14928966",
+     "slug": "ethiopia/lulu-babsa-14928966",
+     "birthDate": "03 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:00:27",
+     "name": "Aklilu Gebremariam ASFAW",
+     "nat": "ETH",
+     "athleteId": "15223700",
+     "slug": "ethiopia/aklilu-gebremariam-asfaw-15223700",
+     "birthDate": "26 OCT 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:01:07",
+     "name": "Richard RINGER",
+     "nat": "GER",
+     "athleteId": "14193865",
+     "slug": "germany/richard-ringer-14193865",
+     "birthDate": "27 FEB 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:01:16",
+     "name": "Yonah MATEIKO",
+     "nat": "KEN",
+     "athleteId": "15237009",
+     "slug": "kenya/yonah-mateiko-15237009",
+     "birthDate": "06 DEC 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:02:25",
+     "name": "Haftu TEKLU",
+     "nat": "ETH",
+     "athleteId": "14757121",
+     "slug": "ethiopia/haftu-teklu-14757121",
+     "birthDate": "21 JAN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:03:34",
+     "name": "Carlos DÍAZ",
+     "nat": "CHI",
+     "athleteId": "14375935",
+     "slug": "chile/carlos-diaz-14375935",
+     "birthDate": "09 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:10:11",
+     "name": "Abel CASALI CARVAJAL",
+     "nat": "ESP",
+     "athleteId": "14449643",
+     "slug": "spain/abel-casali-carvajal-14449643",
+     "birthDate": "30 DEC 1990",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 11
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:06:57",
+     "name": "Irine Chepet CHEPTAI",
+     "nat": "KEN",
+     "athleteId": "14288936",
+     "slug": "kenya/irine-chepet-cheptai-14288936",
+     "birthDate": "04 FEB 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:06:59",
+     "name": "Daisilah JERONO",
+     "nat": "KEN",
+     "athleteId": "15092325",
+     "slug": "kenya/daisilah-jerono-15092325",
+     "birthDate": "16 NOV 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:07:01",
+     "name": "Ftaw ZERAY",
+     "nat": "ETH",
+     "athleteId": "14828354",
+     "slug": "ethiopia/ftaw-zeray-14828354",
+     "birthDate": "03 AUG 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:09:11",
+     "name": "Jackline CHERONO",
+     "nat": "KEN",
+     "athleteId": "14679819",
+     "slug": "kenya/jackline-cherono-14679819",
+     "birthDate": "25 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:09:35",
+     "name": "Alexandra BELL",
+     "nat": "GBR",
+     "athleteId": "14360105",
+     "slug": "great-britain-ni/alexandra-bell-14360105",
+     "birthDate": "04 NOV 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:12:00",
+     "name": "Meritxell SOLER",
+     "nat": "ESP",
+     "athleteId": "14478926",
+     "slug": "spain/meritxell-soler-14478926",
+     "birthDate": "20 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:12:47",
+     "name": "Seba DIBA",
+     "nat": "ETH",
+     "athleteId": "15289845",
+     "slug": "ethiopia/seba-diba-15289845",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:14:12",
+     "name": "Mikky KEETELS",
+     "nat": "NED",
+     "athleteId": "15190933",
+     "slug": "netherlands/mikky-keetels-15190933",
+     "birthDate": "25 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:20:01",
+     "name": "Tea FABER",
+     "nat": "CRO",
+     "athleteId": "14927027",
+     "slug": "croatia/tea-faber-14927027",
+     "birthDate": "27 JUN 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:20:31",
+     "name": "Nada Ina PAUER",
+     "nat": "AUT",
+     "athleteId": "14270821",
+     "slug": "austria/nada-ina-pauer-14270821",
+     "birthDate": "11 NOV 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "",
+     "mark": "DNF",
+     "name": "Balemelay SHUMET",
+     "nat": "ETH",
+     "athleteId": "15009590",
+     "slug": "ethiopia/balemelay-shumet-15009590",
+     "birthDate": "19 MAR 2005",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 10
+  }
+ ]
+}

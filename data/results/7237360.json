@@ -1,0 +1,465 @@
+{
+ "id": 7237360,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7237360",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:03:38",
+     "name": "Gemechu DIDA",
+     "nat": "ETH",
+     "athleteId": "14825107",
+     "slug": "ethiopia/gemechu-dida-14825107",
+     "birthDate": "12 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:03:38",
+     "name": "Isaia Kipkoech LASOI",
+     "nat": "KEN",
+     "athleteId": "15068854",
+     "slug": "kenya/isaia-kipkoech-lasoi-15068854",
+     "birthDate": "12 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:03:43",
+     "name": "Moses KIBET",
+     "nat": "KEN",
+     "athleteId": "14746654",
+     "slug": "kenya/moses-kibet-14746654",
+     "birthDate": "04 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:03:46",
+     "name": "Rhonzas Lokitam KILIMO",
+     "nat": "KEN",
+     "athleteId": "14704912",
+     "slug": "kenya/rhonzas-lokitam-kilimo-14704912",
+     "birthDate": "05 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:04:10",
+     "name": "Victor KIPCHIRCHIR",
+     "nat": "KEN",
+     "athleteId": "14524534",
+     "slug": "kenya/victor-kipchirchir-14524534",
+     "birthDate": "05 DEC 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:04:40",
+     "name": "Antonio VARA",
+     "nat": "MEX",
+     "athleteId": "15106371",
+     "slug": "mexico/antonio-vara-15106371",
+     "birthDate": "2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:04:41",
+     "name": "Tomoya OGIKUBO",
+     "nat": "JPN",
+     "athleteId": "14813995",
+     "slug": "japan/tomoya-ogikubo-14813995",
+     "birthDate": "11 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:05:31",
+     "name": "Gabriel ARROYO",
+     "nat": "MEX",
+     "athleteId": "15171870",
+     "slug": "mexico/gabriel-arroyo-15171870",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:05:34",
+     "name": "Everardo MORENO",
+     "nat": "MEX",
+     "athleteId": "14976263",
+     "slug": "mexico/everardo-moreno-14976263",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:05:54",
+     "name": "Jose Luis SANTANA MARIN",
+     "nat": "MEX",
+     "athleteId": "14721049",
+     "slug": "mexico/jose-luis-santana-marin-14721049",
+     "birthDate": "26 SEP 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:05:54",
+     "name": "Juan Luis BARRIOS",
+     "nat": "MEX",
+     "athleteId": "14212796",
+     "slug": "mexico/juan-luis-barrios-14212796",
+     "birthDate": "24 JUN 1983",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:06:04",
+     "name": "Benard Kipkorir NGENO",
+     "nat": "KEN",
+     "athleteId": "014849599",
+     "slug": "kenya/benard-kipkorir-ngeno-014849599",
+     "birthDate": "10 AUG 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:06:05",
+     "name": "Oswaldo VICTORIANO",
+     "nat": "MEX",
+     "athleteId": "15060046",
+     "slug": "mexico/oswaldo-victoriano-15060046",
+     "birthDate": "20 OCT 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:06:15",
+     "name": "Juan MENDOZA",
+     "nat": "MEX",
+     "athleteId": "15111933",
+     "slug": "mexico/juan-mendoza-15111933",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:07:04",
+     "name": "Daniel REYES MORALES",
+     "nat": "MEX",
+     "athleteId": "14594924",
+     "slug": "mexico/daniel-reyes-morales-14594924",
+     "birthDate": "27 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:07:33",
+     "name": "Mario LÓPEZ",
+     "nat": "MEX",
+     "athleteId": "14787033",
+     "slug": "mexico/mario-lopez-14787033",
+     "birthDate": "11 OCT 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:08:04",
+     "name": "Victor Daniel GOMEZ",
+     "nat": "MEX",
+     "athleteId": "15071641",
+     "slug": "mexico/victor-daniel-gomez-15071641",
+     "birthDate": "1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:08:06",
+     "name": "Javier MORENO",
+     "nat": "MEX",
+     "athleteId": "14978171",
+     "slug": "mexico/javier-moreno-14978171",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:08:08",
+     "name": "Osvaldo ZUÑIGA",
+     "nat": "MEX",
+     "athleteId": "15296123",
+     "slug": "mexico/osvaldo-zuniga-15296123",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:08:22",
+     "name": "Juan Carlos CARERA CASAS",
+     "nat": "MEX",
+     "athleteId": "14212829",
+     "slug": "mexico/juan-carlos-carera-casas-14212829",
+     "birthDate": "22 JAN 1988",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:12:49",
+     "name": "Kolole MEKASHU",
+     "nat": "ETH",
+     "athleteId": "14922353",
+     "slug": "ethiopia/kolole-mekashu-14922353",
+     "birthDate": "13 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:12:53",
+     "name": "Mercy Jerop KWAMBAI",
+     "nat": "KEN",
+     "athleteId": "14585615",
+     "slug": "kenya/mercy-jerop-kwambai-14585615",
+     "birthDate": "05 APR 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:12:54",
+     "name": "Anahi ALVAREZ",
+     "nat": "MEX",
+     "athleteId": "14818691",
+     "slug": "mexico/anahi-alvarez-14818691",
+     "birthDate": "11 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:13:35",
+     "name": "Adela HONORATO",
+     "nat": "MEX",
+     "athleteId": "15021643",
+     "slug": "mexico/adela-honorato-15021643",
+     "birthDate": "08 DEC 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:13:42",
+     "name": "Marcela ALVAREZ",
+     "nat": "MEX",
+     "athleteId": "14976253",
+     "slug": "mexico/marcela-alvarez-14976253",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:15:03",
+     "name": "Ana TORRES",
+     "nat": "MEX",
+     "athleteId": "15209787",
+     "slug": "mexico/ana-torres-15209787",
+     "birthDate": "2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:15:57",
+     "name": "Gabriela FLORES",
+     "nat": "MEX",
+     "athleteId": "14978143",
+     "slug": "mexico/gabriela-flores-14978143",
+     "birthDate": "09 JAN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:16:06",
+     "name": "Derartu HAILU",
+     "nat": "ETH",
+     "athleteId": "15084878",
+     "slug": "ethiopia/derartu-hailu-15084878",
+     "birthDate": "08 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:16:09",
+     "name": "Isabel OROPEZA",
+     "nat": "MEX",
+     "athleteId": "14687998",
+     "slug": "mexico/isabel-oropeza-14687998",
+     "birthDate": "25 SEP 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:17:11",
+     "name": "Leah JEBIWOT KIGEN",
+     "nat": "KEN",
+     "athleteId": "14464540",
+     "slug": "kenya/leah-jebiwot-kigen-14464540",
+     "birthDate": "30 JAN 1979",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:18:26",
+     "name": "Ivon DOMÍNGUEZ",
+     "nat": "MEX",
+     "athleteId": "15006802",
+     "slug": "mexico/ivon-dominguez-15006802",
+     "birthDate": "18 JAN 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:19:41",
+     "name": "Soyenetzitl CASTRO",
+     "nat": "MEX",
+     "athleteId": "14824924",
+     "slug": "mexico/soyenetzitl-castro-14824924",
+     "birthDate": "24 AUG 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:19:49",
+     "name": "Julia ALCALA",
+     "nat": "MEX",
+     "athleteId": "15296124",
+     "slug": "mexico/julia-alcala-15296124",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:20:26",
+     "name": "Marlen AGUILAR",
+     "nat": "GUA",
+     "athleteId": "15296125",
+     "slug": "guatemala/marlen-aguilar-15296125",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:21:00",
+     "name": "Marta VAZQUEZ",
+     "nat": "MEX",
+     "athleteId": "14414853",
+     "slug": "mexico/marta-vazquez-14414853",
+     "birthDate": "22 NOV 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:21:33",
+     "name": "Magdalena BARBA",
+     "nat": "MEX",
+     "athleteId": "14414887",
+     "slug": "mexico/magdalena-barba-14414887",
+     "birthDate": "07 JAN 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:21:37",
+     "name": "Daniela ALONSO ARREOLA",
+     "nat": "MEX",
+     "athleteId": "14382555",
+     "slug": "mexico/daniela-alonso-arreola-14382555",
+     "birthDate": "04 JAN 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:23:25",
+     "name": "Micaela RAYO",
+     "nat": "MEX",
+     "athleteId": "14916149",
+     "slug": "mexico/micaela-rayo-14916149",
+     "birthDate": "26 MAR 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:23:32",
+     "name": "Maria GONZALEZ",
+     "nat": "MEX",
+     "athleteId": "15081024",
+     "slug": "mexico/maria-gonzalez-15081024",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:23:53",
+     "name": "Estefani VELAZQUEZ",
+     "nat": "MEX",
+     "athleteId": "14942084",
+     "slug": "mexico/estefani-velazquez-14942084",
+     "birthDate": "09 DEC 1996",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  }
+ ]
+}

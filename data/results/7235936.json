@@ -1,0 +1,236 @@
+{
+ "id": 7235936,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235936",
+ "events": [
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:19:31",
+     "name": "Stella CHESANG",
+     "nat": "UGA",
+     "athleteId": "14464203",
+     "slug": "uganda/stella-chesang-14464203",
+     "birthDate": "01 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:19:54",
+     "name": "Bedatu HIRPA",
+     "nat": "ETH",
+     "athleteId": "14714493",
+     "slug": "ethiopia/bedatu-hirpa-14714493",
+     "birthDate": "28 APR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:19:56",
+     "name": "Workenesh EDESA",
+     "nat": "ETH",
+     "athleteId": "14675188",
+     "slug": "ethiopia/workenesh-edesa-14675188",
+     "birthDate": "11 SEP 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:19:57",
+     "name": "Mikuni YADA",
+     "nat": "JPN",
+     "athleteId": "14747887",
+     "slug": "japan/mikuni-yada-14747887",
+     "birthDate": "29 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:23:07",
+     "name": "Mao UESUGI",
+     "nat": "JPN",
+     "athleteId": "14686449",
+     "slug": "japan/mao-uesugi-14686449",
+     "birthDate": "16 AUG 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:24:16",
+     "name": "Rie KAWAUCHI",
+     "nat": "JPN",
+     "athleteId": "14524089",
+     "slug": "japan/rie-kawauchi-14524089",
+     "birthDate": "15 MAR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:26:16",
+     "name": "Mizuki MATSUDA",
+     "nat": "JPN",
+     "athleteId": "14548272",
+     "slug": "japan/mizuki-matsuda-14548272",
+     "birthDate": "31 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:27:45",
+     "name": "Nanaka IZAWA",
+     "nat": "JPN",
+     "athleteId": "14335034",
+     "slug": "japan/nanaka-izawa-14335034",
+     "birthDate": "13 APR 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:28:21",
+     "name": "Miyuki NISHIMURA",
+     "nat": "JPN",
+     "athleteId": "14287437",
+     "slug": "japan/miyuki-nishimura-14287437",
+     "birthDate": "16 APR 1980",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:29:29",
+     "name": "Madoka NAKANO",
+     "nat": "JPN",
+     "athleteId": "14512795",
+     "slug": "japan/madoka-nakano-14512795",
+     "birthDate": "14 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:34:41",
+     "name": "Miyu FUKADA",
+     "nat": "JPN",
+     "athleteId": "14969029",
+     "slug": "japan/miyu-fukada-14969029",
+     "birthDate": "08 OCT 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:37:18",
+     "name": "Yuki TOYODA",
+     "nat": "JPN",
+     "athleteId": "14955824",
+     "slug": "japan/yuki-toyoda-14955824",
+     "birthDate": "05 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:37:50",
+     "name": "Miyu MORIUCHI",
+     "nat": "JPN",
+     "athleteId": "14999732",
+     "slug": "japan/miyu-moriuchi-14999732",
+     "birthDate": "15 DEC 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:38:14",
+     "name": "Miu YAGI",
+     "nat": "JPN",
+     "athleteId": "14895641",
+     "slug": "japan/miu-yagi-14895641",
+     "birthDate": "22 SEP 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:38:22",
+     "name": "Saki SHIMADA",
+     "nat": "JPN",
+     "athleteId": "14997542",
+     "slug": "japan/saki-shimada-14997542",
+     "birthDate": "10 NOV 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:38:22",
+     "name": "Yumeno YAMAZAKI",
+     "nat": "JPN",
+     "athleteId": "14886236",
+     "slug": "japan/yumeno-yamazaki-14886236",
+     "birthDate": "12 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:38:28",
+     "name": "Kotomi TSUBOKURA",
+     "nat": "JPN",
+     "athleteId": "14548277",
+     "slug": "japan/kotomi-tsubokura-14548277",
+     "birthDate": "20 DEC 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:38:36",
+     "name": "Mizuki ODA",
+     "nat": "JPN",
+     "athleteId": "14955251",
+     "slug": "japan/mizuki-oda-14955251",
+     "birthDate": "07 OCT 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:39:22",
+     "name": "Chisa ENDO",
+     "nat": "JPN",
+     "athleteId": "14928848",
+     "slug": "japan/chisa-endo-14928848",
+     "birthDate": "02 APR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:39:53",
+     "name": "Tomomi NAKAJIMA",
+     "nat": "JPN",
+     "athleteId": "014818229",
+     "slug": "japan/tomomi-nakajima-014818229",
+     "birthDate": "17 AUG 1989",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 248
+  }
+ ]
+}

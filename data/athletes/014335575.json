@@ -1,0 +1,320 @@
+{
+ "id": "014335575",
+ "givenName": "Joyce Chepkemoi",
+ "familyName": "TELE",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1995-05-03",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:32.5h",
+   "venue": "Nairobi (KEN)",
+   "date": "08 JUN 2011",
+   "resultScore": 999,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:19.79",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "03 OCT 2020",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:59.01",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "06 JUN 2021",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:48.0h",
+   "venue": "Biella (ITA)",
+   "date": "13 OCT 2018",
+   "resultScore": 993,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:14",
+   "venue": "Lille (FRA)",
+   "date": "06 NOV 2021",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:38",
+   "venue": "Valencia (ESP)",
+   "date": "13 JAN 2019",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:38=",
+   "venue": "Shanghai (CHN)",
+   "date": "26 OCT 2025",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:24",
+   "venue": "Valencia (ESP)",
+   "date": "18 SEP 2021",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:09:41",
+   "venue": "Cassis (FRA)",
+   "date": "28 OCT 2018",
+   "resultScore": 1054,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:19",
+   "venue": "Lisboa (POR)",
+   "date": "21 NOV 2021",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:50",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:37.02",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "12 JUN 2026",
+   "resultScore": 1055,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenya Defence Forces Track and Field Championships",
+   "listPosition": "308"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:50",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Seoul Marathon",
+   "listPosition": "40"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-12",
+   "competition": "Kenya Defence Forces Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "7",
+   "mark": "33:37.02",
+   "score": 1055,
+   "competitionId": "7241946"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:19:50",
+   "score": 1214,
+   "competitionId": "7235569"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "4:48.0h",
+     "venue": "Biella (ITA)",
+     "date": "13 OCT 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "15:14",
+     "venue": "Lille (FRA)",
+     "date": "06 NOV 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2008",
+     "mark": "35:59",
+     "venue": "Almería (ESP)",
+     "date": "27 DEC 2008"
+    },
+    {
+     "season": "2018",
+     "mark": "32:17",
+     "venue": "St-Denis (FRA)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "31:38",
+     "venue": "Valencia (ESP)",
+     "date": "13 JAN 2019"
+    },
+    {
+     "season": "2025",
+     "mark": "31:38",
+     "venue": "Shanghai (CHN)",
+     "date": "26 OCT 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "47:24",
+     "venue": "Valencia (ESP)",
+     "date": "18 SEP 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:09:41",
+     "venue": "Cassis (FRA)",
+     "date": "28 OCT 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:09:21",
+     "venue": "Trento (ITA)",
+     "date": "07 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:10:06",
+     "venue": "Guadalajara (MEX)",
+     "date": "24 FEB 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:06:19",
+     "venue": "Lisboa (POR)",
+     "date": "21 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:07:37",
+     "venue": "Paris (FRA)",
+     "date": "06 MAR 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:07:35",
+     "venue": "Buenos Aires (ARG)",
+     "date": "25 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:09:15",
+     "venue": "Buenos Aires (ARG)",
+     "date": "24 AUG 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:20:17",
+     "venue": "Ljubljana (SLO)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:40",
+     "venue": "Guangzhou (CHN)",
+     "date": "21 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:50",
+     "venue": "Seoul (KOR)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 32,
+   "rankingScore": 1260
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 188,
+   "rankingScore": 1110
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 254,
+   "rankingScore": 1260
+  }
+ ],
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/athletes/kenya/joyce-chepkemoi-tele-014335575"
+}

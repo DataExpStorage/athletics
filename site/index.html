@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Road Running Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#/">Road Running <span id="season"></span></a>
+    <nav id="nav">
+      <a href="#/" data-nav="">Overview</a>
+      <a href="#/races" data-nav="races">Races</a>
+      <a href="#/distance/marathon" data-nav="distance/marathon">Marathon</a>
+      <a href="#/distance/half-marathon" data-nav="distance/half-marathon">Half marathon</a>
+      <a href="#/distance/10km" data-nav="distance/10km">10 km</a>
+      <a href="#/news" data-nav="news">Newsletter</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap" id="app"><p class="muted">Loading…</p></main>
+<footer class="wrap foot">
+  <span id="updated"></span>
+  Data: <a href="https://worldathletics.org/competitions/world-athletics-label-road-races" target="_blank" rel="noopener">World Athletics</a>. Personal, non-commercial project.
+</footer>
+<div id="tip" class="tip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

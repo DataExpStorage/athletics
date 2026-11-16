@@ -1,0 +1,465 @@
+{
+ "id": 7235564,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235564",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:06:01",
+     "name": "Andreas ALMGREN",
+     "nat": "SWE",
+     "athleteId": "14460738",
+     "slug": "sweden/andreas-almgren-14460738",
+     "birthDate": "12 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:06:14",
+     "name": "Yemaneberhan CRIPPA",
+     "nat": "ITA",
+     "athleteId": "14513998",
+     "slug": "italy/yemaneberhan-crippa-14513998",
+     "birthDate": "15 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:06:26",
+     "name": "Kamohelo MOFOLO",
+     "nat": "LES",
+     "athleteId": "15155359",
+     "slug": "lesotho/kamohelo-mofolo-15155359",
+     "birthDate": "01 NOV 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:06:27",
+     "name": "Benson KIPRUTO",
+     "nat": "KEN",
+     "athleteId": "14758213",
+     "slug": "kenya/benson-kipruto-14758213",
+     "birthDate": "17 MAR 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:06:34",
+     "name": "Haftu STRINTZOS",
+     "nat": "AUS",
+     "athleteId": "14745128",
+     "slug": "australia/haftu-strintzos-14745128",
+     "birthDate": "27 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:06:43",
+     "name": "Zouhair TALBI",
+     "nat": "USA",
+     "athleteId": "14577963",
+     "slug": "united-states/zouhair-talbi-14577963",
+     "birthDate": "08 APR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:07:08",
+     "name": "Ryota KONDO",
+     "nat": "JPN",
+     "athleteId": "14950023",
+     "slug": "japan/ryota-kondo-14950023",
+     "birthDate": "05 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:07:09",
+     "name": "Ahmed MUHUMED",
+     "nat": "USA",
+     "athleteId": "14643341",
+     "slug": "united-states/ahmed-muhumed-14643341",
+     "birthDate": "01 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:07:09",
+     "name": "Geoffrey KAMWOROR",
+     "nat": "KEN",
+     "athleteId": "14423680",
+     "slug": "kenya/geoffrey-kamworor-14423680",
+     "birthDate": "22 NOV 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:07:17",
+     "name": "Ryan FORD",
+     "nat": "USA",
+     "athleteId": "14776630",
+     "slug": "united-states/ryan-ford-14776630",
+     "birthDate": "26 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:07:27",
+     "name": "Conner MANTZ",
+     "nat": "USA",
+     "athleteId": "14628442",
+     "slug": "united-states/conner-mantz-14628442",
+     "birthDate": "08 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:07:42",
+     "name": "Cybrian KOTUT",
+     "nat": "KEN",
+     "athleteId": "14425928",
+     "slug": "kenya/cybrian-kotut-14425928",
+     "birthDate": "06 JUN 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:07:58",
+     "name": "Abdi NAGEEYE",
+     "nat": "NED",
+     "athleteId": "14214214",
+     "slug": "netherlands/abdi-nageeye-14214214",
+     "birthDate": "02 MAR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:08:54",
+     "name": "Aidan TROUTNER",
+     "nat": "USA",
+     "athleteId": "14858126",
+     "slug": "united-states/aidan-troutner-14858126",
+     "birthDate": "24 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:09:28",
+     "name": "Joe KLECKER",
+     "nat": "USA",
+     "athleteId": "14576389",
+     "slug": "united-states/joe-klecker-14576389",
+     "birthDate": "16 NOV 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:09:43",
+     "name": "Joel REICHOW",
+     "nat": "USA",
+     "athleteId": "14569854",
+     "slug": "united-states/joel-reichow-14569854",
+     "birthDate": "24 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:09:53",
+     "name": "Patrick DEVER",
+     "nat": "GBR",
+     "athleteId": "14523465",
+     "slug": "great-britain-ni/patrick-dever-14523465",
+     "birthDate": "05 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:10:01",
+     "name": "Patrick Kiptoo KIPROP",
+     "nat": "KEN",
+     "athleteId": "14975463",
+     "slug": "kenya/patrick-kiptoo-kiprop-14975463",
+     "birthDate": "30 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:10:03",
+     "name": "Peter LYNCH",
+     "nat": "IRL",
+     "athleteId": "14701622",
+     "slug": "ireland/peter-lynch-14701622",
+     "birthDate": "26 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:10:32",
+     "name": "Merga GEMEDA",
+     "nat": "USA",
+     "athleteId": "14876385",
+     "slug": "united-states/merga-gemeda-14876385",
+     "birthDate": "14 AUG 1999",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 192
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:24:36",
+     "name": "Sheila CHEPKIRUI",
+     "nat": "KEN",
+     "athleteId": "14289156",
+     "slug": "kenya/sheila-chepkirui-14289156",
+     "birthDate": "27 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:24:42",
+     "name": "Jessica MCCLAIN",
+     "nat": "USA",
+     "athleteId": "14335825",
+     "slug": "united-states/jessica-mcclain-14335825",
+     "birthDate": "15 FEB 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:24:43",
+     "name": "Hellen OBIRI",
+     "nat": "KEN",
+     "athleteId": "14424921",
+     "slug": "kenya/hellen-obiri-14424921",
+     "birthDate": "13 DEC 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:25:42",
+     "name": "Edna Ngeringwony KIPLAGAT",
+     "nat": "KEN",
+     "athleteId": "014289137",
+     "slug": "kenya/edna-ngeringwony-kiplagat-014289137",
+     "birthDate": "15 NOV 1979",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:25:46",
+     "name": "Mercy CHELANGAT",
+     "nat": "KEN",
+     "athleteId": "014874368",
+     "slug": "kenya/mercy-chelangat-014874368",
+     "birthDate": "11 JUL 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:26:28",
+     "name": "Carrie ELLWOOD",
+     "nat": "USA",
+     "athleteId": "14485673",
+     "slug": "united-states/carrie-ellwood-14485673",
+     "birthDate": "08 MAR 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:26:51",
+     "name": "Weini KELATI FREZGHI",
+     "nat": "USA",
+     "athleteId": "14877184",
+     "slug": "united-states/weini-kelati-frezghi-14877184",
+     "birthDate": "01 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:27:29",
+     "name": "Paige WOOD",
+     "nat": "USA",
+     "athleteId": "14590877",
+     "slug": "united-states/paige-wood-14590877",
+     "birthDate": "31 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:28:34",
+     "name": "Violah CHEPTOO",
+     "nat": "KEN",
+     "athleteId": "014372181",
+     "slug": "kenya/violah-cheptoo-014372181",
+     "birthDate": "01 MAR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:28:49",
+     "name": "Fabienne KÖNIGSTEIN",
+     "nat": "GER",
+     "athleteId": "014390193",
+     "slug": "germany/fabienne-konigstein-014390193",
+     "birthDate": "25 NOV 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:28:55",
+     "name": "Giovanna EPIS",
+     "nat": "ITA",
+     "athleteId": "14284281",
+     "slug": "italy/giovanna-epis-14284281",
+     "birthDate": "11 OCT 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:29:09",
+     "name": "Julia PATERNAIN",
+     "nat": "URU",
+     "athleteId": "14755131",
+     "slug": "uruguay/julia-paternain-14755131",
+     "birthDate": "29 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:29:42",
+     "name": "Lauren HAGANS",
+     "nat": "USA",
+     "athleteId": "14311688",
+     "slug": "united-states/lauren-hagans-14311688",
+     "birthDate": "27 JUN 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:29:52",
+     "name": "Micaela RIVERA WOOD",
+     "nat": "PER",
+     "athleteId": "14839128",
+     "slug": "peru/micaela-rivera-wood-14839128",
+     "birthDate": "01 JAN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:30:04",
+     "name": "Annie FRISBIE",
+     "nat": "USA",
+     "athleteId": "14736859",
+     "slug": "united-states/annie-frisbie-14736859",
+     "birthDate": "31 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:30:16",
+     "name": "Amanda VESTRI",
+     "nat": "USA",
+     "athleteId": "014718893",
+     "slug": "united-states/amanda-vestri-014718893",
+     "birthDate": "01 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:30:45",
+     "name": "Philippa BOWDEN",
+     "nat": "GBR",
+     "athleteId": "14586863",
+     "slug": "great-britain-ni/philippa-bowden-14586863",
+     "birthDate": "29 MAR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:31:18",
+     "name": "Lily MURPHY",
+     "nat": "USA",
+     "athleteId": "15069851",
+     "slug": "united-states/lily-murphy-15069851",
+     "birthDate": "29 DEC 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:31:29",
+     "name": "Rie KAWAUCHI",
+     "nat": "JPN",
+     "athleteId": "14524089",
+     "slug": "japan/rie-kawauchi-14524089",
+     "birthDate": "15 MAR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:33:21",
+     "name": "Monica HEBNER",
+     "nat": "USA",
+     "athleteId": "14745789",
+     "slug": "united-states/monica-hebner-14745789",
+     "birthDate": "05 AUG 1999",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 229
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "id": 7235560,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235560",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:05:45",
+     "name": "Zouhair TALBI",
+     "nat": "USA",
+     "athleteId": "14577963",
+     "slug": "united-states/zouhair-talbi-14577963",
+     "birthDate": "08 APR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:06:16",
+     "name": "Adane KEBEDE",
+     "nat": "ETH",
+     "athleteId": "14932836",
+     "slug": "ethiopia/adane-kebede-14932836",
+     "birthDate": "11 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:07:35",
+     "name": "Shadrack KIMINING",
+     "nat": "KEN",
+     "athleteId": "14780436",
+     "slug": "kenya/shadrack-kimining-14780436",
+     "birthDate": "10 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:09:00",
+     "name": "Yemane HAILESELASSIE",
+     "nat": "ERI",
+     "athleteId": "14693560",
+     "slug": "eritrea/yemane-haileselassie-14693560",
+     "birthDate": "21 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:13:13",
+     "name": "Teshome MEKONEN",
+     "nat": "USA",
+     "athleteId": "14646676",
+     "slug": "united-states/teshome-mekonen-14646676",
+     "birthDate": "05 AUG 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:13:32",
+     "name": "Ethan GREGG",
+     "nat": "USA",
+     "athleteId": "14971662",
+     "slug": "united-states/ethan-gregg-14971662",
+     "birthDate": "02 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:14:13",
+     "name": "Awet BERAKI",
+     "nat": "ERI",
+     "athleteId": "14863925",
+     "slug": "united-states/awet-beraki-14863925",
+     "birthDate": "01 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:14:57",
+     "name": "Joseph FARLEY",
+     "nat": "USA",
+     "athleteId": "15241649",
+     "slug": "united-states/joseph-farley-15241649",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:15:22",
+     "name": "Thomas MADDEN",
+     "nat": "USA",
+     "athleteId": "14511341",
+     "slug": "united-states/thomas-madden-14511341",
+     "birthDate": "28 NOV 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:15:27",
+     "name": "Zachary HOLDEN",
+     "nat": "USA",
+     "athleteId": "15026528",
+     "slug": "united-states/zachary-holden-15026528",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:16:18",
+     "name": "Charlie TEETER",
+     "nat": "USA",
+     "athleteId": "15012024",
+     "slug": "united-states/charlie-teeter-15012024",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:17:46",
+     "name": "Dylan BELLES",
+     "nat": "USA",
+     "athleteId": "014573971",
+     "slug": "united-states/dylan-belles-014573971",
+     "birthDate": "16 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:17:46",
+     "name": "Zachary KINNE",
+     "nat": "USA",
+     "athleteId": "14882726",
+     "slug": "united-states/zachary-kinne-14882726",
+     "birthDate": "17 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:18:11",
+     "name": "Andrew YE",
+     "nat": "USA",
+     "athleteId": "15113978",
+     "slug": "united-states/andrew-ye-15113978",
+     "birthDate": "13 MAR 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:18:24",
+     "name": "Cameron BENSLEY",
+     "nat": "USA",
+     "athleteId": "014889341",
+     "slug": "united-states/cameron-bensley-014889341",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:18:56",
+     "name": "William LAIRD",
+     "nat": "USA",
+     "athleteId": "14732550",
+     "slug": "united-states/william-laird-14732550",
+     "birthDate": "08 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:21:59",
+     "name": "Luke CREGER",
+     "nat": "USA",
+     "athleteId": "15086139",
+     "slug": "united-states/luke-creger-15086139",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:21:59",
+     "name": "Wesley ROBINSON",
+     "nat": "USA",
+     "athleteId": "14774440",
+     "slug": "united-states/wesley-robinson-14774440",
+     "birthDate": "25 MAR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:22:10",
+     "name": "Jake DEARDEN",
+     "nat": "GBR",
+     "athleteId": "15178555",
+     "slug": "great-britain-ni/jake-dearden-15178555",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:22:29",
+     "name": "Derek BERRY",
+     "nat": "USA",
+     "athleteId": "14486312",
+     "slug": "united-states/derek-berry-14486312",
+     "birthDate": "10 APR 1989",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 86
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:24:17",
+     "name": "Calli HAUGER-THACKERY",
+     "nat": "GBR",
+     "athleteId": "14276523",
+     "slug": "great-britain-ni/calli-hauger-thackery-14276523",
+     "birthDate": "09 JAN 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:26:26",
+     "name": "Sara HALL",
+     "nat": "USA",
+     "athleteId": "14305595",
+     "slug": "united-states/sara-hall-14305595",
+     "birthDate": "15 APR 1983",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:28:07",
+     "name": "Biruktayit DEGEFA",
+     "nat": "ETH",
+     "athleteId": "14383846",
+     "slug": "united-states/biruktayit-degefa-14383846",
+     "birthDate": "29 SEP 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:29:13",
+     "name": "Tejinesh TULU",
+     "nat": "ETH",
+     "athleteId": "14861862",
+     "slug": "ethiopia/tejinesh-tulu-14861862",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:29:36",
+     "name": "Erin MAWHINNEY",
+     "nat": "CAN",
+     "athleteId": "14541579",
+     "slug": "canada/erin-mawhinney-14541579",
+     "birthDate": "21 AUG 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:30:14",
+     "name": "Mimi SMITH",
+     "nat": "USA",
+     "athleteId": "15056847",
+     "slug": "united-states/mimi-smith-15056847",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:32:17",
+     "name": "Lexie THOMPSON",
+     "nat": "USA",
+     "athleteId": "14820008",
+     "slug": "united-states/lexie-thompson-14820008",
+     "birthDate": "24 MAR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:33:47",
+     "name": "Janet RUGURU",
+     "nat": "KEN",
+     "athleteId": "14797483",
+     "slug": "kenya/janet-ruguru-14797483",
+     "birthDate": "20 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:35:06",
+     "name": "Gabrielle ORIE",
+     "nat": "USA",
+     "athleteId": "014709397",
+     "slug": "united-states/gabrielle-orie-014709397",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:35:36",
+     "name": "Elizabeth TALBI",
+     "nat": "USA",
+     "athleteId": "15028286",
+     "slug": "united-states/elizabeth-talbi-15028286",
+     "birthDate": "2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:35:42",
+     "name": "Courtney OLSEN",
+     "nat": "USA",
+     "athleteId": "14370351",
+     "slug": "united-states/courtney-olsen-14370351",
+     "birthDate": "02 AUG 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:36:04",
+     "name": "Caroline GARRETT",
+     "nat": "USA",
+     "athleteId": "14789864",
+     "slug": "united-states/caroline-hill-14789864",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:36:24",
+     "name": "Dorothy MCMAHAN",
+     "nat": "USA",
+     "athleteId": "14316688",
+     "slug": "united-states/dorothy-mcmahan-14316688",
+     "birthDate": "06 NOV 1976",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:36:32",
+     "name": "Arianna MAIDA",
+     "nat": "USA",
+     "athleteId": "14629433",
+     "slug": "united-states/arianna-maida-14629433",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:36:41",
+     "name": "Emy THORÉN",
+     "nat": "SWE",
+     "athleteId": "014980800",
+     "slug": "sweden/emy-thoren-014980800",
+     "birthDate": "1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:36:44",
+     "name": "Katie WATSON",
+     "nat": "USA",
+     "athleteId": "014507129",
+     "slug": "united-states/katie-watson-014507129",
+     "birthDate": "28 AUG 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:37:39",
+     "name": "Kir SELERT",
+     "nat": "USA",
+     "athleteId": "14445502",
+     "slug": "united-states/kir-selert-14445502",
+     "birthDate": "1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:38:47",
+     "name": "Claire KRUMMENACHER",
+     "nat": "USA",
+     "athleteId": "15114110",
+     "slug": "united-states/claire-krummenacher-15114110",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:39:02",
+     "name": "Becca KAWAOKA",
+     "nat": "USA",
+     "athleteId": "15063200",
+     "slug": "united-states/becca-kawaoka-15063200",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:39:31",
+     "name": "Nallely MENDOZA",
+     "nat": "MEX",
+     "athleteId": "14746119",
+     "slug": "mexico/nallely-mendoza-14746119",
+     "birthDate": "20 JAN 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 107
+  }
+ ]
+}

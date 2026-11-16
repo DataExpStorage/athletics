@@ -1,0 +1,245 @@
+{
+ "id": 7235566,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235566",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:05:40",
+     "name": "Tamirat TOLA",
+     "nat": "ETH",
+     "athleteId": "14589459",
+     "slug": "ethiopia/tamirat-tola-14589459",
+     "birthDate": "11 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:05:55",
+     "name": "Asefa BOKI",
+     "nat": "ETH",
+     "athleteId": "15122982",
+     "slug": "ethiopia/asefa-boki-15122982",
+     "birthDate": "26 SEP 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:06:26",
+     "name": "Boki DIRIBA",
+     "nat": "ETH",
+     "athleteId": "15008615",
+     "slug": "ethiopia/boki-diriba-15008615",
+     "birthDate": "25 FEB 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:06:43",
+     "name": "Dinkalem AYELE",
+     "nat": "ETH",
+     "athleteId": "14862281",
+     "slug": "ethiopia/dinkalem-ayele-14862281",
+     "birthDate": "19 DEC 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:07:07",
+     "name": "Balew YIHUNLE",
+     "nat": "ETH",
+     "athleteId": "014863951",
+     "slug": "ethiopia/balew-yihunle-014863951",
+     "birthDate": "21 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:07:55",
+     "name": "Oqbe Kibrom RUESOM",
+     "nat": "ERI",
+     "athleteId": "14919658",
+     "slug": "eritrea/oqbe-kibrom-ruesom-14919658",
+     "birthDate": "01 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:09:49",
+     "name": "Mulugeta DEBASU",
+     "nat": "ETH",
+     "athleteId": "15113706",
+     "slug": "ethiopia/mulugeta-debasu-15113706",
+     "birthDate": "2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:10:43",
+     "name": "Desalegn GIRMA",
+     "nat": "ETH",
+     "athleteId": "15024067",
+     "slug": "ethiopia/desalegn-girma-15024067",
+     "birthDate": "12 APR 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:10:56",
+     "name": "Nicholas KIRWA",
+     "nat": "KEN",
+     "athleteId": "014812861",
+     "slug": "kenya/nicholas-kirwa-014812861",
+     "birthDate": "16 JUN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:12:04",
+     "name": "Wbet Gebrheat MURUTS",
+     "nat": "ETH",
+     "athleteId": "14921808",
+     "slug": "ethiopia/wbet-gebrheat-muruts-14921808",
+     "birthDate": "21 JUL 2003",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 10
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:21:14",
+     "name": "Tigist GEZAHAGN",
+     "nat": "ETH",
+     "athleteId": "14896244",
+     "slug": "ethiopia/tigist-gezahagn-14896244",
+     "birthDate": "12 MAR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:22:33",
+     "name": "Tigist GIRMA",
+     "nat": "ETH",
+     "athleteId": "14739729",
+     "slug": "ethiopia/tigist-girma-14739729",
+     "birthDate": "12 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:23:21",
+     "name": "Muluhabt TSEGA",
+     "nat": "ETH",
+     "athleteId": "14593390",
+     "slug": "ethiopia/muluhabt-tsega-14593390",
+     "birthDate": "22 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:23:43",
+     "name": "Amana Mursi KIPYATICH",
+     "nat": "KEN",
+     "athleteId": "14920330",
+     "slug": "kenya/amana-mursi-kipyatich-14920330",
+     "birthDate": "15 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:25:29",
+     "name": "Roman GIDEY",
+     "nat": "ETH",
+     "athleteId": "14477377",
+     "slug": "ethiopia/roman-gidey-14477377",
+     "birthDate": "20 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:26:18",
+     "name": "Alemtsehay MEKURIA",
+     "nat": "ETH",
+     "athleteId": "14848762",
+     "slug": "ethiopia/alemtsehay-mekuria-14848762",
+     "birthDate": "16 OCT 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:26:36",
+     "name": "Aamelmal TAGEL",
+     "nat": "ETH",
+     "athleteId": "15008619",
+     "slug": "ethiopia/aamelmal-tagel-15008619",
+     "birthDate": "19 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:28:57",
+     "name": "Sentayehu LEWETEGN",
+     "nat": "ETH",
+     "athleteId": "014672195",
+     "slug": "ethiopia/sentayehu-lewetegn-014672195",
+     "birthDate": "09 MAY 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:29:31",
+     "name": "Ayantu KUMELA",
+     "nat": "ETH",
+     "athleteId": "14917771",
+     "slug": "ethiopia/ayantu-kumela-14917771",
+     "birthDate": "14 MAY 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:36:48",
+     "name": "Asimarech NAGA",
+     "nat": "ETH",
+     "athleteId": "14760029",
+     "slug": "ethiopia/asimarech-naga-14760029",
+     "birthDate": "08 JUN 1999",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 10
+  }
+ ]
+}

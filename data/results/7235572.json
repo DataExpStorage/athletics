@@ -1,0 +1,399 @@
+{
+ "id": 7235572,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235572",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:11:55",
+     "name": "Ezra Kipchumba KERING",
+     "nat": "KEN",
+     "athleteId": "14763753",
+     "slug": "kenya/ezra-kipchumba-kering-14763753",
+     "birthDate": "01 JAN 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:11:59",
+     "name": "Samuel LOMOI",
+     "nat": "KEN",
+     "athleteId": "14895741",
+     "slug": "kenya/samuel-lomoi-14895741",
+     "birthDate": "1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:12:25",
+     "name": "Kephar Lumbasi NAMUTALA",
+     "nat": "KEN",
+     "athleteId": "15316222",
+     "slug": "kenya/kephar-lumbasi-namutala-15316222",
+     "birthDate": "09 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:12:29",
+     "name": "Cornelius Kibiwott CHEPKOK",
+     "nat": "KEN",
+     "athleteId": "14818913",
+     "slug": "kenya/cornelius-kibiwott-chepkok-14818913",
+     "birthDate": "31 DEC 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:12:31",
+     "name": "Gezu ANBESE",
+     "nat": "ETH",
+     "athleteId": "15187407",
+     "slug": "ethiopia/gezu-anbese-15187407",
+     "birthDate": "12 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:12:54",
+     "name": "Alex KORIO",
+     "nat": "KEN",
+     "athleteId": "14433946",
+     "slug": "kenya/alex-korio-14433946",
+     "birthDate": "20 NOV 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:12:57",
+     "name": "Edwin KIPTOO",
+     "nat": "KEN",
+     "athleteId": "15224120",
+     "slug": "kenya/edwin-kiptoo-15224120",
+     "birthDate": "13 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:13:01",
+     "name": "Wilson CHERUIYOT",
+     "nat": "KEN",
+     "athleteId": "14763939",
+     "slug": "kenya/wilson-cheruiyot-14763939",
+     "birthDate": "15 NOV 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:13:05",
+     "name": "Haimanot DELELE",
+     "nat": "ETH",
+     "athleteId": "15267277",
+     "slug": "ethiopia/haimanot-delele-15267277",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:14:11",
+     "name": "Agunafr BEKELE",
+     "nat": "ETH",
+     "athleteId": "14692675",
+     "slug": "ethiopia/agunafr-bekele-14692675",
+     "birthDate": "14 OCT 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:15:55",
+     "name": "Felix Kipchirchir KANDIE",
+     "nat": "KEN",
+     "athleteId": "14383209",
+     "slug": "kenya/felix-kipchirchir-kandie-14383209",
+     "birthDate": "10 APR 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:16:08",
+     "name": "Kiprotich KIRUI",
+     "nat": "KEN",
+     "athleteId": "14368793",
+     "slug": "kenya/kiprotich-kirui-14368793",
+     "birthDate": "22 DEC 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:16:37",
+     "name": "Paul EYANAE",
+     "nat": "KEN",
+     "athleteId": "14721182",
+     "slug": "kenya/paul-eyanae-14721182",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:17:02",
+     "name": "Seboka NEGUSSE",
+     "nat": "ETH",
+     "athleteId": "14446120",
+     "slug": "ethiopia/seboka-negusse-14446120",
+     "birthDate": "07 JAN 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:17:34",
+     "name": "Emmanuel NAIBEI",
+     "nat": "KEN",
+     "athleteId": "14367690",
+     "slug": "kenya/emmanuel-naibei-14367690",
+     "birthDate": "20 JUL 1983",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:18:08",
+     "name": "Gadissa BEKELE",
+     "nat": "ETH",
+     "athleteId": "15016411",
+     "slug": "ethiopia/gadissa-bekele-15016411",
+     "birthDate": "12 SEP 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:21:10",
+     "name": "Alex SAEKWO",
+     "nat": "KEN",
+     "athleteId": "14507115",
+     "slug": "kenya/alex-saekwo-14507115",
+     "birthDate": "12 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:21:28",
+     "name": "Koech CHERUIYOT",
+     "nat": "KEN",
+     "athleteId": "014510344",
+     "slug": "kenya/koech-cheruiyot-014510344",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:22:50",
+     "name": "Silas CHEPROT",
+     "nat": "KEN",
+     "athleteId": "14593555",
+     "slug": "kenya/silas-cheprot-14593555",
+     "birthDate": "06 NOV 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:25:04",
+     "name": "Debela FEYSA",
+     "nat": "ETH",
+     "athleteId": "14581911",
+     "slug": "ethiopia/debela-feysa-14581911",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 27
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:37:36",
+     "name": "Meseret DINKE",
+     "nat": "ETH",
+     "athleteId": "14878325",
+     "slug": "ethiopia/meseret-dinke-14878325",
+     "birthDate": "22 SEP 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:37:43",
+     "name": "Philomena CHEYECH",
+     "nat": "KEN",
+     "athleteId": "14288983",
+     "slug": "kenya/philomena-cheyech-14288983",
+     "birthDate": "05 JUL 1982",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:38:59",
+     "name": "Getaw WGAGEN",
+     "nat": "ETH",
+     "athleteId": "15324192",
+     "slug": "ethiopia/getaw-wgagen-15324192",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:39:10",
+     "name": "Atalena Napule Gaspore LOLIHA",
+     "nat": "SSD",
+     "athleteId": "15142185",
+     "slug": "south-sudan/atalena-napule-gaspore-loliha-15142185",
+     "birthDate": "01 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:39:32",
+     "name": "Eunice NYAWIRA MUCHIRI",
+     "nat": "KEN",
+     "athleteId": "14427267",
+     "slug": "kenya/eunice-nyawira-muchiri-14427267",
+     "birthDate": "29 SEP 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:39:45",
+     "name": "Genet DEMISSE",
+     "nat": "ETH",
+     "athleteId": "14472923",
+     "slug": "ethiopia/genet-demisse-14472923",
+     "birthDate": "1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:40:42",
+     "name": "Rodah Jepkorir TANUI",
+     "nat": "KEN",
+     "athleteId": "14620553",
+     "slug": "kenya/rodah-jepkorir-tanui-14620553",
+     "birthDate": "25 APR 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:40:44",
+     "name": "Sharon Jemutai CHEROP",
+     "nat": "KEN",
+     "athleteId": "14288956",
+     "slug": "kenya/sharon-jemutai-cherop-14288956",
+     "birthDate": "16 MAR 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:43:02",
+     "name": "Naomi Jepkosgei MAIYO",
+     "nat": "KEN",
+     "athleteId": "14383999",
+     "slug": "kenya/naomi-jepkosgei-maiyo-14383999",
+     "birthDate": "05 APR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:43:35",
+     "name": "Sharon KIPCHUMBA",
+     "nat": "KEN",
+     "athleteId": "14973597",
+     "slug": "kenya/sharon-kipchumba-14973597",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:44:47",
+     "name": "Chaltu WAKA",
+     "nat": "ETH",
+     "athleteId": "14563584",
+     "slug": "ethiopia/chaltu-waka-14563584",
+     "birthDate": "25 SEP 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:55:46",
+     "name": "Deborah PAM",
+     "nat": "NGR",
+     "athleteId": "14388473",
+     "slug": "nigeria/deborah-pam-14388473",
+     "birthDate": "21 SEP 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "3:00:16",
+     "name": "Meseret BIRU",
+     "nat": "ETH",
+     "athleteId": "14792562",
+     "slug": "ethiopia/meseret-biru-14792562",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "3:01:57",
+     "name": "Elizabeth NUHU",
+     "nat": "NGR",
+     "athleteId": "14652318",
+     "slug": "nigeria/elizabeth-nuhu-14652318",
+     "birthDate": "13 JUN 1996",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 14
+  }
+ ]
+}

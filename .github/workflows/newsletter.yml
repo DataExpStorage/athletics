@@ -1,0 +1,29 @@
+name: Send newsletter to Telegram
+
+on:
+  push:
+    branches: [main]
+    paths: ["newsletters/*.md"]
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send newly added newsletters
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+        run: |
+          files=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'newsletters/*.md')
+          if [ -z "$files" ]; then echo "No new newsletter"; exit 0; fi
+          python scripts/send_telegram.py $files

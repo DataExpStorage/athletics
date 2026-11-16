@@ -1,0 +1,465 @@
+{
+ "id": 7236005,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236005",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "58:03",
+     "name": "Rodrigue KWIZERA",
+     "nat": "BDI",
+     "athleteId": "14786905",
+     "slug": "burundi/rodrigue-kwizera-14786905",
+     "birthDate": "10 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "58:09",
+     "name": "Thierry NDIKUMWENAYO",
+     "nat": "ESP",
+     "athleteId": "14661449",
+     "slug": "spain/thierry-ndikumwenayo-14661449",
+     "birthDate": "26 MAR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "58:12",
+     "name": "Victor KIPRUTO",
+     "nat": "KEN",
+     "athleteId": "15208108",
+     "slug": "kenya/victor-kipruto-15208108",
+     "birthDate": "03 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "58:32",
+     "name": "Tadese WORKU",
+     "nat": "ETH",
+     "athleteId": "14566477",
+     "slug": "ethiopia/tadese-worku-14566477",
+     "birthDate": "20 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "58:42",
+     "name": "Owen KORIR",
+     "nat": "KEN",
+     "athleteId": "15265929",
+     "slug": "kenya/owen-korir-15265929",
+     "birthDate": "10 NOV 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "59:01",
+     "name": "Jemal MEKONEN",
+     "nat": "ETH",
+     "athleteId": "14757695",
+     "slug": "ethiopia/jemal-mekonen-14757695",
+     "birthDate": "11 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "59:03",
+     "name": "James KIPKOGEI",
+     "nat": "KEN",
+     "athleteId": "15150911",
+     "slug": "kenya/james-kipkogei-15150911",
+     "birthDate": "20 OCT 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "59:12",
+     "name": "Yaseen ABDALLA",
+     "nat": "SUD",
+     "athleteId": "14969014",
+     "slug": "sudan/yaseen-abdalla-14969014",
+     "birthDate": "13 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "59:20",
+     "name": "Daniel Simiu EBENYO",
+     "nat": "KEN",
+     "athleteId": "14916366",
+     "slug": "kenya/daniel-simiu-ebenyo-14916366",
+     "birthDate": "18 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "59:20",
+     "name": "Melkeneh AZIZE",
+     "nat": "ETH",
+     "athleteId": "14968505",
+     "slug": "ethiopia/melkeneh-azize-14968505",
+     "birthDate": "01 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "59:23",
+     "name": "Emmanuel ROUDOLFF LEVISSE",
+     "nat": "FRA",
+     "athleteId": "14473176",
+     "slug": "france/emmanuel-roudolff-levisse-14473176",
+     "birthDate": "30 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "59:44",
+     "name": "Maxime CHAUMETON",
+     "nat": "RSA",
+     "athleteId": "14811297",
+     "slug": "south-africa/maxime-chaumeton-14811297",
+     "birthDate": "12 JUL 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:00:08",
+     "name": "Aarón LAS HERAS",
+     "nat": "ESP",
+     "athleteId": "14738293",
+     "slug": "spain/aaron-las-heras-14738293",
+     "birthDate": "22 JUN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:00:20",
+     "name": "Tomoya OGIKUBO",
+     "nat": "JPN",
+     "athleteId": "14813995",
+     "slug": "japan/tomoya-ogikubo-14813995",
+     "birthDate": "11 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:00:42",
+     "name": "Jacob Sommer SIMONSEN",
+     "nat": "DEN",
+     "athleteId": "14479909",
+     "slug": "denmark/jacob-sommer-simonsen-14479909",
+     "birthDate": "01 JAN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:00:42",
+     "name": "Pasquale SELVAROLO",
+     "nat": "ITA",
+     "athleteId": "14763495",
+     "slug": "italy/pasquale-selvarolo-14763495",
+     "birthDate": "28 NOV 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:00:43",
+     "name": "Duarte GOMES",
+     "nat": "POR",
+     "athleteId": "14804069",
+     "slug": "portugal/duarte-gomes-14804069",
+     "birthDate": "24 NOV 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:01:00",
+     "name": "Adel MECHAAL",
+     "nat": "ESP",
+     "athleteId": "14376490",
+     "slug": "spain/adel-mechaal-14376490",
+     "birthDate": "05 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:01:05",
+     "name": "Jack O'LEARY",
+     "nat": "IRL",
+     "athleteId": "14648669",
+     "slug": "ireland/jack-oleary-14648669",
+     "birthDate": "04 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:01:21",
+     "name": "Rui PINTO",
+     "nat": "POR",
+     "athleteId": "14364464",
+     "slug": "portugal/rui-pinto-14364464",
+     "birthDate": "18 NOV 1992",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 200
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:03:51",
+     "name": "Sheila CHEPKIRUI",
+     "nat": "KEN",
+     "athleteId": "15221351",
+     "slug": "kenya/sheila-chepkirui-15221351",
+     "birthDate": "12 APR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:03:52",
+     "name": "Diana WANZA",
+     "nat": "KEN",
+     "athleteId": "14974968",
+     "slug": "kenya/diana-wanza-14974968",
+     "birthDate": "19 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:04:11",
+     "name": "Daisilah JERONO",
+     "nat": "KEN",
+     "athleteId": "15092325",
+     "slug": "kenya/daisilah-jerono-15092325",
+     "birthDate": "16 NOV 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:04:53",
+     "name": "Mizan ALEM",
+     "nat": "ETH",
+     "athleteId": "14848748",
+     "slug": "ethiopia/mizan-alem-14848748",
+     "birthDate": "22 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:04:57",
+     "name": "Senayet GETACHEW",
+     "nat": "ETH",
+     "athleteId": "15046190",
+     "slug": "ethiopia/senayet-getachew-15046190",
+     "birthDate": "01 OCT 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:04:59",
+     "name": "Caroline Makandi GITONGA",
+     "nat": "KEN",
+     "athleteId": "14761963",
+     "slug": "kenya/caroline-makandi-gitonga-14761963",
+     "birthDate": "12 MAY 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:05:02",
+     "name": "Gladys KWAMBOKA",
+     "nat": "KEN",
+     "athleteId": "15071402",
+     "slug": "kenya/gladys-kwamboka-15071402",
+     "birthDate": "14 MAR 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:05:29",
+     "name": "Jesca CHELANGAT",
+     "nat": "KEN",
+     "athleteId": "14708966",
+     "slug": "kenya/jesca-chelangat-14708966",
+     "birthDate": "09 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:05:39",
+     "name": "Miriam CHEBET",
+     "nat": "KEN",
+     "athleteId": "15019004",
+     "slug": "kenya/miriam-chebet-15019004",
+     "birthDate": "18 SEP 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:05:40",
+     "name": "Aynadis MEBRATU",
+     "nat": "ETH",
+     "athleteId": "14923883",
+     "slug": "ethiopia/aynadis-mebratu-14923883",
+     "birthDate": "25 NOV 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:05:56",
+     "name": "Purity Kajuju GITONGA",
+     "nat": "KEN",
+     "athleteId": "14892498",
+     "slug": "kenya/purity-kajuju-gitonga-14892498",
+     "birthDate": "12 MAY 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:06:13",
+     "name": "Faith CHERONO",
+     "nat": "KEN",
+     "athleteId": "14808815",
+     "slug": "kenya/faith-cherono-14808815",
+     "birthDate": "18 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:06:20",
+     "name": "Tsigie GEBRESELAMA",
+     "nat": "ETH",
+     "athleteId": "14848732",
+     "slug": "ethiopia/tsigie-gebreselama-14848732",
+     "birthDate": "30 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:06:41",
+     "name": "Ftaw ZERAY",
+     "nat": "ETH",
+     "athleteId": "14828354",
+     "slug": "ethiopia/ftaw-zeray-14828354",
+     "birthDate": "03 AUG 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:06:43",
+     "name": "Axumawit EMBAYE",
+     "nat": "ETH",
+     "athleteId": "14534819",
+     "slug": "ethiopia/axumawit-embaye-14534819",
+     "birthDate": "18 OCT 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:07:21",
+     "name": "Yalemzerf YEHUALAW",
+     "nat": "ETH",
+     "athleteId": "14893581",
+     "slug": "ethiopia/yalemzerf-yehualaw-14893581",
+     "birthDate": "03 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:07:37",
+     "name": "Emily VENTERS",
+     "nat": "USA",
+     "athleteId": "14649688",
+     "slug": "united-states/emily-venters-14649688",
+     "birthDate": "06 JUN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:07:39",
+     "name": "Jana VAN LENT",
+     "nat": "BEL",
+     "athleteId": "14704113",
+     "slug": "belgium/jana-van-lent-14704113",
+     "birthDate": "22 APR 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:08:25",
+     "name": "Lauren RYAN",
+     "nat": "AUS",
+     "athleteId": "14667446",
+     "slug": "australia/lauren-ryan-14667446",
+     "birthDate": "15 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:08:28",
+     "name": "Laura LUENGO",
+     "nat": "ESP",
+     "athleteId": "14705909",
+     "slug": "spain/laura-luengo-14705909",
+     "birthDate": "18 AUG 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 151
+  }
+ ]
+}

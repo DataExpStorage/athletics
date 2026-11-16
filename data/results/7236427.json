@@ -1,0 +1,245 @@
+{
+ "id": 7236427,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236427",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:01:04",
+     "name": "Vincent Kipkemoi NGETICH",
+     "nat": "KEN",
+     "athleteId": "14813827",
+     "slug": "kenya/vincent-kipkemoi-ngetich-14813827",
+     "birthDate": "03 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:02:30",
+     "name": "Gideon KIPROTICH",
+     "nat": "KEN",
+     "athleteId": "15113614",
+     "slug": "kenya/gideon-kiprotich-15113614",
+     "birthDate": "03 OCT 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:05:05",
+     "name": "Bernard WAMBUA",
+     "nat": "KEN",
+     "athleteId": "14784005",
+     "slug": "kenya/bernard-wambua-14784005",
+     "birthDate": "24 MAY 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:05:22",
+     "name": "James KAHURA",
+     "nat": "KEN",
+     "athleteId": "14920327",
+     "slug": "kenya/james-kahura-14920327",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:06:03",
+     "name": "Sammy KITWARA",
+     "nat": "KEN",
+     "athleteId": "14208598",
+     "slug": "kenya/sammy-kitwara-14208598",
+     "birthDate": "26 NOV 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:08:05",
+     "name": "Rikki Martin SIMBOLON",
+     "nat": "INA",
+     "athleteId": "14933332",
+     "slug": "indonesia/rikki-martin-simbolon-14933332",
+     "birthDate": "23 MAR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:08:20",
+     "name": "Samir NASER",
+     "nat": "ETH",
+     "athleteId": "14822322",
+     "slug": "ethiopia/samir-naser-14822322",
+     "birthDate": "28 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:08:56",
+     "name": "Pandu SUKARYA",
+     "nat": "INA",
+     "athleteId": "14896345",
+     "slug": "indonesia/pandu-sukarya-14896345",
+     "birthDate": "11 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:08:59",
+     "name": "Syamsuddin MASSA",
+     "nat": "INA",
+     "athleteId": "014821392",
+     "slug": "indonesia/syamsuddin-massa-014821392",
+     "birthDate": "19 JUL 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:11:04",
+     "name": "Nur SHODIQ",
+     "nat": "INA",
+     "athleteId": "14765242",
+     "slug": "indonesia/nur-shodiq-14765242",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:11:11",
+     "name": "Dean MENZIES",
+     "nat": "AUS",
+     "athleteId": "14769883",
+     "slug": "australia/dean-menzies-14769883",
+     "birthDate": "04 FEB 1988",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 11
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:08:09",
+     "name": "Margaret Chelimo KIPKEMBOI",
+     "nat": "KEN",
+     "athleteId": "14375882",
+     "slug": "kenya/margaret-chelimo-kipkemboi-14375882",
+     "birthDate": "09 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:10:29",
+     "name": "Stella CHESANG",
+     "nat": "UGA",
+     "athleteId": "14464203",
+     "slug": "uganda/stella-chesang-14464203",
+     "birthDate": "01 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:11:37",
+     "name": "Naomi CHEPNGENO",
+     "nat": "KEN",
+     "athleteId": "14425858",
+     "slug": "kenya/naomi-chepngeno-14425858",
+     "birthDate": "22 DEC 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:12:46",
+     "name": "Rebecca CHELANGAT",
+     "nat": "UGA",
+     "athleteId": "14885455",
+     "slug": "uganda/rebecca-chelangat-14885455",
+     "birthDate": "01 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:13:03",
+     "name": "Linet Chepkwemoi MASAI",
+     "nat": "KEN",
+     "athleteId": "14289264",
+     "slug": "kenya/linet-chepkwemoi-masai-14289264",
+     "birthDate": "05 DEC 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:13:55",
+     "name": "Odekta Elvina NAIBAHO",
+     "nat": "INA",
+     "athleteId": "14765274",
+     "slug": "indonesia/odekta-elvina-naibaho-14765274",
+     "birthDate": "05 NOV 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:19:59",
+     "name": "Nefriana DAIK",
+     "nat": "INA",
+     "athleteId": "15109699",
+     "slug": "indonesia/nefriana-daik-15109699",
+     "birthDate": "27 NOV 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:25:08",
+     "name": "Martina AYU",
+     "nat": "INA",
+     "athleteId": "15354424",
+     "slug": "indonesia/martina-ayu-15354424",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:26:51",
+     "name": "Gladys FABIOLA",
+     "nat": "INA",
+     "athleteId": "15354425",
+     "slug": "indonesia/gladys-fabiola-15354425",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 9
+  }
+ ]
+}

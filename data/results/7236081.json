@@ -1,0 +1,465 @@
+{
+ "id": 7236081,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236081",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:00:35",
+     "name": "Patrick MOSIN",
+     "nat": "KEN",
+     "athleteId": "14919620",
+     "slug": "kenya/patrick-mosin-14919620",
+     "birthDate": "06 JUN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:00:36",
+     "name": "Boniface MULWA",
+     "nat": "KEN",
+     "athleteId": "14892079",
+     "slug": "kenya/boniface-mulwa-14892079",
+     "birthDate": "16 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:00:37",
+     "name": "Geofry Toroitich KIPCHUMBA",
+     "nat": "KEN",
+     "athleteId": "14855730",
+     "slug": "kenya/geofry-toroitich-kipchumba-14855730",
+     "birthDate": "01 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:00:38",
+     "name": "Kiprono SITONIK",
+     "nat": "KEN",
+     "athleteId": "14798187",
+     "slug": "kenya/kiprono-sitonik-14798187",
+     "birthDate": "10 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:00:38",
+     "name": "Stephen MUTHINI",
+     "nat": "KEN",
+     "athleteId": "14989882",
+     "slug": "kenya/stephen-muthini-14989882",
+     "birthDate": "20 JUL 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:00:46",
+     "name": "Shoki YAMAGUCHI",
+     "nat": "JPN",
+     "athleteId": "15053657",
+     "slug": "japan/shoki-yamaguchi-15053657",
+     "birthDate": "25 MAY 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:01:17",
+     "name": "James Mwanzia MUTUKU",
+     "nat": "KEN",
+     "athleteId": "14894335",
+     "slug": "kenya/james-mwanzia-mutuku-14894335",
+     "birthDate": "20 DEC 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:01:18",
+     "name": "Richard YATOR",
+     "nat": "KEN",
+     "athleteId": "14708970",
+     "slug": "kenya/richard-yator-14708970",
+     "birthDate": "04 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:01:35",
+     "name": "Brian KIPTOO",
+     "nat": "KEN",
+     "athleteId": "14858602",
+     "slug": "kenya/brian-kiptoo-14858602",
+     "birthDate": "15 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:01:42",
+     "name": "Festus Kiprono CHERUIYOT",
+     "nat": "KEN",
+     "athleteId": "15199056",
+     "slug": "kenya/festus-kiprono-cheruiyot-15199056",
+     "birthDate": "05 MAY 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:01:43",
+     "name": "Shunsuke SHIKAMA",
+     "nat": "JPN",
+     "athleteId": "14912325",
+     "slug": "japan/shunsuke-shikama-14912325",
+     "birthDate": "07 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:01:46",
+     "name": "Tsubasa ICHIYAMA",
+     "nat": "JPN",
+     "athleteId": "14731465",
+     "slug": "japan/tsubasa-ichiyama-14731465",
+     "birthDate": "08 APR 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:01:52",
+     "name": "Joseph MUMO",
+     "nat": "KEN",
+     "athleteId": "14479189",
+     "slug": "kenya/joseph-mumo-14479189",
+     "birthDate": "25 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:01:54",
+     "name": "Yusuke NISHIYAMA",
+     "nat": "JPN",
+     "athleteId": "14444458",
+     "slug": "japan/yusuke-nishiyama-14444458",
+     "birthDate": "07 NOV 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:01:58",
+     "name": "Koki YOSHIOKA",
+     "nat": "JPN",
+     "athleteId": "14639756",
+     "slug": "japan/koki-yoshioka-14639756",
+     "birthDate": "06 JAN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:01:59",
+     "name": "Evans Keitany KIPTUM",
+     "nat": "KEN",
+     "athleteId": "14477630",
+     "slug": "kenya/evans-keitany-kiptum-14477630",
+     "birthDate": "27 NOV 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:02:04",
+     "name": "Shoma HOSOYA",
+     "nat": "JPN",
+     "athleteId": "14854376",
+     "slug": "japan/shoma-hosoya-14854376",
+     "birthDate": "13 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:02:10",
+     "name": "Jinya OZAKI",
+     "nat": "JPN",
+     "athleteId": "14958268",
+     "slug": "japan/jinya-ozaki-14958268",
+     "birthDate": "08 JAN 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:02:28",
+     "name": "Josphat Ledama KISAISA",
+     "nat": "KEN",
+     "athleteId": "14695603",
+     "slug": "kenya/josphat-ledama-kisaisa-14695603",
+     "birthDate": "25 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:02:30",
+     "name": "Masashi NONAKA",
+     "nat": "JPN",
+     "athleteId": "014689021",
+     "slug": "japan/masashi-nonaka-014689021",
+     "birthDate": "10 NOV 1995",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 88
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:07:04",
+     "name": "Dolphine Nyaboke OMARE",
+     "nat": "KEN",
+     "athleteId": "14758190",
+     "slug": "kenya/dolphine-nyaboke-omare-14758190",
+     "birthDate": "26 JUL 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:07:06",
+     "name": "Janeth Nyiva MUTUNGI",
+     "nat": "KEN",
+     "athleteId": "14849583",
+     "slug": "kenya/janeth-nyiva-mutungi-14849583",
+     "birthDate": "27 AUG 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:07:24",
+     "name": "Agnes Mwikali MUTUKU",
+     "nat": "KEN",
+     "athleteId": "14915503",
+     "slug": "kenya/agnes-mwikali-mutuku-14915503",
+     "birthDate": "15 DEC 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:08:10",
+     "name": "Winnie Jepkosgei KIMUTAI",
+     "nat": "KEN",
+     "athleteId": "14798241",
+     "slug": "kenya/winnie-jepkosgei-kimutai-14798241",
+     "birthDate": "06 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:08:31",
+     "name": "Virginia NYAMBURA",
+     "nat": "KEN",
+     "athleteId": "14425796",
+     "slug": "kenya/virginia-nyambura-14425796",
+     "birthDate": "20 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:09:07",
+     "name": "Gladys CHEPKURUI",
+     "nat": "KEN",
+     "athleteId": "14530653",
+     "slug": "kenya/gladys-chepkurui-14530653",
+     "birthDate": "17 AUG 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:09:55",
+     "name": "Soukaina ATANANE",
+     "nat": "MAR",
+     "athleteId": "14438638",
+     "slug": "morocco/soukaina-atanane-14438638",
+     "birthDate": "28 JUN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:10:05",
+     "name": "Esther MUTHONI",
+     "nat": "KEN",
+     "athleteId": "14962711",
+     "slug": "kenya/esther-muthoni-14962711",
+     "birthDate": "27 DEC 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:10:43",
+     "name": "Kana KOBAYASHI",
+     "nat": "JPN",
+     "athleteId": "15044337",
+     "slug": "japan/kana-kobayashi-15044337",
+     "birthDate": "04 APR 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:11:05",
+     "name": "Mizuki MATSUDA",
+     "nat": "JPN",
+     "athleteId": "14548272",
+     "slug": "japan/mizuki-matsuda-14548272",
+     "birthDate": "31 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:11:10",
+     "name": "Annet Chemengich CHELANGAT",
+     "nat": "UGA",
+     "athleteId": "14913700",
+     "slug": "uganda/annet-chemengich-chelangat-14913700",
+     "birthDate": "29 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:11:15",
+     "name": "Yuki TOYODA",
+     "nat": "JPN",
+     "athleteId": "14955824",
+     "slug": "japan/yuki-toyoda-14955824",
+     "birthDate": "05 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:12:17",
+     "name": "Miu YAGI",
+     "nat": "JPN",
+     "athleteId": "14895641",
+     "slug": "japan/miu-yagi-14895641",
+     "birthDate": "22 SEP 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:12:33",
+     "name": "Kaho HORIO",
+     "nat": "JPN",
+     "athleteId": "14911744",
+     "slug": "japan/kaho-horio-14911744",
+     "birthDate": "31 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:13:08",
+     "name": "Mio KURODA",
+     "nat": "JPN",
+     "athleteId": "14912776",
+     "slug": "japan/mio-kuroda-14912776",
+     "birthDate": "12 FEB 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:13:19",
+     "name": "Madoka NAKANO",
+     "nat": "JPN",
+     "athleteId": "14512795",
+     "slug": "japan/madoka-nakano-14512795",
+     "birthDate": "14 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:13:20",
+     "name": "Selly Chepyego KAPTICH",
+     "nat": "KEN",
+     "athleteId": "14372447",
+     "slug": "kenya/selly-chepyego-kaptich-14372447",
+     "birthDate": "03 OCT 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:13:45",
+     "name": "Malindi ELMORE",
+     "nat": "CAN",
+     "athleteId": "14268042",
+     "slug": "canada/malindi-elmore-14268042",
+     "birthDate": "13 MAR 1980",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:13:49",
+     "name": "Kokone SAKAI",
+     "nat": "JPN",
+     "athleteId": "14956356",
+     "slug": "japan/kokone-sakai-14956356",
+     "birthDate": "04 APR 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:14:28",
+     "name": "Honoka HIGUCHI",
+     "nat": "JPN",
+     "athleteId": "14950726",
+     "slug": "japan/honoka-higuchi-14950726",
+     "birthDate": "03 JAN 2005",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 33
+  }
+ ]
+}

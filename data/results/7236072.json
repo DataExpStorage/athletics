@@ -1,0 +1,236 @@
+{
+ "id": 7236072,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236072",
+ "events": [
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:21:54",
+     "name": "Sheila CHEPKIRUI",
+     "nat": "KEN",
+     "athleteId": "14289156",
+     "slug": "kenya/sheila-chepkirui-14289156",
+     "birthDate": "27 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:21:56",
+     "name": "Sayaka SATO",
+     "nat": "JPN",
+     "athleteId": "14594119",
+     "slug": "japan/sayaka-sato-14594119",
+     "birthDate": "27 MAY 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:22:37",
+     "name": "Aynalem DESTA",
+     "nat": "ETH",
+     "athleteId": "15009589",
+     "slug": "ethiopia/aynalem-desta-15009589",
+     "birthDate": "21 JAN 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:22:53",
+     "name": "Rika KASEDA",
+     "nat": "JPN",
+     "athleteId": "14719677",
+     "slug": "japan/rika-kaseda-14719677",
+     "birthDate": "02 MAR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:23:45",
+     "name": "Natsuki OMORI",
+     "nat": "JPN",
+     "athleteId": "14441904",
+     "slug": "japan/natsuki-omori-14441904",
+     "birthDate": "22 JUN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:24:34",
+     "name": "Sora SHINOZAKURA",
+     "nat": "JPN",
+     "athleteId": "14821565",
+     "slug": "japan/sora-shinozakura-14821565",
+     "birthDate": "09 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:24:44",
+     "name": "Rino GOSHIMA",
+     "nat": "JPN",
+     "athleteId": "14608144",
+     "slug": "japan/rino-goshima-14608144",
+     "birthDate": "29 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:25:06",
+     "name": "Genevieve GREGSON",
+     "nat": "AUS",
+     "athleteId": "14271807",
+     "slug": "australia/genevieve-gregson-14271807",
+     "birthDate": "04 AUG 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:25:07",
+     "name": "Aika MURAKAMI",
+     "nat": "JPN",
+     "athleteId": "14767066",
+     "slug": "japan/aika-murakami-14767066",
+     "birthDate": "22 MAY 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:25:58",
+     "name": "Yuna TAKAHASHI",
+     "nat": "JPN",
+     "athleteId": "14728013",
+     "slug": "japan/yuna-takahashi-14728013",
+     "birthDate": "28 MAR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:26:37",
+     "name": "Hikaru KITAGAWA",
+     "nat": "JPN",
+     "athleteId": "14855581",
+     "slug": "japan/hikaru-kitagawa-14855581",
+     "birthDate": "24 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:26:45",
+     "name": "Sakiho TSUTSUI",
+     "nat": "JPN",
+     "athleteId": "14641812",
+     "slug": "japan/sakiho-tsutsui-14641812",
+     "birthDate": "19 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:27:20",
+     "name": "Wakana KABASAWA",
+     "nat": "JPN",
+     "athleteId": "14608139",
+     "slug": "japan/wakana-kabasawa-14608139",
+     "birthDate": "24 MAR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:28:55",
+     "name": "Momoko HANANO",
+     "nat": "JPN",
+     "athleteId": "14727525",
+     "slug": "japan/momoko-hanano-14727525",
+     "birthDate": "15 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:29:29",
+     "name": "Minami YAMANOUCHI",
+     "nat": "JPN",
+     "athleteId": "14460635",
+     "slug": "japan/minami-yamanouchi-14460635",
+     "birthDate": "21 DEC 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:29:58",
+     "name": "Pauline KAMULU",
+     "nat": "KEN",
+     "athleteId": "14577978",
+     "slug": "kenya/pauline-kamulu-14577978",
+     "birthDate": "30 DEC 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:30:32",
+     "name": "Yuka ANDO",
+     "nat": "JPN",
+     "athleteId": "14419637",
+     "slug": "japan/yuka-ando-14419637",
+     "birthDate": "16 MAR 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:30:36",
+     "name": "Mayu NISHIKAWA",
+     "nat": "JPN",
+     "athleteId": "14809687",
+     "slug": "japan/mayu-nishikawa-14809687",
+     "birthDate": "27 MAR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:30:51",
+     "name": "Rinka HIDA",
+     "nat": "JPN",
+     "athleteId": "14855612",
+     "slug": "japan/rinka-hida-14855612",
+     "birthDate": "11 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:30:57",
+     "name": "Ayaka MURAO",
+     "nat": "JPN",
+     "athleteId": "014819303",
+     "slug": "japan/ayaka-murao-014819303",
+     "birthDate": "19 AUG 2000",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 64
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "id": 7235593,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235593",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:04:55",
+     "name": "Enock ONCHARI",
+     "nat": "KEN",
+     "athleteId": "14964832",
+     "slug": "kenya/enock-onchari-14964832",
+     "birthDate": "16 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:05:08",
+     "name": "Hillary KIPKOECH",
+     "nat": "KEN",
+     "athleteId": "14823019",
+     "slug": "kenya/hillary-kipkoech-14823019",
+     "birthDate": "20 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:05:46",
+     "name": "Oqbe Kibrom RUESOM",
+     "nat": "ERI",
+     "athleteId": "14919658",
+     "slug": "eritrea/oqbe-kibrom-ruesom-14919658",
+     "birthDate": "01 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:07:02",
+     "name": "Reuben RONO",
+     "nat": "KEN",
+     "athleteId": "15188982",
+     "slug": "kenya/reuben-rono-15188982",
+     "birthDate": "2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:22:53",
+     "name": "Anže ROBLEK",
+     "nat": "SLO",
+     "athleteId": "15248971",
+     "slug": "slovenia/anze-roblek-15248971",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:22:53",
+     "name": "Anže ROBLEK",
+     "nat": "SLO",
+     "athleteId": "15248971",
+     "slug": "slovenia/anze-roblek-15248971",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:23:58",
+     "name": "Guta ABIYOTE",
+     "nat": "ETH",
+     "athleteId": "14181292",
+     "slug": "ethiopia/guta-abiyote-14181292",
+     "birthDate": "10 OCT 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:25:38",
+     "name": "Primož KOBE",
+     "nat": "SLO",
+     "athleteId": "14420489",
+     "slug": "slovenia/primoz-kobe-14420489",
+     "birthDate": "23 MAY 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:25:38",
+     "name": "Primož KOBE",
+     "nat": "SLO",
+     "athleteId": "14420489",
+     "slug": "slovenia/primoz-kobe-14420489",
+     "birthDate": "23 MAY 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:29:20",
+     "name": "Simon NAVODNIK",
+     "nat": "SLO",
+     "athleteId": "14755617",
+     "slug": "slovenia/simon-navodnik-14755617",
+     "birthDate": "1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:30:16",
+     "name": "Jernej MARKOVC",
+     "nat": "SLO",
+     "athleteId": "15263509",
+     "slug": "slovenia/jernej-markovc-15263509",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:30:16",
+     "name": "Jernej MARKOVC",
+     "nat": "SLO",
+     "athleteId": "15263509",
+     "slug": "slovenia/jernej-markovc-15263509",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:30:36",
+     "name": "Matej ZRIMŠEK",
+     "nat": "SLO",
+     "athleteId": "15181968",
+     "slug": "slovenia/matej-zrimsek-15181968",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:33:25",
+     "name": "Tadej SERDINŠEK",
+     "nat": "SLO",
+     "athleteId": "15234645",
+     "slug": "slovenia/tadej-serdinsek-15234645",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:33:25",
+     "name": "Tadej SERDINŠEK",
+     "nat": "SLO",
+     "athleteId": "15234645",
+     "slug": "slovenia/tadej-serdinsek-15234645",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:34:18",
+     "name": "Matevž ŠILAR",
+     "nat": "SLO",
+     "athleteId": "15353706",
+     "slug": "slovenia/matevz-silar-15353706",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:34:18",
+     "name": "Kristaps VARNA",
+     "nat": "LAT",
+     "athleteId": "15246006",
+     "slug": "latvia/kristaps-varna-15246006",
+     "birthDate": "18 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:34:18",
+     "name": "Matevž ŠILAR",
+     "nat": "SLO",
+     "athleteId": "15353706",
+     "slug": "slovenia/matevz-silar-15353706",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:34:25",
+     "name": "Mitja POTRČ",
+     "nat": "SLO",
+     "athleteId": "15181970",
+     "slug": "slovenia/mitja-potrc-15181970",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:36:10",
+     "name": "Dejan LAZNIK",
+     "nat": "SLO",
+     "athleteId": "15312829",
+     "slug": "slovenia/dejan-laznik-15312829",
+     "birthDate": "1986",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 21
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:19:17",
+     "name": "Haftamnesh TESFAYE",
+     "nat": "ETH",
+     "athleteId": "14477373",
+     "slug": "ethiopia/haftamnesh-tesfaye-14477373",
+     "birthDate": "28 APR 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:19:24",
+     "name": "Esther CHEMTAI",
+     "nat": "KEN",
+     "athleteId": "14413304",
+     "slug": "kenya/esther-chemtai-14413304",
+     "birthDate": "02 NOV 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:20:04",
+     "name": "Tigist GEZAHAGN",
+     "nat": "ETH",
+     "athleteId": "14896244",
+     "slug": "ethiopia/tigist-gezahagn-14896244",
+     "birthDate": "12 MAR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:22:40",
+     "name": "Catherine CHEROTICH",
+     "nat": "KEN",
+     "athleteId": "15036075",
+     "slug": "kenya/catherine-cherotich-15036075",
+     "birthDate": "17 OCT 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:24:46",
+     "name": "Tsige HAILESLASE",
+     "nat": "ETH",
+     "athleteId": "14792225",
+     "slug": "ethiopia/tsige-haileslase-14792225",
+     "birthDate": "21 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:49:38",
+     "name": "Marie COOSEMANS",
+     "nat": "BEL",
+     "athleteId": "15019438",
+     "slug": "belgium/marie-coosemans-15019438",
+     "birthDate": "1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:49:39",
+     "name": "Saša PISK",
+     "nat": "SLO",
+     "athleteId": "014860709",
+     "slug": "slovenia/sasa-pisk-014860709",
+     "birthDate": "1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:49:39",
+     "name": "Saša PISK",
+     "nat": "SLO",
+     "athleteId": "014860709",
+     "slug": "slovenia/sasa-pisk-014860709",
+     "birthDate": "1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:49:40",
+     "name": "Mona KLEIN",
+     "nat": "GER",
+     "athleteId": "15000878",
+     "slug": "germany/mona-klein-15000878",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:58:00",
+     "name": "Vesna DOLENC",
+     "nat": "SLO",
+     "athleteId": "15181966",
+     "slug": "slovenia/vesna-dolenc-15181966",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:58:04",
+     "name": "Dominika PODOBNIK",
+     "nat": "SLO",
+     "athleteId": "15114477",
+     "slug": "slovenia/dominika-podobnik-15114477",
+     "birthDate": "1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:58:04",
+     "name": "Dominika PODOBNIK",
+     "nat": "SLO",
+     "athleteId": "15114477",
+     "slug": "slovenia/dominika-podobnik-15114477",
+     "birthDate": "1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:58:10",
+     "name": "Charlotte JOHNSON",
+     "nat": "GBR",
+     "athleteId": "15267548",
+     "slug": "great-britain-ni/charlotte-johnson-15267548",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "3:01:09",
+     "name": "Ingrid LANTHALER",
+     "nat": "SUI",
+     "athleteId": "14750254",
+     "slug": "switzerland/ingrid-lanthaler-14750254",
+     "birthDate": "1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "3:04:10",
+     "name": "Jerca ZAJC",
+     "nat": "SLO",
+     "athleteId": "15315382",
+     "slug": "slovenia/jerca-zajc-15315382",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 15
+  }
+ ]
+}

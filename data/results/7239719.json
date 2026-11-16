@@ -1,0 +1,146 @@
+{
+ "id": 7239719,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7239719",
+ "events": [
+  {
+   "event": "Men's 10 Kilometres Road",
+   "eventId": 10229507,
+   "gender": "M",
+   "distance": "10km",
+   "results": [
+    {
+     "place": "1",
+     "mark": "27:49",
+     "name": "Owen KORIR",
+     "nat": "KEN",
+     "athleteId": "15265929",
+     "slug": "kenya/owen-korir-15265929",
+     "birthDate": "10 NOV 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "27:56",
+     "name": "Brian Kibor AKOTIR",
+     "nat": "KEN",
+     "athleteId": "15182754",
+     "slug": "kenya/brian-kibor-akotir-15182754",
+     "birthDate": "10 OCT 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "28:27",
+     "name": "Filex Kibet MASAI",
+     "nat": "KEN",
+     "athleteId": "14989935",
+     "slug": "kenya/filex-kibet-masai-14989935",
+     "birthDate": "05 FEB 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "28:32",
+     "name": "Yismaw DILLU",
+     "nat": "ETH",
+     "athleteId": "15058747",
+     "slug": "ethiopia/yismaw-dillu-15058747",
+     "birthDate": "11 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "29:11",
+     "name": "Hagos EYOB",
+     "nat": "ETH",
+     "athleteId": "15141858",
+     "slug": "ethiopia/hagos-eyob-15141858",
+     "birthDate": "16 DEC 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "31:54",
+     "name": "Djessy MOULELE",
+     "nat": "GAB",
+     "athleteId": "15106293",
+     "slug": "gabon/djessy-moulele-15106293",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 6
+  },
+  {
+   "event": "Women's 10 Kilometres Road",
+   "eventId": 10229537,
+   "gender": "W",
+   "distance": "10km",
+   "results": [
+    {
+     "place": "1",
+     "mark": "30:52",
+     "name": "Loice CHEMNUNG",
+     "nat": "KEN",
+     "athleteId": "14590680",
+     "slug": "kenya/loice-chemnung-14590680",
+     "birthDate": "22 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "31:25",
+     "name": "Axumawit EMBAYE",
+     "nat": "ETH",
+     "athleteId": "14534819",
+     "slug": "ethiopia/axumawit-embaye-14534819",
+     "birthDate": "18 OCT 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "31:27",
+     "name": "Aynalem DESTA",
+     "nat": "ETH",
+     "athleteId": "15009589",
+     "slug": "ethiopia/aynalem-desta-15009589",
+     "birthDate": "21 JAN 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "31:38",
+     "name": "Bosena MULATIE",
+     "nat": "ETH",
+     "athleteId": "14921807",
+     "slug": "ethiopia/bosena-mulatie-14921807",
+     "birthDate": "21 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "33:12",
+     "name": "Sheila CHEPKIRUI",
+     "nat": "KEN",
+     "athleteId": "15221351",
+     "slug": "kenya/sheila-chepkirui-15221351",
+     "birthDate": "12 APR 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 5
+  }
+ ]
+}

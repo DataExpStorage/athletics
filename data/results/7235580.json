@@ -1,0 +1,465 @@
+{
+ "id": 7235580,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235580",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:02:50",
+     "name": "Guye Idemo ADOLA",
+     "nat": "ETH",
+     "athleteId": "14629097",
+     "slug": "ethiopia/guye-idemo-adola-14629097",
+     "birthDate": "20 OCT 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:03:19",
+     "name": "Gemechu DIDA",
+     "nat": "ETH",
+     "athleteId": "14825107",
+     "slug": "ethiopia/gemechu-dida-14825107",
+     "birthDate": "12 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:03:59",
+     "name": "Gabriel Gerald GEAY",
+     "nat": "TAN",
+     "athleteId": "14677692",
+     "slug": "tanzania/gabriel-gerald-geay-14677692",
+     "birthDate": "10 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:04:55",
+     "name": "Getaneh MOLLA",
+     "nat": "ETH",
+     "athleteId": "14635616",
+     "slug": "ethiopia/getaneh-molla-14635616",
+     "birthDate": "10 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:04:58",
+     "name": "Selemon BAREGA",
+     "nat": "ETH",
+     "athleteId": "14751317",
+     "slug": "ethiopia/selemon-barega-14751317",
+     "birthDate": "20 JAN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:05:32",
+     "name": "Asefa BOKI",
+     "nat": "ETH",
+     "athleteId": "15122982",
+     "slug": "ethiopia/asefa-boki-15122982",
+     "birthDate": "26 SEP 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:05:55",
+     "name": "Andamlak BELIHU",
+     "nat": "ETH",
+     "athleteId": "014800831",
+     "slug": "ethiopia/andamlak-belihu-014800831",
+     "birthDate": "20 NOV 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:06:04",
+     "name": "Shura KITATA",
+     "nat": "ETH",
+     "athleteId": "14730723",
+     "slug": "ethiopia/shura-kitata-14730723",
+     "birthDate": "09 JUN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:06:09",
+     "name": "Yuhei URANO",
+     "nat": "JPN",
+     "athleteId": "14754378",
+     "slug": "japan/yuhei-urano-14754378",
+     "birthDate": "01 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:07:16",
+     "name": "Tadu ABATE",
+     "nat": "ETH",
+     "athleteId": "14785774",
+     "slug": "ethiopia/tadu-abate-14785774",
+     "birthDate": "11 SEP 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:07:36",
+     "name": "Kenya SONOTA",
+     "nat": "JPN",
+     "athleteId": "14483455",
+     "slug": "japan/kenya-sonota-14483455",
+     "birthDate": "10 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:07:44",
+     "name": "Shunsuke SHIKAMA",
+     "nat": "JPN",
+     "athleteId": "14912325",
+     "slug": "japan/shunsuke-shikama-14912325",
+     "birthDate": "07 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:07:53",
+     "name": "Daisuke UEKADO",
+     "nat": "JPN",
+     "athleteId": "14606481",
+     "slug": "japan/daisuke-uekado-14606481",
+     "birthDate": "11 DEC 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:07:55",
+     "name": "Xiangdong WU",
+     "nat": "CHN",
+     "athleteId": "14430085",
+     "slug": "pr-of-china/xiangdong-wu-14430085",
+     "birthDate": "17 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:08:21",
+     "name": "Jiahao WANG",
+     "nat": "CHN",
+     "athleteId": "15111707",
+     "slug": "pr-of-china/jiahao-wang-15111707",
+     "birthDate": "06 JUL 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:08:25",
+     "name": "Haftom WELDAY",
+     "nat": "GER",
+     "athleteId": "14767712",
+     "slug": "germany/haftom-welday-14767712",
+     "birthDate": "13 MAR 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:08:26",
+     "name": "Moses TARAKINYU",
+     "nat": "ZIM",
+     "athleteId": "14678099",
+     "slug": "zimbabwe/moses-tarakinyu-14678099",
+     "birthDate": "30 MAR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:08:36",
+     "name": "Shoma HOSOYA",
+     "nat": "JPN",
+     "athleteId": "14854376",
+     "slug": "japan/shoma-hosoya-14854376",
+     "birthDate": "13 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:08:56",
+     "name": "Hidekazu HIJIKATA",
+     "nat": "JPN",
+     "athleteId": "14765558",
+     "slug": "japan/hidekazu-hijikata-14765558",
+     "birthDate": "27 JUN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:09:18",
+     "name": "Davor Aaron BIENENFELD",
+     "nat": "GER",
+     "athleteId": "14716024",
+     "slug": "germany/davor-aaron-bienenfeld-14716024",
+     "birthDate": "25 SEP 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 591
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:11:04",
+     "name": "Tigst ASSEFA",
+     "nat": "ETH",
+     "athleteId": "14388506",
+     "slug": "ethiopia/tigst-assefa-14388506",
+     "birthDate": "03 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:16:53",
+     "name": "Bedatu HIRPA",
+     "nat": "ETH",
+     "athleteId": "14714493",
+     "slug": "ethiopia/bedatu-hirpa-14714493",
+     "birthDate": "28 APR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:16:55",
+     "name": "Dera DIDA",
+     "nat": "ETH",
+     "athleteId": "14672196",
+     "slug": "ethiopia/dera-dida-14672196",
+     "birthDate": "26 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:18:58",
+     "name": "Bekelech GUDETA",
+     "nat": "ETH",
+     "athleteId": "14765899",
+     "slug": "ethiopia/bekelech-gudeta-14765899",
+     "birthDate": "11 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:19:01",
+     "name": "Alemitu TARIKU",
+     "nat": "ETH",
+     "athleteId": "014848725",
+     "slug": "ethiopia/alemitu-tariku-014848725",
+     "birthDate": "28 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:20:23",
+     "name": "Pasacline JELAGAT",
+     "nat": "KEN",
+     "athleteId": "15207175",
+     "slug": "kenya/pasacline-jelagat-15207175",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:20:27",
+     "name": "Misgane ALEMAYEHU",
+     "nat": "ETH",
+     "athleteId": "15190907",
+     "slug": "ethiopia/misgane-alemayehu-15190907",
+     "birthDate": "23 SEP 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:21:25",
+     "name": "Ludwina CHEPNGETICH",
+     "nat": "KEN",
+     "athleteId": "14996573",
+     "slug": "kenya/ludwina-chepngetich-14996573",
+     "birthDate": "08 APR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:21:32",
+     "name": "Evaline CHIRCHIR",
+     "nat": "KEN",
+     "athleteId": "14817923",
+     "slug": "kenya/evaline-chirchir-14817923",
+     "birthDate": "02 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:21:45",
+     "name": "Aminet AHMED",
+     "nat": "ETH",
+     "athleteId": "014884936",
+     "slug": "ethiopia/aminet-ahmed-014884936",
+     "birthDate": "11 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:23:36",
+     "name": "Sisilia Ginoka PANGA",
+     "nat": "TAN",
+     "athleteId": "014872920",
+     "slug": "tanzania/sisilia-ginoka-panga-014872920",
+     "birthDate": "28 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:23:37",
+     "name": "Deshun ZHANG",
+     "nat": "CHN",
+     "athleteId": "14693572",
+     "slug": "pr-of-china/deshun-zhang-14693572",
+     "birthDate": "21 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:24:04",
+     "name": "Rosemary WANJIRU",
+     "nat": "KEN",
+     "athleteId": "14483460",
+     "slug": "kenya/rosemary-wanjiru-14483460",
+     "birthDate": "09 DEC 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:26:32",
+     "name": "Eebbisee ADDUNYAA",
+     "nat": "ETH",
+     "athleteId": "14968513",
+     "slug": "ethiopia/eebbisee-addunyaa-14968513",
+     "birthDate": "11 OCT 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:27:26",
+     "name": "Mao UESUGI",
+     "nat": "JPN",
+     "athleteId": "14686449",
+     "slug": "japan/mao-uesugi-14686449",
+     "birthDate": "16 AUG 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:27:31",
+     "name": "Anna LANGERWISCH",
+     "nat": "GER",
+     "athleteId": "15152622",
+     "slug": "germany/anna-langerwisch-15152622",
+     "birthDate": "2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:27:38",
+     "name": "Rebecca SCHMITT",
+     "nat": "USA",
+     "athleteId": "15148065",
+     "slug": "united-states/rebecca-schmitt-15148065",
+     "birthDate": "30 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:27:43",
+     "name": "Jacqueline GAUGHAN",
+     "nat": "USA",
+     "athleteId": "14689172",
+     "slug": "united-states/jacqueline-gaughan-14689172",
+     "birthDate": "27 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:28:34",
+     "name": "Anastasiya DERKACH",
+     "nat": "RUS",
+     "athleteId": "15112660",
+     "slug": "russia/anastasiya-derkach-15112660",
+     "birthDate": "08 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:28:57",
+     "name": "Rino GOSHIMA",
+     "nat": "JPN",
+     "athleteId": "14608144",
+     "slug": "japan/rino-goshima-14608144",
+     "birthDate": "29 OCT 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 376
+  }
+ ]
+}

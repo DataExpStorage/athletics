@@ -1,0 +1,465 @@
+{
+ "id": 7236794,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236794",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:01",
+     "name": "Habtom SAMUEL",
+     "nat": "ERI",
+     "athleteId": "14919315",
+     "slug": "eritrea/habtom-samuel-14919315",
+     "birthDate": "30 NOV 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "59:14",
+     "name": "Patrick Kiptoo KIPROP",
+     "nat": "KEN",
+     "athleteId": "14975463",
+     "slug": "kenya/patrick-kiptoo-kiprop-14975463",
+     "birthDate": "30 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "59:21",
+     "name": "Mohammed EL YOUSSFI",
+     "nat": "MAR",
+     "athleteId": "14833593",
+     "slug": "morocco/mohammed-el-youssfi-14833593",
+     "birthDate": "25 JUL 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "59:23",
+     "name": "Alex MAIER",
+     "nat": "USA",
+     "athleteId": "14873842",
+     "slug": "united-states/alex-maier-14873842",
+     "birthDate": "22 JAN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "59:34",
+     "name": "Casey CLINGER",
+     "nat": "USA",
+     "athleteId": "14703865",
+     "slug": "united-states/casey-clinger-14703865",
+     "birthDate": "09 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "59:48",
+     "name": "Ryan FORD",
+     "nat": "USA",
+     "athleteId": "14776630",
+     "slug": "united-states/ryan-ford-14776630",
+     "birthDate": "26 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "59:49",
+     "name": "Rory LINKLETTER",
+     "nat": "CAN",
+     "athleteId": "14617088",
+     "slug": "canada/rory-linkletter-14617088",
+     "birthDate": "12 AUG 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "59:57",
+     "name": "Isai RODRIGUEZ",
+     "nat": "USA",
+     "athleteId": "14825335",
+     "slug": "united-states/isai-rodriguez-14825335",
+     "birthDate": "13 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:00:04",
+     "name": "Hillary BOR",
+     "nat": "USA",
+     "athleteId": "14232976",
+     "slug": "united-states/hillary-bor-14232976",
+     "birthDate": "22 NOV 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:00:29",
+     "name": "Vincent Kipkemoi NGETICH",
+     "nat": "KEN",
+     "athleteId": "14813827",
+     "slug": "kenya/vincent-kipkemoi-ngetich-14813827",
+     "birthDate": "03 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:00:32",
+     "name": "Abbabiya SIMBASSA",
+     "nat": "USA",
+     "athleteId": "14550395",
+     "slug": "united-states/abbabiya-simbassa-14550395",
+     "birthDate": "30 JUN 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:00:33",
+     "name": "Haimro ALAME",
+     "nat": "ISR",
+     "athleteId": "14584604",
+     "slug": "israel/haimro-alame-14584604",
+     "birthDate": "08 JUN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:00:51",
+     "name": "Alex Chesiro MASAI",
+     "nat": "KEN",
+     "athleteId": "14829139",
+     "slug": "kenya/alex-chesiro-masai-14829139",
+     "birthDate": "05 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:00:54",
+     "name": "Reed FISCHER",
+     "nat": "USA",
+     "athleteId": "14237773",
+     "slug": "united-states/reed-fischer-14237773",
+     "birthDate": "09 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:00:55",
+     "name": "Dylan SCHUBERT",
+     "nat": "USA",
+     "athleteId": "014971419",
+     "slug": "united-states/dylan-schubert-014971419",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:00:56",
+     "name": "Kengo SUZUKI",
+     "nat": "JPN",
+     "athleteId": "14598158",
+     "slug": "japan/kengo-suzuki-14598158",
+     "birthDate": "11 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:00:58",
+     "name": "Skylar STIDAM",
+     "nat": "USA",
+     "athleteId": "014895941",
+     "slug": "united-states/skylar-stidam-014895941",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:00:58",
+     "name": "Cameron LEVINS",
+     "nat": "CAN",
+     "athleteId": "14326707",
+     "slug": "canada/cameron-levins-14326707",
+     "birthDate": "28 MAR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:01:01",
+     "name": "Marcelo LAGUERA",
+     "nat": "MEX",
+     "athleteId": "14739918",
+     "slug": "mexico/marcelo-laguera-14739918",
+     "birthDate": "12 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:01:09",
+     "name": "Graydon MORRIS",
+     "nat": "USA",
+     "athleteId": "14761555",
+     "slug": "united-states/graydon-morris-14761555",
+     "birthDate": "17 DEC 2001",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 135
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:04:49",
+     "name": "Fentaye BELAYNEH",
+     "nat": "ETH",
+     "athleteId": "14977672",
+     "slug": "ethiopia/fentaye-belayneh-14977672",
+     "birthDate": "11 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:04:52",
+     "name": "Tsigie GEBRESELAMA",
+     "nat": "ETH",
+     "athleteId": "14848732",
+     "slug": "ethiopia/tsigie-gebreselama-14848732",
+     "birthDate": "30 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:05:57",
+     "name": "Buze DIRIBA",
+     "nat": "ETH",
+     "athleteId": "14464196",
+     "slug": "ethiopia/buze-diriba-14464196",
+     "birthDate": "09 FEB 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:06:20",
+     "name": "Taylor ROE",
+     "nat": "USA",
+     "athleteId": "14709234",
+     "slug": "united-states/taylor-roe-14709234",
+     "birthDate": "13 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:06:53",
+     "name": "Sichala KUMESHI",
+     "nat": "ETH",
+     "athleteId": "014602693",
+     "slug": "ethiopia/sichala-kumeshi-014602693",
+     "birthDate": "19 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:07:26",
+     "name": "Evaline CHIRCHIR",
+     "nat": "KEN",
+     "athleteId": "14817923",
+     "slug": "kenya/evaline-chirchir-14817923",
+     "birthDate": "02 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:07:30",
+     "name": "Natosha ROGERS",
+     "nat": "USA",
+     "athleteId": "14413831",
+     "slug": "united-states/natosha-rogers-14413831",
+     "birthDate": "07 MAY 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:07:31",
+     "name": "Laura GALVÁN",
+     "nat": "MEX",
+     "athleteId": "14329560",
+     "slug": "mexico/laura-galvan-14329560",
+     "birthDate": "05 OCT 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:07:37",
+     "name": "Makenna MYLER",
+     "nat": "USA",
+     "athleteId": "14880932",
+     "slug": "united-states/makenna-myler-14880932",
+     "birthDate": "01 JAN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:07:43",
+     "name": "Amanda VESTRI",
+     "nat": "USA",
+     "athleteId": "014718893",
+     "slug": "united-states/amanda-vestri-014718893",
+     "birthDate": "01 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:08:42",
+     "name": "Erika KEMP",
+     "nat": "USA",
+     "athleteId": "14647694",
+     "slug": "united-states/erika-kemp-14647694",
+     "birthDate": "26 JAN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:08:44",
+     "name": "Susanna SULLIVAN",
+     "nat": "USA",
+     "athleteId": "14385840",
+     "slug": "united-states/susanna-sullivan-14385840",
+     "birthDate": "13 MAY 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:08:54",
+     "name": "Dakotah POPEHN",
+     "nat": "USA",
+     "athleteId": "14644196",
+     "slug": "united-states/dakotah-popehn-14644196",
+     "birthDate": "01 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:09:00",
+     "name": "Jessica GOCKLEY-DAY",
+     "nat": "USA",
+     "athleteId": "14778262",
+     "slug": "united-states/jessica-gockley-day-14778262",
+     "birthDate": "27 APR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:09:38",
+     "name": "Lauren MCNEIL",
+     "nat": "GBR",
+     "athleteId": "14792145",
+     "slug": "great-britain-ni/lauren-mcneil-14792145",
+     "birthDate": "20 DEC 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:09:43",
+     "name": "Maggie MONTOYA",
+     "nat": "USA",
+     "athleteId": "14443792",
+     "slug": "united-states/maggie-montoya-14443792",
+     "birthDate": "02 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:10:07",
+     "name": "Honami MAEDA",
+     "nat": "JPN",
+     "athleteId": "14643309",
+     "slug": "japan/honami-maeda-14643309",
+     "birthDate": "17 JUL 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:10:11",
+     "name": "Allie OSTRANDER",
+     "nat": "USA",
+     "athleteId": "14645999",
+     "slug": "united-states/allie-ostrander-14645999",
+     "birthDate": "24 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:10:16",
+     "name": "Annie FRISBIE",
+     "nat": "USA",
+     "athleteId": "14736859",
+     "slug": "united-states/annie-frisbie-14736859",
+     "birthDate": "31 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:11:04",
+     "name": "Alice WRIGHT",
+     "nat": "GBR",
+     "athleteId": "15071634",
+     "slug": "great-britain-ni/alice-wright-15071634",
+     "birthDate": "17 DEC 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 93
+  }
+ ]
+}

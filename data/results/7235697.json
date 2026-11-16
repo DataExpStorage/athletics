@@ -1,0 +1,465 @@
+{
+ "id": 7235697,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235697",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:51",
+     "name": "Alex Nzioka MATATA",
+     "nat": "KEN",
+     "athleteId": "15149838",
+     "slug": "kenya/alex-nzioka-matata-15149838",
+     "birthDate": "27 JUL 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:00:47",
+     "name": "Gemechu DIDA",
+     "nat": "ETH",
+     "athleteId": "14825107",
+     "slug": "ethiopia/gemechu-dida-14825107",
+     "birthDate": "12 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:00:54",
+     "name": "Boaz KIPKEMEI",
+     "nat": "KEN",
+     "athleteId": "15115390",
+     "slug": "kenya/boaz-kipkemei-15115390",
+     "birthDate": "22 MAR 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:01:02",
+     "name": "Othmane EL GOUMRI",
+     "nat": "MAR",
+     "athleteId": "14413330",
+     "slug": "morocco/othmane-el-goumri-14413330",
+     "birthDate": "28 MAY 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:01:34",
+     "name": "Milkesa MENGESHA",
+     "nat": "ETH",
+     "athleteId": "14805798",
+     "slug": "ethiopia/milkesa-mengesha-14805798",
+     "birthDate": "16 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:02:07",
+     "name": "Erenjia JIA",
+     "nat": "CHN",
+     "athleteId": "14821206",
+     "slug": "pr-of-china/erenjia-jia-14821206",
+     "birthDate": "28 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:02:14",
+     "name": "Deresa GELETA",
+     "nat": "ETH",
+     "athleteId": "14816982",
+     "slug": "ethiopia/deresa-geleta-14816982",
+     "birthDate": "14 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:02:15",
+     "name": "Dongzhibu RENQING",
+     "nat": "CHN",
+     "athleteId": "14892576",
+     "slug": "pr-of-china/dongzhibu-renqing-14892576",
+     "birthDate": "15 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:02:39",
+     "name": "Ciren ZHAXI",
+     "nat": "CHN",
+     "athleteId": "15136844",
+     "slug": "pr-of-china/ciren-zhaxi-15136844",
+     "birthDate": "13 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:02:42",
+     "name": "Cairen SUOLANG",
+     "nat": "CHN",
+     "athleteId": "14694176",
+     "slug": "pr-of-china/cairen-suolang-14694176",
+     "birthDate": "28 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:02:46",
+     "name": "Xinyu LI",
+     "nat": "CHN",
+     "athleteId": "15084897",
+     "slug": "pr-of-china/xinyu-li-15084897",
+     "birthDate": "26 FEB 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:02:52",
+     "name": "Fakun JIANG",
+     "nat": "CHN",
+     "athleteId": "14839796",
+     "slug": "pr-of-china/fakun-jiang-14839796",
+     "birthDate": "16 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:02:57",
+     "name": "Hu TIAN",
+     "nat": "CHN",
+     "athleteId": "15218802",
+     "slug": "pr-of-china/hu-tian-15218802",
+     "birthDate": "27 NOV 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:02:58",
+     "name": "Zhangxing YANG",
+     "nat": "CHN",
+     "athleteId": "15085771",
+     "slug": "pr-of-china/zhangxing-yang-15085771",
+     "birthDate": "20 APR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:03:02",
+     "name": "Qiguang FU",
+     "nat": "CHN",
+     "athleteId": "15084905",
+     "slug": "pr-of-china/qiguang-fu-15084905",
+     "birthDate": "25 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:03:02",
+     "name": "Tao WANG",
+     "nat": "CHN",
+     "athleteId": "14902359",
+     "slug": "pr-of-china/tao-wang-14902359",
+     "birthDate": "10 DEC 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:03:08",
+     "name": "Baoxin CHOU",
+     "nat": "CHN",
+     "athleteId": "15084926",
+     "slug": "pr-of-china/baoxin-chou-15084926",
+     "birthDate": "18 MAR 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:03:10",
+     "name": "Sangzhu NIMA",
+     "nat": "CHN",
+     "athleteId": "15071548",
+     "slug": "pr-of-china/sangzhu-nima-15071548",
+     "birthDate": "08 APR 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:03:35",
+     "name": "Yang YU",
+     "nat": "CHN",
+     "athleteId": "14981410",
+     "slug": "pr-of-china/yang-yu-14981410",
+     "birthDate": "04 NOV 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:03:40",
+     "name": "Mingtao TENG",
+     "nat": "CHN",
+     "athleteId": "15052085",
+     "slug": "pr-of-china/mingtao-teng-15052085",
+     "birthDate": "16 MAY 2006",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 30
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:08:04",
+     "name": "Ruti AGA",
+     "nat": "ETH",
+     "athleteId": "14534530",
+     "slug": "ethiopia/ruti-aga-14534530",
+     "birthDate": "16 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:08:33",
+     "name": "Tiantian LIANG",
+     "nat": "CHN",
+     "athleteId": "14950779",
+     "slug": "pr-of-china/tiantian-liang-14950779",
+     "birthDate": "31 AUG 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:09:07",
+     "name": "Wuga HE",
+     "nat": "CHN",
+     "athleteId": "14862415",
+     "slug": "pr-of-china/wuga-he-14862415",
+     "birthDate": "28 JUL 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:09:33",
+     "name": "Meseret ABEBAYAHAU",
+     "nat": "ETH",
+     "athleteId": "14699428",
+     "slug": "ethiopia/meseret-abebayahau-14699428",
+     "birthDate": "28 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:09:42",
+     "name": "Aamelmal TAGEL",
+     "nat": "ETH",
+     "athleteId": "15008619",
+     "slug": "ethiopia/aamelmal-tagel-15008619",
+     "birthDate": "19 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:09:48",
+     "name": "Min LIU",
+     "nat": "CHN",
+     "athleteId": "014908056",
+     "slug": "pr-of-china/min-liu-014908056",
+     "birthDate": "22 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:10:02",
+     "name": "Gladys CHESIR",
+     "nat": "KEN",
+     "athleteId": "14431129",
+     "slug": "kenya/gladys-chesir-14431129",
+     "birthDate": "20 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:10:27",
+     "name": "Junhui LIU",
+     "nat": "CHN",
+     "athleteId": "14849151",
+     "slug": "pr-of-china/junhui-liu-14849151",
+     "birthDate": "02 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:10:36",
+     "name": "Ying LU",
+     "nat": "CHN",
+     "athleteId": "14752711",
+     "slug": "pr-of-china/ying-lu-14752711",
+     "birthDate": "13 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:10:48",
+     "name": "Qingqing LI",
+     "nat": "CHN",
+     "athleteId": "15084891",
+     "slug": "pr-of-china/qingqing-li-15084891",
+     "birthDate": "28 JAN 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:10:51",
+     "name": "Lonah Chemtai SALPETER",
+     "nat": "ISR",
+     "athleteId": "14523502",
+     "slug": "israel/lonah-chemtai-salpeter-14523502",
+     "birthDate": "12 DEC 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:10:52",
+     "name": "Xiaofang TANG",
+     "nat": "CHN",
+     "athleteId": "14962889",
+     "slug": "pr-of-china/xiaofang-tang-14962889",
+     "birthDate": "03 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:11:18",
+     "name": "Yuyu XIA",
+     "nat": "CHN",
+     "athleteId": "14714417",
+     "slug": "pr-of-china/yuyu-xia-14714417",
+     "birthDate": "01 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:11:37",
+     "name": "Grace Loibach NAWOWUNA",
+     "nat": "KEN",
+     "athleteId": "14989694",
+     "slug": "kenya/grace-loibach-nawowuna-14989694",
+     "birthDate": "10 NOV 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:11:41",
+     "name": "Lamu YANGZENG",
+     "nat": "CHN",
+     "athleteId": "15071552",
+     "slug": "pr-of-china/lamu-yangzeng-15071552",
+     "birthDate": "06 MAY 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:11:59",
+     "name": "Dan FENG",
+     "nat": "CHN",
+     "athleteId": "15058844",
+     "slug": "pr-of-china/dan-feng-15058844",
+     "birthDate": "04 JAN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:12:15",
+     "name": "Linying WANG",
+     "nat": "CHN",
+     "athleteId": "14950780",
+     "slug": "pr-of-china/linying-wang-14950780",
+     "birthDate": "16 DEC 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:12:27",
+     "name": "Yi TIAN",
+     "nat": "CHN",
+     "athleteId": "15165845",
+     "slug": "pr-of-china/yi-tian-15165845",
+     "birthDate": "25 JAN 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:12:40",
+     "name": "Shuanglu PAN",
+     "nat": "CHN",
+     "athleteId": "15155551",
+     "slug": "pr-of-china/shuanglu-pan-15155551",
+     "birthDate": "14 APR 2007",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:13:00",
+     "name": "Yanfeng HUANG",
+     "nat": "CHN",
+     "athleteId": "15080428",
+     "slug": "pr-of-china/yanfeng-huang-15080428",
+     "birthDate": "10 DEC 2005",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 30
+  }
+ ]
+}

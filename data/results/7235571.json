@@ -1,0 +1,355 @@
+{
+ "id": 7235571,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235571",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:12:46",
+     "name": "Enock ONCHARI",
+     "nat": "KEN",
+     "athleteId": "14964832",
+     "slug": "kenya/enock-onchari-14964832",
+     "birthDate": "16 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:12:57",
+     "name": "Haimro ALAME",
+     "nat": "ISR",
+     "athleteId": "14584604",
+     "slug": "israel/haimro-alame-14584604",
+     "birthDate": "08 JUN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:14:25",
+     "name": "Nicholas KIRWA",
+     "nat": "KEN",
+     "athleteId": "014812861",
+     "slug": "kenya/nicholas-kirwa-014812861",
+     "birthDate": "16 JUN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:14:26",
+     "name": "Petro MAMU",
+     "nat": "ERI",
+     "athleteId": "14434859",
+     "slug": "eritrea/petro-mamu-14434859",
+     "birthDate": "01 SEP 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:14:30",
+     "name": "Daniel LAUREN",
+     "nat": "KEN",
+     "athleteId": "15261825",
+     "slug": "kenya/daniel-lauren-15261825",
+     "birthDate": "13 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:15:20",
+     "name": "Hitley Ombisi ADEMO",
+     "nat": "KEN",
+     "athleteId": "15115366",
+     "slug": "kenya/hitley-ombisi-ademo-15115366",
+     "birthDate": "23 MAR 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:16:37",
+     "name": "Koech KIPRONO",
+     "nat": "KEN",
+     "athleteId": "15098720",
+     "slug": "kenya/koech-kiprono-15098720",
+     "birthDate": "04 AUG 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:17:44",
+     "name": "Joseph MWANGI",
+     "nat": "KEN",
+     "athleteId": "14682514",
+     "slug": "kenya/joseph-mwangi-14682514",
+     "birthDate": "20 APR 1976",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:18:13",
+     "name": "Abraraw MISGANAW",
+     "nat": "ETH",
+     "athleteId": "14543237",
+     "slug": "ethiopia/abraraw-misganaw-14543237",
+     "birthDate": "05 SEP 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:18:22",
+     "name": "Samson Mungai KAGIA",
+     "nat": "KEN",
+     "athleteId": "14484476",
+     "slug": "kenya/samson-mungai-kagia-14484476",
+     "birthDate": "11 OCT 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:21:37",
+     "name": "Ashenafi MOGES",
+     "nat": "ETH",
+     "athleteId": "14696544",
+     "slug": "ethiopia/ashenafi-moges-14696544",
+     "birthDate": "15 NOV 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:28:43",
+     "name": "Ting-Yin CHOU",
+     "nat": "TPE",
+     "athleteId": "14377884",
+     "slug": "chinese-taipei/ting-yin-chou-14377884",
+     "birthDate": "07 JUL 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:32:56",
+     "name": "Yu-Hsuan HUANG",
+     "nat": "TPE",
+     "athleteId": "15257731",
+     "slug": "chinese-taipei/yu-hsuan-huang-15257731",
+     "birthDate": "23 JUN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:35:46",
+     "name": "Xuan-Hao LIAO",
+     "nat": "TPE",
+     "athleteId": "14845650",
+     "slug": "chinese-taipei/xuan-hao-liao-14845650",
+     "birthDate": "12 SEP 1998",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 14
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:32:32",
+     "name": "Catherine CHEROTICH",
+     "nat": "KEN",
+     "athleteId": "15036075",
+     "slug": "kenya/catherine-cherotich-15036075",
+     "birthDate": "17 OCT 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:33:12",
+     "name": "Ivyne JERUTO",
+     "nat": "KEN",
+     "athleteId": "14783730",
+     "slug": "kenya/ivyne-jeruto-14783730",
+     "birthDate": "28 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:33:47",
+     "name": "Roman GIDEY",
+     "nat": "ETH",
+     "athleteId": "14477377",
+     "slug": "ethiopia/roman-gidey-14477377",
+     "birthDate": "20 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:33:50",
+     "name": "Nigsti HAFTU",
+     "nat": "ETH",
+     "athleteId": "014907588",
+     "slug": "ethiopia/nigsti-haftu-014907588",
+     "birthDate": "08 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:34:38",
+     "name": "Caroline Cheptanui KILEL",
+     "nat": "KEN",
+     "athleteId": "14289106",
+     "slug": "kenya/caroline-cheptanui-kilel-14289106",
+     "birthDate": "21 MAR 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:35:32",
+     "name": "Bekelech TEKU",
+     "nat": "ETH",
+     "athleteId": "14907589",
+     "slug": "ethiopia/bekelech-teku-14907589",
+     "birthDate": "06 JUL 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:37:53",
+     "name": "Meseret GEBRE",
+     "nat": "ETH",
+     "athleteId": "14697240",
+     "slug": "ethiopia/meseret-gebre-14697240",
+     "birthDate": "17 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:39:53",
+     "name": "Ruth KARANJA",
+     "nat": "KEN",
+     "athleteId": "014289071",
+     "slug": "kenya/ruth-karanja-014289071",
+     "birthDate": "05 JUL 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:48:02",
+     "name": "Kalkidan DEBEB",
+     "nat": "ETH",
+     "athleteId": "15022458",
+     "slug": "ethiopia/kalkidan-debeb-15022458",
+     "birthDate": "09 MAY 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:53:01",
+     "name": "Lisa RIES",
+     "nat": "TPE",
+     "athleteId": "15053397",
+     "slug": "chinese-taipei/lisa-ries-15053397",
+     "birthDate": "30 JUN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:54:05",
+     "name": "Chien-Ho HSIEH",
+     "nat": "TPE",
+     "athleteId": "014302830",
+     "slug": "chinese-taipei/chien-ho-hsieh-014302830",
+     "birthDate": "25 NOV 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "3:00:55",
+     "name": "Yin-Ying JU",
+     "nat": "TPE",
+     "athleteId": "15302256",
+     "slug": "chinese-taipei/yin-ying-ju-15302256",
+     "birthDate": "25 FEB 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "3:01:12",
+     "name": "Chia-Mei LEE",
+     "nat": "TPE",
+     "athleteId": "15003877",
+     "slug": "chinese-taipei/chia-mei-lee-15003877",
+     "birthDate": "10 OCT 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "3:04:43",
+     "name": "Ya An TSAI",
+     "nat": "TPE",
+     "athleteId": "14835364",
+     "slug": "chinese-taipei/ya-an-tsai-14835364",
+     "birthDate": "26 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "3:05:45",
+     "name": "Hui-Chuan LEE",
+     "nat": "TPE",
+     "athleteId": "15214347",
+     "slug": "chinese-taipei/hui-chuan-lee-15214347",
+     "birthDate": "15 FEB 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "3:05:57",
+     "name": "Yu Hsin LIU",
+     "nat": "TPE",
+     "athleteId": "15159906",
+     "slug": "chinese-taipei/yu-hsin-liu-15159906",
+     "birthDate": "07 OCT 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 16
+  }
+ ]
+}

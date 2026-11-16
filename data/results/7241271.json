@@ -1,0 +1,93 @@
+{
+ "id": 7241271,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7241271",
+ "events": [
+  {
+   "event": "Women's 10 Kilometres Road",
+   "eventId": 10229537,
+   "gender": "W",
+   "distance": "10km",
+   "results": [
+    {
+     "place": "1",
+     "mark": "34:18",
+     "name": "Silnat BITWE",
+     "nat": "ETH",
+     "athleteId": "15328406",
+     "slug": "ethiopia/silnat-bitwe-15328406",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "34:19",
+     "name": "Mahait KASAHWU",
+     "nat": "ETH",
+     "athleteId": "15328407",
+     "slug": "ethiopia/mahait-kasahwu-15328407",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "34:50",
+     "name": "Fridah NDINDA",
+     "nat": "KEN",
+     "athleteId": "15035985",
+     "slug": "kenya/fridah-ndinda-15035985",
+     "birthDate": "14 JUL 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "36:42",
+     "name": "Patience D. MWAVWANG",
+     "nat": "NGR",
+     "athleteId": "14978314",
+     "slug": "nigeria/patience-d-mwavwang-14978314",
+     "birthDate": "04 JAN 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "36:51",
+     "name": "Lydia THOMAS",
+     "nat": "NGR",
+     "athleteId": "15095954",
+     "slug": "nigeria/lydia-thomas-15095954",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "37:42",
+     "name": "Vivian OBADIAH",
+     "nat": "NGR",
+     "athleteId": "15252652",
+     "slug": "nigeria/vivian-obadiah-15252652",
+     "birthDate": "10 JUN 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "38:05",
+     "name": "Teyei MWANTIYI",
+     "nat": "NGR",
+     "athleteId": "15252653",
+     "slug": "nigeria/teyei-mwantiyi-15252653",
+     "birthDate": "18 JUN 2006",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 7
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "id": 7235576,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235576",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:03:54",
+     "name": "Guye Idemo ADOLA",
+     "nat": "ETH",
+     "athleteId": "14629097",
+     "slug": "ethiopia/guye-idemo-adola-14629097",
+     "birthDate": "20 OCT 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:04:15",
+     "name": "Tesfaye DERIBA",
+     "nat": "ETH",
+     "athleteId": "14774179",
+     "slug": "ethiopia/tesfaye-deriba-14774179",
+     "birthDate": "11 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:04:19",
+     "name": "Bashir ABDI",
+     "nat": "BEL",
+     "athleteId": "14375137",
+     "slug": "belgium/bashir-abdi-14375137",
+     "birthDate": "10 FEB 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:04:21",
+     "name": "Kenneth Kiprop KIPKEMOI",
+     "nat": "KEN",
+     "athleteId": "14383248",
+     "slug": "kenya/kenneth-kiprop-kipkemoi-14383248",
+     "birthDate": "02 AUG 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:05:19",
+     "name": "Haymanot ALEW",
+     "nat": "ETH",
+     "athleteId": "014693559",
+     "slug": "ethiopia/haymanot-alew-014693559",
+     "birthDate": "11 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:05:34",
+     "name": "Erick Kiplagat SANG",
+     "nat": "KEN",
+     "athleteId": "14974951",
+     "slug": "kenya/erick-kiplagat-sang-14974951",
+     "birthDate": "15 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:06:40",
+     "name": "Filmon TESFU",
+     "nat": "NED",
+     "athleteId": "14844367",
+     "slug": "netherlands/filmon-tesfu-14844367",
+     "birthDate": "05 SEP 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:06:40",
+     "name": "Filmon TESFU",
+     "nat": "NED",
+     "athleteId": "14844367",
+     "slug": "netherlands/filmon-tesfu-14844367",
+     "birthDate": "05 SEP 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:06:46",
+     "name": "Pietro RIVA",
+     "nat": "ITA",
+     "athleteId": "14588443",
+     "slug": "italy/pietro-riva-14588443",
+     "birthDate": "01 MAY 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:08:18",
+     "name": "Jirata DINKI",
+     "nat": "ETH",
+     "athleteId": "14843618",
+     "slug": "ethiopia/jirata-dinki-14843618",
+     "birthDate": "2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:08:40",
+     "name": "Hillary BOR",
+     "nat": "USA",
+     "athleteId": "14232976",
+     "slug": "united-states/hillary-bor-14232976",
+     "birthDate": "22 NOV 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:09:23",
+     "name": "Dorian BOULVIN",
+     "nat": "BEL",
+     "athleteId": "14548914",
+     "slug": "belgium/dorian-boulvin-14548914",
+     "birthDate": "05 JUN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:09:28",
+     "name": "Noah SCHUTTE",
+     "nat": "NED",
+     "athleteId": "14523635",
+     "slug": "netherlands/noah-schutte-14523635",
+     "birthDate": "15 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:09:28",
+     "name": "Noah SCHUTTE",
+     "nat": "NED",
+     "athleteId": "14523635",
+     "slug": "netherlands/noah-schutte-14523635",
+     "birthDate": "15 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:09:35",
+     "name": "Yitayew ABUHAY",
+     "nat": "ISR",
+     "athleteId": "14683161",
+     "slug": "israel/yitayew-abuhay-14683161",
+     "birthDate": "01 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:10:11",
+     "name": "Mike Kiptum BOIT",
+     "nat": "KEN",
+     "athleteId": "14812860",
+     "slug": "kenya/mike-kiptum-boit-14812860",
+     "birthDate": "14 SEP 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:10:12",
+     "name": "Alem NIGUSE",
+     "nat": "ETH",
+     "athleteId": "15112915",
+     "slug": "ethiopia/alem-niguse-15112915",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:10:17",
+     "name": "Fikadu LICHE",
+     "nat": "ETH",
+     "athleteId": "15229830",
+     "slug": "ethiopia/fikadu-liche-15229830",
+     "birthDate": "31 OCT 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:10:17",
+     "name": "Melesse BIRHAN",
+     "nat": "ETH",
+     "athleteId": "14826803",
+     "slug": "ethiopia/melesse-birhan-14826803",
+     "birthDate": "12 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:10:18",
+     "name": "Thomas DE BOCK",
+     "nat": "BEL",
+     "athleteId": "14378328",
+     "slug": "belgium/thomas-de-bock-14378328",
+     "birthDate": "20 AUG 1991",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 169
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:18:56",
+     "name": "Mekides SHIMELES",
+     "nat": "ETH",
+     "athleteId": "15156763",
+     "slug": "ethiopia/mekides-shimeles-15156763",
+     "birthDate": "26 DEC 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:21:25",
+     "name": "Aminet AHMED",
+     "nat": "ETH",
+     "athleteId": "014884936",
+     "slug": "ethiopia/aminet-ahmed-014884936",
+     "birthDate": "11 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:23:22",
+     "name": "Shitaye ESHETE",
+     "nat": "BRN",
+     "athleteId": "14383158",
+     "slug": "bahrain/shitaye-eshete-14383158",
+     "birthDate": "21 MAY 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:24:34",
+     "name": "Pascalia CHEPKOGEI",
+     "nat": "KEN",
+     "athleteId": "14820095",
+     "slug": "kenya/pascalia-chepkogei-14820095",
+     "birthDate": "20 AUG 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:25:24",
+     "name": "Clémence CALVIN",
+     "nat": "FRA",
+     "athleteId": "14258216",
+     "slug": "france/clemence-calvin-14258216",
+     "birthDate": "17 MAY 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:26:24",
+     "name": "Burtukan YIFRU",
+     "nat": "ETH",
+     "athleteId": "15119255",
+     "slug": "ethiopia/burtukan-yifru-15119255",
+     "birthDate": "11 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:26:26",
+     "name": "Susana SANTOS",
+     "nat": "POR",
+     "athleteId": "14363675",
+     "slug": "portugal/susana-santos-14363675",
+     "birthDate": "05 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:30:42",
+     "name": "Mikky KEETELS",
+     "nat": "NED",
+     "athleteId": "15190933",
+     "slug": "netherlands/mikky-keetels-15190933",
+     "birthDate": "25 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:30:42",
+     "name": "Mikky KEETELS",
+     "nat": "NED",
+     "athleteId": "15190933",
+     "slug": "netherlands/mikky-keetels-15190933",
+     "birthDate": "25 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:31:09",
+     "name": "Jana SOETHOUT",
+     "nat": "GER",
+     "athleteId": "14279834",
+     "slug": "germany/jana-soethout-14279834",
+     "birthDate": "28 DEC 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:31:50",
+     "name": "Victoria WARPY",
+     "nat": "BEL",
+     "athleteId": "15020610",
+     "slug": "belgium/victoria-warpy-15020610",
+     "birthDate": "06 JUN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:37:04",
+     "name": "Erika FLUEHR",
+     "nat": "USA",
+     "athleteId": "014462720",
+     "slug": "united-states/erika-fluehr-014462720",
+     "birthDate": "13 JUL 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:38:55",
+     "name": "Jacqueline GAUGHAN",
+     "nat": "USA",
+     "athleteId": "14689172",
+     "slug": "united-states/jacqueline-gaughan-14689172",
+     "birthDate": "27 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:39:14",
+     "name": "Brigid DENNEHY",
+     "nat": "NZL",
+     "athleteId": "14924673",
+     "slug": "new-zealand/brigid-dennehy-14924673",
+     "birthDate": "23 AUG 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:39:30",
+     "name": "Wuga HE",
+     "nat": "CHN",
+     "athleteId": "14862415",
+     "slug": "pr-of-china/wuga-he-14862415",
+     "birthDate": "28 JUL 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:41:13",
+     "name": "Elisabetta IAVARONE",
+     "nat": "ITA",
+     "athleteId": "014794690",
+     "slug": "italy/elisabetta-iavarone-014794690",
+     "birthDate": "15 SEP 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:41:39",
+     "name": "Natascha SCHIPPERS",
+     "nat": "NED",
+     "athleteId": "15085448",
+     "slug": "netherlands/natascha-schippers-15085448",
+     "birthDate": "1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:41:39",
+     "name": "Natascha SCHIPPERS",
+     "nat": "NED",
+     "athleteId": "15085448",
+     "slug": "netherlands/natascha-schippers-15085448",
+     "birthDate": "1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:42:15",
+     "name": "Malejeva MATHIJS",
+     "nat": "BEL",
+     "athleteId": "15004282",
+     "slug": "belgium/malejeva-mathijs-15004282",
+     "birthDate": "30 DEC 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:42:44",
+     "name": "Nella OENEMA",
+     "nat": "NED",
+     "athleteId": "15024534",
+     "slug": "netherlands/nella-oenema-15024534",
+     "birthDate": "25 AUG 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 96
+  }
+ ]
+}

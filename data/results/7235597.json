@@ -1,0 +1,410 @@
+{
+ "id": 7235597,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235597",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:05:18",
+     "name": "Yemaneberhan CRIPPA",
+     "nat": "ITA",
+     "athleteId": "14513998",
+     "slug": "italy/yemaneberhan-crippa-14513998",
+     "birthDate": "15 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:05:23",
+     "name": "Bayelign TESHAGER",
+     "nat": "ETH",
+     "athleteId": "14786830",
+     "slug": "ethiopia/bayelign-teshager-14786830",
+     "birthDate": "09 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:05:28",
+     "name": "Sila KIPTOO",
+     "nat": "KEN",
+     "athleteId": "014914204",
+     "slug": "kenya/sila-kiptoo-014914204",
+     "birthDate": "05 MAY 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:05:38",
+     "name": "Mohamed ISMAIL",
+     "nat": "DJI",
+     "athleteId": "14661612",
+     "slug": "djibouti/mohamed-ismail-14661612",
+     "birthDate": "01 JAN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:05:46",
+     "name": "Awet Nftalem KIBRAB",
+     "nat": "NOR",
+     "athleteId": "14579463",
+     "slug": "norway/awet-nftalem-kibrab-14579463",
+     "birthDate": "09 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:05:58",
+     "name": "Emmanuel ROUDOLFF LEVISSE",
+     "nat": "FRA",
+     "athleteId": "14473176",
+     "slug": "france/emmanuel-roudolff-levisse-14473176",
+     "birthDate": "30 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:06:08",
+     "name": "Bethwel KIBET",
+     "nat": "KEN",
+     "athleteId": "14918111",
+     "slug": "kenya/bethwel-kibet-14918111",
+     "birthDate": "04 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:06:33",
+     "name": "Hillary KIPKOECH",
+     "nat": "KEN",
+     "athleteId": "14823019",
+     "slug": "kenya/hillary-kipkoech-14823019",
+     "birthDate": "20 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:06:55",
+     "name": "Erick KIPLANGAT",
+     "nat": "KEN",
+     "athleteId": "15129525",
+     "slug": "kenya/erick-kiplangat-15129525",
+     "birthDate": "08 APR 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:07:00",
+     "name": "Zerei Kbrom MEZNGI",
+     "nat": "NOR",
+     "athleteId": "14598298",
+     "slug": "norway/zerei-kbrom-mezngi-14598298",
+     "birthDate": "12 JAN 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:08:19",
+     "name": "Leul GEBRESILASE",
+     "nat": "ETH",
+     "athleteId": "14477361",
+     "slug": "ethiopia/leul-gebresilase-14477361",
+     "birthDate": "20 SEP 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:08:29",
+     "name": "Victor KIPLANGAT",
+     "nat": "UGA",
+     "athleteId": "14760499",
+     "slug": "uganda/victor-kiplangat-14760499",
+     "birthDate": "10 NOV 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:08:37",
+     "name": "Matthias KYBURZ",
+     "nat": "SUI",
+     "athleteId": "14542001",
+     "slug": "switzerland/matthias-kyburz-14542001",
+     "birthDate": "05 MAR 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:10:45",
+     "name": "Mande BUSHENDICH",
+     "nat": "UGA",
+     "athleteId": "14693553",
+     "slug": "uganda/mande-bushendich-14693553",
+     "birthDate": "07 APR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:11:55",
+     "name": "Futsum ZIENASELLASSIE",
+     "nat": "USA",
+     "athleteId": "014477019",
+     "slug": "united-states/futsum-zienasellassie-014477019",
+     "birthDate": "16 DEC 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:16:13",
+     "name": "Jason POINTEAU",
+     "nat": "FRA",
+     "athleteId": "14329813",
+     "slug": "france/jason-pointeau-14329813",
+     "birthDate": "14 NOV 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:16:23",
+     "name": "Julian RANC",
+     "nat": "FRA",
+     "athleteId": "14590172",
+     "slug": "france/julian-ranc-14590172",
+     "birthDate": "14 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:18:51",
+     "name": "Jeff LASTENNET",
+     "nat": "FRA",
+     "athleteId": "14185814",
+     "slug": "france/jeff-lastennet-14185814",
+     "birthDate": "26 AUG 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:19:27",
+     "name": "Shadrack KURGAT",
+     "nat": "KEN",
+     "athleteId": "15051541",
+     "slug": "kenya/shadrack-kurgat-15051541",
+     "birthDate": "08 MAY 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:19:32",
+     "name": "John LANGAT",
+     "nat": "KEN",
+     "athleteId": "014606610",
+     "slug": "kenya/john-langat-014606610",
+     "birthDate": "02 OCT 1993",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 98
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:18:34",
+     "name": "Shure DEMISE",
+     "nat": "ETH",
+     "athleteId": "14581927",
+     "slug": "ethiopia/shure-demise-14581927",
+     "birthDate": "21 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:19:08",
+     "name": "Misgane ALEMAYEHU",
+     "nat": "ETH",
+     "athleteId": "15190907",
+     "slug": "ethiopia/misgane-alemayehu-15190907",
+     "birthDate": "23 SEP 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:19:17",
+     "name": "Magdalyne MASAI",
+     "nat": "KEN",
+     "athleteId": "14472843",
+     "slug": "kenya/magdalyne-masai-14472843",
+     "birthDate": "21 NOV 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:19:18",
+     "name": "Enatnesh Alamrew TIRUSEW",
+     "nat": "ETH",
+     "athleteId": "14648206",
+     "slug": "ethiopia/enatnesh-alamrew-tirusew-14648206",
+     "birthDate": "04 OCT 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:20:03",
+     "name": "Sharon CHELIMO",
+     "nat": "KEN",
+     "athleteId": "014813645",
+     "slug": "kenya/sharon-chelimo-014813645",
+     "birthDate": "27 JUL 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:21:35",
+     "name": "Alisa VAINIO",
+     "nat": "FIN",
+     "athleteId": "14504791",
+     "slug": "finland/alisa-vainio-14504791",
+     "birthDate": "16 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:24:20",
+     "name": "Girmawit GEBRZIHAIR",
+     "nat": "ETH",
+     "athleteId": "14848733",
+     "slug": "ethiopia/girmawit-gebrzihair-14848733",
+     "birthDate": "21 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:26:25",
+     "name": "Mekdes WOLDU",
+     "nat": "FRA",
+     "athleteId": "14419455",
+     "slug": "france/mekdes-woldu-14419455",
+     "birthDate": "20 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:27:04",
+     "name": "Maggie MONTOYA",
+     "nat": "USA",
+     "athleteId": "14443792",
+     "slug": "united-states/maggie-montoya-14443792",
+     "birthDate": "02 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:28:52",
+     "name": "Méline ROLLIN",
+     "nat": "FRA",
+     "athleteId": "14646117",
+     "slug": "france/meline-rollin-14646117",
+     "birthDate": "17 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:36:46",
+     "name": "Agate BONNAUD-VIOLLEAU",
+     "nat": "FRA",
+     "athleteId": "14800763",
+     "slug": "france/agate-bonnaud-violleau-14800763",
+     "birthDate": "19 APR 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:43:36",
+     "name": "Julie LAJEUNESSE",
+     "nat": "CAN",
+     "athleteId": "14554771",
+     "slug": "canada/julie-lajeunesse-14554771",
+     "birthDate": "25 SEP 1981",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:47:11",
+     "name": "Francoise PARAGE",
+     "nat": "FRA",
+     "athleteId": "014811931",
+     "slug": "france/francoise-parage-014811931",
+     "birthDate": "13 MAR 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:52:08",
+     "name": "Sarah HAMZAOUI",
+     "nat": "FRA",
+     "athleteId": "14902263",
+     "slug": "france/sarah-hamzaoui-14902263",
+     "birthDate": "21 NOV 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "3:00:35",
+     "name": "Julie BOLO-JOLLY",
+     "nat": "FRA",
+     "athleteId": "15055683",
+     "slug": "france/julie-bolo-jolly-15055683",
+     "birthDate": "1995",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 15
+  }
+ ]
+}

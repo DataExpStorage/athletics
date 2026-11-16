@@ -1,0 +1,465 @@
+{
+ "id": 7235935,
+ "fetched": "2026-11-16",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7235935",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:08:28",
+     "name": "Tafere ADISU",
+     "nat": "ETH",
+     "athleteId": "14748107",
+     "slug": "ethiopia/tafere-adisu-14748107",
+     "birthDate": "14 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:10:22",
+     "name": "Peiyou FENG",
+     "nat": "CHN",
+     "athleteId": "14913520",
+     "slug": "pr-of-china/peiyou-feng-14913520",
+     "birthDate": "01 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:10:26",
+     "name": "Benard KIPKORIR",
+     "nat": "KEN",
+     "athleteId": "15048801",
+     "slug": "kenya/benard-kipkorir-15048801",
+     "birthDate": "10 OCT 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:12:19",
+     "name": "Mingyao WU",
+     "nat": "CHN",
+     "athleteId": "15086453",
+     "slug": "pr-of-china/mingyao-wu-15086453",
+     "birthDate": "08 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:13:02",
+     "name": "Guojian DONG",
+     "nat": "CHN",
+     "athleteId": "14172732",
+     "slug": "pr-of-china/guojian-dong-14172732",
+     "birthDate": "16 MAR 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:13:32",
+     "name": "Rui MA",
+     "nat": "CHN",
+     "athleteId": "14977271",
+     "slug": "pr-of-china/rui-ma-14977271",
+     "birthDate": "01 APR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:13:48",
+     "name": "Bangliu ZHANG",
+     "nat": "CHN",
+     "athleteId": "14990749",
+     "slug": "pr-of-china/bangliu-zhang-14990749",
+     "birthDate": "15 JAN 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:14:33",
+     "name": "Yujin CHEN",
+     "nat": "CHN",
+     "athleteId": "14884973",
+     "slug": "pr-of-china/yujin-chen-14884973",
+     "birthDate": "03 JUL 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:14:43",
+     "name": "Hu TIAN",
+     "nat": "CHN",
+     "athleteId": "15218802",
+     "slug": "pr-of-china/hu-tian-15218802",
+     "birthDate": "27 NOV 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:15:09",
+     "name": "Zhao HAO",
+     "nat": "CHN",
+     "athleteId": "14836454",
+     "slug": "pr-of-china/zhao-hao-14836454",
+     "birthDate": "12 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:15:29",
+     "name": "Wanjiang CEN",
+     "nat": "CHN",
+     "athleteId": "14861622",
+     "slug": "pr-of-china/wanjiang-cen-14861622",
+     "birthDate": "12 OCT 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:16:06",
+     "name": "Jian LI",
+     "nat": "CHN",
+     "athleteId": "15139223",
+     "slug": "pr-of-china/jian-li-15139223",
+     "birthDate": "23 NOV 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:17:38",
+     "name": "Tao WANG",
+     "nat": "CHN",
+     "athleteId": "14786207",
+     "slug": "pr-of-china/tao-wang-14786207",
+     "birthDate": "06 MAY 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:17:50",
+     "name": "Renwei HUANG",
+     "nat": "CHN",
+     "athleteId": "15169702",
+     "slug": "pr-of-china/renwei-huang-15169702",
+     "birthDate": "10 FEB 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:18:13",
+     "name": "Jianwen YU",
+     "nat": "CHN",
+     "athleteId": "15288078",
+     "slug": "pr-of-china/jianwen-yu-15288078",
+     "birthDate": "14 JAN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:18:20",
+     "name": "Huajie MAO",
+     "nat": "CHN",
+     "athleteId": "014963570",
+     "slug": "pr-of-china/huajie-mao-014963570",
+     "birthDate": "18 FEB 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:18:55",
+     "name": "Wang XU",
+     "nat": "CHN",
+     "athleteId": "14426610",
+     "slug": "pr-of-china/wang-xu-14426610",
+     "birthDate": "06 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:19:08",
+     "name": "Bieketuersong HAZIZI",
+     "nat": "CHN",
+     "athleteId": "15173460",
+     "slug": "pr-of-china/bieketuersong-hazizi-15173460",
+     "birthDate": "15 NOV 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:19:58",
+     "name": "Haozong LI",
+     "nat": "CHN",
+     "athleteId": "15237584",
+     "slug": "pr-of-china/haozong-li-15237584",
+     "birthDate": "27 APR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:20:00",
+     "name": "Jingsong GAO",
+     "nat": "CHN",
+     "athleteId": "15267931",
+     "slug": "pr-of-china/jingsong-gao-15267931",
+     "birthDate": "13 JUN 2003",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:24:48",
+     "name": "Kebebush YISMA",
+     "nat": "ETH",
+     "athleteId": "14889023",
+     "slug": "ethiopia/kebebush-yisma-14889023",
+     "birthDate": "31 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:24:53",
+     "name": "Derartu HAILU",
+     "nat": "ETH",
+     "athleteId": "15084878",
+     "slug": "ethiopia/derartu-hailu-15084878",
+     "birthDate": "08 MAY 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:28:53",
+     "name": "Qing ZHU",
+     "nat": "CHN",
+     "athleteId": "15123187",
+     "slug": "pr-of-china/qing-zhu-15123187",
+     "birthDate": "19 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:29:23",
+     "name": "Min LIU",
+     "nat": "CHN",
+     "athleteId": "014908056",
+     "slug": "pr-of-china/min-liu-014908056",
+     "birthDate": "22 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:29:59",
+     "name": "Changqin DING",
+     "nat": "CHN",
+     "athleteId": "14334270",
+     "slug": "pr-of-china/changqin-ding-14334270",
+     "birthDate": "27 NOV 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:30:54",
+     "name": "Shuihua ZHANG",
+     "nat": "CHN",
+     "athleteId": "14920319",
+     "slug": "pr-of-china/shuihua-zhang-14920319",
+     "birthDate": "10 FEB 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:33:57",
+     "name": "Jiali WANG",
+     "nat": "CHN",
+     "athleteId": "14913563",
+     "slug": "pr-of-china/jiali-wang-14913563",
+     "birthDate": "12 MAY 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:36:18",
+     "name": "Fei HUANG",
+     "nat": "CHN",
+     "athleteId": "14865815",
+     "slug": "pr-of-china/fei-huang-14865815",
+     "birthDate": "20 JUL 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:37:00",
+     "name": "Xiaofang TANG",
+     "nat": "CHN",
+     "athleteId": "14962889",
+     "slug": "pr-of-china/xiaofang-tang-14962889",
+     "birthDate": "03 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:37:32",
+     "name": "Hao ZHOU",
+     "nat": "CHN",
+     "athleteId": "14892639",
+     "slug": "pr-of-china/hao-zhou-14892639",
+     "birthDate": "25 DEC 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:38:19",
+     "name": "Miaomiao CHANG",
+     "nat": "CHN",
+     "athleteId": "15226633",
+     "slug": "pr-of-china/miaomiao-chang-15226633",
+     "birthDate": "01 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:39:07",
+     "name": "Liquqing ZHANG",
+     "nat": "CHN",
+     "athleteId": "15176514",
+     "slug": "pr-of-china/liquqing-zhang-15176514",
+     "birthDate": "18 JAN 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:39:55",
+     "name": "Wentian WANG",
+     "nat": "CHN",
+     "athleteId": "14792224",
+     "slug": "pr-of-china/wentian-wang-14792224",
+     "birthDate": "10 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:40:44",
+     "name": "Zhiyan NI",
+     "nat": "CHN",
+     "athleteId": "15002638",
+     "slug": "pr-of-china/zhiyan-ni-15002638",
+     "birthDate": "06 OCT 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:41:24",
+     "name": "Nomin-Erdene BAYARTOGTOKH",
+     "nat": "MGL",
+     "athleteId": "15144566",
+     "slug": "mongolia/nomin-erdene-bayartogtokh-15144566",
+     "birthDate": "01 JUN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:41:35",
+     "name": "Jingya LIU",
+     "nat": "CHN",
+     "athleteId": "14857401",
+     "slug": "pr-of-china/jingya-liu-14857401",
+     "birthDate": "25 NOV 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:42:17",
+     "name": "Shuanghua YANG",
+     "nat": "CHN",
+     "athleteId": "15121448",
+     "slug": "pr-of-china/shuanghua-yang-15121448",
+     "birthDate": "16 MAR 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:43:10",
+     "name": "Xiaoli YANG",
+     "nat": "CHN",
+     "athleteId": "15192548",
+     "slug": "pr-of-china/xiaoli-yang-15192548",
+     "birthDate": "29 SEP 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:44:42",
+     "name": "Junhui LIU",
+     "nat": "CHN",
+     "athleteId": "14849151",
+     "slug": "pr-of-china/junhui-liu-14849151",
+     "birthDate": "02 JUL 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:45:15",
+     "name": "Jinting SONG",
+     "nat": "CHN",
+     "athleteId": "14692736",
+     "slug": "pr-of-china/jinting-song-14692736",
+     "birthDate": "20 MAR 1995",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 20
+  }
+ ]
+}
