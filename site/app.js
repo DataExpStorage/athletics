@@ -43,6 +43,41 @@
     if (!w) return '<span class="muted">–</span>';
     return athleteLink(w.row.id, w.row.name) + ' <span class="muted">' + esc(w.row.nat) + '</span> ' + esc(w.row.mark);
   }
+  var SYMBOL = { USD: '$', EUR: '€', AUD: 'A$', GBP: '£', JPY: '¥' };
+  function money(amount, currency) {
+    return (SYMBOL[currency] || (currency + ' ')) + Math.round(amount).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  }
+  function prizeCell(row, race) {
+    if (!row.prize && !row.bonus) return '';
+    var c = race.prize.currency;
+    return (row.prize ? money(row.prize, c) : '') + (row.bonus ? '<div class="muted" title="' + esc(row.bonusNote) + '">+ ' + money(row.bonus, c) + ' bonus</div>' : '');
+  }
+  var prizeTotals = {};    // athlete id -> {usd, races, gender}
+  function prizeCoverage() {
+    var run = D.races.filter(isRun);
+    return run.filter(function (r) { return r.prize; }).length + ' of the ' + run.length + ' races run so far';
+  }
+  function appearances(id) {
+    var apps = [];
+    D.races.forEach(function (r) {
+      (r.events || []).forEach(function (ev) { ev.results.forEach(function (x) { if (x.id === id) apps.push({ r: r, ev: ev, x: x }); }); });
+    });
+    return apps.reverse();
+  }
+  function appsCard(id) {
+    var apps = appearances(id), t = prizeTotals[id];
+    var html = '<div class="card"><h2>Priority races ' + D.season + '</h2>' + (apps.length ? simpleTable([['Date'], ['Race'], ['Place', 1], ['Time'], ['Prize', 1]], apps.map(function (p) {
+      return '<tr><td class="nowrap">' + fmtDate(p.r.startDate) + '</td><td>' + raceLink(p.r) + (p.r.distance === 'multi' ? '<div class="muted">' + esc(p.ev.event) + '</div>' : '') +
+        '</td><td class="num">' + esc(p.x.place) + '</td><td class="mark">' + esc(p.x.mark) + '</td><td class="num">' +
+        (p.r.prize ? (prizeCell(p.x, p.r) || '–') : '<span class="muted" title="Prize money not researched yet">?</span>') + '</td></tr>';
+    })) : '<p class="muted">No top-20 finish in a priority race this season.</p>');
+    if (apps.length) {
+      html += '<h3>Known prize money ' + D.season + '</h3><p style="margin:0"><b style="font-size:20px">' + (t ? money(t.usd, 'USD') : '$0') + '</b> ' +
+        '<span class="muted">from ' + (t ? t.races : 0) + ' race' + (t && t.races === 1 ? '' : 's') + '. Prize money is known for ' + prizeCoverage() +
+        ' (“?” = not known). Excludes appearance fees and sponsor bonuses.</span></p>';
+    }
+    return html;
+  }
   function records(rec) {
     return rec ? rec.split(/[,\s]+/).filter(Boolean).map(function (x) { return '<span class="rec">' + esc(x) + '</span>'; }).join('') : '';
   }
@@ -155,6 +190,16 @@
       run.slice(-6).reverse().map(raceItem).join('') + '</ul></div>' +
       '<div class="card"><h2>Coming up</h2><ul class="racelist">' +
       (next.length ? next.slice(0, 6).map(raceItem).join('') : '<li class="muted">No more priority races this season.</li>') + '</ul></div></div>';
+    var earners = Object.keys(prizeTotals).map(function (id) { return { id: id, t: prizeTotals[id] }; }).sort(function (a, b) { return b.t.usd - a.t.usd; });
+    if (earners.length) {
+      html += '<div class="card"><h2>Prize money leaders</h2><div class="grid2" style="margin-bottom:0">' + [['W', 'Women'], ['M', 'Men']].map(function (g) {
+        return '<div><h3 style="margin-top:0">' + g[1] + '</h3><table>' + earners.filter(function (e) { return e.t.gender === g[0]; }).slice(0, 5).map(function (e) {
+          return '<tr><td class="mark">' + money(e.t.usd, 'USD') + '</td><td>' + athleteLink(e.id, known[e.id].name) + ' <span class="muted">' + esc(known[e.id].nat) + '</span></td><td class="num muted">' +
+            e.t.races + ' race' + (e.t.races === 1 ? '' : 's') + '</td></tr>';
+        }).join('') + '</table></div>';
+      }).join('') + '</div><p class="muted" style="margin:10px 0 0">Known prize money only: place prizes and reported bonuses at ' + prizeCoverage() +
+        ', converted to US dollars at approximate rates. Appearance fees and sponsor bonuses are not public.</p></div>';
+    }
     html += '<h2>Fastest of ' + D.season + '</h2><div class="grid3">';
     ['marathon', 'half-marathon', '10km'].forEach(function (d) {
       html += '<div class="card"><h2><a href="#/distance/' + d + '">' + distName(d) + '</a></h2>';
@@ -185,22 +230,37 @@
     return '<h1>Races</h1><p class="sub">All priority races of ' + D.season + ' with winners.</p><div class="card">' +
       '<div class="filters">' + seg('tier', ['All', 'Majors', 'Platinum', 'Gold', 'Championship'], raceFilter.tier) +
       seg('dist', ['All', 'marathon', 'half-marathon', '10km', 'other'], raceFilter.dist) +
-      '<span class="muted">' + rows.length + ' races</span></div><div class="scroll"><table><thead><tr><th>Date</th><th>Race</th><th>Label</th><th>Distance</th><th>Women</th><th>Men</th></tr></thead><tbody>' +
+      '<span class="muted">' + rows.length + ' races</span></div><div class="scroll"><table><thead><tr><th>Date</th><th>Race</th><th>Label</th><th>Distance</th><th>Women</th><th>Men</th><th class="num">1st prize</th></tr></thead><tbody>' +
       rows.map(function (r) {
         var multi = r.distance === 'multi';
+        var first = r.prize && r.prize.first ? money(r.prize.first, r.prize.currency) : '<span class="muted">' + (isRun(r) ? '?' : '') + '</span>';
         return '<tr><td class="nowrap">' + fmtDate(r.startDate) + '</td><td>' + raceLink(r) + '<div class="muted">' + esc(r.venue) + '</div></td><td class="nowrap">' +
           tierBadge(r) + '</td><td class="nowrap">' + distName(r.distance) + '</td>' +
           (multi ? '<td colspan="2">' + (isRun(r) ? '<a href="#/race/' + r.id + '">' + r.events.length + ' events</a>' : '<span class="muted">–</span>') + '</td>'
-            : '<td>' + winnerText(r, 'W') + '</td><td>' + winnerText(r, 'M') + '</td>') + '</tr>';
+            : '<td>' + winnerText(r, 'W') + '</td><td>' + winnerText(r, 'M') + '</td>') + '<td class="num">' + first + '</td></tr>';
       }).join('') + '</tbody></table></div></div>';
   }
 
-  function resultsTable(ev) {
-    return '<div class="scroll"><table><thead><tr><th class="num">#</th><th>Time</th><th>Athlete</th><th>Country</th><th class="num">Born</th></tr></thead><tbody>' +
+  function resultsTable(ev, race) {
+    var p = !!race.prize;
+    return '<div class="scroll"><table><thead><tr><th class="num">#</th><th>Time</th><th>Athlete</th><th>Country</th><th class="num">Born</th>' + (p ? '<th class="num">Prize</th>' : '') + '</tr></thead><tbody>' +
       ev.results.map(function (r) {
         return '<tr><td class="num">' + esc(r.place) + '</td><td class="mark">' + esc(r.mark) + records(r.records) + '</td><td>' + athleteLink(r.id, r.name) +
-          '</td><td>' + esc(r.nat) + '</td><td class="num">' + esc(r.born) + '</td></tr>';
+          '</td><td>' + esc(r.nat) + '</td><td class="num">' + esc(r.born) + '</td>' + (p ? '<td class="num">' + prizeCell(r, race) + '</td>' : '') + '</tr>';
       }).join('') + '</tbody></table></div>';
+  }
+  function prizeCard(r) {
+    if (!r.prize) {
+      return '<div class="card"><h2>Prize money</h2><p class="muted" style="margin:0">Not researched yet for this race. World Athletics does not publish prize money, so it is added race by race from organisers and press.</p></div>';
+    }
+    var p = r.prize, conf = { high: 'Organiser or several agreeing sources', medium: 'One source', low: 'Partial or conflicting sources' }[p.confidence] || '';
+    return '<div class="card"><h2>Prize money</h2><dl class="kv">' +
+      '<dt>Winner</dt><dd>' + money(p.first, p.currency) + ' each for women and men' + (p.currency !== 'USD' && p.usdRate ? ' <span class="muted">(about ' + money(p.first * p.usdRate, 'USD') + ')</span>' : '') + '</dd>' +
+      (p.bonusRules ? '<dt>Bonuses</dt><dd>' + esc(p.bonusRules) + '</dd>' : '') +
+      (p.placesNote ? '<dt>Note</dt><dd>' + esc(p.placesNote) + '</dd>' : '') +
+      '<dt>Reliability</dt><dd>' + conf + ' <span class="muted">· checked ' + fmtDate(p.checked, true) + '</span></dd>' +
+      '<dt>Sources</dt><dd>' + p.sources.map(function (s, i) { return '<a href="' + esc(s) + '" target="_blank" rel="noopener">' + esc(s.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + ' ↗</a>'; }).join(', ') + '</dd></dl>' +
+      '<p class="muted" style="margin:10px 0 0">Open-division place prizes, plus bonuses reported as paid. Appearance fees, sponsor bonuses and national-division prizes are not included.</p></div>';
   }
   function viewRace(id) {
     var r = raceById[id];
@@ -212,9 +272,9 @@
     }
     var evs = r.events.slice().sort(function (a, b) { return (a.distance < b.distance ? -1 : a.distance > b.distance ? 1 : 0) || (a.gender === 'W' ? -1 : 1); });
     html += '<div class="grid2">' + evs.map(function (ev) {
-      return '<div class="card"><h2>' + esc(ev.event) + '</h2>' + resultsTable(ev) + '<p class="muted" style="margin:10px 0 0">Top ' + ev.results.length +
+      return '<div class="card"><h2>' + esc(ev.event) + '</h2>' + resultsTable(ev, r) + '<p class="muted" style="margin:10px 0 0">Top ' + ev.results.length +
         ' of ' + ev.finishers + ' listed finishers.</p></div>';
-    }).join('') + '</div>';
+    }).join('') + '</div>' + prizeCard(r);
     return html + '<p><a href="' + esc(r.source) + '" target="_blank" rel="noopener">Full results at World Athletics ↗</a></p>';
   }
 
@@ -259,29 +319,14 @@
         Object.keys(D.toplists).forEach(function (key) {
           D.toplists[key].rows.forEach(function (r) { if (r.id === id) best.push({ d: key.replace(/-(women|men)$/, ''), r: r }); });
         });
-        var apps0 = [];
-        D.races.forEach(function (r) {
-          (r.events || []).forEach(function (ev) { ev.results.forEach(function (x) { if (x.id === id) apps0.push({ r: r, ev: ev, x: x }); }); });
-        });
-        apps0.reverse();
         html += '<div class="grid2"><div class="card"><h2>Season bests ' + D.season + '</h2>' + (best.length ? simpleTable([['Distance'], ['Time'], ['World rank', 1], ['Where'], ['Date']], best.map(function (b) {
           return '<tr><td><a href="#/distance/' + b.d + '">' + distName(b.d) + '</a></td><td class="mark">' + esc(b.r.mark) + '</td><td class="num">' + esc(b.r.rank) + '</td><td>' + esc(b.r.venue) + '</td><td class="nowrap">' + fmtDate(b.r.date) + '</td></tr>';
         })) : '<p class="muted">Not in the season top 100 at marathon, half marathon or 10 km.</p>') + '</div>' +
-          '<div class="card"><h2>Priority races ' + D.season + '</h2>' + (apps0.length ? simpleTable([['Date'], ['Race'], ['Place', 1], ['Time']], apps0.map(function (p) {
-            return '<tr><td class="nowrap">' + fmtDate(p.r.startDate) + '</td><td>' + raceLink(p.r) + (p.r.distance === 'multi' ? '<div class="muted">' + esc(p.ev.event) + '</div>' : '') +
-              '</td><td class="num">' + esc(p.x.place) + '</td><td class="mark">' + esc(p.x.mark) + '</td></tr>';
-          })) : '<p class="muted">No top-20 finish in a priority race this season.</p>') + '</div></div>';
+          appsCard(id) + '</div></div>';
         return html + '<p class="muted">Career details (personal bests, full results, honours) are added gradually, a few athletes per update. ' +
           '<a href="https://worldathletics.org/athletes/athlete=' + esc(id) + '" target="_blank" rel="noopener">Profile at World Athletics ↗</a></p>';
       }
 
-      var apps = [];
-      D.races.forEach(function (r) {
-        (r.events || []).forEach(function (ev) {
-          ev.results.forEach(function (x) { if (x.id === id) apps.push({ r: r, ev: ev, x: x }); });
-        });
-      });
-      apps.reverse();
       var pbs = (a.personalBests || []).filter(function (p) { return isRoad(p.discipline); });
       var left = '<div class="card"><h2>Road personal bests</h2>' + (pbs.length ? simpleTable([['Distance'], ['Time'], ['Where'], ['Date']], pbs.map(function (p) {
         return '<tr><td>' + esc(p.discipline) + '</td><td class="mark">' + esc(p.mark) + '</td><td>' + esc(p.venue) + '</td><td class="nowrap">' + esc(p.date) + '</td></tr>';
@@ -293,10 +338,7 @@
         }));
       }
       left += '</div>';
-      var right = '<div class="card"><h2>Priority races ' + D.season + '</h2>' + (apps.length ? simpleTable([['Date'], ['Race'], ['Place', 1], ['Time']], apps.map(function (p) {
-        return '<tr><td class="nowrap">' + fmtDate(p.r.startDate) + '</td><td>' + raceLink(p.r) + (p.r.distance === 'multi' ? '<div class="muted">' + esc(p.ev.event) + '</div>' : '') +
-          '</td><td class="num">' + esc(p.x.place) + '</td><td class="mark">' + esc(p.x.mark) + '</td></tr>';
-      })) : '<p class="muted">No top-20 finish in a priority race this season.</p>');
+      var right = appsCard(id);
       if ((a.worldRankings || []).length) {
         right += '<h3>World ranking</h3><dl class="kv">' + a.worldRankings.map(function (w) {
           return '<dt>' + esc(w.eventGroup) + '</dt><dd>#' + esc(w.place) + ' <span class="muted">(' + esc(w.rankingScore) + ' pts)</span></dd>';
@@ -390,7 +432,14 @@
     D.athleteIds.forEach(function (i) { hasProfile[i] = true; });
     D.races.forEach(function (r) {
       (r.events || []).forEach(function (ev) {
-        ev.results.forEach(function (x) { if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born }; });
+        ev.results.forEach(function (x) {
+          if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born };
+          if (x.id && x.usd) {
+            var t = prizeTotals[x.id] || (prizeTotals[x.id] = { usd: 0, races: 0, gender: ev.gender });
+            t.usd += x.usd;
+            t.races += 1;
+          }
+        });
       });
     });
     Object.keys(D.toplists).forEach(function (key) {

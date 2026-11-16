@@ -37,6 +37,10 @@ Needs Python 3.7 or newer; no extra packages.
   declines a request. Athlete pages work without a profile, with less career detail.
 - To follow a race outside the Platinum and Gold tiers, add it to `extra_races` in
   `config/races.json` with its World Athletics event ID (the number in its results URL).
+- Prize money is not published by World Athletics. It is entered by hand in
+  `config/prize_money.json` from organisers and press, with sources and a reliability
+  grade. Season totals per athlete count only races that have an entry, and never include
+  appearance fees or sponsor bonuses.
 - Personal, non-commercial use. Every page links back to the World Athletics source.
 
 ## Publishing (one-time setup)

@@ -1,0 +1,71 @@
+{
+ "_about": "Prize money per race, entered by hand from organisers and press because World Athletics does not publish it. 'places' are open-division place prizes, the same for women and men unless given as {\"W\": [...], \"M\": [...]}. 'awarded_bonuses' are bonuses reported as actually paid. Appearance fees, sponsor bonuses and national-division prizes are never included. 'confidence': high = organiser or several agreeing sources; medium = one source; low = partial or conflicting.",
+ "usd_rates": {"USD": 1.0, "EUR": 1.10, "AUD": 0.65, "GBP": 1.28, "JPY": 0.0067},
+ "usd_rates_note": "Approximate fixed rates, used only to add up season totals in US dollars.",
+ "races": {
+  "7236397": {
+   "name": "Tokyo Marathon",
+   "currency": "USD",
+   "places": [80000, 30000, 15000, 7000, 5000, 4000, 3000, 2000, 1000, 500],
+   "bonus_rules": "World record $200,000; course record $20,000.",
+   "confidence": "high",
+   "checked": "2026-11-16",
+   "sources": ["https://www.marathon.tokyo/en/guidebook/book/pageindices/index49.html"]
+  },
+  "7235561": {
+   "name": "Boston Marathon",
+   "currency": "USD",
+   "places": [150000, 75000, 40000],
+   "places_note": "Only the top three amounts were found; lower places are also paid.",
+   "bonus_rules": "Course record $50,000.",
+   "awarded_bonuses": [
+    {"gender": "M", "place": 1, "amount": 50000, "note": "Course record bonus (reported)"}
+   ],
+   "confidence": "low",
+   "checked": "2026-11-16",
+   "sources": ["https://www.sportico.com/business/sports/2026/boston-marathon-2026-prize-money-1234890539/"]
+  },
+  "7235562": {
+   "name": "TCS London Marathon",
+   "currency": "USD",
+   "places": [55000, 30000, 22500, 15000, 10000, 7500, 5000, 4000, 3000, 2000],
+   "bonus_rules": "Time bonuses up to $150,000 (men under 2:02:00, women under 2:15:00); course record $25,000; world record $125,000.",
+   "awarded_bonuses": [
+    {"gender": "M", "place": 1, "amount": 300000, "note": "Time and record bonuses for the 1:59:30 win (press estimate, about $300,000)"}
+   ],
+   "confidence": "high",
+   "checked": "2026-11-16",
+   "sources": [
+    "https://www.espn.com/olympics/story/_/id/48538473/london-marathon-2026-date-route-schedule-prize-money-how-watch-winners-more",
+    "https://www.sportbible.com/athletics/london-marathon-prize-money-sabastian-sawe-athletics-kenya-190234-20260426"
+   ]
+  },
+  "7235580": {
+   "name": "BMW Berlin Marathon",
+   "currency": "EUR",
+   "places": [30000, 15000, 10000, 8000, 6500, 5000, 4000, 3000, 2000, 1500],
+   "bonus_rules": "Time and world record bonuses exist; sources disagree on the amounts.",
+   "confidence": "medium",
+   "checked": "2026-11-16",
+   "sources": ["https://news.bet365.de/de-de/article/80000-euro-so-hoch-ist-das-preisgeld-beim-berlin-marathon/2026092513254601411"]
+  },
+  "7235563": {
+   "name": "Bank of America Chicago Marathon",
+   "currency": "USD",
+   "places": [100000, 75000, 50000, 30000, 25000],
+   "bonus_rules": "Course record $50,000.",
+   "confidence": "medium",
+   "checked": "2026-11-16",
+   "sources": ["https://marathonhandbook.com/ultimate-guide-to-chicago-marathon/"]
+  },
+  "7235564": {
+   "name": "TCS New York City Marathon",
+   "currency": "USD",
+   "places": [100000, 60000, 40000, 25000, 15000, 10000, 7500, 5000, 2500, 2000],
+   "bonus_rules": "Course record $50,000 (winner only).",
+   "confidence": "high",
+   "checked": "2026-11-16",
+   "sources": ["https://therunningchannel.com/new-york-city-marathon-prize-money/"]
+  }
+ }
+}

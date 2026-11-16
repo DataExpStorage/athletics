@@ -22,8 +22,17 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
    national selections, coaching or sponsor changes, and records at races outside the
    priority list. Prefer primary and specialist sources (World Athletics, race organisers,
    the AIU, LetsRun, Runner's World, Athletics Weekly, Citius Mag, national federations).
-8. Write `newsletters/<week>.md` in the format below.
-9. Commit only that file with the message `Newsletter <week>` and push to `main`.
+8. Prize money: for each race from step 4 that has no entry in `config/prize_money.json`,
+   search for its prize money for this year's edition (organiser's site first, then
+   press). If you find place-by-place amounts in a source you opened, add an entry in the
+   same shape as the existing ones (`_about` in that file explains the fields): currency,
+   `places`, `bonus_rules`, `awarded_bonuses` only for bonuses reported as actually paid,
+   `confidence`, `checked` (today), `sources`. Use figures for this year only; never copy
+   an earlier year's table or estimate. If nothing reliable turns up, add nothing.
+   You may mention the winner's prize in the newsletter when it is in that file.
+9. Write `newsletters/<week>.md` in the format below.
+10. Commit the newsletter (and `config/prize_money.json` if you changed it) with the
+   message `Newsletter <week>` and push to `main`.
    Pushing sends it to Telegram automatically; do not send it any other way.
 
 ## Format
