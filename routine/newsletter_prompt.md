@@ -30,9 +30,36 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
    `confidence`, `checked` (today), `sources`. Use figures for this year only; never copy
    an earlier year's table or estimate. If nothing reliable turns up, add nothing.
    You may mention the winner's prize in the newsletter when it is in that file.
-9. Write `newsletters/<week>.md` in the format below.
-10. Commit the newsletter (and `config/prize_money.json` if you changed it) with the
-   message `Newsletter <week>` and push to `main`.
+9. Announced entries: for every race in `data/calendar.json` starting in the next 6 weeks,
+   check who is announced to run and who has withdrawn, and update
+   `data/entries/<raceId>.json` (create it if missing; `data/entries/7235578.json` is the
+   model). Look at the race's official website and press releases first, then major and
+   specialist news outlets. Rules:
+   - One record per athlete with `name` (as World Athletics writes it: given name, then
+     FAMILY NAME in capitals), `nat`, `gender` (`W`/`M`), `pb`, and a `history` list.
+   - Never delete or rewrite a history event. Record each change by appending an event:
+     `announced` (first time named), `confirmed` (named again in a newer source), or
+     `withdrawn`. Each event has `date` (when it was announced, not when you found it),
+     `reliability`, `source` (a page you opened) and an optional `note`.
+   - A `withdrawn` event must carry a `reason` in the source's own terms (injury and which,
+     illness, visa, switched to another race, not stated). If no reason was given, write
+     "No reason given." Never guess. If the athlete later re-enters, append a new
+     `announced` event; the withdrawal stays in the history.
+   - `reliability`: `official` = the race organiser or the athlete themself (statement,
+     verified social media account); `reported` = a major or specialist news outlet;
+     `unconfirmed` = a single secondary source, an aggregator, or a rumour. When a better
+     source confirms an entry, append a `confirmed` event with the better grade.
+   - Set `checked` to today even when nothing changed. Use `note` for what is still
+     missing (for example "final start list not published yet").
+   - After a race is run, compare the announced list with the results: for an announced
+     athlete who is not in the results and has no withdrawal recorded, search once for
+     the reason and record a `withdrawn` event (or leave a `note` that they did not
+     start, reason unknown).
+   In the newsletter's "What's next" section, lead with changes since last week: new
+   names, and every withdrawal with its reason.
+10. Write `newsletters/<week>.md` in the format below.
+11. Commit the newsletter, `data/entries/` and `config/prize_money.json` (if changed) with
+   the message `Newsletter <week>` and push to `main`.
    Pushing sends it to Telegram automatically; do not send it any other way.
 
 ## Format

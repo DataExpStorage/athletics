@@ -43,6 +43,141 @@
     if (!w) return '<span class="muted">–</span>';
     return athleteLink(w.row.id, w.row.name) + ' <span class="muted">' + esc(w.row.nat) + '</span> ' + esc(w.row.mark);
   }
+  /* ---------- latest runs ---------- */
+  function secs(mark) {
+    var m = /^(\d+(?::\d+){0,2})(\.\d+)?/.exec(mark || '');
+    if (!m) return null;
+    return m[1].split(':').reduce(function (t, p) { return t * 60 + parseInt(p, 10); }, 0) + parseFloat(m[2] || 0);
+  }
+  var RUN_WINDOW_DAYS = 30;
+  function latestRuns(gender) {
+    var run = D.races.filter(isRun);
+    if (!run.length) return { from: null, rows: [] };
+    var last = run[run.length - 1].startDate;
+    var from = new Date(Date.parse(last) - RUN_WINDOW_DAYS * 86400000).toISOString().slice(0, 10);
+    var rows = [];
+    run.filter(function (r) { return r.startDate >= from; }).forEach(function (r) {
+      r.events.filter(function (ev) { return ev.gender === gender; }).forEach(function (ev) {
+        var list = D.toplists[ev.distance + '-' + (gender === 'W' ? 'women' : 'men')];
+        if (!list) return;
+        var times = list.rows.map(function (x) { return secs(x.mark); });
+        ev.results.forEach(function (x) {
+          var s = secs(x.mark);
+          if (s === null) return;
+          var rank = 1 + times.filter(function (t) { return t < s; }).length;
+          rows.push({ r: r, ev: ev, x: x, rank: rank <= times.length ? rank : null });
+        });
+      });
+    });
+    rows.sort(function (a, b) { return (a.rank || 999) - (b.rank || 999) || parseInt(a.x.place, 10) - parseInt(b.x.place, 10); });
+    return { from: from, to: last, rows: rows };
+  }
+  function runsTable(gender, limit) {
+    var rows = latestRuns(gender).rows.slice(0, limit);
+    if (!rows.length) return '<p class="muted">No results in this period.</p>';
+    return simpleTable([['Time'], ['Athlete'], ['Race'], ['Place', 1], [D.season + ' list', 1]], rows.map(function (p) {
+      return '<tr><td class="mark">' + esc(p.x.mark) + records(p.x.records) + '</td><td>' + athleteLink(p.x.id, p.x.name) + ' <span class="muted">' + esc(p.x.nat) + '</span></td><td>' +
+        raceLink(p.r) + '<div class="muted">' + distName(p.ev.distance) + ' · ' + fmtDate(p.r.startDate) + '</div></td><td class="num">' + esc(p.x.place) +
+        '</td><td class="num">' + (p.rank ? '#' + p.rank : '<span class="muted">–</span>') + '</td></tr>';
+    }));
+  }
+  function runsNote() {
+    var w = latestRuns('W');
+    return 'Top-20 finishes in priority races from ' + fmtDate(w.from) + ' to ' + fmtDate(w.to) + ', ordered by where the time sits among the fastest athletes of ' + D.season +
+      ' at that distance (– = outside the top 100).';
+  }
+  function viewRuns() {
+    return '<h1>Latest runs</h1><p class="sub">' + runsNote() + '</p><div class="grid2"><div class="card"><h2>Women</h2>' + runsTable('W', 25) +
+      '</div><div class="card"><h2>Men</h2>' + runsTable('M', 25) + '</div></div>';
+  }
+
+  /* ---------- announced entries ---------- */
+  var REL = { official: ['●', 'Official', 'Race organiser or the athlete'], reported: ['◐', 'Reported', 'Major or specialist news outlet'], unconfirmed: ['○', 'Unconfirmed', 'Single secondary source or rumour'] };
+  function relTag(rel) {
+    var r = REL[rel] || REL.unconfirmed;
+    return '<span class="badge" title="' + r[2] + '">' + r[0] + ' ' + r[1] + '</span>';
+  }
+  function srcLink(url) {
+    return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(url.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + ' ↗</a>' : '';
+  }
+  function entryName(e) { return athleteLink(e.id, e.name) + ' <span class="muted">' + esc(e.nat || '') + '</span>'; }
+  function raceEntries(r) { return (D.entries || {})[r.id] || null; }
+  function withdrawalsHtml(list) {
+    if (!list.length) return '';
+    return '<h3>Withdrawn</h3><ul class="racelist">' + list.map(function (e) {
+      var h = e.history[e.history.length - 1];
+      return '<li><div><s>' + esc(e.name) + '</s> ' + (e.id && known[e.id] ? '<a href="#/athlete/' + esc(e.id) + '">profile</a> ' : '') + '<span class="muted">' + esc(e.nat || '') +
+        (e.pb ? ' · best ' + esc(e.pb) : '') + '</span></div><div class="meta"><span>' + fmtDate(e.lastDate, true) + '</span>' + relTag(e.reliability) + '<span>' + srcLink(h.source) + '</span></div>' +
+        '<div class="win">' + esc(e.reason || 'No reason given.') + (h.note ? ' <span>' + esc(h.note) + '</span>' : '') + '</div></li>';
+    }).join('') + '</ul>';
+  }
+  function entriesBody(r, compact) {
+    var d = raceEntries(r);
+    if (!d || !d.entries.length) return '<p class="muted" style="margin:0">No announced entries recorded yet for this race.</p>';
+    var html = '';
+    [['W', 'Women'], ['M', 'Men']].forEach(function (g) {
+      var all = d.entries.filter(function (e) { return e.gender === g[0]; });
+      var inn = all.filter(function (e) { return e.status === 'announced'; });
+      var out = all.filter(function (e) { return e.status === 'withdrawn'; });
+      if (!all.length) return;
+      html += '<div><h3 style="margin-top:0">' + g[1] + '</h3>';
+      if (inn.length) {
+        html += simpleTable(compact ? [['Athlete'], ['Best'], ['Source']] : [['Athlete'], ['Best'], ['Source'], ['First named'], ['Last confirmed']], (compact ? inn.slice(0, 6) : inn).map(function (e) {
+          return '<tr><td>' + entryName(e) + '</td><td class="mark">' + esc(e.pb || '') + '</td><td class="nowrap">' + relTag(e.reliability) + '</td>' +
+            (compact ? '' : '<td class="nowrap">' + fmtDate(e.firstDate, true) + '</td><td class="nowrap">' + fmtDate(e.lastDate, true) + '</td>') + '</tr>';
+        }));
+        if (compact && inn.length > 6) html += '<p class="muted" style="margin:6px 0 0">and ' + (inn.length - 6) + ' more</p>';
+      }
+      html += withdrawalsHtml(out) + '</div>';
+    });
+    return '<div class="grid2" style="margin-bottom:0">' + html + '</div>';
+  }
+  function changeLog(r) {
+    var d = raceEntries(r), ev = [];
+    if (!d) return '';
+    d.entries.forEach(function (e) { e.history.forEach(function (h) { ev.push({ e: e, h: h }); }); });
+    ev.sort(function (a, b) { return a.h.date < b.h.date ? 1 : a.h.date > b.h.date ? -1 : 0; });
+    var days = {}, order = [];
+    ev.forEach(function (x) { var k = x.h.date + '|' + x.h.type + '|' + (x.h.source || ''); if (!days[k]) { days[k] = []; order.push(k); } days[k].push(x); });
+    var verb = { announced: 'Announced', confirmed: 'Confirmed again', withdrawn: 'Withdrew' };
+    return '<h3>Change log</h3><ul class="racelist">' + order.map(function (k) {
+      var g = days[k], h = g[0].h;
+      return '<li><div class="meta"><span>' + fmtDate(h.date, true) + '</span>' + relTag(h.reliability) + '<span>' + srcLink(h.source) + '</span></div><div class="win"><b>' +
+        (verb[h.type] || esc(h.type)) + ':</b> ' + g.map(function (x) { return esc(x.e.name); }).join(', ') + (h.type === 'withdrawn' && h.reason ? ' <span>— ' + esc(h.reason) + '</span>' : '') + '</div></li>';
+    }).join('') + '</ul>';
+  }
+  function entriesCard(r) {
+    var d = raceEntries(r);
+    if (!d && isRun(r)) return '';
+    return '<div class="card"><h2>' + (isRun(r) ? 'Announced before the race' : 'Announced entries') + '</h2>' + entriesBody(r, false) +
+      (d ? changeLog(r) + '<p class="muted" style="margin:10px 0 0">' + (d.note ? esc(d.note) + ' ' : '') + 'Last checked ' + fmtDate(d.checked, true) +
+        '. ● Official = organiser or athlete; ◐ Reported = news outlet; ○ Unconfirmed = single secondary source.</p>' : '') + '</div>';
+  }
+  function upcoming() { return D.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }); }
+  function viewNext() {
+    var next = upcoming();
+    return '<h1>Running next</h1><p class="sub">Athletes announced for the upcoming priority races, with how reliable each announcement is, and everyone who has withdrawn.</p>' +
+      (next.length ? next.map(function (r) {
+        var d = raceEntries(r);
+        return '<div class="card"><h2>' + raceLink(r) + '</h2><div class="racelist"><div class="meta" style="margin-bottom:10px"><span>' + fmtDate(r.startDate, true) + '</span><span>' + esc(r.venue) + '</span>' +
+          tierBadge(r) + '<span>' + distName(r.distance) + '</span>' + (d ? '<span>checked ' + fmtDate(d.checked, true) + '</span>' : '') + '</div></div>' + entriesBody(r, false) + '</div>';
+      }).join('') : '<div class="card">No more priority races this season.</div>');
+  }
+  function athleteEntriesCard(id) {
+    var rows = [];
+    Object.keys(D.entries || {}).forEach(function (rid) {
+      D.entries[rid].entries.forEach(function (e) { if (e.id === id && raceById[rid]) rows.push({ r: raceById[rid], e: e }); });
+    });
+    if (!rows.length) return '';
+    rows.sort(function (a, b) { return a.r.startDate < b.r.startDate ? 1 : -1; });
+    return '<div class="card"><h2>Race plans and withdrawals</h2><ul class="racelist">' + rows.map(function (x) {
+      var e = x.e, h = e.history[e.history.length - 1], out = e.status === 'withdrawn';
+      return '<li><div>' + raceLink(x.r) + ' <span class="muted">' + fmtDate(x.r.startDate, true) + '</span></div><div class="meta"><span><b>' +
+        (out ? 'Withdrew ' + fmtDate(e.lastDate, true) : (isRun(x.r) ? 'Was announced' : 'Announced') + ' ' + fmtDate(e.firstDate, true)) + '</b></span>' + relTag(e.reliability) + '<span>' + srcLink(h.source) + '</span></div>' +
+        (out ? '<div class="win">' + esc(e.reason || 'No reason given.') + (h.note ? ' <span>' + esc(h.note) + '</span>' : '') + '</div>' : (h.note ? '<div class="win"><span>' + esc(h.note) + '</span></div>' : '')) + '</li>';
+    }).join('') + '</ul></div>';
+  }
+
   var SYMBOL = { USD: '$', EUR: '€', AUD: 'A$', GBP: '£', JPY: '¥' };
   function money(amount, currency) {
     return (SYMBOL[currency] || (currency + ' ')) + Math.round(amount).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
@@ -190,6 +325,12 @@
       run.slice(-6).reverse().map(raceItem).join('') + '</ul></div>' +
       '<div class="card"><h2>Coming up</h2><ul class="racelist">' +
       (next.length ? next.slice(0, 6).map(raceItem).join('') : '<li class="muted">No more priority races this season.</li>') + '</ul></div></div>';
+    html += '<div class="card"><h2><a href="#/runs">Latest runs</a></h2><div class="grid2" style="margin-bottom:0"><div><h3 style="margin-top:0">Women</h3>' + runsTable('W', 5) +
+      '</div><div><h3 style="margin-top:0">Men</h3>' + runsTable('M', 5) + '</div></div><p class="muted" style="margin:10px 0 0">' + runsNote() + ' <a href="#/runs">See all</a></p></div>';
+    var nextWith = next.filter(function (r) { return raceEntries(r); })[0];
+    html += '<div class="card"><h2><a href="#/next">Running next</a>' + (nextWith ? ': ' + esc(nextWith.name) + ', ' + fmtDate(nextWith.startDate) : '') + '</h2>' +
+      (nextWith ? entriesBody(nextWith, true) : '<p class="muted" style="margin:0">No announced entries recorded yet for the upcoming races.</p>') +
+      '<p class="muted" style="margin:10px 0 0"><a href="#/next">All upcoming races and announced athletes</a></p></div>';
     var earners = Object.keys(prizeTotals).map(function (id) { return { id: id, t: prizeTotals[id] }; }).sort(function (a, b) { return b.t.usd - a.t.usd; });
     if (earners.length) {
       html += '<div class="card"><h2>Prize money leaders</h2><div class="grid2" style="margin-bottom:0">' + [['W', 'Women'], ['M', 'Men']].map(function (g) {
@@ -268,13 +409,13 @@
     var html = '<a class="back" href="#/races">← All races</a><h1>' + esc(r.name) + '</h1><p class="sub">' + fmtDate(r.startDate, true) + ' · ' + esc(r.venue) +
       ' · ' + distName(r.distance) + ' &nbsp; ' + tierBadge(r) + '</p>';
     if (!isRun(r)) {
-      return html + '<div class="card">' + (r.startDate > TODAY ? 'This race has not been run yet.' : 'Results are not available from World Athletics yet.') + '</div>';
+      return html + '<div class="card">' + (r.startDate > TODAY ? 'This race has not been run yet.' : 'Results are not available from World Athletics yet.') + '</div>' + entriesCard(r);
     }
     var evs = r.events.slice().sort(function (a, b) { return (a.distance < b.distance ? -1 : a.distance > b.distance ? 1 : 0) || (a.gender === 'W' ? -1 : 1); });
     html += '<div class="grid2">' + evs.map(function (ev) {
       return '<div class="card"><h2>' + esc(ev.event) + '</h2>' + resultsTable(ev, r) + '<p class="muted" style="margin:10px 0 0">Top ' + ev.results.length +
         ' of ' + ev.finishers + ' listed finishers.</p></div>';
-    }).join('') + '</div>' + prizeCard(r);
+    }).join('') + '</div>' + prizeCard(r) + entriesCard(r);
     return html + '<p><a href="' + esc(r.source) + '" target="_blank" rel="noopener">Full results at World Athletics ↗</a></p>';
   }
 
@@ -322,7 +463,7 @@
         html += '<div class="grid2"><div class="card"><h2>Season bests ' + D.season + '</h2>' + (best.length ? simpleTable([['Distance'], ['Time'], ['World rank', 1], ['Where'], ['Date']], best.map(function (b) {
           return '<tr><td><a href="#/distance/' + b.d + '">' + distName(b.d) + '</a></td><td class="mark">' + esc(b.r.mark) + '</td><td class="num">' + esc(b.r.rank) + '</td><td>' + esc(b.r.venue) + '</td><td class="nowrap">' + fmtDate(b.r.date) + '</td></tr>';
         })) : '<p class="muted">Not in the season top 100 at marathon, half marathon or 10 km.</p>') + '</div>' +
-          appsCard(id) + '</div></div>';
+          appsCard(id) + '</div></div>' + athleteEntriesCard(id);
         return html + '<p class="muted">Career details (personal bests, full results, honours) are added gradually, a few athletes per update. ' +
           '<a href="https://worldathletics.org/athletes/athlete=' + esc(id) + '" target="_blank" rel="noopener">Profile at World Athletics ↗</a></p>';
       }
@@ -345,7 +486,7 @@
         }).join('') + '</dl>';
       }
       right += '</div>';
-      html += '<div class="grid2">' + left + right + '</div>';
+      html += '<div class="grid2">' + left + right + '</div>' + athleteEntriesCard(id);
 
       if ((a.seasonResults || []).length) {
         html += '<div class="card"><h2>All results ' + esc(a.seasonYear || '') + '</h2>' + simpleTable([['Date'], ['Event'], ['Competition'], ['Place', 1], ['Mark']], a.seasonResults.map(function (s) {
@@ -407,6 +548,8 @@
     var h = location.hash.replace(/^#\/?/, ''), parts = h.split('/'), out;
     if (!h) out = viewOverview();
     else if (parts[0] === 'races') out = viewRaces();
+    else if (parts[0] === 'runs') out = viewRuns();
+    else if (parts[0] === 'next') out = viewNext();
     else if (parts[0] === 'race') out = viewRace(parts[1]);
     else if (parts[0] === 'distance') out = viewDistance(parts[1]);
     else if (parts[0] === 'athlete') out = viewAthlete(parts[1]);
@@ -444,6 +587,9 @@
     });
     Object.keys(D.toplists).forEach(function (key) {
       D.toplists[key].rows.forEach(function (x) { if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born }; });
+    });
+    Object.keys(D.entries || {}).forEach(function (rid) {
+      D.entries[rid].entries.forEach(function (e) { if (e.id && !known[e.id]) known[e.id] = { name: e.name, nat: e.nat, born: '' }; });
     });
     document.getElementById('season').textContent = D.season;
     document.getElementById('updated').textContent = 'Updated ' + fmtDate(D.updated, true) + '. ';

@@ -1,0 +1,11 @@
+{
+ "raceId": 7235580,
+ "race": "BMW Berlin Marathon",
+ "checked": "2026-11-16",
+ "note": "Only this withdrawal has been recorded; the full announced field was not tracked for this race.",
+ "entries": [
+  {"name": "Sabastian Kimaru SAWE", "nat": "KEN", "gender": "M", "pb": "1:59:30", "history": [
+   {"date": "2026-08", "type": "withdrawn", "reliability": "reported", "reason": "Tibial stress fracture.", "note": "Withdrew in late August; not expected to race another marathon in 2026.", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
+  ]}
+ ]
+}

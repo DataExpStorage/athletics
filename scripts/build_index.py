@@ -6,6 +6,7 @@ import glob
 import os
 import re
 import shutil
+import unicodedata
 
 import wa
 
@@ -48,6 +49,74 @@ def add_prize_money(race, entry, rates):
                     r["bonusNote"] = "; ".join(notes)
                 if rate:
                     r["usd"] = int(round((amount + bonus) * rate))
+
+
+RELIABILITY_ORDER = {"official": 0, "reported": 1, "unconfirmed": 2}
+
+
+def name_tokens(name):
+    text = unicodedata.normalize("NFKD", name or "").encode("ascii", "ignore").decode().lower()
+    return frozenset(re.findall(r"[a-z]+", text))
+
+
+def build_name_index():
+    """(gender, name tokens) -> athlete id, for every athlete seen in results and top lists."""
+    index = {}
+
+    def add(gender, name, aid):
+        if aid and name:
+            index.setdefault(gender, {})[name_tokens(name)] = aid
+
+    for f in glob.glob(os.path.join(wa.DATA, "results", "*.json")):
+        for ev in wa.load_json(f)["events"]:
+            for r in ev["results"]:
+                add(ev["gender"], r["name"], r["athleteId"])
+    for f in glob.glob(os.path.join(wa.DATA, "toplists", "*.json")):
+        t = wa.load_json(f)
+        for r in t["rows"]:
+            add("W" if t["gender"] == "women" else "M", r["name"], r["athleteId"])
+    return index
+
+
+def find_athlete(index, gender, name):
+    """Exact name match, else a unique athlete whose name contains all the given words."""
+    people = index.get(gender, {})
+    tokens = name_tokens(name)
+    if tokens in people:
+        return people[tokens]
+    hits = set(aid for t, aid in people.items() if len(tokens) >= 2 and tokens <= t)
+    return hits.pop() if len(hits) == 1 else None
+
+
+def build_entries(index):
+    """data/entries/*.json -> per race: current status of every announced athlete, with history."""
+    out = {}
+    for f in sorted(glob.glob(os.path.join(wa.DATA, "entries", "*.json"))):
+        d = wa.load_json(f)
+        entries = []
+        for e in d.get("entries", []):
+            history = sorted(e.get("history", []), key=lambda h: h.get("date", ""))
+            if not history:
+                continue
+            last = history[-1]
+            withdrawn = last["type"] == "withdrawn"
+            # evidence for the current status: for a starter, every event since the last withdrawal
+            start = max([i for i, h in enumerate(history) if h["type"] == "withdrawn"] or [-1])
+            evidence = [last] if withdrawn else history[start + 1:]
+            reliability = min((h.get("reliability", "unconfirmed") for h in evidence),
+                              key=lambda r: RELIABILITY_ORDER.get(r, 9))
+            entries.append({
+                "name": e["name"], "nat": e.get("nat"), "gender": e.get("gender"), "pb": e.get("pb"),
+                "id": e.get("athleteId") or find_athlete(index, e.get("gender"), e["name"]),
+                "status": "withdrawn" if withdrawn else "announced",
+                "reliability": reliability,
+                "firstDate": history[0].get("date"),
+                "lastDate": last.get("date"),
+                "reason": last.get("reason") if withdrawn else None,
+                "history": history,
+            })
+        out[str(d["raceId"])] = {"checked": d.get("checked"), "note": d.get("note"), "entries": entries}
+    return out
 
 
 def main():
@@ -111,6 +180,7 @@ def main():
         "labelRaceCounts": cal.get("labelRaceCounts"),
         "races": races,
         "toplists": toplists,
+        "entries": build_entries(build_name_index()),
         "athleteIds": sorted(athlete_ids),
         "newsletters": newsletters,
     })

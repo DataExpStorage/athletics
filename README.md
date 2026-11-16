@@ -41,6 +41,11 @@ Needs Python 3.7 or newer; no extra packages.
   `config/prize_money.json` from organisers and press, with sources and a reliability
   grade. Season totals per athlete count only races that have an entry, and never include
   appearance fees or sponsor bonuses.
+- Announced entries and withdrawals live in `data/entries/<raceId>.json`, one record per
+  athlete with an append-only history (announced, confirmed, withdrawn with reason), each
+  event graded official / reported / unconfirmed with its source. They are researched by
+  the weekly Claude run, not fetched automatically. The site shows them on the Running
+  next page, on each race page and on each athlete's page.
 - Personal, non-commercial use. Every page links back to the World Athletics source.
 
 ## Publishing (one-time setup)
