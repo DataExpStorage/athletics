@@ -5,7 +5,11 @@ data/team, newsletters) are written from web research, so their content is treat
 untrusted: the dashboard and Telegram must never receive markup, non-web links or
 malformed values from them.
 
-Usage: python scripts/validate.py      exits 1 and lists every problem if any is found
+The files the fetch scripts store from World Athletics are checked by the same rules.
+
+Usage: python scripts/validate.py              run every check
+       python scripts/validate.py reports team run only the named checks
+Exits 1 and lists every problem if any is found.
 """
 import glob
 import json
@@ -277,19 +281,169 @@ def check_newsletters(c):
                 c.fail("link target is not a plain http(s) link: %r" % target)
 
 
-def check():
+def check_news(c):
+    """data/news/<ISO week>.json: the week's news items, each with a source."""
+    for path in sorted(glob.glob(os.path.join(ROOT, "data", "news", "*"))):
+        name = os.path.basename(path)
+        c.where = "data/news/" + name
+        if not re.match(r"^\d{4}-W\d{2}\.json$", name):
+            c.fail("unexpected file name (expected e.g. 2026-W47.json)")
+            continue
+        data = load(c, path)
+        if not isinstance(data, dict):
+            continue
+        if data.get("week") != name[:-5]:
+            c.fail("week does not match the file name")
+        c.date(data.get("checked"), "checked")
+        items = data.get("items")
+        if not isinstance(items, list):
+            c.fail("items must be a list")
+            continue
+        if len(items) > 30:
+            c.fail("more than 30 items")
+        for it in items:
+            if not isinstance(it, dict):
+                c.fail("an item is not an object")
+                continue
+            what = "item %r" % (it.get("headline"),)
+            c.text(it.get("headline"), "headline", required=True)
+            c.text(it.get("summary"), "%s summary" % what, required=True)
+            c.date(it.get("date"), "%s date" % what)
+            c.choice(it.get("reliability"), RELIABILITY, "%s reliability" % what)
+            c.url(it.get("source"), "%s source" % what, required=True)
+            for key in ("athletes", "races"):
+                if it.get(key) is not None and not isinstance(it[key], list):
+                    c.fail("%s %s must be a list" % (what, key))
+
+
+# ---------------------------------------------------------------- fetched data
+def json_files(c, *parts):
+    out = []
+    for path in sorted(glob.glob(os.path.join(ROOT, "data", *parts))):
+        data = load(c, path)
+        if isinstance(data, dict):
+            out.append((path, data))
+        elif data is not None:
+            c.fail("must be a JSON object")
+    return out
+
+
+def check_fetched(c):
+    """What the fetch scripts store from World Athletics: also untrusted, so the same
+    rules apply (no markup, numeric ids, expected shape)."""
+    for path, cal in json_files(c, "calendar", "*.json"):
+        name = os.path.basename(path)
+        if not re.match(r"^\d{4}\.json$", name) or str(cal.get("season")) != name[:-5]:
+            c.fail("season does not match the file name")
+        races = cal.get("races")
+        if not isinstance(races, list):
+            c.fail("races must be a list")
+            continue
+        for r in races:
+            if not isinstance(r, dict) or not isinstance(r.get("id"), int) or isinstance(r.get("id"), bool):
+                c.fail("a race has no numeric id")
+                continue
+            c.text(r.get("name"), "race %s name" % r["id"], required=True)
+            c.date(r.get("startDate"), "race %s startDate" % r["id"])
+            c.date(r.get("endDate"), "race %s endDate" % r["id"])
+            c.text(r.get("tier"), "race %s tier" % r["id"], required=True)
+            if not isinstance(r.get("distance"), str) or not re.match(r"^[a-z0-9-]{1,20}$", r["distance"]):
+                c.fail("race %s distance is not a plain code: %r" % (r["id"], r.get("distance")))
+    for path, res in json_files(c, "results", "*.json"):
+        if not re.match(r"^\d{1,12}\.json$", os.path.basename(path)) or str(res.get("id")) != os.path.basename(path)[:-5]:
+            c.fail("id does not match the file name")
+        c.url(res.get("source"), "source", required=True)
+        for ev in res.get("events") or []:
+            if not isinstance(ev, dict) or ev.get("gender") not in ("W", "M", "X"):
+                c.fail("an event has no valid gender")
+                continue
+            for row in ev.get("results") or []:
+                if row.get("athleteId") is not None:
+                    c.digits(row["athleteId"], "athleteId of %r" % (row.get("name"),))
+    for path, top in json_files(c, "toplists", "*", "*.json"):
+        c.url(top.get("source"), "source", required=True)
+        for row in top.get("rows") or []:
+            if row.get("athleteId") is not None:
+                c.digits(row["athleteId"], "athleteId of %r" % (row.get("name"),))
+    for path, prof in json_files(c, "athletes", "*.json"):
+        name = os.path.basename(path)
+        if not re.match(r"^[1-9]\d{0,11}\.json$", name) or str(prof.get("id")) != name[:-5]:
+            c.fail("id does not match the file name, or has a leading zero")
+        c.url(prof.get("source"), "source", required=True)
+        rep = prof.get("representative")
+        if rep is not None:
+            # privacy: only the name, country and business website of a representative are kept
+            if not isinstance(rep, dict) or not set(rep) <= set(("name", "country", "website")):
+                c.fail("representative holds more than name, country and website")
+        if re.search(r"[\w.+-]+@[\w-]+\.[\w.-]+", json.dumps(prof)):
+            c.fail("contains an e-mail address")
+
+
+def check_links(c):
+    """Researched files must point at races and athletes that exist in the fetched data."""
+    race_ids, athlete_ids = set(), set()
+    for path in glob.glob(os.path.join(ROOT, "data", "calendar", "*.json")):
+        try:
+            with open(path, encoding="utf-8") as f:
+                race_ids.update(str(r.get("id")) for r in json.load(f).get("races", []) if isinstance(r, dict))
+        except (ValueError, OSError):
+            pass
+    for path in glob.glob(os.path.join(ROOT, "data", "athletes", "*.json")):
+        athlete_ids.add(os.path.basename(path)[:-5])
+    for folder in ("reports", "entries"):
+        for path in glob.glob(os.path.join(ROOT, "data", folder, "*.json")):
+            if os.path.basename(path)[:-5] not in race_ids:
+                c.where = "data/%s/%s" % (folder, os.path.basename(path))
+                c.fail("no race with this id in any calendar")
+    path = os.path.join(ROOT, "config", "prize_money.json")
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                prize = json.load(f)
+        except (ValueError, OSError):
+            prize = {}
+        c.where = "config/prize_money.json"
+        for rid in (prize.get("races") or {}) if isinstance(prize, dict) else {}:
+            if str(rid) not in race_ids:
+                c.fail("race %s is not in any calendar" % rid)
+    for path in glob.glob(os.path.join(ROOT, "data", "team", "*.json")):
+        if os.path.basename(path)[:-5] not in athlete_ids:
+            c.where = "data/team/" + os.path.basename(path)
+            c.fail("no athlete profile with this id")
+
+
+CHECKS = {
+    "prize_money": check_prize_money,
+    "agencies": check_agencies,
+    "entries": check_entries,
+    "reports": check_reports,
+    "team": check_team,
+    "news": check_news,
+    "newsletters": check_newsletters,
+    "fetched": check_fetched,
+    "links": check_links,
+}
+ORDER = ("fetched", "prize_money", "agencies", "entries", "reports", "team", "news", "newsletters", "links")
+
+
+def check(kinds=None):
+    """Run the named checks (all of them by default) and return the list of problems."""
     c = Checker()
-    for step in (check_prize_money, check_agencies, check_entries, check_reports, check_team, check_newsletters):
-        step(c)
+    for kind in (kinds or ORDER):
+        CHECKS[kind](c)
     return c.errors
 
 
 def main():
-    errors = check()
+    kinds = [a for a in sys.argv[1:] if not a.startswith("-")]
+    unknown = [k for k in kinds if k not in CHECKS]
+    if unknown:
+        sys.exit("Unknown check: %s (available: %s)" % (", ".join(unknown), ", ".join(ORDER)))
+    errors = check(kinds or None)
     if errors:
         sys.stdout.buffer.write(("Validation failed (%d):\n  " % len(errors) + "\n  ".join(errors) + "\n").encode("utf-8", "replace"))
         sys.exit(1)
-    print("Researched files are valid.")
+    print("Valid: %s." % (", ".join(kinds) if kinds else "all checks passed"))
 
 
 if __name__ == "__main__":

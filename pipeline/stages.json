@@ -1,0 +1,73 @@
+{
+ "_about": "The weekly pipeline: its stages, in order. For each stage: 'paths' are the only files it may create or change; 'checks' are the validations (scripts/validate.py) its output must pass; 'review' says whether the read-only reviewer also looks at it; 'needs' are stages that must have passed before it starts; 'critical' means the run stops if it fails. scripts/check_stage.py enforces all of this. The stages are the same for every discipline.",
+ "order": ["fetch", "reports", "prize-money", "entries", "team", "news", "newsletter", "publish"],
+ "stages": {
+  "fetch": {
+   "skill": "athletics-fetch",
+   "does": "Runs the fetch scripts for the discipline.",
+   "paths": ["data/calendar/*.json", "data/results/*.json", "data/toplists/*/*.json", "data/athletes/*.json"],
+   "checks": ["fetched"],
+   "review": false,
+   "needs": [],
+   "critical": true
+  },
+  "reports": {
+   "skill": "athletics-reports",
+   "does": "Summarises race reports.",
+   "paths": ["data/reports/*.json"],
+   "checks": ["reports", "links"],
+   "review": true,
+   "needs": ["fetch"]
+  },
+  "prize-money": {
+   "skill": "athletics-prize-money",
+   "does": "Researches prize money.",
+   "paths": ["config/prize_money.json"],
+   "checks": ["prize_money", "links"],
+   "review": true,
+   "needs": ["fetch"]
+  },
+  "entries": {
+   "skill": "athletics-entries",
+   "does": "Tracks announced fields and withdrawals.",
+   "paths": ["data/entries/*.json"],
+   "checks": ["entries", "links"],
+   "review": true,
+   "needs": ["fetch"]
+  },
+  "team": {
+   "skill": "athletics-team",
+   "does": "Researches coach and shoe sponsor; verifies earlier entries.",
+   "paths": ["data/team/*.json", "config/agencies.json"],
+   "checks": ["team", "agencies", "links"],
+   "review": true,
+   "needs": ["fetch"]
+  },
+  "news": {
+   "skill": "athletics-news",
+   "does": "Collects the week's news items with sources.",
+   "paths": ["data/news/*.json"],
+   "checks": ["news"],
+   "review": true,
+   "needs": []
+  },
+  "newsletter": {
+   "skill": "athletics-newsletter",
+   "does": "Writes the weekly issue from checked data only.",
+   "paths": ["newsletters/*.md"],
+   "checks": ["newsletters"],
+   "review": true,
+   "needs": ["fetch"],
+   "uses": ["reports", "prize-money", "entries", "team", "news"],
+   "critical": true
+  },
+  "publish": {
+   "skill": "athletics-publish",
+   "does": "Builds the site data, commits and pushes what passed.",
+   "paths": [],
+   "checks": ["fetched", "prize_money", "agencies", "entries", "reports", "team", "news", "newsletters", "links"],
+   "review": false,
+   "needs": ["fetch", "newsletter"]
+  }
+ }
+}
