@@ -116,3 +116,9 @@ td.nowrap { white-space: nowrap; }
 .news h2 { margin-top: 20px; }
 .news li { margin-bottom: 6px; }
 .back { display: inline-block; margin-bottom: 10px; font-size: 13.5px; }
+
+.tiles.two { grid-template-columns: 1fr 1fr; }
+.tile .v .span { font-size: 15px; font-weight: 400; color: var(--ink-2); margin-left: 6px; }
+table.honours { table-layout: fixed; min-width: 640px; }
+table.honours tr.grp th { padding-top: 16px; font-size: 14px; color: var(--ink); border-bottom: 1px solid var(--axis); }
+table.honours tbody tr.grp:first-child th { padding-top: 6px; }

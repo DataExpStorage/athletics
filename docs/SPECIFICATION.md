@@ -186,7 +186,7 @@ to their page.
 | Running next | `#/next` | Every upcoming race with its announced athletes, best time, reliability, first-named and last-confirmed dates; withdrawn athletes kept, with date, reason and source |
 | Distance | `#/distance/<d>` | Season top 100 (women / men) and the priority races at that distance |
 | Race | `#/race/<id>` | Race report summary; top 20 women and men with prize money; prize money card; announced entries and change log |
-| Athlete | `#/athlete/<id>` | Season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, progression and honours when a profile exists |
+| Athlete | `#/athlete/<id>` | Header figures (Marathon Majors count and wins; seasons in road running); season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, bests by season and honours when a profile exists |
 | Newsletter | `#/news` | Archive of weekly issues |
 
 Display rules:
@@ -197,6 +197,18 @@ Display rules:
   `config/prize_money.json`. Wherever a total appears, the page states how many races it
   covers and that appearance fees and sponsor bonuses are excluded. A "?" marks a race
   whose prize money is not known.
+- Athlete page rules: road personal bests are the marathon, half marathon and events
+  World Athletics names "... Road" (Mile Road is road; Mile and Mile Short Track are
+  not). Track bests show Olympic events only. Both lists run from longest to shortest
+  distance. Bests by season and honours run from oldest to newest. Honours show six
+  groups only, in one table with shared columns: Marathon Majors, International
+  Marathons, Olympic Games, World Championships, World Road Running Championships, World
+  Cross Country Championships.
+- Athlete header figures: with a profile, Marathon Majors are the top-eight finishes
+  World Athletics lists under honours (it does not list lower places), and seasons are
+  those with a result at marathon, half marathon or 10 km. Without a profile, both are
+  counted from the seasons tracked here and labelled as such; they become career figures
+  when the profile is fetched.
 - Missing researched data is stated as missing ("Not mentioned in the report", "No
   announced entries recorded yet"), never left blank or guessed.
 - Light and dark colour schemes follow the device setting. Tier colours: Platinum blue,

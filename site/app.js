@@ -486,7 +486,73 @@
     return '<div class="scroll"><table><thead><tr>' + head.map(function (h) { return '<th' + (h[1] ? ' class="num"' : '') + '>' + h[0] + '</th>'; }).join('') +
       '</tr></thead><tbody>' + rows.join('') + '</tbody></table></div>';
   }
-  function isRoad(name) { return /marathon|kilometres|road|mile/i.test(name || ''); }
+  // Road events: marathon, half marathon and anything World Athletics names "... Road".
+  // "Mile" and "Mile Short Track" are track events; only "Mile Road" is a road event.
+  function isRoad(name) { return /marathon|\broad\b/i.test(name || '') && !/race walk/i.test(name || ''); }
+  var OLYMPIC_TRACK = ['100 Metres', '200 Metres', '400 Metres', '800 Metres', '1500 Metres', '5000 Metres', '10,000 Metres',
+    '100 Metres Hurdles', '110 Metres Hurdles', '400 Metres Hurdles', '3000 Metres Steeplechase',
+    '4x100 Metres Relay', '4x400 Metres Relay', '4x400 Metres Relay Mixed', '20 Kilometres Race Walk', 'Marathon Race Walk Mixed Relay',
+    'High Jump', 'Pole Vault', 'Long Jump', 'Triple Jump', 'Shot Put', 'Discus Throw', 'Hammer Throw', 'Javelin Throw', 'Heptathlon', 'Decathlon'];
+  function isOlympicTrack(p) { return !p.indoor && OLYMPIC_TRACK.indexOf(p.discipline) >= 0; }
+  // length of an event in metres, for ordering longest to shortest (0 = not a distance)
+  function metres(name) {
+    var n = (name || '').toLowerCase().replace(/,/g, ''), m;
+    if (/half marathon/.test(n)) return 21097.5;
+    if (/marathon/.test(n)) return 42195;
+    if ((m = /(\d+)x(\d+) metres/.exec(n))) return parseInt(m[1], 10) * parseInt(m[2], 10);
+    if ((m = /([\d.]+) kilometres/.exec(n))) return parseFloat(m[1]) * 1000;
+    if ((m = /([\d.]+) miles/.exec(n))) return parseFloat(m[1]) * 1609.344;
+    if (/\bmile\b/.test(n)) return 1609.344;
+    if ((m = /([\d.]+) metres/.exec(n))) return parseFloat(m[1]);
+    return 0;
+  }
+  function byLength(a, b) { return metres(b.discipline) - metres(a.discipline) || (a.discipline < b.discipline ? -1 : 1); }
+  var MON = { JAN: '01', FEB: '02', MAR: '03', APR: '04', MAY: '05', JUN: '06', JUL: '07', AUG: '08', SEP: '09', OCT: '10', NOV: '11', DEC: '12' };
+  function isoDate(s) {      // '26 APR 2026' -> '2026-04-26'
+    var m = /^(\d{1,2}) ([A-Za-z]{3}) (\d{4})$/.exec((s || '').trim());
+    return m && MON[m[2].toUpperCase()] ? m[3] + '-' + MON[m[2].toUpperCase()] + '-' + ('0' + m[1]).slice(-2) : (s || '');
+  }
+  var HONOUR_GROUPS = [['Major Marathon', 'Marathon Majors'], ['International Marathon', 'International Marathons'], ['Olympic Games', 'Olympic Games'],
+    ['World Championships', 'World Championships'], ['World Road Running Championships', 'World Road Running Championships'],
+    ['World Cross Country Championships', 'World Cross Country Championships']];
+  var FEATURED = ['Marathon', 'Half Marathon', '10 Kilometres Road'];
+  function careerTiles(id, a, full) {
+    var majors, wins, seasons = {}, note1, note2;
+    if (full) {
+      var list = [];
+      (a.honours || []).forEach(function (h) { if (h.category === 'Major Marathon') list = list.concat(h.results || []); });
+      majors = list.length;
+      wins = list.filter(function (x) { return /^1\.?$/.test(x.place || ''); }).length;
+      (a.roadProgression || []).forEach(function (p) {
+        if (FEATURED.indexOf(p.discipline) >= 0) (p.results || []).forEach(function (x) { if (x.season) seasons[x.season] = 1; });
+      });
+      note1 = wins + (wins === 1 ? ' win' : ' wins') + ' · top-eight finishes, as listed by World Athletics';
+      note2 = 'with a result at marathon, half marathon or 10 km';
+    } else {
+      majors = 0; wins = 0;
+      ALL.races.forEach(function (r) {
+        (r.events || []).forEach(function (ev) {
+          ev.results.forEach(function (x) {
+            if (x.id !== id) return;
+            if (['marathon', 'half-marathon', '10km'].indexOf(ev.distance) >= 0) seasons[r.season] = 1;
+            if (r.major) { majors += 1; if (x.place === '1') wins += 1; }
+          });
+        });
+      });
+      Object.keys(ALL.toplists).forEach(function (season) {
+        Object.keys(ALL.toplists[season]).forEach(function (key) {
+          if (ALL.toplists[season][key].rows.some(function (x) { return x.id === id; })) seasons[season] = 1;
+        });
+      });
+      note1 = wins + (wins === 1 ? ' win' : ' wins') + ' · top-20 finishes in the seasons tracked here only';
+      note2 = 'seasons tracked here only; career figures follow once the profile is fetched';
+    }
+    var years = Object.keys(seasons).sort();
+    var span = years.length ? (years[0] === years[years.length - 1] ? years[0] : years[0] + '–' + years[years.length - 1]) : '';
+    return '<div class="tiles two"><div class="tile"><div class="k">Marathon Majors</div><div class="v">' + majors + '</div><div class="n">' + note1 + '</div></div>' +
+      '<div class="tile"><div class="k">Seasons in road running</div><div class="v">' + years.length + (span ? ' <span class="span">' + span + '</span>' : '') +
+      '</div><div class="n">' + note2 + '</div></div></div>';
+  }
   function viewAthlete(id) {
     if (!known[id]) return Promise.resolve(notFound());
     var k = known[id];
@@ -499,7 +565,7 @@
       var name = full ? (a.givenName || '') + ' ' + (a.familyName || '') : k.name;
       var age = /^\d{4}-/.test(a.birthDate || '') ? Math.floor((Date.parse(TODAY) - Date.parse(a.birthDate)) / 31557600000) : null;
       var html = '<a class="back" href="javascript:history.back()">← Back</a><h1>' + esc(name) + '</h1><p class="sub">' + esc(a.countryName || a.country || k.nat) +
-        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>';
+        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>' + careerTiles(id, a, full);
       if (!full) {
         var best = [];
         Object.keys(D.toplists).forEach(function (key) {
@@ -513,14 +579,14 @@
           '<a href="https://worldathletics.org/athletes/athlete=' + esc(id) + '" target="_blank" rel="noopener">Profile at World Athletics ↗</a></p>';
       }
 
-      var pbs = (a.personalBests || []).filter(function (p) { return isRoad(p.discipline); });
+      var pbs = (a.personalBests || []).filter(function (p) { return isRoad(p.discipline); }).sort(byLength);
       var left = '<div class="card"><h2>Road personal bests</h2>' + (pbs.length ? simpleTable([['Distance'], ['Time'], ['Where'], ['Date']], pbs.map(function (p) {
         return '<tr><td>' + esc(p.discipline) + '</td><td class="mark">' + esc(p.mark) + '</td><td>' + esc(p.venue) + '</td><td class="nowrap">' + esc(p.date) + '</td></tr>';
       })) : '<p class="muted">None listed.</p>');
-      var other = (a.personalBests || []).filter(function (p) { return !isRoad(p.discipline); });
+      var other = (a.personalBests || []).filter(function (p) { return !isRoad(p.discipline) && isOlympicTrack(p); }).sort(byLength);
       if (other.length) {
-        left += '<h3>Track and other</h3>' + simpleTable([['Event'], ['Mark'], ['Date']], other.map(function (p) {
-          return '<tr><td>' + esc(p.discipline) + (p.indoor ? ' (indoor)' : '') + '</td><td class="mark">' + esc(p.mark) + '</td><td class="nowrap">' + esc(p.date) + '</td></tr>';
+        left += '<h3>Track (Olympic events)</h3>' + simpleTable([['Event'], ['Mark'], ['Date']], other.map(function (p) {
+          return '<tr><td>' + esc(p.discipline) + '</td><td class="mark">' + esc(p.mark) + '</td><td class="nowrap">' + esc(p.date) + '</td></tr>';
         }));
       }
       left += '</div>';
@@ -540,21 +606,28 @@
             '</td><td class="num">' + esc(s.place) + '</td><td class="mark">' + esc(s.mark) + '</td></tr>';
         })) + '</div>';
       }
-      var prog = (a.roadProgression || []).filter(function (p) { return /marathon|10 kilometres/i.test(p.discipline) && p.results && p.results.length; });
+      var prog = (a.roadProgression || []).filter(function (p) { return FEATURED.indexOf(p.discipline) >= 0 && p.results && p.results.length; }).sort(byLength);
       if (prog.length) {
         html += '<div class="grid' + (prog.length > 2 ? 3 : 2) + '">' + prog.map(function (p) {
-          return '<div class="card"><h2>' + esc(p.discipline) + ' by season</h2>' + simpleTable([['Season'], ['Best'], ['Where']], p.results.slice().sort(function (x, y) { return y.season - x.season; }).map(function (x) {
+          return '<div class="card"><h2>' + esc(p.discipline) + ' by season</h2>' + simpleTable([['Season'], ['Best'], ['Where']], p.results.slice().sort(function (x, y) { return x.season - y.season; }).map(function (x) {
             return '<tr><td>' + esc(x.season) + '</td><td class="mark">' + esc(x.mark) + '</td><td>' + esc(x.venue) + '</td></tr>';
           })) + '</div>';
         }).join('') + '</div>';
       }
-      var hon = (a.honours || []).filter(function (h) { return h.results && h.results.length; });
-      if (hon.length) {
-        html += '<div class="card"><h2>Honours</h2>' + hon.map(function (h) {
-          return '<h3>' + esc(h.category) + '</h3>' + simpleTable([['Place', 1], ['Event'], ['Competition'], ['Mark']], h.results.map(function (x) {
-            return '<tr><td class="num">' + esc((x.place || '').replace(/\.$/, '')) + '</td><td>' + esc(x.discipline) + '</td><td>' + esc(x.competition) + '</td><td class="mark">' + esc(x.mark) + '</td></tr>';
-          }));
-        }).join('') + '</div>';
+      var honRows = '';
+      HONOUR_GROUPS.forEach(function (g) {
+        var res = [];
+        (a.honours || []).forEach(function (h) { if (h.category === g[0]) res = res.concat(h.results || []); });
+        if (!res.length) return;
+        res.sort(function (x, y) { var dx = isoDate(x.date), dy = isoDate(y.date); return dx < dy ? -1 : dx > dy ? 1 : 0; });
+        honRows += '<tr class="grp"><th colspan="5">' + g[1] + '</th></tr>' + res.map(function (x) {
+          return '<tr><td class="nowrap">' + fmtDate(isoDate(x.date), true) + '</td><td class="num">' + esc((x.place || '').replace(/\.$/, '')) + '</td><td>' + esc(x.discipline) +
+            '</td><td>' + esc(x.competition) + '</td><td class="mark">' + esc(x.mark) + '</td></tr>';
+        }).join('');
+      });
+      if (honRows) {
+        html += '<div class="card"><h2>Honours</h2><div class="scroll"><table class="honours"><colgroup><col style="width:14%"><col style="width:8%"><col style="width:24%"><col style="width:40%"><col style="width:14%"></colgroup>' +
+          '<thead><tr><th>Date</th><th class="num">Place</th><th>Event</th><th>Competition</th><th>Mark</th></tr></thead><tbody>' + honRows + '</tbody></table></div></div>';
       }
       return html + '<p><a href="' + esc(a.source) + '" target="_blank" rel="noopener">Profile at World Athletics ↗</a> <span class="muted">· profile read ' + fmtDate(a.fetched, true) + '</span></p>';
     });
