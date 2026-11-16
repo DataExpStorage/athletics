@@ -459,6 +459,11 @@
       '<div class="tile"><div class="k">Next race</div><div class="v">' + (nxt ? fmtDate(nxt.startDate) : '–') + '</div><div class="n">' + (nxt ? raceLink(nxt) : 'Season complete') + '</div></div>' +
       '<div class="tile"><div class="k">Label races worldwide</div><div class="v">' + Object.keys(D.labelRaceCounts || {}).reduce(function (s, k) { return s + D.labelRaceCounts[k]; }, 0) +
       '</div><div class="n">' + ((D.labelRaceCounts || {}).Platinum || 0) + ' Platinum, ' + ((D.labelRaceCounts || {}).Gold || 0) + ' Gold</div></div></div>';
+    var latest = (D.newsletters || [])[0];
+    if (latest) {
+      html += '<p class="latest-news"><b>Newsletter:</b> <a href="#/news/' + esc(latest.id) + '">' + esc(issueTitle(latest)) + '</a> <span class="muted">· ' +
+        esc(latest.id) + ' · <a href="#/news">all issues</a></span></p>';
+    }
     html += '<div class="card"><h2>Season at a glance</h2>' + timeline() + '</div>';
     html += '<div class="grid2"><div class="card"><h2>Latest results</h2><ul class="racelist">' +
       run.slice(-6).reverse().map(raceItem).join('') + '</ul></div>' +
@@ -749,13 +754,33 @@
     flush();
     return out;
   }
+  function weekLabel(id) {      // '2026-W47' -> 'Week 47'
+    var m = /^(\d{4})-W(\d{2})$/.exec(id || '');
+    return m ? 'Week ' + parseInt(m[2], 10) : id;
+  }
+  function issueTitle(n) { return String(n.title || '').replace(/^Road running weekly:\s*/i, '') || n.id; }
   function viewNews(id) {
-    var list = D.newsletters || [];
-    if (!list.length) return '<h1>Newsletter</h1><div class="card">No newsletters yet. The first one arrives after the next weekly update.</div>';
-    var cur = list.filter(function (n) { return n.id === id; })[0] || list[0];
-    return '<h1>Newsletter</h1><p class="sub">Weekly summary, also sent to Telegram.</p><div class="filters">' + list.slice(0, 12).map(function (n) {
-      return '<a href="#/news/' + esc(n.id) + '"' + (n === cur ? ' style="font-weight:700"' : '') + '>' + esc(n.id) + '</a>';
-    }).join('') + '</div><div class="card news">' + markdown(cur.text) + '</div>';
+    var list = D.newsletters || [];      // newest first
+    if (!list.length) return '<h1>Newsletter</h1><div class="card">No newsletters yet. The first one appears after the next weekly update.</div>';
+    var i = 0;
+    list.forEach(function (n, k) { if (n.id === id) i = k; });
+    var cur = list[i], newer = list[i - 1], older = list[i + 1];
+    var html = '<h1>Newsletter</h1><p class="sub">A weekly summary of results, news and what is coming next. Every issue is kept below.</p>';
+    html += '<div class="card news"><p class="muted small" style="margin:0 0 8px">' + esc(cur.id) + (i === 0 ? ' · latest issue' : '') + '</p>' + markdown(cur.text) +
+      '<p class="issue-nav">' + (older ? '<a href="#/news/' + esc(older.id) + '">← Older: ' + esc(issueTitle(older)) + '</a>' : '<span></span>') +
+      (newer ? '<a href="#/news/' + esc(newer.id) + '">Newer: ' + esc(issueTitle(newer)) + ' →</a>' : '<span></span>') + '</p></div>';
+    var years = [], byYear = {};
+    list.forEach(function (n) {
+      var y = String(n.id).slice(0, 4);
+      if (!byYear[y]) { byYear[y] = []; years.push(y); }
+      byYear[y].push(n);
+    });
+    html += '<div class="card"><h2>All issues (' + list.length + ')</h2>' + years.map(function (y) {
+      return '<h3>' + esc(y) + '</h3><ul class="racelist">' + byYear[y].map(function (n) {
+        return '<li><a href="#/news/' + esc(n.id) + '"' + (n === cur ? ' style="font-weight:700"' : '') + '>' + esc(issueTitle(n)) + '</a> <span class="muted">' + esc(weekLabel(n.id)) + '</span></li>';
+      }).join('') + '</ul>';
+    }).join('') + '</div>';
+    return html;
   }
   function notFound() { return '<h1>Not found</h1><p><a href="#/">Back to the overview</a></p>'; }
 

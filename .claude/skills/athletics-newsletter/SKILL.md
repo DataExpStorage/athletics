@@ -1,6 +1,6 @@
 ---
 name: athletics-newsletter
-description: Pipeline stage. Writes the weekly newsletter (top results, news and stories, what's next) into newsletters/<week>.md using only project data that has passed its checker. No web access. Run by the athletics-weekly skill.
+description: Pipeline stage. Writes the weekly newsletter (top results, news and stories, what's next) into newsletters/<week>.md, which the dashboard publishes in its Newsletter section. Uses only project data that has passed its checker. No web access. Run by the athletics-weekly skill.
 argument-hint: "[week such as 2026-W47]"
 context: fork
 agent: athletics-writer
@@ -11,7 +11,8 @@ agent: athletics-writer
 Arguments: `$ARGUMENTS` (the ISO week)
 
 The reader is a knowledgeable athletics fan who is still learning the road running
-scene. It is delivered to Telegram: it must read in about three minutes on a phone.
+scene. It is published in the Newsletter section of the dashboard, where every earlier
+issue stays available. It should read in about three minutes.
 
 ## What you may use
 

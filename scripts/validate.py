@@ -2,7 +2,7 @@
 
 These files (config/prize_money.json, config/agencies.json, data/entries, data/reports,
 data/team, newsletters) are written from web research, so their content is treated as
-untrusted: the dashboard and Telegram must never receive markup, non-web links or
+untrusted: the dashboard must never receive markup, non-web links or
 malformed values from them.
 
 The files the fetch scripts store from World Athletics are checked by the same rules.

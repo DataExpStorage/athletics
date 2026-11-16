@@ -11,12 +11,14 @@ A personal resource for following the sport of athletics that gives a clearer ov
 picture than the World Athletics website:
 
 - an interactive dashboard with an overview and drill-down to race and athlete level;
-- a weekly newsletter with the important results and news, delivered to Telegram.
+- a weekly newsletter with the important results and news, published in its own section
+  of the dashboard, where every earlier issue stays available. There are no
+  notifications: the owner reads it on the site.
 
 Constraints:
 
 - No cost beyond the owner's existing Claude Pro subscription. Everything else uses free
-  tiers (GitHub, Telegram).
+  tiers (GitHub).
 - Personal, non-commercial use. Every page links back to its source.
 - Data comes from the public World Athletics website plus open web research.
 
@@ -90,9 +92,9 @@ Limits found when building this:
                           \                                     /
                            scripts/build_index.py  ->  site/data/
                                          |
-                           site/ (static dashboard)        scripts/send_telegram.py
-                                         |                           |
-                               GitHub Pages / local         Telegram message
+                           site/ (static dashboard, including the newsletter)
+                                         |
+                               GitHub Pages / local
 ```
 
 Two kinds of data, kept strictly apart:
@@ -131,14 +133,12 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 | `scripts/serve.py` | Local preview at http://localhost:8765 (served without caching, so a refresh always shows the latest build) |
 | `config/agencies.json` | Maps a World Athletics representative to an agency, by website or by name |
 | `data/team/<athleteId>.json` | Researched coach and shoe sponsor per athlete |
-| `scripts/send_telegram.py` | Sends a newsletter Markdown file to Telegram |
 | `data/entries/<raceId>.json` | Researched announced entries and withdrawals |
 | `data/reports/<raceId>.json` | Researched summaries of race reports |
 | `newsletters/<ISO week>.md` | One newsletter per week |
 | `routine/newsletter_prompt.md` | Instructions for the weekly Claude run |
 | `site/` | The dashboard (`index.html`, `app.js`, `style.css`); `site/data/` is generated and not committed |
 | `.github/workflows/update.yml` | Weekly data update, site build and publication |
-| `.github/workflows/newsletter.yml` | Sends a newly added newsletter to Telegram |
 | `.cache/` | Downloaded pages and report texts; never committed |
 
 ## 5. Fetched data
@@ -199,7 +199,7 @@ to their page.
 | Athlete | `#/athlete/<id>` | Header figures (Marathon Majors count and wins; seasons in road running); season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, bests by season and honours when a profile exists |
 | People | `#/people` | Coaches, managers, agencies and shoe sponsors of the athletes with profiles, with the number of athletes each |
 | Coach, manager, agency, shoe sponsor | `#/coach/<name>`, `#/manager/<name>`, `#/agency/<name>`, `#/shoe/<name>` | The athletes associated with that person, agency or brand, their other team members, and how each link is known |
-| Newsletter | `#/news` | Archive of weekly issues |
+| Newsletter | `#/news`, `#/news/<week>` | The latest issue in full, links to the older and newer issue, and a list of every issue by year |
 
 Display rules:
 
@@ -244,9 +244,10 @@ Display rules:
 - Results are taken from the repository data, never from memory. Unconfirmed stories are
   left out.
 - Language: English.
-- Delivery: `scripts/send_telegram.py` converts the Markdown to Telegram formatting and
-  splits long issues into several messages. It needs `TELEGRAM_BOT_TOKEN` and
-  `TELEGRAM_CHAT_ID`.
+- Delivery: none. Each issue is a file in `newsletters/`; the site build includes every
+  issue, and the dashboard's Newsletter section shows the latest one in full with links to
+  the older and newer issue and a list of all issues by year. The overview links to the
+  latest issue. Nothing is sent and no account or secret is involved.
 
 ## 9. Automation
 
@@ -269,8 +270,8 @@ by a checker before the next stage may use its output.
 
 The coordinating skill is `athletics-weekly`. The three subagents are defined in
 `.claude/agents/`: `athletics-researcher`, `athletics-writer`, `athletics-checker`.
-Stages that read the open web cannot run commands or push. The stage that writes what is
-sent to Telegram cannot read the web. The stage that pushes never reads web content.
+Stages that read the open web cannot run commands or push. The stage that writes the
+published newsletter cannot read the web. The stage that pushes never reads web content.
 
 **The checker** has two layers:
 
@@ -312,7 +313,6 @@ settings file and fetch support for its pages, not new stages.
 | Job | Where | When | Does |
 |---|---|---|---|
 | Data update | GitHub Actions `update.yml` | Mondays 06:00 UTC, on demand, and on pushes to site, scripts, config, newsletters, entries or reports | Fetches (scheduled and manual runs only), commits `data/`, builds `site/data/`, publishes to GitHub Pages |
-| Newsletter send | GitHub Actions `newsletter.yml` | When a new file appears in `newsletters/` | Sends it to Telegram |
 | Research and newsletter | Claude run that invokes the `athletics-weekly` skill (`routine/newsletter_prompt.md`) | Weekly | The pipeline above: fetch, research, newsletter, publish |
 
 Fallback if the cloud jobs cannot reach World Athletics or cannot push: run
@@ -329,7 +329,6 @@ Built and working on the owner's PC:
 - The dashboard with all views above, checked in desktop-width screenshots.
 - Prize money for 6 races, race report summaries for 13, announced entries for 1
   upcoming race, one newsletter issue.
-- Telegram formatting, tested offline only.
 - A local git repository with all of the above committed.
 
 Not done yet:
@@ -337,7 +336,6 @@ Not done yet:
 | Item | Blocked on |
 |---|---|
 | GitHub repository, Pages, scheduled update | Owner: create a free GitHub account, install the GitHub CLI, run `gh auth login` |
-| Telegram delivery | Owner: create a bot with @BotFather and message it once; then store token and chat ID as repository secrets |
 | Weekly Claude routine | The GitHub repository, and GitHub connected to the owner's Claude account |
 | Athlete profiles | 14 of about 770 fetched; limited to 15 per run by the site |
 | 2027 calendar | World Athletics has not published it yet |
@@ -360,7 +358,7 @@ Known risks and open points:
 
 ## 11. Planned extensions
 
-1. Publish (GitHub, Telegram, weekly routine) as soon as the owner's setup steps are done.
+1. Publish (GitHub, weekly routine) as soon as the owner's setup steps are done.
 2. Work through the researched-data backlog (DATA_GATHERING.md).
 3. 2027 season: already in `config/disciplines/road-running.json`. When World Athletics publishes the 2027
    label calendar it is picked up by the next update. To do by hand: add the 2027

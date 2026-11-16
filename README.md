@@ -22,10 +22,9 @@ Needs Python 3.7 or newer; no extra packages.
 | `scripts/fetch_*.py` | Calendar, race results, season top lists, athlete profiles → `data/` |
 | `scripts/build_index.py` | Merges `data/` and `newsletters/` into `site/data/` |
 | `site/` | The dashboard (static page) |
-| `newsletters/` | One Markdown file per week |
-| `scripts/send_telegram.py` | Sends a newsletter file to Telegram |
+| `newsletters/` | One Markdown file per week; all of them are shown in the dashboard's Newsletter section |
 | `routine/newsletter_prompt.md` | Instructions for the weekly Claude run that writes the newsletter |
-| `.github/workflows/` | Weekly data update and publishing; Telegram send when a newsletter is added |
+| `.github/workflows/` | Weekly data update and publishing of the dashboard |
 
 ## Things to know
 
@@ -71,21 +70,16 @@ example `/athletics-reports 7235563`. See section 9 of `docs/SPECIFICATION.md`.
 
 1. Create a repository on GitHub and push this folder to its `main` branch.
 2. Repository Settings → Pages → Source: **GitHub Actions**.
-3. Create a Telegram bot with @BotFather, send the bot any message, and add repository
-   secrets `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` (Settings → Secrets and variables →
-   Actions). Optionally add a repository variable `DASHBOARD_URL` with the Pages address.
-4. Schedule a weekly Claude run that follows `routine/newsletter_prompt.md`. Give it
+3. Schedule a weekly Claude run that follows `routine/newsletter_prompt.md`. Give it
    access to this one repository only, with permission to write contents but **not** to
-   change workflows, so it cannot alter the automation that holds the Telegram token.
+   change workflows.
 
 ## Safety of the automation
 
 - The researched files (prize money, entries, reports, teams, newsletters) are treated as
-  untrusted input. `scripts/validate.py` checks them, and neither the site build nor the
-  Telegram send runs unless they pass.
-- The Telegram workflow refuses to send if the same push changed anything other than
-  researched files, and only runs `scripts/send_telegram.py` if its checksum matches the
-  one written in the workflow. After changing that script on purpose, update the checksum
-  (the workflow file says how).
+  untrusted input. `scripts/validate.py` checks them, and the site is not built unless
+  they pass.
+- No secrets are used anywhere: the project sends nothing and logs in to nothing. The
+  newsletter is simply a page of the dashboard.
 - The dashboard only follows `http(s)` links from data and has a content security policy,
   so data cannot run scripts in the browser.
