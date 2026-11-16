@@ -1,0 +1,33 @@
+name: Fetch a batch of athlete profiles
+
+# Two small batches a day (see athlete_max_per_run in the discipline settings).
+# World Athletics refuses bulk requests; a batch stops at the first refusal.
+
+on:
+  schedule:
+    - cron: "0 7,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  profiles:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch, check and commit one batch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/profile_batch.py
+          git pull --rebase -q || true
+          git push

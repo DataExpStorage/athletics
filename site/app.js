@@ -693,6 +693,11 @@
         }));
       }
       left += '</div>';
+      if ((D.frozenProfiles || []).indexOf(id) >= 0) {
+        html += '<p class="notice">This profile is no longer updated. It was last read on ' + fmtDate(a.fetched, true) +
+          '. Career details, world ranking and team below may be out of date; results in the priority races above them are still current. ' +
+          'Profiles are kept up to date for top finishers of the priority races and the leaders of the season lists.</p>';
+      }
       html += teamBlock(id);
       var right = appsCard(id);
       if ((a.worldRankings || []).length) {

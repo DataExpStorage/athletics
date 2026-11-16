@@ -31,9 +31,12 @@ Needs Python 3.7 or newer; no extra packages.
 - World Athletics has no official public data feed. The scripts read the same pages a
   browser does, slowly (one request per second). If the site changes, the fix belongs in
   `scripts/wa.py`.
-- The site refuses bulk requests for athlete profiles. Profiles are therefore collected a
-  few per run, most prominent athletes first, and a run stops as soon as the site
-  declines a request. Athlete pages work without a profile, with less career detail.
+- The site refuses bulk requests for athlete profiles. Profiles are collected in small
+  batches (12, twice a day) for the top finishers of the priority races and the leaders
+  of the season lists; a batch stops as soon as the site declines a request.
+  `python scripts/profile_batch.py --log` shows how the batches went. Athlete pages work
+  without a profile, with less career detail; a profile that is no longer refreshed is
+  marked as such.
 - To follow a race outside the Platinum and Gold tiers, add it to `extra_races` in
   `config/disciplines/road-running.json` with its World Athletics event ID (the number in its results URL).
 - Prize money is not published by World Athletics. It is entered by hand in

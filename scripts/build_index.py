@@ -9,6 +9,7 @@ import shutil
 import sys
 import unicodedata
 
+import fetch_athletes
 import validate
 import wa
 
@@ -249,6 +250,8 @@ def main():
         "reports": build_reports(build_name_index()),
         "team": build_team(),
         "athleteIds": sorted(athlete_ids),
+        # profiles of athletes outside the current rule: kept, but no longer refreshed
+        "frozenProfiles": sorted(set(athlete_ids) - set(fetch_athletes.wanted(wa.config()))),
         "newsletters": newsletters,
     })
     print("Site data: %d races (%d with results), %d top lists, %d athletes, %d newsletters" % (

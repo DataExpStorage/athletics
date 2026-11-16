@@ -13,6 +13,19 @@ import wa
 ROAD_WORDS = ("marathon", "kilometres", "road", "mile")
 
 
+def race_top(rule, race, event):
+    """How many finishers of this event qualify for a profile (config: profile_rule)."""
+    if race.get("major"):
+        return rule.get("major_top", 0)
+    if race.get("tier") == "Platinum":
+        return rule.get("platinum_top", 0)
+    if race.get("tier") == "Gold":
+        return rule.get("gold_top", 0)
+    if race.get("tier") == "Championship":
+        return (rule.get("championship_top") or {}).get(event.get("distance"), 0)
+    return 0
+
+
 def wanted(cfg):
     """athleteId -> (path to fetch, latest result date, prominence: lower = more prominent)"""
     out = {}
@@ -26,6 +39,7 @@ def wanted(cfg):
                     max(date or "", old[1] if old else ""),
                     min(prominence, old[2] if old else 999))
 
+    rule = cfg["profile_rule"]
     # only the active seasons decide who needs a (fresh) profile; older profiles are kept
     active = set(wa.active_seasons(cfg))
     cal = dict((r["id"], r) for r in wa.all_races() if r["season"] in active)
@@ -36,13 +50,13 @@ def wanted(cfg):
             continue
         offset = 0 if race.get("major") else 3 if race.get("tier") in ("Platinum", "Championship") else 6
         for ev in d["events"]:
-            for n, r in enumerate(ev["results"][:cfg["athletes_from_race_top"]]):
+            for n, r in enumerate(ev["results"][:race_top(rule, race, ev)]):
                 add(r["athleteId"], r.get("slug"), race.get("startDate", ""), n + offset)
     lists = []
     for season in active:
         lists += glob.glob(os.path.join(wa.DATA, "toplists", str(season), "*.json"))
     for f in lists:
-        for n, r in enumerate(wa.load_json(f)["rows"][:cfg["athletes_from_toplist_top"]]):
+        for n, r in enumerate(wa.load_json(f)["rows"][:rule.get("toplist_top", 0)]):
             add(r["athleteId"], None, r.get("date"), n)
     return out
 
@@ -132,6 +146,7 @@ def main():
     today = datetime.date.today()
     want = wanted(cfg)
     done = skipped = failed = 0
+    refused = False
     # Profiles are fetched slowly and a few per run: the site refuses bulk requests.
     # Missing profiles come first (most prominent athletes first), then stale ones.
     wa.MIN_INTERVAL = cfg.get("athlete_request_interval_seconds", 6)
@@ -154,6 +169,7 @@ def main():
             profile = parse_profile(wa.page_props(wa.fetch(path)))
         except wa.Refused as e:
             print("  Stopping: %s" % e)
+            refused = True
             break
         except Exception as e:
             profile = None
@@ -168,6 +184,8 @@ def main():
         done += 1
     print("Athletes: %d wanted, %d fetched now, %d up to date, %d still waiting, %d failed" % (
         len(want), done, skipped, len(queue) - done - failed, failed))
+    return {"wanted": len(want), "fetched": done, "up_to_date": skipped,
+            "waiting": len(queue) - done - failed, "failed": failed, "refused": refused}
 
 
 if __name__ == "__main__":

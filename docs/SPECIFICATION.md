@@ -119,6 +119,7 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 | `scripts/fetch_results.py` | Results of races run → `data/results/<raceId>.json` |
 | `scripts/fetch_toplists.py` | Season top 100 per distance and gender → `data/toplists/<season>/` |
 | `scripts/fetch_athletes.py` | Athlete profiles → `data/athletes/<athleteId>.json` |
+| `scripts/profile_batch.py` | One scheduled batch of profiles: fetch, check, commit, log |
 | `scripts/fetch_reports.py` | Saves recent World Athletics report texts to the local cache for reading |
 | `scripts/build_index.py` | Merges everything into `site/data/site.json` and `site/data/athletes/` |
 | `scripts/update_all.py` | Runs the fetch scripts and the build in order |
@@ -158,11 +159,21 @@ Rules for fetching:
 - At most one request per second; athlete profiles one every six seconds.
 - **World Athletics refuses bulk requests.** After about 15 profile pages in a short time
   it answered with empty pages. The fetcher treats an empty page or a 403/429 as a
-  refusal, stops the run, and never retries or disguises itself. Profiles are therefore
-  collected 15 per run, most prominent athletes first (Majors and top-list leaders),
+  refusal, stops the run, and never retries or disguises itself.
+- **Who gets a profile** (`profile_rule` in the discipline settings), per event, women
+  and men: the top 10 of a Marathon Major, the top 5 of another Platinum race, the top 3
+  of a Gold race, the top 10 of the half marathon at the World Road Running
+  Championships, and the top 20 of each season list. On the 2026 data up to
+  mid-November that is 336 athletes.
+- **How profiles are fetched:** in batches of 12, one page every six seconds, most
+  prominent athletes first. Missing profiles come before refreshes; a profile is
   refreshed after 28 days or when the athlete has a new result.
-- An athlete qualifies for a profile by finishing in the top 10 of a priority race or
-  being in the top 30 of a season list (about 770 athletes in 2026).
+  `scripts/profile_batch.py` runs one batch, checks it, commits it and logs the outcome
+  (`python scripts/profile_batch.py --log`). It is scheduled twice a day, on this PC
+  through Windows Task Scheduler and, once published, by `profiles.yml`. This cadence is
+  a trial: if the log shows refusals, reduce the batch size or the frequency.
+- **Profiles outside the rule** are kept but no longer refreshed. The athlete's page says
+  so, with the date the profile was last read.
 - A race is fetched until results exist; stored results are then kept. `--force`
   refetches.
 - If the site layout changes, a fetch fails loudly rather than storing partial data.
@@ -337,7 +348,7 @@ Not done yet:
 |---|---|
 | GitHub repository, Pages, scheduled update | Owner: create a free GitHub account, install the GitHub CLI, run `gh auth login` |
 | Weekly Claude routine | The GitHub repository, and GitHub connected to the owner's Claude account |
-| Athlete profiles | 14 of about 770 fetched; limited to 15 per run by the site |
+| Athlete profiles | 22 of 336 fetched; two batches of 12 a day on trial |
 | 2027 calendar | World Athletics has not published it yet |
 | Researched data backlog | See DATA_GATHERING.md |
 
