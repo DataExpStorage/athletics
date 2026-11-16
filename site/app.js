@@ -219,6 +219,100 @@
     }).join('') + '</ul></div>';
   }
 
+  /* ---------- coach, manager, agency, shoe sponsor ---------- */
+  var ROLES = { coach: ['Coach', 'Coaches'], manager: ['Manager', 'Managers'], agency: ['Agency', 'Agencies'], shoe: ['Shoe sponsor', 'Shoe sponsors'] };
+  var ROLE_ORDER = ['coach', 'manager', 'agency', 'shoe'];
+  var people = { coach: {}, manager: {}, agency: {}, shoe: {} };   // role -> slug -> {name, athletes: [id]}
+  // brand marks come from the Simple Icons project; brands it does not carry are shown as text
+  var BRAND_ICON = { 'adidas': 'adidas', 'nike': 'nike', 'puma': 'puma', 'new balance': 'newbalance', 'under armour': 'underarmour' };
+  function slug(name) {
+    var t = String(name || '').toLowerCase();
+    if (t.normalize) t = t.normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
+    return t.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+  function properName(name) {   // 'Merhawi KEFLEZIGHI' -> 'Merhawi Keflezighi'
+    return String(name || '').replace(/[A-Z\u00C0-\u00DE][A-Z\u00C0-\u00DE'\-]+/g, function (w) {
+      return w.charAt(0) + w.slice(1).toLowerCase().replace(/(^|[-'])([a-z\u00e0-\u00fe])/g, function (m, a, b) { return a ? a + b.toUpperCase() : m; });
+    });
+  }
+  function teamItem(id, role) { var t = (D.team || {})[id]; return t && t[role] ? t[role] : null; }
+  function roleLink(role, value) {
+    return '<a href="#/' + role + '/' + slug(value) + '">' + esc(role === 'manager' ? properName(value) : value) + '</a>';
+  }
+  function teamGrade(item) {
+    return relTag(item.reliability) + (item.verified === false ? ' <span class="muted" title="Found through a search summary; the page itself has not been opened yet">· to verify</span>' : '');
+  }
+  function brandMark(value, size) {
+    var icon = BRAND_ICON[String(value || '').toLowerCase()];
+    var text = '<span class="brandtext">' + esc(value) + '</span>';
+    if (!icon) return text;
+    return '<img class="brandlogo" style="height:' + size + 'px" alt="' + esc(value) + '" title="' + esc(value) + '" src="https://cdn.simpleicons.org/' + icon +
+      '/0b0b0b/f0efec" onerror="this.outerHTML=this.getAttribute(\'data-text\')" data-text="' + esc(text) + '">';
+  }
+  function teamBlock(id) {
+    var t = (D.team || {})[id];
+    if (!t) return '';
+    var rows = ROLE_ORDER.map(function (role) {
+      var item = t[role];
+      if (!item) return '<dt>' + ROLES[role][0] + '</dt><dd class="muted">Not found</dd>';
+      if (!item.value) return '<dt>' + ROLES[role][0] + '</dt><dd><span class="muted">' + esc(item.note || 'Not found') + '</span>' + (item.source ? ' ' + srcLink(item.source) : '') + '</dd>';
+      return '<dt>' + ROLES[role][0] + '</dt><dd>' + roleLink(role, item.value) + ' &nbsp;' + teamGrade(item) + (item.source ? ' <span class="muted">·</span> ' + srcLink(item.source) : '') +
+        (item.note ? '<div class="muted small">' + esc(item.note) + '</div>' : '') +
+        (role === 'manager' && t.managerNote ? '<div class="muted small">' + esc(t.managerNote) + '</div>' : '') + '</dd>';
+    }).join('');
+    return '<div class="card"><h2>Team</h2><dl class="kv">' + rows + '</dl>' + (t.checked ? '<p class="muted small" style="margin:10px 0 0">Coach and shoe sponsor researched ' + fmtDate(t.checked, true) +
+      '; manager and agency as listed by World Athletics unless noted.</p>' : '') + '</div>';
+  }
+  function shoeHeader(id) {
+    var item = teamItem(id, 'shoe');
+    return item && item.value ? '<a class="shoe" href="#/shoe/' + slug(item.value) + '" title="Shoe sponsor: ' + esc(item.value) + '">' + brandMark(item.value, 34) + '</a>' : '';
+  }
+  function buildPeople() {
+    people = { coach: {}, manager: {}, agency: {}, shoe: {} };
+    Object.keys(D.team || {}).forEach(function (id) {
+      ROLE_ORDER.forEach(function (role) {
+        var item = D.team[id][role];
+        if (!item || !item.value) return;
+        var k = slug(item.value);
+        (people[role][k] || (people[role][k] = { name: item.value, athletes: [] })).athletes.push(id);
+      });
+    });
+  }
+  function viewPeople() {
+    var html = '<h1>People</h1><p class="sub">Coaches, managers, agencies and shoe sponsors of the athletes whose profiles are in the tracker (' +
+      Object.keys(D.team || {}).length + ' so far). The lists grow as more profiles are added.</p><div class="grid2">';
+    ROLE_ORDER.forEach(function (role) {
+      var list = Object.keys(people[role]).map(function (k) { return people[role][k]; }).sort(function (a, b) { return b.athletes.length - a.athletes.length || (a.name < b.name ? -1 : 1); });
+      html += '<div class="card"><h2>' + ROLES[role][1] + '</h2>' + (list.length ? simpleTable([[ROLES[role][0]], ['Athletes', 1]], list.map(function (x) {
+        return '<tr><td>' + (role === 'shoe' ? '<span class="inlinebrand">' + brandMark(x.name, 16) + '</span> ' : '') + roleLink(role, x.name) + '</td><td class="num">' + x.athletes.length + '</td></tr>';
+      })) : '<p class="muted">None recorded yet.</p>') + '</div>';
+    });
+    return html + '</div>';
+  }
+  function viewRole(role, key) {
+    var x = people[role] && people[role][key];
+    if (!x) return notFound();
+    var others = ROLE_ORDER.filter(function (r) { return r !== role; });
+    var ids = x.athletes.slice().sort(function (a, b) { return known[a].name < known[b].name ? -1 : 1; });
+    var linked = {};
+    others.forEach(function (r) {
+      ids.forEach(function (id) { var it = teamItem(id, r); if (it && it.value) (linked[r] || (linked[r] = {}))[it.value] = 1; });
+    });
+    var html = '<a class="back" href="#/people">← People</a><h1>' + (role === 'shoe' ? '<span class="inlinebrand">' + brandMark(x.name, 26) + '</span> ' : '') +
+      esc(role === 'manager' ? properName(x.name) : x.name) + '</h1><p class="sub">' + ROLES[role][0] + ' · ' + ids.length + (ids.length === 1 ? ' athlete' : ' athletes') + ' in the tracker</p>';
+    if (role === 'manager' && linked.agency) html += '<p>Agency: ' + Object.keys(linked.agency).map(function (v) { return roleLink('agency', v); }).join(', ') + '</p>';
+    if (role === 'agency' && linked.manager) html += '<p>Managers: ' + Object.keys(linked.manager).map(function (v) { return roleLink('manager', v); }).join(', ') + '</p>';
+    html += '<div class="card"><div class="scroll"><table><thead><tr><th>Athlete</th><th>Country</th>' + others.map(function (r) { return '<th>' + ROLES[r][0] + '</th>'; }).join('') +
+      '<th>How we know</th></tr></thead><tbody>' + ids.map(function (id) {
+        var item = teamItem(id, role);
+        return '<tr><td>' + athleteLink(id, known[id].name) + '</td><td>' + esc(known[id].nat || '') + '</td>' + others.map(function (r) {
+          var it = teamItem(id, r);
+          return '<td>' + (it && it.value ? roleLink(r, it.value) : '<span class="muted">–</span>') + '</td>';
+        }).join('') + '<td class="nowrap">' + teamGrade(item) + (item.source ? ' <span class="muted">·</span> ' + srcLink(item.source) : '') + '</td></tr>';
+      }).join('') + '</tbody></table></div></div>';
+    return html + '<p class="muted">Only athletes whose profiles have been fetched are listed, so this is not the full roster.</p>';
+  }
+
   var SYMBOL = { USD: '$', EUR: '€', AUD: 'A$', GBP: '£', JPY: '¥' };
   function money(amount, currency) {
     return (SYMBOL[currency] || (currency + ' ')) + Math.round(amount).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
@@ -564,7 +658,7 @@
       a = a || {};
       var name = full ? (a.givenName || '') + ' ' + (a.familyName || '') : k.name;
       var age = /^\d{4}-/.test(a.birthDate || '') ? Math.floor((Date.parse(TODAY) - Date.parse(a.birthDate)) / 31557600000) : null;
-      var html = '<a class="back" href="javascript:history.back()">← Back</a><h1>' + esc(name) + '</h1><p class="sub">' + esc(a.countryName || a.country || k.nat) +
+      var html = '<a class="back" href="javascript:history.back()">← Back</a><div class="ath-head"><h1>' + esc(name) + '</h1>' + shoeHeader(id) + '</div><p class="sub">' + esc(a.countryName || a.country || k.nat) +
         (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>' + careerTiles(id, a, full);
       if (!full) {
         var best = [];
@@ -590,6 +684,7 @@
         }));
       }
       left += '</div>';
+      html += teamBlock(id);
       var right = appsCard(id);
       if ((a.worldRankings || []).length) {
         right += '<h3>World ranking</h3><dl class="kv">' + a.worldRankings.map(function (w) {
@@ -668,13 +763,15 @@
     else if (parts[0] === 'races') out = viewRaces();
     else if (parts[0] === 'runs') out = viewRuns();
     else if (parts[0] === 'next') out = viewNext();
+    else if (parts[0] === 'people') out = viewPeople();
+    else if (ROLES[parts[0]]) out = viewRole(parts[0], parts[1]);
     else if (parts[0] === 'race') out = viewRace(parts[1]);
     else if (parts[0] === 'distance') out = viewDistance(parts[1]);
     else if (parts[0] === 'athlete') out = viewAthlete(parts[1]);
     else if (parts[0] === 'news') out = viewNews(parts[1]);
     else out = notFound();
     Promise.resolve(out).then(function (html) { app.innerHTML = html; }, function () { app.innerHTML = notFound(); });
-    var key = parts[0] === 'distance' ? h : parts[0] === 'race' ? 'races' : parts[0];
+    var key = parts[0] === 'distance' ? h : parts[0] === 'race' ? 'races' : ROLES[parts[0]] ? 'people' : parts[0];
     Array.prototype.forEach.call(document.querySelectorAll('#nav a'), function (a) {
       a.classList.toggle('on', a.getAttribute('data-nav') === (key || ''));
     });
@@ -723,6 +820,7 @@
         ALL.toplists[season][key].rows.forEach(function (x) { if (x.id && !known[x.id]) known[x.id] = { name: x.name, nat: x.nat, born: x.born }; });
       });
     });
+    buildPeople();
     var seasons = data.seasons.slice().sort(), saved = null;
     try { saved = parseInt(localStorage.getItem('season'), 10); } catch (e) { /* storage unavailable */ }
     var thisYear = parseInt(TODAY.slice(0, 4), 10);

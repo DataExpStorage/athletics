@@ -1,0 +1,19 @@
+{
+ "athleteId": "14894746",
+ "name": "Tadese TAKELE",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://trackandfieldnews.com/tokyo-marathon-ex-steepler-takele-and-defender-asefa/",
+  "note": "Source is from 2025.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "unconfirmed",
+  "source": "https://pacer-ai-run.vercel.app/athlete/tadese-takele",
+  "note": "One profile site only.",
+  "verified": false
+ }
+}

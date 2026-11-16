@@ -335,5 +335,10 @@
   }
  ],
  "fetched": "2026-11-16",
- "source": "https://worldathletics.org/athletes/athlete=14679812"
+ "source": "https://worldathletics.org/athletes/athlete=14679812",
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ }
 }

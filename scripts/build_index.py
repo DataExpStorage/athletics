@@ -131,6 +131,52 @@ def build_reports(index):
     return out
 
 
+def website_domain(url):
+    text = (url or "").lower().strip()
+    text = re.sub(r"^https?://", "", text)
+    text = re.sub(r"^www\.", "", text)
+    return text.split("/")[0]
+
+
+def build_team():
+    """Per athlete with a profile: coach, manager, agency and shoe sponsor.
+
+    The manager comes from the World Athletics profile (official). The agency comes from
+    the representative's website or from config/agencies.json. Coach and shoe sponsor
+    are researched (data/team/<athleteId>.json), which can also override the other two.
+    """
+    agencies = wa.load_json(os.path.join(wa.ROOT, "config", "agencies.json"), {})
+    by_site = agencies.get("by_website", {})
+    by_rep = dict((k.lower(), v) for k, v in agencies.get("by_representative", {}).items())
+    out = {}
+    for f in glob.glob(os.path.join(wa.DATA, "athletes", "*.json")):
+        prof = wa.load_json(f)
+        aid = os.path.splitext(os.path.basename(f))[0]
+        team = wa.load_json(os.path.join(wa.DATA, "team", aid + ".json")) or {}
+        entry = {"checked": team.get("checked")}
+        rep = prof.get("representative")
+        if rep:
+            entry["manager"] = {"value": rep["name"], "reliability": "official", "verified": True,
+                                "source": prof.get("source"), "note": "Representative listed by World Athletics" +
+                                (" (%s)." % rep["country"] if rep.get("country") else ".")}
+            domain = website_domain(rep.get("website"))
+            if domain and domain in by_site:
+                entry["agency"] = {"value": by_site[domain], "reliability": "official", "verified": True,
+                                   "source": prof.get("source"),
+                                   "note": "From the website World Athletics lists for the representative (%s)." % domain}
+            elif rep["name"].lower() in by_rep:
+                m = by_rep[rep["name"].lower()]
+                entry["agency"] = {"value": m["agency"], "reliability": m.get("reliability", "unconfirmed"),
+                                   "verified": False, "source": m.get("source"), "note": m.get("note")}
+        for key in ("coach", "shoe", "manager", "agency"):
+            if team.get(key):
+                entry[key] = team[key]
+        if team.get("manager_note"):
+            entry["managerNote"] = team["manager_note"]
+        out[aid] = entry
+    return out
+
+
 def main():
     prize_cfg = wa.load_json(os.path.join(wa.ROOT, "config", "prize_money.json"), {"races": {}, "usd_rates": {}})
     races = []
@@ -193,6 +239,7 @@ def main():
         "toplists": toplists,
         "entries": build_entries(build_name_index()),
         "reports": build_reports(build_name_index()),
+        "team": build_team(),
         "athleteIds": sorted(athlete_ids),
         "newsletters": newsletters,
     })

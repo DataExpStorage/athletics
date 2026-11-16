@@ -51,6 +51,22 @@ def slim_results(items, keys):
     return [dict((k, x.get(k)) for k in keys if x.get(k) not in (None, "", [])) for x in items or []]
 
 
+def parse_representative(competitor):
+    """The athlete's representative (manager) as World Athletics lists it.
+    Only the name, country and business website are kept: no e-mail or phone."""
+    rep = competitor.get("athleteRepresentative") or {}
+    if not rep.get("name"):
+        return None
+    sites = rep.get("website") or []
+    if isinstance(sites, str):
+        sites = [sites]
+    return {
+        "name": rep["name"],
+        "country": rep.get("countryName"),
+        "website": sites[0] if sites else None,
+    }
+
+
 def parse_profile(props):
     c = props.get("competitor") or {}
     b = c.get("basicData") or {}
@@ -91,6 +107,7 @@ def parse_profile(props):
             "results": slim_results(h.get("results"), ("place", "discipline", "competition", "mark", "date")),
         })
     rankings = slim_results((c.get("worldRankings") or {}).get("current"), ("eventGroup", "place", "rankingScore"))
+    representative = parse_representative(c)
     return {
         "id": str(c.get("_id") or b.get("aaId")),
         "givenName": b.get("givenName"),
@@ -106,6 +123,7 @@ def parse_profile(props):
         "roadProgression": progression,
         "honours": honours,
         "worldRankings": rankings,
+        "representative": representative,
     }
 
 

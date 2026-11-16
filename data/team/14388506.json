@@ -1,0 +1,18 @@
+{
+ "athleteId": "14388506",
+ "name": "Tigst ASSEFA",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://essentiallysports.com/us-sports-news-olympics-news-track-and-field-news-who-is-tigist-assefas-coach-everything-you-need-to-know-about-the-major-support-system-of-the-world-record-holder",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "unconfirmed",
+  "source": "https://tonireavis.com/tag/tigst-assefa/",
+  "note": "Reported racing in adidas shoes; no source found that states a sponsorship contract.",
+  "verified": false
+ }
+}

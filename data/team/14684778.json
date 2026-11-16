@@ -1,0 +1,18 @@
+{
+ "athleteId": "14684778",
+ "name": "Sharon LOKEDI",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Stephen Haas",
+  "reliability": "unconfirmed",
+  "source": "https://www.athletespeakers.com/speaker/sharon-lokedi",
+  "note": "Trains in Flagstaff with Under Armour Mission Run Dark Sky Distance under Stephen Haas and Pat Casey, according to one site. Haas is also her listed representative.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "Under Armour",
+  "reliability": "official",
+  "source": "https://www.underarmour.com/en-us/c/athlete-picks-sharon-lokedi/",
+  "verified": false
+ }
+}

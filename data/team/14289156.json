@@ -1,0 +1,17 @@
+{
+ "athleteId": "14289156",
+ "name": "Sheila CHEPKIRUI",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Julien Di Maria",
+  "reliability": "reported",
+  "source": "https://nation.africa/kenya/sports/athletics/sheila-chepkirui-i-won-new-york-marathon-by-focusing-on-strength-nutrition-5655452",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "reported",
+  "source": "https://nation.africa/kenya/sports/athletics/sheila-chepkirui-i-won-new-york-marathon-by-focusing-on-strength-nutrition-5655452",
+  "verified": false
+ }
+}

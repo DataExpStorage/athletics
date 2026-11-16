@@ -1,0 +1,15 @@
+{
+ "athleteId": "14679812",
+ "name": "Fotyen TESFAY",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://marathonhandbook.com/fotyen-tesfay-is-targeting-a-fall-marathon-and-a-world-record-attempt-is-on-the-table/",
+  "verified": false
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found."
+ }
+}

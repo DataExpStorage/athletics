@@ -1,0 +1,18 @@
+{
+ "athleteId": "14758189",
+ "name": "Agnes Jebet NGETICH",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Julien Di Maria",
+  "reliability": "reported",
+  "source": "https://www.capitalfm.co.ke/sports/2025/02/12/road-race-speedster-jebet-not-satisfied-with-10km-world-record",
+  "note": "Trains in Iten. Coached earlier by Ruth Bundotich.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "reported",
+  "source": "https://www.capitalfm.co.ke/sports/2025/02/12/road-race-speedster-jebet-not-satisfied-with-10km-world-record",
+  "verified": false
+ }
+}

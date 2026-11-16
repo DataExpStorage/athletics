@@ -79,9 +79,31 @@ Telegram, so it must be short enough to read on a phone in about three minutes.
      Only state what the report states. Set `source` to the report's URL.
    If World Athletics published no report for a race, write no file. A short item inside
    another race's report is enough for a short summary; say so in `title`.
+   Athlete teams: every athlete with a profile in `data/athletes/` should have a file in
+   `data/team/` (same id). For each profile without one (new profiles arrive every
+   update), research the athlete's coach and shoe sponsor and write
+   `data/team/<athleteId>.json` in the shape of `data/team/14833335.json`. Rules:
+   - The manager and, where possible, the agency are filled in automatically from the
+     World Athletics profile; do not research them unless the profile lists no
+     representative, or lists one whose agency is unknown (then add the agency to
+     `by_representative` in `config/agencies.json`, with a source, so it applies to all
+     of that representative's athletes).
+   - `coach` and `shoe` each have `value`, `reliability` (official / reported /
+     unconfirmed), `source`, an optional `note`, and `verified`: `true` only if you
+     opened the source page and it states the fact. A shoe an athlete was seen racing
+     in is `unconfirmed` unless a source calls the brand their sponsor.
+   - If nothing reliable is found, set `value` to `null` with a `note` saying so. A
+     self-coached athlete also has `value` `null`, with the note and source saying so.
+   - Write brand names consistently: adidas, Nike, ASICS, PUMA, New Balance, Under
+     Armour, On, HOKA, Saucony, Brooks, Mizuno, Li-Ning, Xtep, 361°, Anta.
+   - When coverage reports a change (new coach, new sponsor, new agency), update the
+     value and keep the old one in the `note` with the date of the change. Mention the
+     change in the newsletter's "News and stories".
+   - Each week, also re-check up to five existing files whose `verified` is `false`:
+     open the source, and either set `verified` to `true` or correct the entry.
 10. Write `newsletters/<week>.md` in the format below. Use the race reports for the
    "Top results" context (how the race was won, conditions, notable non-finishers).
-11. Commit the newsletter, `data/entries/`, `data/reports/` and `config/prize_money.json` (if changed) with
+11. Commit the newsletter, `data/entries/`, `data/reports/`, `data/team/`, `config/agencies.json` and `config/prize_money.json` (if changed) with
    the message `Newsletter <week>` and push to `main`.
    Pushing sends it to Telegram automatically; do not send it any other way.
 

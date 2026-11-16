@@ -121,7 +121,9 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 | `scripts/build_index.py` | Merges everything into `site/data/site.json` and `site/data/athletes/` |
 | `scripts/update_all.py` | Runs the fetch scripts and the build in order |
 | `scripts/status.py` | Lists, per race, what has been gathered and what is missing |
-| `scripts/serve.py` | Local preview at http://localhost:8765 |
+| `scripts/serve.py` | Local preview at http://localhost:8765 (served without caching, so a refresh always shows the latest build) |
+| `config/agencies.json` | Maps a World Athletics representative to an agency, by website or by name |
+| `data/team/<athleteId>.json` | Researched coach and shoe sponsor per athlete |
 | `scripts/send_telegram.py` | Sends a newsletter Markdown file to Telegram |
 | `data/entries/<raceId>.json` | Researched announced entries and withdrawals |
 | `data/reports/<raceId>.json` | Researched summaries of race reports |
@@ -167,6 +169,7 @@ Specified in full in DATA_GATHERING.md. In summary:
 | Prize money | `config/prize_money.json` | Place prizes per race, bonus rules, bonuses reported as paid, reliability grade, sources |
 | Announced entries | `data/entries/<raceId>.json` | One record per athlete with an append-only history: announced, confirmed, withdrawn (with reason), each graded official / reported / unconfirmed |
 | Race reports | `data/reports/<raceId>.json` | Weather, how each race was won, a note per key athlete, notable non-finishers; a summary in our own words of the World Athletics report |
+| Athlete teams | `data/team/<athleteId>.json`, `config/agencies.json` | Coach and shoe sponsor (researched); manager and agency (from the World Athletics profile where possible), each with reliability, source and a verified flag |
 | Newsletter | `newsletters/<week>.md` | Top results, news and stories, what's next |
 
 Athletes named in researched data are matched to World Athletics athlete ids at build
@@ -187,6 +190,8 @@ to their page.
 | Distance | `#/distance/<d>` | Season top 100 (women / men) and the priority races at that distance |
 | Race | `#/race/<id>` | Race report summary; top 20 women and men with prize money; prize money card; announced entries and change log |
 | Athlete | `#/athlete/<id>` | Header figures (Marathon Majors count and wins; seasons in road running); season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, bests by season and honours when a profile exists |
+| People | `#/people` | Coaches, managers, agencies and shoe sponsors of the athletes with profiles, with the number of athletes each |
+| Coach, manager, agency, shoe sponsor | `#/coach/<name>`, `#/manager/<name>`, `#/agency/<name>`, `#/shoe/<name>` | The athletes associated with that person, agency or brand, their other team members, and how each link is known |
 | Newsletter | `#/news` | Archive of weekly issues |
 
 Display rules:
@@ -209,6 +214,13 @@ Display rules:
   those with a result at marathon, half marathon or 10 km. Without a profile, both are
   counted from the seasons tracked here and labelled as such; they become career figures
   when the profile is fetched.
+- Athlete team: a Team card lists coach, manager, agency and shoe sponsor with the
+  reliability grade and source of each; entries not yet checked on the source page are
+  marked "to verify". The shoe sponsor's logo sits at the right of the athlete's name.
+  Logos are loaded from the Simple Icons project (adidas, Nike, PUMA, New Balance, Under
+  Armour); brands it does not carry (ASICS, On, HOKA and others) show as a text badge.
+  Coach, manager and agency pages list only athletes whose profiles have been fetched,
+  and say so.
 - Missing researched data is stated as missing ("Not mentioned in the report", "No
   announced entries recorded yet"), never left blank or guessed.
 - Light and dark colour schemes follow the device setting. Tier colours: Platinum blue,

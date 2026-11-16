@@ -1,0 +1,18 @@
+{
+ "athleteId": "14833335",
+ "name": "Sabastian Kimaru SAWE",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Claudio Berardelli",
+  "reliability": "reported",
+  "source": "https://athleticsweekly.com/news/sabastian-sawes-road-to-success-1040005833/",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "reported",
+  "source": "https://nation.africa/kenya/sports/athletics/sabastian-sawe-s-marathon-record-boosts-adidas-in-supershoe-race-with-nike-5438236",
+  "note": "Described as his sponsor; raced London 2026 in the Adizero Adios Pro Evo 3.",
+  "verified": false
+ }
+}

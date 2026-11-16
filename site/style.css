@@ -122,3 +122,12 @@ td.nowrap { white-space: nowrap; }
 table.honours { table-layout: fixed; min-width: 640px; }
 table.honours tr.grp th { padding-top: 16px; font-size: 14px; color: var(--ink); border-bottom: 1px solid var(--axis); }
 table.honours tbody tr.grp:first-child th { padding-top: 6px; }
+
+.ath-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.ath-head h1 { margin-bottom: 4px; }
+.ath-head .shoe { flex: none; display: inline-flex; align-items: center; }
+.brandlogo { display: block; width: auto; }
+.inlinebrand { display: inline-block; vertical-align: -3px; }
+.inlinebrand .brandlogo { display: inline-block; }
+.brandtext { font-weight: 700; font-size: 13px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-2); border: 1px solid var(--axis); border-radius: 5px; padding: 2px 7px; white-space: nowrap; }
+.small { font-size: 12.5px; }

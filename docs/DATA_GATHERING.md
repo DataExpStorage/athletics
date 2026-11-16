@@ -1,9 +1,10 @@
 # Athletics Tracker: data gathering specification
 
 Version of 16 November 2026. The project continues into 2027 and later seasons, and so
-does this work (section 6). Specifies the three kinds of data that cannot be fetched
+does this work (section 6). Specifies the four kinds of data that cannot be fetched
 automatically and have to be researched: **prize money**, **announced elite fields and
-withdrawals**, and **race reports**. It defines what to collect, from where, in what
+withdrawals**, **race reports**, and **athlete teams** (coach, manager, agency, shoe
+sponsor; section 5). It defines what to collect, from where, in what
 format, to what standard, and what is still outstanding.
 
 The overall project is described in [SPECIFICATION.md](SPECIFICATION.md). The weekly
@@ -11,7 +12,7 @@ Claude run follows `routine/newsletter_prompt.md`, which is the operational shor
 this document; if the two disagree, this document is right and the prompt should be
 corrected.
 
-## 1. Principles for all three
+## 1. Principles for all four
 
 1. **Only what a source states.** Never fill a gap from memory, from an earlier year, or
    by estimate. Missing is recorded as missing.
@@ -251,7 +252,73 @@ New York, Hong Kong-Zhuhai-Macao Bridge Half (full reports); Beijing, Delhi, Lju
 Of these thirteen, only three reports mention the weather and only two name
 non-finishers, none with a reason.
 
-## 5. Backlog as of 16 November 2026
+## 5. Athlete teams: coach, manager, agency, shoe sponsor
+
+### What to collect
+
+For every athlete with a profile in the tracker, and for each new profile as it arrives:
+the current **coach**, **manager**, **agency** and **shoe sponsor**.
+
+### Where it comes from
+
+| Item | Source | How |
+|---|---|---|
+| Manager | The athlete's World Athletics profile lists an "athlete representative" | Automatic, stored with the profile (name, country and business website only; contact details are never stored). Graded Official |
+| Agency | The website World Athletics lists for the representative, mapped to an agency name in `config/agencies.json` (`by_website`) | Automatic once the website is in the map. For a representative with no website, research the agency once and add it under `by_representative` with a grade and source; it then applies to all their athletes |
+| Coach | Organiser, agency and brand pages; interviews; specialist press | Researched |
+| Shoe sponsor | The brand's own announcement or athlete page; the agency's profile; press that names the sponsor | Researched |
+
+### Format: `data/team/<athleteId>.json`
+
+```json
+{
+ "athleteId": "14833335",
+ "name": "Sabastian Kimaru SAWE",
+ "checked": "2026-11-16",
+ "coach": {"value": "Claudio Berardelli", "reliability": "reported",
+           "source": "https://...", "note": "optional", "verified": false},
+ "shoe": {"value": "adidas", "reliability": "reported", "source": "https://...",
+          "note": "optional", "verified": false},
+ "agency": {"...": "only to override or supply what the profile does not give"},
+ "manager": {"...": "only to override the profile"},
+ "manager_note": "optional, e.g. a conflict between sources"
+}
+```
+
+### Rules
+
+- `verified` is `true` only when the source page was opened and states the fact. Entries
+  found through a search summary are `false` and show "to verify" on the dashboard.
+- A brand an athlete was seen racing in is graded Unconfirmed unless a source calls it
+  their sponsor. Shoe deals change often: prefer sources from the last two years and say
+  so in the note when the source is older.
+- Nothing found: `value` is `null` with a note. Self-coached: `value` is `null`, with the
+  note and source saying so. Never infer a coach from a training group or a nationality.
+- Spell names the same way every time, because the coach, manager, agency and brand
+  pages group athletes by name. Brands: adidas, Nike, ASICS, PUMA, New Balance, Under
+  Armour, On, HOKA, Saucony, Brooks, Mizuno, Li-Ning, Xtep, 361°, Anta.
+- On a change, update the value and keep the previous one in the note with the date.
+- World Athletics is taken as right about the current representative. If the press names
+  someone else, record it in `manager_note`.
+
+### Current state (29 profiles)
+
+| Item | Found | Notes |
+|---|---|---|
+| Manager | 26 | From World Athletics. Three athletes have no representative listed |
+| Agency | 17 | 13 from the representative's website, 3 through Eric Lilot (Unconfirmed), 1 researched (Unconfirmed) |
+| Coach | 19, plus one self-coached | All from search summaries; none opened and verified yet |
+| Shoe sponsor | 16 | Three from the brand or agency itself; four rest on one weak source or on "seen racing in" and are graded Unconfirmed |
+
+To do: open and verify the 37 researched entries; find the agency for the representatives
+with no website (Monica Pont Chafer, Karen Lin, Stephen Haas, Christian Calanni, Jozsef
+Babinyecz, Hannah Biwott-van de Veen); confirm that Eric Lilot works for Demadonna;
+resolve Kidsan Alema (Moyo Sports has a profile for her, World Athletics lists Monica
+Pont Chafer); resolve Justus Kangogo's coach (two names in one article). Six athletes have
+nothing beyond the World Athletics representative. About 740 athletes still await a
+profile and so have no team data.
+
+## 5a. Race backlog as of 16 November 2026
 
 Run `python scripts/status.py --missing` for the current list. Suggested order within
 each task: Platinum before Gold, most recent first.

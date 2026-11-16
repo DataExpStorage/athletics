@@ -1,0 +1,19 @@
+{
+ "athleteId": "14460738",
+ "name": "Andreas ALMGREN",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Urban Aruhn",
+  "reliability": "reported",
+  "source": "https://www.svt.se/sport/friidrott/nils-van-der-poel-effekt-bakom-andreas-almgrens-rekordform",
+  "note": "His coach since 2012.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "Nike",
+  "reliability": "unconfirmed",
+  "source": "https://blog.therunningcollective.fr/qui-est-andreas-almgren-le-coureur-suedois-qui-bat-tous-les-records-deurope-depuis-1-an/",
+  "note": "One source only.",
+  "verified": false
+ }
+}

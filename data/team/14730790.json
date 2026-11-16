@@ -1,0 +1,19 @@
+{
+ "athleteId": "14730790",
+ "name": "Brigid KOSGEI",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Erick Kimaiyo",
+  "reliability": "reported",
+  "source": "https://www.runblogrun.com/2019/10/how-brigid-kosgei-is-being-recognized-in-kenya-after-breaking-the-women-marathons-world-record-in-ch.html",
+  "note": "Trains in Kapsait. Sources are several years old.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "Nike",
+  "reliability": "reported",
+  "source": "https://frontofficesports.com/nike-kenya-olympic-marathon",
+  "note": "Source is undated.",
+  "verified": false
+ }
+}

@@ -807,5 +807,10 @@
   }
  ],
  "fetched": "2026-11-16",
- "source": "https://worldathletics.org/athletes/sweden/andreas-almgren-14460738"
+ "source": "https://worldathletics.org/athletes/sweden/andreas-almgren-14460738",
+ "representative": {
+  "name": "Stina FUNKE",
+  "country": "Sweden",
+  "website": "http://www.jrssm.com"
+ }
 }

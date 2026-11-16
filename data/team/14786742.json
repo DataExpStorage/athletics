@@ -1,0 +1,15 @@
+{
+ "athleteId": "14786742",
+ "name": "Hawi FEYSA",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://www.runnersworld.de/news-fotos/hawi-feysa-mit-durchbruch-beim-frankfurt-marathon-2024/",
+  "verified": false
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found. One preview says she has changed sponsors, without naming brands."
+ }
+}

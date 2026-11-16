@@ -1,0 +1,19 @@
+{
+ "athleteId": "14629097",
+ "name": "Guye Idemo ADOLA",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://athleticsillustrated.com/tag/guye-adola/",
+  "note": "Sources are mostly older profiles.",
+  "verified": false
+ },
+ "shoe": {
+  "value": "adidas",
+  "reliability": "unconfirmed",
+  "source": "https://marathonhandbook.com/berlin-marathon-podium-adidas-adios-pro-evo-3/",
+  "note": "Won Berlin 2026 in the Adizero Adios Pro Evo 3; no source found that states a sponsorship contract.",
+  "verified": false
+ }
+}

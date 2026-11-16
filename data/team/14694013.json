@@ -1,0 +1,16 @@
+{
+ "athleteId": "14694013",
+ "name": "Amos KIPRUTO",
+ "checked": "2026-11-16",
+ "coach": {
+  "value": "Claudio Berardelli",
+  "reliability": "reported",
+  "source": "https://athleticsweekly.com/news/sub-two-we-have-discipline-commitment-and-trust-1040011412/",
+  "note": "Trains in Kapsabet with Berardelli's 2 Running Club.",
+  "verified": false
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "_about": "How a World Athletics representative (manager) maps to an agency. 'by_website' uses the website World Athletics lists for the representative: an official link, with the agency name taken from that website. 'by_representative' is researched, for representatives listed without a website; each needs a reliability grade and a source.",
+ "by_website": {
+  "hawimanagement.com": "HAWI Management",
+  "ikaikasports.com": "Ikaika Sports",
+  "demadonna.com": "Demadonna Athletic Promotions",
+  "rosassociati.it": "Rosa & Associati",
+  "moyo-sports.com": "Moyo Sports",
+  "pinedasport.com": "Pineda Sport",
+  "jrssm.com": "JRS Sports Management"
+ },
+ "by_representative": {
+  "Eric Lilot": {
+   "agency": "Demadonna Athletic Promotions",
+   "reliability": "unconfirmed",
+   "source": "https://worldathletics.org/athletes/athlete-representatives",
+   "note": "A search summary says his World Athletics listing uses a Demadonna contact address; not checked on the page."
+  }
+ }
+}
