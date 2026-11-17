@@ -1,0 +1,20 @@
+{
+ "raceId": 7236072,
+ "title": "Chepkirui retains title at Nagoya Women's Marathon",
+ "source": "https://worldathletics.org/news/report/chepkirui-2026-nagoya-womens-marathon",
+ "published": "2026-03-08",
+ "written": "2026-11-17",
+ "weather": "Cool and windy: 9C at the start, with steady wind along the course.",
+ "story": {
+  "W": "A lead pack of eight reached 10 km in 33:10 and six were left at halfway (1:10:51). Rino Goshima dropped off around 30 km, and with about 7 km to go four remained before Sheila Chepkirui and Sayaka Sato broke clear. They ran together until Chepkirui edged ahead in the last kilometres and won by two seconds in 2:21:54."
+ },
+ "performances": [
+  {"name": "Sheila CHEPKIRUI", "gender": "W", "note": "Won a second straight Nagoya title in 2:21:54, well short of her best of 2:17:29."},
+  {"name": "Sayaka SATO", "gender": "W", "note": "Ran stride for stride with the winner in the closing stages and was second, two seconds back."},
+  {"name": "Aynalem DESTA", "gender": "W", "note": "Third in 2:22:37; lost touch with the leading pair with about 7 km to go."},
+  {"name": "Rika KASEDA", "gender": "W", "note": "Fourth in 2:22:53, under the Japanese qualifying standard of 2:23:30 for the LA 2028 Marathon Grand Championship; lost touch with the front with about 7 km left."},
+  {"name": "Natsuki OMORI", "gender": "W", "note": "Fifth in 2:23:45, fell back after 30 km and missed the 2:23:30 standard."},
+  {"name": "Rino GOSHIMA", "gender": "W", "note": "Dropped from the lead pack around 30 km; finished seventh in 2:24:44."}
+ ],
+ "dnf": []
+}

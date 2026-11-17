@@ -1,0 +1,13 @@
+{
+ "athleteId": "14528844",
+ "name": "Yann SCHRUB",
+ "checked": "2026-11-17",
+ "coach": {"value": null, "note": "No source found."},
+ "shoe": {
+  "value": "PUMA",
+  "reliability": "reported",
+  "source": "https://www.runpack.fr/38312-yann-schrub-rejoint-puma-union-entre-ambition-et-innovation",
+  "note": "Runpack, 10 July 2025, reports him joining PUMA's running roster as a partnership; the word sponsor is not used.",
+  "verified": true
+ }
+}

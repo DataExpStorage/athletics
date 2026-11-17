@@ -1,0 +1,19 @@
+{
+ "athleteId": "14335825",
+ "name": "Jessica MCCLAIN",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "David Roche",
+  "reliability": "reported",
+  "source": "https://marathonhandbook.com/nyc-marathon-elite-field-jessica-mcclain/",
+  "note": "Profile of 27 October 2026 lists him as coach since 2025.",
+  "verified": true
+ },
+ "shoe": {
+  "value": "Brooks",
+  "reliability": "reported",
+  "source": "https://marathonhandbook.com/nyc-marathon-elite-field-jessica-mcclain/",
+  "note": "Same profile lists Brooks as her sponsor.",
+  "verified": true
+ }
+}

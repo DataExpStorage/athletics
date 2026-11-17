@@ -1,0 +1,37 @@
+{
+ "raceId": 7204187,
+ "title": "World Athletics Road Running Championships Copenhagen 26: summary of six individual-event reports (mile, 5km, half marathon)",
+ "source": "https://worldathletics.org/competitions/world-athletics-road-running-championships/copenhagen26/news/report/road-running-copenhagen-26-men-half-marathon",
+ "published": "2026-09-20",
+ "written": "2026-11-17",
+ "weather": "Half marathon report (men): a bright morning. Women's 5km report: a cool afternoon, with the winner noting some wind but manageable conditions. Mile report (men): the winner sheltered from the wind.",
+ "story": {
+  "W": "Mile: Agathe Guillemot waited in a big lead group, moved to the front with about 20 seconds left and won in a European record 4:22.74. 5km: Likina Amebaw took control early, made her decisive move at 4 km away from Caroline Gitonga and won by seven seconds in 14:41. Half marathon: Agnes Ngetich led from the start, was 51 seconds clear at 20 km and won alone by 50 seconds in a women-only world record of 1:05:15 (subject to ratification).",
+  "M": "Mile: Yared Nuguse led from the start aiming at the world record, but Robert Farken stayed close, closed from about 600 m out, passed him and won in 3:51.80. 5km: Dawit Seare and Jakob Ingebrigtsen broke clear; Ingebrigtsen went ahead with about 30 seconds left but Seare answered and won by 3 seconds in 12:56. Half marathon: Kenyans controlled the middle of the race, then Andreas Almgren, Nicholas Kipkorir and Joshua Cheptegei went clear; Almgren pulled away in the last stretch to win by 5 seconds in a European record 58:06."
+ },
+ "performances": [
+  {"name": "Agathe GUILLEMOT", "gender": "W", "note": "Mile champion in 4:22.74, a European record and fourth on the all-time list; her first individual global title after a demanding season."},
+  {"name": "Freweyni HAILU", "gender": "W", "note": "Mile silver in 4:24.35, second again three years after her silver in Riga."},
+  {"name": "Annemarie NISSEN", "gender": "W", "note": "Fourth in the mile with a personal best of 4:26.78, cheered by the home crowd."},
+  {"name": "Likina AMEBAW", "gender": "W", "note": "Won the 5km in 14:41, six days after winning the Ultimate 5000m title."},
+  {"name": "Caroline Makandi GITONGA", "gender": "W", "note": "Second in the 5km in 14:48; led for a spell and was dropped by Amebaw at 4 km. Report calls her Caroline Gitonga.", "athleteId": "14761963"},
+  {"name": "Rose DAVIES", "gender": "W", "note": "Third in the 5km in 14:50, an Oceanian record."},
+  {"name": "Agnes Jebet NGETICH", "gender": "W", "note": "Won the half marathon in 1:05:15, a women-only world record by one second, her second world title of 2026 after cross-country. Report calls her Agnes Ngetich.", "athleteId": "14758189"},
+  {"name": "Veronica LOLEO", "gender": "W", "note": "Second in the half marathon in 1:06:05, 50 seconds behind her Kenyan teammate."},
+  {"name": "Florence NIYONKURU", "gender": "W", "note": "Third in the half marathon in a Rwandan record 1:06:08."},
+  {"name": "Tsigie GEBRESELAMA", "gender": "W", "note": "Dropped from the chase group around 15 km in the half marathon and did not reach the top ten."},
+  {"name": "Jessica MCCLAIN", "gender": "W", "note": "Dropped from the chase group at 15 km in the half marathon but recovered to finish seventh."},
+  {"name": "Robert FARKEN", "gender": "M", "note": "Mile champion in a world-leading German record 3:51.80, second on the all-time road mile list; his final race of the season."},
+  {"name": "Yared NUGUSE", "gender": "M", "note": "Led the mile from the start chasing the world record; second in 3:52.33."},
+  {"name": "Ruben QUERINJEAN", "gender": "M", "note": "Mile bronze in a Luxembourg record 3:52.77, the country's first men's global senior medal since 1952."},
+  {"name": "Dawit SEARE", "gender": "M", "note": "Won the 5km in a national record 12:56 by outkicking Ingebrigtsen; fourth in Riga three years earlier."},
+  {"name": "Jakob INGEBRIGTSEN", "gender": "M", "note": "Second in the 5km in a Norwegian record 12:59 on his 26th birthday; briefly took the lead with about 30 seconds left."},
+  {"name": "Jimmy GRESSIER", "gender": "M", "note": "European record holder at 12:51 earlier in the year; led early in the 5km but was not in the top ten (report gives no explanation).", "athleteId": "14694062"},
+  {"name": "Andreas ALMGREN", "gender": "M", "note": "Won the half marathon in a European record 58:06, 35 seconds faster than his own mark; first global gold, ninth on the all-time list."},
+  {"name": "Nicholas KIPKORIR", "gender": "M", "note": "Second in the half marathon in 58:11 after leading much of the race; surged ahead briefly in the last 600 m."},
+  {"name": "Joshua CHEPTEGEI", "gender": "M", "note": "Third in the half marathon in a personal best 58:26, his first road medal; fell off the front pair near Trianglen and said he had a treated foot problem."},
+  {"name": "Tadese WORKU", "gender": "M", "note": "Fourth in the half marathon in a personal best 58:35; dropped before 20 km."},
+  {"name": "Daniel Simiu EBENYO", "gender": "M", "note": "Silver medallist in Riga, ran in the Kenyan group at the front early and finished ninth. Report calls him Daniel Ebenyo.", "athleteId": "14916366"}
+ ],
+ "dnf": []
+}

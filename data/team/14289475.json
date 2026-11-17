@@ -1,0 +1,19 @@
+{
+ "athleteId": "14289475",
+ "name": "Mary NGUGI-COOPER",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "Steve Cram",
+  "reliability": "reported",
+  "source": "https://athleticsweekly.com/news/interviews/mary-ngugi-and-the-club-focused-on-female-empowerment-1039968322/",
+  "note": "Athletics Weekly interview of 15 June 2023, older than two years; current coach not confirmed. Interview names her as Mary Ngugi.",
+  "verified": true
+ },
+ "shoe": {
+  "value": "Nike",
+  "reliability": "official",
+  "source": "https://about.nike.com/en/stories/mary-ngugi-nala-track-club",
+  "note": "Nike story of 14 May 2024 calls her a Nike athlete; older than two years.",
+  "verified": true
+ }
+}

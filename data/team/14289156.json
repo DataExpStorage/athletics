@@ -1,17 +1,19 @@
 {
  "athleteId": "14289156",
  "name": "Sheila CHEPKIRUI",
- "checked": "2026-11-16",
+ "checked": "2026-11-17",
  "coach": {
-  "value": "Julien Di Maria",
+  "value": null,
   "reliability": "reported",
-  "source": "https://nation.africa/kenya/sports/athletics/sheila-chepkirui-i-won-new-york-marathon-by-focusing-on-strength-nutrition-5655452",
-  "verified": false
+  "source": "https://www.the-star.co.ke/sports/2025-01-17-struggles-to-stardomchepkiruis-journey-to-the-top",
+  "note": "The Star (17 January 2025) says she has no personal coach and trains herself on a programme from her management, Ikaika Sports. The earlier entry named Julien Di Maria from a Nation article that could not be opened (HTTP 403), so it is not confirmed.",
+  "verified": true
  },
  "shoe": {
   "value": "adidas",
-  "reliability": "reported",
-  "source": "https://nation.africa/kenya/sports/athletics/sheila-chepkirui-i-won-new-york-marathon-by-focusing-on-strength-nutrition-5655452",
-  "verified": false
+  "reliability": "unconfirmed",
+  "source": "https://mozzartsport.co.ke/athletics/news/details-of-sheila-chepkiruis-new-york-city-marathon-winning-shoes/47858",
+  "note": "Article of 7 November 2024 says she won New York in the adidas Adizero Adios Pro 4; it does not call adidas her sponsor.",
+  "verified": true
  }
 }

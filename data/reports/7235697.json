@@ -1,0 +1,17 @@
+{
+ "raceId": 7235697,
+ "title": "Short item on the Meishan Renshou Half Marathon inside the report 'Tesfay goes No.2 all time with 2:10:51 marathon debut in Barcelona'",
+ "source": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/barcelona-marathon-2026-fotyen-tesfay",
+ "published": "2026-03-15",
+ "written": "2026-11-17",
+ "weather": null,
+ "story": {
+  "W": "Ruti Aga won in 1:08:04, 29 seconds ahead of Tiantian Liang. The item does not describe how the race unfolded.",
+  "M": "Alex Nzioka Matata won in 59:51, 56 seconds ahead of Gemechu Dida. The item does not describe how the race unfolded."
+ },
+ "performances": [
+  {"name": "Alex Nzioka MATATA", "gender": "M", "note": "Defended his title; he also won several half marathons the previous year."},
+  {"name": "Ruti AGA", "gender": "W", "note": "Won on a winning streak that includes the Xiamen Marathon in January; the 2019 Tokyo Marathon champion."}
+ ],
+ "dnf": []
+}

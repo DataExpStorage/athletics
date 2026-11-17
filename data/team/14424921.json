@@ -1,0 +1,19 @@
+{
+ "athleteId": "14424921",
+ "name": "Hellen OBIRI",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "Laura Thweatt",
+  "reliability": "reported",
+  "source": "https://www.si.com/fannation/sneakers/interviews/hellen-obiri-reflects-4-record-breaking-years-on-running",
+  "note": "Interview of 16 December 2025 says she has worked with Thweatt, the On Athletic Club's new coach, since shortly after the Boston Marathon. Previously Dathan Ritzenhein (On page of 2023).",
+  "verified": true
+ },
+ "shoe": {
+  "value": "On",
+  "reliability": "reported",
+  "source": "https://www.si.com/fannation/sneakers/interviews/hellen-obiri-reflects-4-record-breaking-years-on-running",
+  "note": "Same article says she partnered with On in January 2022.",
+  "verified": true
+ }
+}

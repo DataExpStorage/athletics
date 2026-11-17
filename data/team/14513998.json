@@ -1,0 +1,19 @@
+{
+ "athleteId": "14513998",
+ "name": "Yemaneberhan CRIPPA",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "Massimo Pegoretti",
+  "reliability": "reported",
+  "source": "https://parigi2024.coni.it/en/italia-team/athletes/scheda_atleta/112:YEMANEBERHAN_CRIPPA.html",
+  "note": "Italian Olympic committee profile for the Paris 2024 Games; may be out of date.",
+  "verified": true
+ },
+ "shoe": {
+  "value": "On",
+  "reliability": "official",
+  "source": "https://press.on-running.com/on-welcomes-multiple-italian-record-holder-yemaneberhan-crippa-to-its-elite-athlete-team",
+  "note": "On press release of 25 January 2025 announcing him to its athlete team.",
+  "verified": true
+ }
+}

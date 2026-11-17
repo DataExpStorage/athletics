@@ -1,0 +1,21 @@
+{
+ "raceId": 7235575,
+ "title": "Matata and Chebet break course records in Yangzhou",
+ "source": "https://worldathletics.org/news/report/matata-chebet-course-records-2026-yangzhou-half-marathon",
+ "published": "2026-03-29",
+ "written": "2026-11-17",
+ "weather": null,
+ "story": {
+  "W": "Miriam Chebet pulled away in the later stages and won in 1:06:27, taking 38 seconds off the course record. Ftaw Zeray was second, 35 seconds back.",
+  "M": "Alex Nzioka Matata defended his title in 59:11, 20 seconds under his own course record from last year, and won by 19 seconds from Jemal Mekonen. Kenyans swept the elite titles for the third year running."
+ },
+ "performances": [
+  {"name": "Alex Nzioka MATATA", "gender": "M", "note": "Won in 59:11, a course record, a personal best and a Chinese all-comers' record. Now owns the three fastest half marathons run in China; had won Meishan in 59:51 two weeks earlier."},
+  {"name": "Jemal MEKONEN", "gender": "M", "note": "Second in 59:30. Called Jemal Yimer Mekonen in the report.", "athleteId": "14757695"},
+  {"name": "Geofry Toroitich KIPCHUMBA", "gender": "M", "note": "Third in 59:57. Called Geoffrey Toroitich Kipchumba in the report.", "athleteId": "14855730"},
+  {"name": "Miriam CHEBET", "gender": "W", "note": "Won in 1:06:27, a course record, 20 seconds off her best from Istanbul last year; came in on good form after a 30:08 10km in Valencia in January."},
+  {"name": "Ftaw ZERAY", "gender": "W", "note": "Second in 1:07:02. Called Ftaw Zeray Bezabh in the report.", "athleteId": "14828354"},
+  {"name": "Gladys CHEPKURUI", "gender": "W", "note": "Third in 1:07:15."}
+ ],
+ "dnf": []
+}

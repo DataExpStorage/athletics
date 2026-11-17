@@ -1,0 +1,13 @@
+{
+ "athleteId": "14464196",
+ "name": "Buze DIRIBA",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "Gemedu Dedefo",
+  "reliability": "reported",
+  "source": "https://www.athletics.africa/news-features/special-reports/buze-diriba-targets-more-after-frankfurt-triumph-23188",
+  "note": "Article of 27 October 2025.",
+  "verified": true
+ },
+ "shoe": {"value": null, "note": "No source found."}
+}

@@ -1,0 +1,42 @@
+{
+ "week": "2026-W47",
+ "checked": "2026-11-17",
+ "items": [
+  {
+   "headline": "LA 2028 marathon qualifying marks set at 2:05:00 and 2:22:20",
+   "summary": "World Athletics published the LA28 qualification system, with marathon standards about a minute faster than for Beijing 2027 and 70 places per race. The qualifying window runs from 1 November 2026 to 30 April 2028, and the first five at Platinum Label marathons count as having met the standard.",
+   "date": "2026-11-10",
+   "reliability": "reported",
+   "source": "https://athleticsweekly.com/news/los-angeles-2028-qualifying-not-for-the-faint-hearted-1040014071/",
+   "athletes": [],
+   "races": []
+  },
+  {
+   "headline": "Joshua Griffiths gets three-month ban for cocaine metabolite",
+   "summary": "The Athletics Integrity Unit announced a three-month suspension for the British marathoner after a sample at the Belfast marathon in May contained a cocaine metabolite. His fourth place there was disqualified, and the ban had already run its course by September.",
+   "date": "2026-11-11",
+   "reliability": "reported",
+   "source": "https://runningmagazine.ca/the-scene/british-marathoner-serves-doping-ban-for-cocaine/",
+   "athletes": ["Joshua Griffiths"],
+   "races": []
+  },
+  {
+   "headline": "Beijing 2027 World Championships marathon dates set",
+   "summary": "The women's marathon at the 2027 World Championships in Beijing is scheduled for 12 September and the men's for 19 September, both starting at 7:30 local time.",
+   "date": "2026-11-15",
+   "reliability": "unconfirmed",
+   "source": "https://marathonhandbook.com/beijing-2027-world-championships-timetable-marathon/",
+   "athletes": [],
+   "races": []
+  },
+  {
+   "headline": "Sato wins Kobe Marathon; Chelangat wins on debut",
+   "summary": "Satoshi Sato of Japan won the men's Kobe Marathon in 2:09:46, eight seconds ahead of Barnaba Kipkoech. Uganda's Annet Chelangat took the women's race in 2:28:09 on her marathon debut.",
+   "date": "2026-11-15",
+   "reliability": "unconfirmed",
+   "source": "https://mybestruns.com/running-news.php?lnk=15602",
+   "athletes": ["Satoshi Sato", "Barnaba Kipkoech", "Annet Chemengich Chelangat"],
+   "races": []
+  }
+ ]
+}

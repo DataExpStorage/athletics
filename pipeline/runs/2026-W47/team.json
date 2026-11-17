@@ -1,0 +1,31 @@
+{
+ "status": "passed",
+ "problems": [],
+ "files": [
+  "data/team/14181700.json",
+  "data/team/14288936.json",
+  "data/team/14289137.json",
+  "data/team/14289150.json",
+  "data/team/14289156.json",
+  "data/team/14289475.json",
+  "data/team/14335825.json",
+  "data/team/14372181.json",
+  "data/team/14388506.json",
+  "data/team/14424921.json",
+  "data/team/14464196.json",
+  "data/team/14464203.json",
+  "data/team/14477352.json",
+  "data/team/14487535.json",
+  "data/team/14513998.json",
+  "data/team/14528844.json",
+  "data/team/14534530.json",
+  "data/team/14581927.json",
+  "data/team/14585818.json",
+  "data/team/14590680.json",
+  "data/team/14833335.json"
+ ],
+ "review": "passed",
+ "stage": "team",
+ "week": "2026-W47",
+ "time": "2026-11-17 15:40"
+}

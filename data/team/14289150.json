@@ -1,23 +1,20 @@
 {
  "athleteId": "14289150",
  "name": "Helah Jelagat KIPROP",
- "checked": "2026-11-16",
+ "checked": "2026-11-17",
  "coach": {
   "value": "David Marus",
   "reliability": "unconfirmed",
   "source": "https://en.wikipedia.org/wiki/Helah_Kiprop",
-  "note": "Her husband; from an older Wikipedia entry.",
-  "verified": false
+  "note": "Wikipedia says she was coached by her husband, the Ugandan David Marus; undated and possibly out of date.",
+  "verified": true
  },
  "shoe": {
   "value": null,
   "note": "No source found."
  },
  "agency": {
-  "value": "Volare Sports",
-  "reliability": "unconfirmed",
-  "source": "https://volaresports.nl/?p=4359",
-  "note": "Volare Sports has written about her; not confirmed as her agency.",
-  "verified": false
+  "value": null,
+  "note": "A Volare Sports blog post (https://volaresports.nl/?p=4359) says the agency is proud of her and supports her, but it does not state that it represents her."
  }
 }

@@ -1,0 +1,20 @@
+{
+ "raceId": 7235569,
+ "title": "Short item on the Seoul Marathon inside the report 'Tesfay goes No.2 all time with 2:10:51 marathon debut in Barcelona'",
+ "source": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/barcelona-marathon-2026-fotyen-tesfay",
+ "published": "2026-03-15",
+ "written": "2026-11-17",
+ "weather": null,
+ "story": {
+  "W": "Haven Hailu Desse pulled away after 35 km and ran alone to win in 2:19:09, 30 seconds ahead of Bekelech Gudeta. Halfway was 1:08:42.",
+  "M": "Getaneh Molla led the closing stages, but Haftu Teklu passed him with a late kick to win by one second in a course record. Five men finished inside the old course record of 2:04:43. The report's times are one second slower than the stored results for the top two."
+ },
+ "performances": [
+  {"name": "Haftu TEKLU", "gender": "M", "note": "Retained his title in a personal best and course record, outkicking Molla late."},
+  {"name": "Getaneh MOLLA", "gender": "M", "note": "Led the closing stages but was passed near the finish and beaten by one second."},
+  {"name": "Haven Hailu DESSE", "gender": "W", "note": "Won by running alone from 35 km."},
+  {"name": "Bekelech GUDETA", "gender": "W", "note": "Second, 30 seconds behind the winner."},
+  {"name": "Joyce Chepkemoi TELE", "gender": "W", "note": "Fourth in 2:19:50, breaking 2:20 for the first time."}
+ ],
+ "dnf": []
+}

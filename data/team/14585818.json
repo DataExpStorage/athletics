@@ -1,0 +1,13 @@
+{
+ "athleteId": "14585818",
+ "name": "Sutume Asefa KEBEDE",
+ "checked": "2026-11-17",
+ "coach": {"value": null, "note": "No source found."},
+ "shoe": {
+  "value": "On",
+  "reliability": "official",
+  "source": "https://www.on.com/en-dk/explore/athletes/sutume-asefa-kebede",
+  "note": "Listed on On's own athlete pages.",
+  "verified": true
+ }
+}

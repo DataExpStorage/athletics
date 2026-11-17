@@ -1,18 +1,19 @@
 {
  "athleteId": "14388506",
  "name": "Tigst ASSEFA",
- "checked": "2026-11-16",
+ "checked": "2026-11-17",
  "coach": {
   "value": "Gemedu Dedefo",
-  "reliability": "reported",
-  "source": "https://essentiallysports.com/us-sports-news-olympics-news-track-and-field-news-who-is-tigist-assefas-coach-everything-you-need-to-know-about-the-major-support-system-of-the-world-record-holder",
-  "verified": false
+  "reliability": "unconfirmed",
+  "source": "https://en.wikipedia.org/wiki/Tigst_Assefa",
+  "note": "Wikipedia infobox lists him as her coach; no news source opened states it.",
+  "verified": true
  },
  "shoe": {
   "value": "adidas",
-  "reliability": "unconfirmed",
-  "source": "https://tonireavis.com/tag/tigst-assefa/",
-  "note": "Reported racing in adidas shoes; no source found that states a sponsorship contract.",
-  "verified": false
+  "reliability": "reported",
+  "source": "https://athleticsweekly.com/news/reports/tigst-assefa-smashes-womens-world-marathon-record-in-berlin-with-21153-1039971822/",
+  "note": "Athletics Weekly, 24 September 2023, quotes her thanking 'my partner adidas' for the Adizero Adios Pro Evo 1; older than two years.",
+  "verified": true
  }
 }

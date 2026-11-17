@@ -1,0 +1,13 @@
+{
+ "athleteId": "14464203",
+ "name": "Stella CHESANG",
+ "checked": "2026-11-17",
+ "coach": {
+  "value": "Addy Ruiter",
+  "reliability": "unconfirmed",
+  "source": "https://www.runblogrun.com/2018/06/introducing-stella-chesang-by-steve-landells-for-nn-running-team.html",
+  "note": "Profile from June 2018 (page also shows 2022) calls him her current coach; much older than two years, current coach not confirmed.",
+  "verified": true
+ },
+ "shoe": {"value": null, "note": "No source found."}
+}
