@@ -10,6 +10,7 @@ pipeline run in progress), so the two never mix. The log is .cache/profile_batch
 """
 import datetime
 import os
+import shutil
 import subprocess
 import sys
 
@@ -21,8 +22,24 @@ import wa
 LOG = os.path.join(wa.CACHE, "profile_batches.log")
 
 
+def find_git():
+    """Scheduled tasks may not have git on their path; look in the usual install places."""
+    found = shutil.which("git")
+    if found:
+        return found
+    for base in (os.environ.get("ProgramFiles", r"C:\Program Files"), os.environ.get("ProgramFiles(x86)", ""),
+                 os.path.join(os.environ.get("LOCALAPPDATA", ""), "Programs")):
+        candidate = os.path.join(base, "Git", "cmd", "git.exe")
+        if base and os.path.exists(candidate):
+            return candidate
+    return "git"
+
+
+GIT = find_git()
+
+
 def git(*args):
-    res = subprocess.run(["git"] + list(args), cwd=wa.ROOT, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    res = subprocess.run([GIT] + list(args), cwd=wa.ROOT, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     return res.returncode, res.stdout.decode("utf-8", "replace").strip()
 
 
@@ -42,7 +59,11 @@ def main():
         else:
             print("No batches have run yet.")
         return 0
-    code, dirty = git("status", "--porcelain")
+    try:
+        code, dirty = git("status", "--porcelain")
+    except OSError as e:
+        log("skipped: git not found (%s)" % e)
+        return 1
     if code != 0:
         log("skipped: not a git repository")
         return 1
