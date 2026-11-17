@@ -1,7 +1,7 @@
 ---
 name: athletics-weekly
 description: Runs the whole weekly Athletics tracker update as a pipeline of stages (fetch, race reports, prize money, entries, athlete teams, news, newsletter, publish), with a checker after every stage. Use when asked to run the weekly update, the weekly pipeline, or to produce this week's newsletter.
-argument-hint: "[discipline, default road-running]"
+argument-hint: "[no-fetch]"
 allowed-tools: Bash(python scripts/check_stage.py *), Bash(python scripts/status.py *), Skill, Read
 ---
 
@@ -33,7 +33,10 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
    If it says the working tree has uncommitted changes, stop and report that; a person
    has to commit or discard them first.
 
-2. **Fetch.** Run the `athletics-fetch` skill. Then
+2. **Fetch.** If the arguments contain `no-fetch` (the weekly cloud routine: GitHub
+   Actions has already fetched the World Athletics data shortly before), record
+   `python scripts/check_stage.py skip fetch fetched by GitHub Actions` and go to step 3.
+   Otherwise run the `athletics-fetch` skill, then
    `python scripts/check_stage.py gate fetch`.
    If the gate fails, run `python scripts/check_stage.py summary` and stop.
 

@@ -17,8 +17,9 @@ Arguments: `$ARGUMENTS`
    `reports.this_week` first, then `reports.backlog`. If both are empty, write nothing
    and report "nothing to do".
 2. For each race, find the World Athletics race report:
-   - recent reports are saved as text under `.cache/reports/` (one file per article; the
-     first lines give the title, kind, date and address);
+   - recent reports may be saved as text under `.cache/reports/` (one file per article;
+     the first lines give the title, kind, date and address). In the weekly cloud run
+     this folder does not exist;
    - otherwise search `worldathletics.org` for the report and open it. Reports sit under
      `/news/report/<slug>` or `/competitions/world-athletics-label-road-races/news/<slug>`;
    - a smaller race may only have a short item inside a bigger race's report from the
