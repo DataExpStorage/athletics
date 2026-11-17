@@ -2,7 +2,7 @@
  "distance": "10km",
  "gender": "men",
  "season": 2026,
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "source": "https://worldathletics.org/records/toplists/road-running/10-kilometres/outdoor/men/senior/2026",
  "rows": [
   {
@@ -1059,7 +1059,20 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "75",
+   "mark": "27:46",
+   "seconds": 1666.0,
+   "name": "Edwin ELKANA",
+   "athleteId": "15169279",
+   "birthDate": "29 SEP 2007",
+   "nat": "KEN",
+   "pos": "2",
+   "venue": "Regional Park, Miramar, FL (USA)",
+   "date": "2026-11-15",
+   "score": ""
+  },
+  {
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Jesús RAMOS",
@@ -1072,7 +1085,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Andreu BLANES",
@@ -1085,7 +1098,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Ybeltal GASHAHUN",
@@ -1098,7 +1111,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Adriaan WILDSCHUTT",
@@ -1111,7 +1124,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Benjamin Fernandi RATSIM",
@@ -1124,7 +1137,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Jimmy GRESSIER",
@@ -1137,7 +1150,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Isaac Kibet NDIEMA",
@@ -1150,7 +1163,7 @@
    "score": ""
   },
   {
-   "rank": "82",
+   "rank": "83",
    "mark": "27:47",
    "seconds": 1667.0,
    "name": "Gemechu GODANA",
@@ -1163,7 +1176,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "91",
    "mark": "27:48",
    "seconds": 1668.0,
    "name": "Ataklti KIDANU",
@@ -1176,7 +1189,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "91",
    "mark": "27:48",
    "seconds": 1668.0,
    "name": "Abdessamad OUKHELFEN",
@@ -1189,7 +1202,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "91",
    "mark": "27:48",
    "seconds": 1668.0,
    "name": "Pasquale SELVAROLO",
@@ -1202,7 +1215,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "91",
    "mark": "27:48",
    "seconds": 1668.0,
    "name": "Patrick Kiptoo KIPROP",
@@ -1215,7 +1228,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "91",
    "mark": "27:48",
    "seconds": 1668.0,
    "name": "Thomas CHEPTOYEK",
@@ -1228,7 +1241,7 @@
    "score": ""
   },
   {
-   "rank": "95",
+   "rank": "96",
    "mark": "27:49",
    "seconds": 1669.0,
    "name": "Vincent Kipkemoi NGETICH",
@@ -1241,7 +1254,7 @@
    "score": ""
   },
   {
-   "rank": "95",
+   "rank": "96",
    "mark": "27:49",
    "seconds": 1669.0,
    "name": "Deogracius MUSOBO",
@@ -1254,7 +1267,7 @@
    "score": ""
   },
   {
-   "rank": "97",
+   "rank": "98",
    "mark": "27:50",
    "seconds": 1670.0,
    "name": "Ezra ONDISO",
@@ -1267,7 +1280,7 @@
    "score": ""
   },
   {
-   "rank": "97",
+   "rank": "98",
    "mark": "27:50",
    "seconds": 1670.0,
    "name": "Kieran LUMB",
@@ -1280,7 +1293,7 @@
    "score": ""
   },
   {
-   "rank": "97",
+   "rank": "98",
    "mark": "27:50",
    "seconds": 1670.0,
    "name": "Antonin MARQUANT",
@@ -1288,19 +1301,6 @@
    "birthDate": "12 MAY 2002",
    "nat": "FRA",
    "pos": "32",
-   "venue": "Valencia (ESP)",
-   "date": "2026-01-11",
-   "score": ""
-  },
-  {
-   "rank": "97",
-   "mark": "27:50",
-   "seconds": 1670.0,
-   "name": "Mustafe MUUSE",
-   "athleteId": "14855935",
-   "birthDate": "04 AUG 2001",
-   "nat": "FIN",
-   "pos": "33",
    "venue": "Valencia (ESP)",
    "date": "2026-01-11",
    "score": ""

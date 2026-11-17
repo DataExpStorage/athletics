@@ -1,0 +1,234 @@
+{
+ "id": "14989897",
+ "givenName": "Brenda",
+ "familyName": "JEPCHIRCHIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2005-07-10",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:17.59",
+   "venue": "Percy Beard Track, Gainesville, FL (USA)",
+   "date": "04 APR 2025",
+   "resultScore": 1068,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:57.49",
+   "venue": "Prefectural Stadium, Kagoshima (JPN)",
+   "date": "13 OCT 2023",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:08.37",
+   "venue": "Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",
+   "date": "25 JAN 2025",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:33.50",
+   "venue": "University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",
+   "date": "31 MAY 2025",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "15:33.67",
+   "venue": "R.A. \"Murray\" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",
+   "date": "27 FEB 2025",
+   "resultScore": 1122,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:17.69",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "19 JUN 2026",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "10:31.14",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "03 JUL 2021",
+   "resultScore": 1021,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:25",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1280,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:45",
+   "venue": "Mainz (GER)",
+   "date": "05 MAY 2024",
+   "resultScore": 1135,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:17.69",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "19 JUN 2026",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games",
+   "listPosition": "81"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:25",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1280,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "2"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "ABSA Run Yor City 10km, Kings Park Athletics Stadium, Durban",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "30:52",
+   "score": 1200,
+   "competitionId": "7237456"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-19",
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "B",
+   "race": "F1",
+   "place": "7",
+   "mark": "32:17.69",
+   "score": 1124,
+   "competitionId": "7241942"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "30:59",
+   "score": 1194,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-01",
+   "competition": "ABSA Run Yor City 10K, Marine Park, Gqeberha",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "30:15",
+   "score": 1234,
+   "competitionId": "7237188"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "29:25",
+   "score": 1280,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "30:04",
+     "venue": "Lille (FRA)",
+     "date": "15 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "29:25",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:09:45",
+     "venue": "Mainz (GER)",
+     "date": "05 MAY 2024"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 5,
+   "rankingScore": 1257
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 24,
+   "rankingScore": 1211
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 265,
+   "rankingScore": 1257
+  }
+ ],
+ "representative": {
+  "name": "Davor SAVIJA",
+  "country": "Serbia",
+  "website": "www.ikaikasports.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/brenda-jepchirchir-14989897"
+}

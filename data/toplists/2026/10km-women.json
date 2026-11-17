@@ -2,7 +2,7 @@
  "distance": "10km",
  "gender": "women",
  "season": 2026,
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "source": "https://worldathletics.org/records/toplists/road-running/10-kilometres/outdoor/women/senior/2026",
  "rows": [
   {
@@ -812,7 +812,20 @@
    "score": ""
   },
   {
-   "rank": "63",
+   "rank": "61",
+   "mark": "31:14",
+   "seconds": 1874.0,
+   "name": "Mercy CHERONO",
+   "athleteId": "14288952",
+   "birthDate": "07 MAY 1991",
+   "nat": "KEN",
+   "pos": "1",
+   "venue": "Regional Park, Miramar, FL (USA)",
+   "date": "2026-11-15",
+   "score": ""
+  },
+  {
+   "rank": "64",
    "mark": "31:15",
    "seconds": 1875.0,
    "name": "Janeth CHEPNGETICH",
@@ -825,7 +838,7 @@
    "score": ""
   },
   {
-   "rank": "64",
+   "rank": "65",
    "mark": "31:16",
    "seconds": 1876.0,
    "name": "Burgude ADUNA",
@@ -838,7 +851,7 @@
    "score": ""
   },
   {
-   "rank": "64",
+   "rank": "65",
    "mark": "31:16",
    "seconds": 1876.0,
    "name": "Glenrose XABA",
@@ -851,7 +864,7 @@
    "score": ""
   },
   {
-   "rank": "66",
+   "rank": "67",
    "mark": "31:17",
    "seconds": 1877.0,
    "name": "Marta GARCÍA",
@@ -864,7 +877,7 @@
    "score": ""
   },
   {
-   "rank": "66",
+   "rank": "67",
    "mark": "31:17",
    "seconds": 1877.0,
    "name": "Maria FORERO",
@@ -877,7 +890,7 @@
    "score": ""
   },
   {
-   "rank": "66",
+   "rank": "67",
    "mark": "31:17",
    "seconds": 1877.0,
    "name": "Weini KELATI FREZGHI",
@@ -890,7 +903,7 @@
    "score": ""
   },
   {
-   "rank": "69",
+   "rank": "70",
    "mark": "31:18",
    "seconds": 1878.0,
    "name": "Clara EVANS-GRAHAM",
@@ -903,7 +916,7 @@
    "score": ""
   },
   {
-   "rank": "70",
+   "rank": "71",
    "mark": "31:19",
    "seconds": 1879.0,
    "name": "Tibeb ENYEW",
@@ -916,7 +929,7 @@
    "score": ""
   },
   {
-   "rank": "71",
+   "rank": "72",
    "mark": "31:20",
    "seconds": 1880.0,
    "name": "Soukaina ATANANE",
@@ -929,7 +942,7 @@
    "score": ""
   },
   {
-   "rank": "72",
+   "rank": "73",
    "mark": "31:21",
    "seconds": 1881.0,
    "name": "Georgie GRGEC",
@@ -943,6 +956,19 @@
   },
   {
    "rank": "73",
+   "mark": "31:21",
+   "seconds": 1881.0,
+   "name": "Jadyn KEELER",
+   "athleteId": "14847671",
+   "birthDate": "16 JUN 2003",
+   "nat": "CAN",
+   "pos": "2",
+   "venue": "Regional Park, Miramar, FL (USA)",
+   "date": "2026-11-15",
+   "score": ""
+  },
+  {
+   "rank": "75",
    "mark": "31:25",
    "seconds": 1885.0,
    "name": "Beatrice CHEPKOECH",
@@ -955,7 +981,7 @@
    "score": ""
   },
   {
-   "rank": "74",
+   "rank": "76",
    "mark": "31:27",
    "seconds": 1887.0,
    "name": "Martha CHEMUTAI",
@@ -968,7 +994,7 @@
    "score": ""
   },
   {
-   "rank": "74",
+   "rank": "76",
    "mark": "31:27",
    "seconds": 1887.0,
    "name": "Aynalem DESTA",
@@ -981,7 +1007,7 @@
    "score": ""
   },
   {
-   "rank": "76",
+   "rank": "78",
    "mark": "31:28",
    "seconds": 1888.0,
    "name": "Abigael CHEMNAGEI",
@@ -994,7 +1020,7 @@
    "score": ""
   },
   {
-   "rank": "76",
+   "rank": "78",
    "mark": "31:28",
    "seconds": 1888.0,
    "name": "Sharon LOKEDI",
@@ -1007,7 +1033,7 @@
    "score": ""
   },
   {
-   "rank": "78",
+   "rank": "80",
    "mark": "31:29",
    "seconds": 1889.0,
    "name": "Daisilah JERONO",
@@ -1020,7 +1046,7 @@
    "score": ""
   },
   {
-   "rank": "79",
+   "rank": "81",
    "mark": "31:30",
    "seconds": 1890.0,
    "name": "Tekan BERHE",
@@ -1033,7 +1059,7 @@
    "score": ""
   },
   {
-   "rank": "79",
+   "rank": "81",
    "mark": "31:30",
    "seconds": 1890.0,
    "name": "Emmaculate JEPKOSGEI",
@@ -1046,7 +1072,7 @@
    "score": ""
   },
   {
-   "rank": "81",
+   "rank": "83",
    "mark": "31:31",
    "seconds": 1891.0,
    "name": "Isabel BARREIRO",
@@ -1059,7 +1085,7 @@
    "score": ""
   },
   {
-   "rank": "81",
+   "rank": "83",
    "mark": "31:31",
    "seconds": 1891.0,
    "name": "Rachael RUDEL",
@@ -1072,7 +1098,7 @@
    "score": ""
   },
   {
-   "rank": "81",
+   "rank": "83",
    "mark": "31:31",
    "seconds": 1891.0,
    "name": "Karoline HAUGEN",
@@ -1085,7 +1111,7 @@
    "score": ""
   },
   {
-   "rank": "84",
+   "rank": "86",
    "mark": "31:32",
    "seconds": 1892.0,
    "name": "Hannah IRWIN",
@@ -1098,7 +1124,7 @@
    "score": ""
   },
   {
-   "rank": "84",
+   "rank": "86",
    "mark": "31:32",
    "seconds": 1892.0,
    "name": "Lisa ROOMS",
@@ -1111,7 +1137,7 @@
    "score": ""
   },
   {
-   "rank": "84",
+   "rank": "86",
    "mark": "31:32",
    "seconds": 1892.0,
    "name": "Jennifer GULIKERS",
@@ -1124,7 +1150,7 @@
    "score": ""
   },
   {
-   "rank": "87",
+   "rank": "89",
    "mark": "31:33",
    "seconds": 1893.0,
    "name": "Veronica LOLEO",
@@ -1137,7 +1163,7 @@
    "score": ""
   },
   {
-   "rank": "88",
+   "rank": "90",
    "mark": "31:34",
    "seconds": 1894.0,
    "name": "Zewudie WUDU",
@@ -1150,7 +1176,7 @@
    "score": ""
   },
   {
-   "rank": "89",
+   "rank": "91",
    "mark": "31:35",
    "seconds": 1895.0,
    "name": "Maureen KOSTER",
@@ -1163,7 +1189,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "92",
    "mark": "31:37",
    "seconds": 1897.0,
    "name": "Rahel DANIEL",
@@ -1176,7 +1202,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "92",
    "mark": "31:37",
    "seconds": 1897.0,
    "name": "Gabriela DEBUES-STAFFORD",
@@ -1189,7 +1215,7 @@
    "score": ""
   },
   {
-   "rank": "90",
+   "rank": "92",
    "mark": "31:37",
    "seconds": 1897.0,
    "name": "Célia TABET",
@@ -1202,7 +1228,7 @@
    "score": ""
   },
   {
-   "rank": "93",
+   "rank": "95",
    "mark": "31:38",
    "seconds": 1898.0,
    "name": "Alicia BERZOSA",
@@ -1215,7 +1241,7 @@
    "score": ""
   },
   {
-   "rank": "93",
+   "rank": "95",
    "mark": "31:38",
    "seconds": 1898.0,
    "name": "Ilona MONONEN",
@@ -1228,7 +1254,7 @@
    "score": ""
   },
   {
-   "rank": "93",
+   "rank": "95",
    "mark": "31:38",
    "seconds": 1898.0,
    "name": "Caitlin SCOTT",
@@ -1241,7 +1267,7 @@
    "score": ""
   },
   {
-   "rank": "93",
+   "rank": "95",
    "mark": "31:38",
    "seconds": 1898.0,
    "name": "Bosena MULATIE",
@@ -1254,7 +1280,7 @@
    "score": ""
   },
   {
-   "rank": "97",
+   "rank": "99",
    "mark": "31:39",
    "seconds": 1899.0,
    "name": "Anaëlle GUILLONNET",
@@ -1267,7 +1293,7 @@
    "score": ""
   },
   {
-   "rank": "98",
+   "rank": "100",
    "mark": "31:40",
    "seconds": 1900.0,
    "name": "Samantha HARRISON",
@@ -1277,32 +1303,6 @@
    "pos": "25",
    "venue": "Valencia (ESP)",
    "date": "2026-01-11",
-   "score": ""
-  },
-  {
-   "rank": "98",
-   "mark": "31:40",
-   "seconds": 1900.0,
-   "name": "Risper CHEROP",
-   "athleteId": "15058805",
-   "birthDate": "26 MAR 2006",
-   "nat": "UGA",
-   "pos": "12",
-   "venue": "Castellón (ESP)",
-   "date": "2026-02-22",
-   "score": ""
-  },
-  {
-   "rank": "100",
-   "mark": "31:42",
-   "seconds": 1902.0,
-   "name": "Winfred Nzisa MBITHE",
-   "athleteId": "14643562",
-   "birthDate": "30 MAY 1997",
-   "nat": "KEN",
-   "pos": "4",
-   "venue": "Boston, MA (USA)",
-   "date": "2026-06-21",
    "score": ""
   }
  ]

@@ -1,0 +1,418 @@
+{
+ "id": "14825107",
+ "givenName": "Gemechu",
+ "familyName": "DIDA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-09-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:42.73",
+   "venue": "Estádio José Vieira de Carvalho, Maia (POR)",
+   "date": "23 JUN 2021",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:03.12",
+   "venue": "AIT International Arena, Athlone (IRL) (i)",
+   "date": "12 FEB 2020",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:03.12",
+   "venue": "AIT International Arena, Athlone (IRL) (i)",
+   "date": "12 FEB 2020",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:42.14",
+   "venue": "Emirates Arena, Glasgow (GBR) (i)",
+   "date": "25 FEB 2018",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:42.14",
+   "venue": "Emirates Arena, Glasgow (GBR) (i)",
+   "date": "25 FEB 2018",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:03.50",
+   "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "date": "30 JUN 2023",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:42.65",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "14 JUN 2024",
+   "resultScore": 1254,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:54",
+   "venue": "Herzogenaurach (GER)",
+   "date": "26 APR 2025",
+   "resultScore": 1236,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:39",
+   "venue": "Valencia (ESP)",
+   "date": "27 OCT 2024",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:19",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1254,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:46.09",
+   "venue": "Addis Ababa Stadium, Addis Ababa (ETH)",
+   "date": "18 APR 2026",
+   "resultScore": 1046,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Addis Ababa Grand Prix",
+   "listPosition": "682"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:42.23",
+   "venue": "Ethiopian Sport Academy, Addis Ababa (ETH)",
+   "date": "25 MAR 2026",
+   "resultScore": 1068,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ethiopian Championships",
+   "listPosition": "330"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:47",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1155,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "156"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:19",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1254,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "8"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:03:19",
+   "score": 1254,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-13",
+   "competition": "Scenic Half Marathon Krabi, Krabi",
+   "country": "THA",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "1:09:15",
+   "score": 833,
+   "competitionId": "7240167"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-13",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-18",
+   "competition": "Addis Ababa Grand Prix, Addis Ababa Stadium, Addis Ababa",
+   "country": "ETH",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "13:46.09",
+   "score": 1046,
+   "competitionId": "7239468"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-25",
+   "competition": "Ethiopian Championships, Ethiopian Sport Academy, Addis Ababa",
+   "country": "ETH",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "28:42.23",
+   "score": 1068,
+   "competitionId": "7234052"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:00:47",
+   "score": 1155,
+   "competitionId": "7235697"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "1:03:38",
+   "score": 1045,
+   "competitionId": "7237360"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "4:03.12",
+     "venue": "AIT International Arena, Athlone (IRL) (i)",
+     "date": "12 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "4:03.12",
+     "venue": "AIT International Arena, Athlone (IRL) (i)",
+     "date": "12 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "29:21",
+     "venue": "Addis Ababa (ETH)",
+     "date": "26 NOV 2017"
+    },
+    {
+     "season": "2020",
+     "mark": "29:07",
+     "venue": "Chon Buri (THA)",
+     "date": "26 JAN 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "27:19",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "27:12",
+     "venue": "Lille (FRA)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:20",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "26:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:00:51",
+     "venue": "New Delhi (IND)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "59:31",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "58:39",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "58:43",
+     "venue": "Berlin (GER)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:47",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:06:45",
+     "venue": "Valencia (ESP)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:19",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "28:52.79",
+     "date": "22 JUN 2024"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "African Games",
+     "mark": "29:45.68",
+     "date": "19 MAR 2024"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:03:19",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 31,
+   "rankingScore": 1279
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 93,
+   "rankingScore": 1152
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 173,
+   "rankingScore": 1117
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 268,
+   "rankingScore": 1279
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/gemechu-dida-14825107"
+}

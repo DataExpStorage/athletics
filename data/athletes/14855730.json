@@ -1,0 +1,256 @@
+{
+ "id": "14855730",
+ "givenName": "Geofry Toroitich",
+ "familyName": "KIPCHUMBA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2000-02-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:36",
+   "venue": "Langueux (FRA)",
+   "date": "25 JUN 2022",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "45:17",
+   "venue": "Amsterdam (NED)",
+   "date": "17 SEP 2022",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:13",
+   "venue": "Málaga (ESP)",
+   "date": "29 OCT 2023",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:30",
+   "venue": "Amsterdam (NED)",
+   "date": "19 OCT 2025",
+   "resultScore": 1251,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:57",
+   "venue": "Yangzhou (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Yangzhou Half Marathon",
+   "listPosition": "68"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:37",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1249,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "11"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-26",
+   "competition": "Gifu Half Marathon, Gifu",
+   "country": "JPN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:00:37",
+   "score": 1162,
+   "competitionId": "7236081"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "59:57",
+   "score": 1188,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:03:37",
+   "score": 1249,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "29:27",
+     "venue": "Cuiaba (BRA)",
+     "date": "12 JAN 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "27:36",
+     "venue": "Langueux (FRA)",
+     "date": "25 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "27:37",
+     "venue": "Castellón (ESP)",
+     "date": "26 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "28:00",
+     "venue": "Valencia (ESP)",
+     "date": "14 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "50:15",
+     "venue": "Vitoria (BRA)",
+     "date": "02 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "48:18",
+     "venue": "Vitoria (BRA)",
+     "date": "29 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "45:17",
+     "venue": "Amsterdam (NED)",
+     "date": "17 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "46:11",
+     "venue": "Zaandam (NED)",
+     "date": "17 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:04:05",
+     "venue": "Riyadh (KSA)",
+     "date": "05 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "59:13",
+     "venue": "Málaga (ESP)",
+     "date": "29 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:01",
+     "venue": "Praha (CZE)",
+     "date": "06 APR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "59:57",
+     "venue": "Yangzhou (CHN)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:03:30",
+     "venue": "Amsterdam (NED)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:37",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:37",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:05:46",
+     "date": "02 MAR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 7,
+   "rankingScore": 1355
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 79,
+   "rankingScore": 1355
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/geofry-toroitich-kipchumba-14855730"
+}

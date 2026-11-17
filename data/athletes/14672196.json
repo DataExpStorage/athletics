@@ -1,0 +1,403 @@
+{
+ "id": "14672196",
+ "givenName": "Dera",
+ "familyName": "DIDA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-10-26",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:15.41",
+   "venue": "Montbéliard (FRA)",
+   "date": "05 JUN 2015",
+   "resultScore": 1085,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:48.31",
+   "venue": "Stade Louis II, Monaco (MON)",
+   "date": "15 JUL 2016",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:42.84",
+   "venue": "Stadio Olimpico, Roma (ITA)",
+   "date": "02 JUN 2016",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:51.86",
+   "venue": "Hengelo (NED)",
+   "date": "17 JUL 2019",
+   "resultScore": 1200,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:24",
+   "venue": "Rennes (FRA)",
+   "date": "11 OCT 2015",
+   "resultScore": 1117,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:40",
+   "venue": "Port Gentil (GAB)",
+   "date": "23 JUN 2024",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:09",
+   "venue": "Istanbul (TUR)",
+   "date": "16 NOV 2014",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:06:24",
+   "venue": "Paris (FRA)",
+   "date": "09 OCT 2016",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:47",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "29 APR 2023",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:16:55",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:16:55",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "11"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:16:55",
+   "score": 1242,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:23:18",
+   "score": 1180,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Daegu Marathon, Daegu",
+   "country": "KOR",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235573"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "15:24",
+     "venue": "Rennes (FRA)",
+     "date": "11 OCT 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "33:00",
+     "venue": "Okpekpe (NGR)",
+     "date": "12 MAY 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "33:57",
+     "venue": "Bengaluru (IND)",
+     "date": "19 MAY 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "33:14",
+     "venue": "Addis Ababa (ETH)",
+     "date": "20 NOV 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:45",
+     "venue": "Bengaluru (IND)",
+     "date": "21 MAY 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "31:40",
+     "venue": "Port Gentil (GAB)",
+     "date": "23 JUN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:06:24",
+     "venue": "Paris (FRA)",
+     "date": "09 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:07:54",
+     "venue": "Cassis (FRA)",
+     "date": "29 OCT 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:08:06",
+     "venue": "Houston, TX (USA)",
+     "date": "15 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:09:21",
+     "venue": "Ostia (ITA)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:10:14",
+     "venue": "New Delhi (IND)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:11:17",
+     "venue": "Béjaïa (ALG)",
+     "date": "21 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:07:47",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:21:45",
+     "venue": "Dubai (UAE)",
+     "date": "26 JAN 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "2:22:52",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "2:19:24",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:19:29",
+     "venue": "Dubai (UAE)",
+     "date": "07 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:18:32",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:16:55",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "36:16",
+     "date": "30 MAR 2019"
+    },
+    {
+     "place": "2.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "41st IAAF World Cross Country Championships",
+     "mark": "19:49",
+     "date": "28 MAR 2015"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "Durban African Championships",
+     "mark": "15:15.26",
+     "date": "23 JUN 2016"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "African Games",
+     "mark": "31:58.78",
+     "date": "29 AUG 2019"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:21:08",
+     "date": "21 SEP 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:16:55",
+     "date": "27 SEP 2026"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:19:24",
+     "date": "24 SEP 2023"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "33:58.5h",
+     "date": "16 MAY 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "16:09.1h",
+     "date": "24 APR 2016"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 13,
+   "rankingScore": 1306
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 132,
+   "rankingScore": 1306
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/dera-dida-14672196"
+}

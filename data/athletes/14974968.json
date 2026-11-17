@@ -1,0 +1,235 @@
+{
+ "id": "14974968",
+ "givenName": "Diana",
+ "familyName": "WANZA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1999-02-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:16.11",
+   "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+   "date": "22 AUG 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:33.26",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:52",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1259,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:16.11",
+   "venue": "Kalinga Stadium, Bhubaneshwar (IND)",
+   "date": "22 AUG 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Silver Level Continental Tour",
+   "listPosition": "153"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:33.26",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "African Athletics Championships",
+   "listPosition": "15"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:52",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1259,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "2"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:03:52",
+   "score": 1259,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-22",
+   "competition": "World Athletics Silver Level Continental Tour, Kalinga Stadium, Bhubaneshwar",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "15:16.11",
+   "score": 1132,
+   "competitionId": "7238146"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-27",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "2",
+   "mark": "31:50.13",
+   "score": 1148,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-19",
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "B",
+   "race": "F1",
+   "place": "2",
+   "mark": "31:56.80",
+   "score": 1142,
+   "competitionId": "7241942"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-15",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "31:33.26",
+   "score": 1163,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-24",
+   "competition": "Kip Keino Classic, Nyayo National Stadium, Nairobi - National Events",
+   "country": "KEN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "15:28.91",
+   "score": 1108,
+   "competitionId": "7233226"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-10",
+   "competition": "Trials For World Athletics Relay Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "32:12.1h",
+   "score": 1128,
+   "competitionId": "7237873"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-21",
+   "competition": "33 Azkoitia-Azpeitia international Half marathon, Diego Garcia Memorial, Azpeitia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:07:31",
+   "score": 1181,
+   "competitionId": "7237365"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:03:52",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "31:33.26",
+     "date": "15 MAY 2026"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "XXIII Commonwealth Games",
+     "mark": "31:50.13",
+     "date": "27 JUL 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 18,
+   "rankingScore": 1220
+  },
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 148,
+   "rankingScore": 1116
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 321,
+   "rankingScore": 1246
+  }
+ ],
+ "representative": {
+  "name": "Idris HAMUD",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.mojasportsmanagement.co.uk"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/diana-wanza-14974968"
+}

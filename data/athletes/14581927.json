@@ -1,0 +1,359 @@
+{
+ "id": "14581927",
+ "givenName": "Shure",
+ "familyName": "DEMISE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-01-21",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:14.25",
+   "venue": "Durban (RSA)",
+   "date": "25 JUN 2016",
+   "resultScore": 1127,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:52",
+   "venue": "Addis Ababa (ETH)",
+   "date": "17 NOV 2024",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "51:56",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2014",
+   "resultScore": 1036,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:11:03",
+   "venue": "Rabat (MAR)",
+   "date": "07 APR 2013",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:17",
+   "venue": "Roma (ITA)",
+   "date": "06 MAR 2022",
+   "resultScore": 1156,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:53",
+   "venue": "Ostia (ITA)",
+   "date": "02 MAR 2014",
+   "resultScore": 1141,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:34",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:34",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Schneider Electric Marathon de Paris",
+   "listPosition": "19"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:22:33",
+   "score": 1177,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:18:34",
+   "score": 1226,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "12",
+   "mark": "33:33",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "32:52",
+     "venue": "Addis Ababa (ETH)",
+     "date": "17 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "51:56",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "1:11:03",
+     "venue": "Rabat (MAR)",
+     "date": "07 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:11:22",
+     "venue": "Warszawa (POL)",
+     "date": "30 MAR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:13:47",
+     "venue": "Bogotá (COL)",
+     "date": "26 JUL 2015"
+    },
+    {
+     "season": "2017",
+     "mark": "1:11:28",
+     "venue": "Yangzhou (CHN)",
+     "date": "23 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:13:01",
+     "venue": "Göteborg (SWE)",
+     "date": "19 MAY 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:20:59",
+     "venue": "Dubai (UAE)",
+     "date": "23 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:25:04",
+     "venue": "Tokyo (JPN)",
+     "date": "28 FEB 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:22:57",
+     "venue": "Dubai (UAE)",
+     "date": "20 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:22:07",
+     "venue": "Tokyo (JPN)",
+     "date": "25 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:21:05",
+     "venue": "Tokyo (JPN)",
+     "date": "03 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:27:42",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:24:43",
+     "venue": "Berlin (GER)",
+     "date": "26 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:30:46",
+     "venue": "Seoul (KOR)",
+     "date": "17 APR 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "2:21:03",
+     "venue": "Toronto (CAN)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:18:34",
+     "venue": "Paris (FRA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:27:58",
+     "date": "06 AUG 2017"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "12.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "46th World Athletics Cross Country Championships",
+     "mark": "33:33",
+     "date": "10 JAN 2026"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "10,000 Metres",
+     "competition": "Durban African Championships",
+     "mark": "32:14.25",
+     "date": "25 JUN 2016"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:21:05",
+     "date": "03 MAR 2019"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Chicago Marathon",
+     "mark": "2:22:15",
+     "date": "07 OCT 2018"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:24:43",
+     "date": "26 SEP 2021"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:25:04",
+     "date": "28 FEB 2016"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:27:14",
+     "date": "20 APR 2015"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "33:24.5h",
+     "date": "20 APR 2016"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 30,
+   "rankingScore": 1266
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 237,
+   "rankingScore": 1266
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/shure-demise-14581927"
+}

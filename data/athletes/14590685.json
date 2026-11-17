@@ -1,0 +1,346 @@
+{
+ "id": "14590685",
+ "givenName": "Alexander",
+ "familyName": "MUNYAO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1996-09-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:56.86",
+   "venue": "Donetsk (UKR)",
+   "date": "14 JUL 2013",
+   "resultScore": 1074,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:21.90",
+   "venue": "Kumamoto (JPN)",
+   "date": "02 APR 2016",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:23.03",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "13 NOV 2021",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:35",
+   "venue": "Praha (CZE)",
+   "date": "03 SEP 2022",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "57:59",
+   "venue": "Valencia (ESP)",
+   "date": "06 DEC 2020",
+   "resultScore": 1269,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:11",
+   "venue": "Valencia (ESP)",
+   "date": "03 DEC 2023",
+   "resultScore": 1257,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:24",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "B.A.A. 10K",
+   "listPosition": "252"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:51",
+   "venue": "Tokyo (JPN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Legacy Half Marathon 2026",
+   "listPosition": "59"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:38",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1248,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "12"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Tokyo Legacy Half Marathon 2026, Tokyo",
+   "country": "JPN",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "59:51",
+   "score": 1192,
+   "competitionId": "7242303"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "6",
+   "mark": "28:24",
+   "score": 1095,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:03:38",
+   "score": 1248,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "27:35",
+     "venue": "Praha (CZE)",
+     "date": "03 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "27:48",
+     "venue": "Praha (CZE)",
+     "date": "02 SEP 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "28:24",
+     "venue": "Boston, MA (USA)",
+     "date": "21 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:00:59",
+     "venue": "Ichinoseki (JPN)",
+     "date": "18 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:00:57",
+     "venue": "Gifu (JPN)",
+     "date": "23 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:11",
+     "venue": "København (DEN)",
+     "date": "16 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:01:10",
+     "venue": "Sendai (JPN)",
+     "date": "12 MAY 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "57:59",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "59:20",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "58:48",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "59:17",
+     "venue": "Marugame (JPN)",
+     "date": "05 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "59:37",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:16",
+     "venue": "Marugame (JPN)",
+     "date": "02 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:51",
+     "venue": "Tokyo (JPN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:03:29",
+     "venue": "Valencia (ESP)",
+     "date": "04 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:03:11",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:04:01",
+     "venue": "London (GBR)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:04:20",
+     "venue": "London (GBR)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:38",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U18 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World Youth Championships",
+     "mark": "7:56.86",
+     "date": "14 JUL 2013"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:04:01",
+     "date": "21 APR 2024"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:08:09",
+     "date": "02 NOV 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:38",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:04:20",
+     "date": "27 APR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 24,
+   "rankingScore": 1291
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 92,
+   "rankingScore": 1152
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 180,
+   "rankingScore": 1115
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 226,
+   "rankingScore": 1291
+  }
+ ],
+ "representative": {
+  "name": "Davor SAVIJA",
+  "country": "Serbia",
+  "website": "www.ikaikasports.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/alexander-munyao-14590685"
+}
