@@ -1,0 +1,317 @@
+{
+ "id": "14794838",
+ "givenName": "Tebello",
+ "familyName": "RAMAKONGOANA",
+ "country": "LES",
+ "countryName": "Lesotho",
+ "birthDate": "1996-10-13",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:14.17",
+   "venue": "National Stadium, Gaborone (BOT)",
+   "date": "30 APR 2022",
+   "resultScore": 953,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:34.75",
+   "venue": "National Stadium, Gaborone (BOT)",
+   "date": "16 MAY 2021",
+   "resultScore": 991,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:58",
+   "venue": "Boston, MA (USA)",
+   "date": "13 APR 2024",
+   "resultScore": 1006,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:45",
+   "venue": "Durban (RSA)",
+   "date": "14 NOV 2021",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:39",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "01 MAR 2025",
+   "resultScore": 1093,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:17",
+   "venue": "Two Harbors to Duluth,, Duluth, MN (USA)",
+   "date": "22 JUN 2024",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:11:59",
+   "venue": "Kolkata (IND)",
+   "date": "21 DEC 2025",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:18",
+   "venue": "Xiamen (CHN)",
+   "date": "05 JAN 2025",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:18",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:18",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:04:57",
+   "score": 1212,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:04:18",
+   "score": 1217,
+   "competitionId": "7235561"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "13:58",
+     "venue": "Boston, MA (USA)",
+     "date": "13 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "28:45",
+     "venue": "Durban (RSA)",
+     "date": "14 NOV 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "45:40",
+     "venue": "Durban (RSA)",
+     "date": "11 DEC 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "43:39",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "01 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:03:52",
+     "venue": "Port Elizabeth (RSA)",
+     "date": "28 JUL 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:03:21",
+     "venue": "Port Elizabeth (RSA)",
+     "date": "27 JUL 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:01:23",
+     "venue": "Gqeberha (RSA)",
+     "date": "04 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:35",
+     "venue": "Gqeberha (RSA)",
+     "date": "03 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:17",
+     "venue": "Two Harbors to Duluth,, Duluth, MN (USA)",
+     "date": "22 JUN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:11:59",
+     "venue": "Kolkata (IND)",
+     "date": "21 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:10:24",
+     "venue": "Cape Town (RSA)",
+     "date": "17 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:12:35",
+     "venue": "Autzen Complex, Eugene, OR (USA)",
+     "date": "17 JUL 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:09:57",
+     "venue": "Hősök tere, Budapest (HUN)",
+     "date": "27 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:58",
+     "venue": "Stade de France, Paris (FRA)",
+     "date": "10 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:18",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "2:07:58",
+     "date": "10 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Budapest 2023",
+     "mark": "2:09:57",
+     "date": "27 AUG 2023"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:04:18",
+     "date": "20 APR 2026"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:07:19",
+     "date": "21 APR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 29,
+   "rankingScore": 1281
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 263,
+   "rankingScore": 1281
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/lesotho/tebello-ramakongoana-14794838"
+}

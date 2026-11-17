@@ -1,0 +1,498 @@
+{
+ "id": "14181700",
+ "givenName": "Dawit",
+ "familyName": "WOLDE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1991-05-19",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:48.92",
+   "venue": "Liège (BEL)",
+   "date": "15 JUL 2015",
+   "resultScore": 1057,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres",
+   "mark": "1:47.4h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "10 MAY 2012",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:33.82",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "27 MAY 2012",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "3:37.95",
+   "venue": "Düsseldorf (GER) (i)",
+   "date": "10 FEB 2012",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:54.02",
+   "venue": "Athlone (IRL) (i)",
+   "date": "17 FEB 2016",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "3:54.02",
+   "venue": "Athlone (IRL) (i)",
+   "date": "17 FEB 2016",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:41.69",
+   "venue": "Emirates Arena, Glasgow (GBR) (i)",
+   "date": "20 FEB 2016",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:41.69",
+   "venue": "Emirates Arena, Glasgow (GBR) (i)",
+   "date": "20 FEB 2016",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:10.13",
+   "venue": "Heusden-Zolder (BEL)",
+   "date": "22 JUL 2017",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:48.66",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "23 JUN 2023",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:20",
+   "venue": "Rennes (FRA)",
+   "date": "13 OCT 2013",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:55",
+   "venue": "Madrid (ESP)",
+   "date": "02 JUN 2024",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:47",
+   "venue": "Heerenberg (NED)",
+   "date": "02 DEC 2012",
+   "resultScore": 1085,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "59:32",
+   "venue": "Marseille (FRA)",
+   "date": "28 OCT 2012",
+   "resultScore": 1063,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:58",
+   "venue": "Den Haag (NED)",
+   "date": "08 MAR 2020",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:48",
+   "venue": "Valencia (ESP)",
+   "date": "03 DEC 2023",
+   "resultScore": 1245,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:58",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "225"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:41",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-06",
+   "competition": "Shenyang Marathon, Shenyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7238739"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:06:41",
+   "score": 1180,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "The 36th Dalian Marathon, Dalian",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7236080"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "22",
+   "mark": "2:07:58",
+   "score": 1167,
+   "competitionId": "7236397"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:09:18",
+   "score": 1143,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "3:57.48",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "01 JUN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "3:54.51",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "01 JUN 2013"
+    },
+    {
+     "season": "2016",
+     "mark": "3:54.02",
+     "venue": "Athlone (IRL) (i)",
+     "date": "17 FEB 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "3:54.02",
+     "venue": "Athlone (IRL) (i)",
+     "date": "17 FEB 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "28:45",
+     "venue": "Rennes (FRA)",
+     "date": "14 OCT 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "28:20",
+     "venue": "Rennes (FRA)",
+     "date": "13 OCT 2013"
+    },
+    {
+     "season": "2015",
+     "mark": "28:54",
+     "venue": "Des Moines, IA (USA)",
+     "date": "26 APR 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "43:47",
+     "venue": "Heerenberg (NED)",
+     "date": "02 DEC 2012"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "59:32",
+     "venue": "Marseille (FRA)",
+     "date": "28 OCT 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "1:03:59",
+     "venue": "Cassis (FRA)",
+     "date": "27 OCT 2013"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "1:00:46",
+     "venue": "Egmond aan Zee (NED)",
+     "date": "08 JAN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "1:04:29",
+     "venue": "Valencia (ESP)",
+     "date": "20 OCT 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:02:30",
+     "venue": "Porto (POR)",
+     "date": "14 SEP 2014"
+    },
+    {
+     "season": "2018",
+     "mark": "1:02:05",
+     "venue": "The Hague (NED)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "59:58",
+     "venue": "Den Haag (NED)",
+     "date": "08 MAR 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:26",
+     "venue": "Bogotá (COL)",
+     "date": "30 JUL 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:06",
+     "venue": "Gifu (JPN)",
+     "date": "27 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "2:10:42",
+     "venue": "Enschede (NED)",
+     "date": "27 APR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:10:04",
+     "venue": "Marrakech (MAR)",
+     "date": "25 JAN 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "2:23:27",
+     "venue": "Hong Kong (HKG)",
+     "date": "21 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:06:18",
+     "venue": "Praha (CZE)",
+     "date": "05 MAY 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:04:27",
+     "venue": "Rotterdam (NED)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "2:03:48",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:10:53",
+     "venue": "Chicago, IL (USA)",
+     "date": "13 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:06",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:58",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Indoor Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "1500 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "3:44.81",
+     "date": "20 MAR 2016"
+    }
+   ]
+  },
+  {
+   "category": "World U18 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "1500 Metres",
+     "competition": "Ostrava IAAF World Youth Championships",
+     "mark": "3:45.03",
+     "date": "15 JUL 2007"
+    }
+   ]
+  },
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "1500 Metres",
+     "competition": "Ouagadougou African Junior Championships",
+     "mark": "3:46.71",
+     "date": "12 AUG 2007"
+    },
+    {
+     "place": "3.",
+     "discipline": "1500 Metres",
+     "competition": "Bambous African Junior Championships",
+     "mark": "3:41.24",
+     "date": "31 JUL 2009"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 36,
+   "rankingScore": 1274
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 293,
+   "rankingScore": 1274
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/dawit-wolde-14181700"
+}

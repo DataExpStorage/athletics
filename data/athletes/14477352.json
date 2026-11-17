@@ -1,0 +1,508 @@
+{
+ "id": "14477352",
+ "givenName": "Hagos",
+ "familyName": "GEBRHIWET",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-05-11",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:30.36",
+   "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+   "date": "10 MAY 2013",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:32.87",
+   "venue": "Reggie Lewis Center, Boston, MA (USA) (i)",
+   "date": "02 FEB 2013",
+   "resultScore": 1247,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:36.73",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "30 MAY 2024",
+   "resultScore": 1296,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:48.95",
+   "venue": "Hengelo (NED)",
+   "date": "17 JUL 2019",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "12:58",
+   "venue": "Al Khobar (KSA)",
+   "date": "14 DEC 2024",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:15",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:57",
+   "venue": "Madrid (ESP)",
+   "date": "31 DEC 2011",
+   "resultScore": 1091,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "57:41",
+   "venue": "Valencia (ESP)",
+   "date": "22 OCT 2023",
+   "resultScore": 1281,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:56",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:15",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "B.A.A. 10K",
+   "listPosition": "206"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:05",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1265,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks",
+   "listPosition": "4"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:56",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "17",
+   "mark": "2:10:56",
+   "score": 1102,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "22",
+   "mark": "41:33",
+   "score": 213,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "28:15",
+   "score": 1109,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-15",
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "58:05",
+   "score": 1265,
+   "competitionId": "7237513"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "13:14",
+     "venue": "Carlsbad, CA (USA)",
+     "date": "01 APR 2012"
+    },
+    {
+     "season": "2017",
+     "mark": "13:42",
+     "venue": "Boston, MA (USA)",
+     "date": "15 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "13:42",
+     "venue": "Boston, MA (USA)",
+     "date": "14 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "13:42",
+     "venue": "Boston, MA (USA)",
+     "date": "13 APR 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "12:59",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "12:58",
+     "venue": "Al Khobar (KSA)",
+     "date": "14 DEC 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "28:37",
+     "venue": "Addis Ababa (ETH)",
+     "date": "25 NOV 2012"
+    },
+    {
+     "season": "2018",
+     "mark": "28:55",
+     "venue": "Addis Ababa (ETH)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "29:49",
+     "venue": "Trieste (ITA)",
+     "date": "18 OCT 2020"
+    },
+    {
+     "season": "2026",
+     "mark": "28:15",
+     "venue": "Boston, MA (USA)",
+     "date": "21 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:01:46",
+     "venue": "New Delhi (IND)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "57:41",
+     "venue": "Valencia (ESP)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "58:05",
+     "venue": "Barcelona (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "The XXXI Olympic Games",
+     "mark": "13:04.35",
+     "date": "20 AUG 2016"
+    },
+    {
+     "place": "5.",
+     "discipline": "5000 Metres",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "13:15.32",
+     "date": "10 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "13:27.26",
+     "date": "16 AUG 2013"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "13:51.86",
+     "date": "29 AUG 2015"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics Championships, Budapest 2023",
+     "mark": "13:12.65",
+     "date": "27 AUG 2023"
+    },
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "27:11.37",
+     "date": "06 OCT 2019"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League Final",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Weltklasse Zürich",
+     "mark": "13:14.82",
+     "date": "01 SEP 2016"
+    }
+   ]
+  },
+  {
+   "category": "World Indoor Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "8:15.76",
+     "date": "04 MAR 2018"
+    },
+    {
+     "place": "5.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "7:56.34",
+     "date": "09 MAR 2014"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5 Kilometres Road",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "12:59",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "40th IAAF World Cross Country Championships",
+     "mark": "21:04",
+     "date": "24 MAR 2013"
+    },
+    {
+     "place": "4.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "41st IAAF World Cross Country Championships",
+     "mark": "35:15",
+     "date": "28 MAR 2015"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "African Games",
+     "mark": "13:38.12",
+     "date": "22 MAR 2024"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Golden Gala",
+     "mark": "12:51.07",
+     "date": "30 AUG 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Oslo Bislett Games",
+     "mark": "12:36.73",
+     "date": "30 MAY 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Herculis Meeting International d’Athlétisme EBS",
+     "mark": "12:42.18",
+     "date": "21 JUL 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Müller Anniversary Games",
+     "mark": "13:01.86",
+     "date": "20 JUL 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "BAUHAUS-galan",
+     "mark": "27:01.02",
+     "date": "30 MAY 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Weltklasse Zürich",
+     "mark": "13:14.82",
+     "date": "01 SEP 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Oslo ExxonMobil Bislett Games",
+     "mark": "13:07.70",
+     "date": "09 JUN 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Doha IAAF Diamond League",
+     "mark": "7:38.08",
+     "date": "15 MAY 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Glasgow British Athletics Grand Prix",
+     "mark": "13:11.09",
+     "date": "11 JUL 2014"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "New York adidas Grand Prix",
+     "mark": "13:10.03",
+     "date": "25 MAY 2013"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Doha IAAF Diamond League Meeting",
+     "mark": "7:30.36",
+     "date": "10 MAY 2013"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Shanghai Samsung Diamond League",
+     "mark": "13:11.00",
+     "date": "19 MAY 2012"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 141,
+   "rankingScore": 1187
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1031,
+   "rankingScore": 1193
+  }
+ ],
+ "representative": {
+  "name": "Angel CARVAJAL",
+  "country": "Spain",
+  "website": "https://www.pinedasport.com/"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/hagos-gebrhiwet-14477352"
+}

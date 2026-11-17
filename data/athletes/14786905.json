@@ -1,0 +1,406 @@
+{
+ "id": "14786905",
+ "givenName": "Rodrigue",
+ "familyName": "KWIZERA",
+ "country": "BDI",
+ "countryName": "Burundi",
+ "birthDate": "1999-10-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:52.52",
+   "venue": "Barcelona (ESP)",
+   "date": "14 MAY 2022",
+   "resultScore": 955,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:37.37",
+   "venue": "Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",
+   "date": "14 JUN 2023",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:38.97",
+   "venue": "Estadio de Larrabide, Pamplona (ESP)",
+   "date": "14 JUN 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:04.57",
+   "venue": "Montesson (FRA)",
+   "date": "10 JUN 2023",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:25.47",
+   "venue": "Estádio José Vieira de Carvalho, Maia (POR)",
+   "date": "04 JUN 2022",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:11",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "29 APR 2023",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:54",
+   "venue": "Herzogenaurach (GER)",
+   "date": "26 APR 2025",
+   "resultScore": 1236,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:01",
+   "venue": "Madrid (ESP)",
+   "date": "31 MAY 2026",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:03",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1266,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:38.97",
+   "venue": "Estadio de Larrabide, Pamplona (ESP)",
+   "date": "14 JUN 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Spanish Clubs Championships Division Honor Liga Joma-Final",
+   "listPosition": "73"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:15",
+   "venue": "Praha (CZE)",
+   "date": "05 SEP 2026",
+   "resultScore": 1202,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Prague 10K Night Race",
+   "listPosition": "14"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:01",
+   "venue": "Madrid (ESP)",
+   "date": "31 MAY 2026",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Madrid Vintage Run by Total Energies"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:03",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1266,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "3"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Cross Country",
+   "date": "2026-11-15",
+   "competition": "32 \"Campo A Traves\" Internacional De Soria, Monte Valonsadero, Soria - XC 8.0km",
+   "country": "ESP",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "23:49",
+   "score": 0,
+   "competitionId": "7243496"
+  },
+  {
+   "discipline": "Cross Country",
+   "date": "2026-11-08",
+   "competition": "XLIV Cross Internacional de Itálica, Conjunto arqueológico de Itálica, Sevilla - XC 9.55km",
+   "country": "ESP",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "27:37",
+   "score": 0,
+   "competitionId": "7242994"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "58:03",
+   "score": 1266,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-05",
+   "competition": "Prague 10K Night Race, Praha",
+   "country": "CZE",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "27:15",
+   "score": 1202,
+   "competitionId": "7236035"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-06-14",
+   "competition": "Spanish Clubs Championships Division Honor Liga Joma-Final, Estadio de Larrabide, Pamplona",
+   "country": "ESP",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "7:38.97",
+   "score": 1183,
+   "competitionId": "7239438"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Madrid Vintage Run by Total Energies, Madrid",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "26:01",
+   "score": 1235,
+   "competitionId": "7243787"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-24",
+   "competition": "European Champion Clubs Cup - Track&Field Senior, Pistes d'atletisme Gaetà Huguet, Castellón",
+   "country": "ESP",
+   "category": "D",
+   "race": "F",
+   "place": "2",
+   "mark": "8:05.07",
+   "score": 1026,
+   "competitionId": "7239065"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-23",
+   "competition": "Bjørndalenmila, Simostranda, Åmot - Elite Event",
+   "country": "NOR",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "27:46",
+   "score": 1153,
+   "competitionId": "7240238"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "27:31",
+   "score": 1177,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-28",
+   "competition": "Generali Prague Half Marathon, Praha",
+   "country": "CZE",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "58:16",
+   "score": 1257,
+   "competitionId": "7236038"
+  },
+  {
+   "discipline": "Cross Country",
+   "date": "2026-02-08",
+   "competition": "49.º Cross Internacional das Amendoeiras em Flor, Pista de Cross das Açoteias, Albufeira - XC 9.28 km",
+   "country": "POR",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "27:19",
+   "score": 0,
+   "competitionId": "7235414"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "13:11",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "29:31",
+     "venue": "Ibiza (ESP)",
+     "date": "07 DEC 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "26:56",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "27:04",
+     "venue": "Valencia (ESP)",
+     "date": "15 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:07",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "26:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:15",
+     "venue": "Praha (CZE)",
+     "date": "05 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "1:01:53",
+     "venue": "Barcelona (ESP)",
+     "date": "02 FEB 2020"
+    },
+    {
+     "season": "2025",
+     "mark": "58:38",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "58:03",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Budapest 2023",
+     "mark": "28:00.29",
+     "date": "20 AUG 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "44th World Athletics Cross Country Championships",
+     "mark": "30:06",
+     "date": "18 FEB 2023"
+    },
+    {
+     "place": "10.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "32:37",
+     "date": "30 MAR 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Cross Country",
+   "place": 2,
+   "rankingScore": 1200
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 4,
+   "rankingScore": 1281
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 262,
+   "rankingScore": 1281
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/burundi/rodrigue-kwizera-14786905"
+}

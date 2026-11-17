@@ -1,0 +1,395 @@
+{
+ "id": "14585818",
+ "givenName": "Sutume Asefa",
+ "familyName": "KEBEDE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-12-11",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:09.56",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "08 JUN 2021",
+   "resultScore": 1184,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:11",
+   "venue": "Berlin (GER)",
+   "date": "11 OCT 2015",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:35",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2015",
+   "resultScore": 1107,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:06:49",
+   "venue": "Lausanne (SUI)",
+   "date": "26 APR 2015",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:37",
+   "venue": "Houston, TX (USA)",
+   "date": "14 JAN 2024",
+   "resultScore": 1243,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:18:47",
+   "venue": "Kolkata (IND)",
+   "date": "17 DEC 2023",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:15:55",
+   "venue": "Tokyo (JPN)",
+   "date": "03 MAR 2024",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:17:39",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "15"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:17:39",
+   "score": 1235,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "31:11",
+     "venue": "Berlin (GER)",
+     "date": "11 OCT 2015"
+    },
+    {
+     "season": "2019",
+     "mark": "37:09",
+     "venue": "Okpekpe (NGR)",
+     "date": "25 MAY 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "32:31",
+     "venue": "Telese Terme (ITA)",
+     "date": "20 JUN 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "31:25",
+     "venue": "Lille (FRA)",
+     "date": "18 NOV 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "49:35",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:06:49",
+     "venue": "Lausanne (SUI)",
+     "date": "26 APR 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "1:22:14",
+     "venue": "Göteborg (SWE)",
+     "date": "18 MAY 2013"
+    },
+    {
+     "season": "2015",
+     "mark": "1:08:47",
+     "venue": "København (DEN)",
+     "date": "13 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:18:03",
+     "venue": "Bogotá (COL)",
+     "date": "31 JUL 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:08:40",
+     "venue": "Karlovy Vary (CZE)",
+     "date": "20 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:07:54",
+     "venue": "Milano (ITA)",
+     "date": "25 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:09:05",
+     "venue": "København (DEN)",
+     "date": "15 SEP 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:04:37",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:21:55",
+     "venue": "Berlin (GER)",
+     "date": "10 MAY 2015"
+    },
+    {
+     "season": "2023",
+     "mark": "1:18:47",
+     "venue": "Kolkata (IND)",
+     "date": "17 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:19:21",
+     "venue": "Kolkata (IND)",
+     "date": "15 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:20:28",
+     "venue": "Kolkata (IND)",
+     "date": "21 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:24:00",
+     "venue": "Dubai (UAE)",
+     "date": "22 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:29:26",
+     "venue": "Toronto (CAN)",
+     "date": "22 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:29:45",
+     "venue": "Ljubljana (SLO)",
+     "date": "28 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:23:31",
+     "venue": "Beijing (CHN)",
+     "date": "03 NOV 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:20:30",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "2:18:12",
+     "venue": "Seoul (KOR)",
+     "date": "17 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:26:49",
+     "venue": "Chicago, IL (USA)",
+     "date": "08 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:15:55",
+     "venue": "Tokyo (JPN)",
+     "date": "03 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:16:31",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:17:39",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:16:31",
+     "date": "02 MAR 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:15:55",
+     "date": "03 MAR 2024"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:17:32",
+     "date": "13 OCT 2024"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:20:30",
+     "date": "01 MAR 2020"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:17:39",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:20:44",
+     "date": "02 OCT 2022"
+    }
+   ]
+  },
+  {
+   "category": "International Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:16:31",
+     "date": "02 MAR 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:15:55",
+     "date": "03 MAR 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 36,
+   "rankingScore": 1252
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 288,
+   "rankingScore": 1252
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/sutume-asefa-kebede-14585818"
+}

@@ -1,0 +1,291 @@
+{
+ "id": "15155359",
+ "givenName": "Kamohelo",
+ "familyName": "MOFOLO",
+ "country": "LES",
+ "countryName": "Lesotho",
+ "birthDate": "2005-11-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:34.02",
+   "venue": "Scotstoun Stadium, Glasgow (GBR)",
+   "date": "01 AUG 2026",
+   "resultScore": 1088,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:01.00",
+   "venue": "Scotstoun Stadium, Glasgow (GBR)",
+   "date": "28 JUL 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:47",
+   "venue": "Durban (RSA)",
+   "date": "13 JUL 2025",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:52",
+   "venue": "Pollock Beach, Gqeberha (RSA)",
+   "date": "29 JUN 2025",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:26",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:34.02",
+   "venue": "Scotstoun Stadium, Glasgow (GBR)",
+   "date": "01 AUG 2026",
+   "resultScore": 1088,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XXIII Commonwealth Games",
+   "listPosition": "358"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:01.00",
+   "venue": "Scotstoun Stadium, Glasgow (GBR)",
+   "date": "28 JUL 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XXIII Commonwealth Games",
+   "listPosition": "96"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:25",
+   "venue": "Marine Park, Gqeberha (RSA)",
+   "date": "01 MAR 2026",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "ABSA Run Yor City 10K",
+   "listPosition": "257"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:26",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "112"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:06:26",
+   "score": 1196,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-01",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "13",
+   "mark": "13:34.02",
+   "score": 1088,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-28",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "9",
+   "mark": "28:01.00",
+   "score": 1130,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "11",
+   "mark": "2:08:50",
+   "score": 1151,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-21",
+   "competition": "Maseru International Meet, Setsoto Stadium, Maseru",
+   "country": "LES",
+   "category": "D",
+   "race": "F",
+   "place": "1",
+   "mark": "28:59.67",
+   "score": 1042,
+   "competitionId": "7237411"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-01",
+   "competition": "ABSA Run Yor City 10K, Marine Park, Gqeberha",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "4",
+   "mark": "28:25",
+   "score": 1094,
+   "competitionId": "7237188"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-01-17",
+   "competition": "All Comers Meet - Maseru, Setsoto Stadium, Maseru",
+   "country": "LES",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "14:16.52",
+   "score": 945,
+   "competitionId": "7235610"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "30:40",
+     "venue": "Durban (RSA)",
+     "date": "10 JUL 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "28:33",
+     "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+     "date": "07 JUL 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "27:47",
+     "venue": "Durban (RSA)",
+     "date": "13 JUL 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "28:25",
+     "venue": "Marine Park, Gqeberha (RSA)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:04:06",
+     "venue": "Pollock Beach, Gqeberha (RSA)",
+     "date": "01 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:52",
+     "venue": "Pollock Beach, Gqeberha (RSA)",
+     "date": "29 JUN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:06:26",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:06:26",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 81,
+   "rankingScore": 1150
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 89,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 95,
+   "rankingScore": 1151
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 722,
+   "rankingScore": 1214
+  }
+ ],
+ "representative": {
+  "name": "James MC KIRDY",
+  "country": "United States",
+  "website": "https://www.mckirdytrained.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/lesotho/kamohelo-mofolo-15155359"
+}
