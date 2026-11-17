@@ -36,6 +36,7 @@ jobs:
           python fetch_calendar.py
           python fetch_results.py
           python fetch_toplists.py
+          python update_focus.py
           python fetch_athletes.py
       - name: Commit data
         if: github.event_name != 'push'

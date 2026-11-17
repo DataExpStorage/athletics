@@ -634,6 +634,24 @@
     ['World Cross Country Championships', 'World Cross Country Championships']];
   var FEATURED = ['Marathon', 'Half Marathon', '10 Kilometres Road'];
 
+  // why an athlete is in focus: "In focus for 2026: 1st TCS London Marathon; #1 marathon list"
+  function focusReason(r) {
+    if (r.kind === 'race') {
+      var race = raceById[r.raceId];
+      var place = r.place ? r.place + ({ 1: 'st', 2: 'nd', 3: 'rd' }[r.place % 10] && (r.place < 11 || r.place > 13) ? { 1: 'st', 2: 'nd', 3: 'rd' }[r.place % 10] : 'th') : '';
+      return place + ' ' + (race ? raceLink(race) : 'race') + (race && race.distance === 'multi' && r.event ? ' (' + esc(r.event) + ')' : '');
+    }
+    var m = /^(.*)-(women|men)$/.exec(r.list || '');
+    return '#' + esc(r.rank) + ' ' + (m ? distName(m[1]).toLowerCase() : esc(r.list)) + ' list (' + esc(r.mark) + ')';
+  }
+  function focusLine(id) {
+    var f = (D.focus || {})[id];
+    if (!f || !f.length) return '';
+    return '<p class="focus-line">' + f.slice().sort(function (a, b) { return b.season - a.season; }).map(function (s) {
+      return '<span><b>In focus for ' + s.season + (s.final === true ? ' (final list)' : s.final === false ? ' (not on the final list)' : '') + ':</b> ' +
+        s.reasons.slice(0, 4).map(focusReason).join('; ') + (s.reasons.length > 4 ? '; and ' + (s.reasons.length - 4) + ' more' : '') + '</span>';
+    }).join('<br>') + '</p>';
+  }
   function viewAthlete(id) {
     if (!known[id]) return Promise.resolve(notFound());
     var k = known[id];
@@ -646,7 +664,7 @@
       var name = full ? (a.givenName || '') + ' ' + (a.familyName || '') : k.name;
       var age = /^\d{4}-/.test(a.birthDate || '') ? Math.floor((Date.parse(TODAY) - Date.parse(a.birthDate)) / 31557600000) : null;
       var html = '<a class="back" href="#/" data-back>← Back</a><div class="ath-head"><h1>' + esc(name) + '</h1>' + shoeHeader(id) + '</div><p class="sub">' + esc(a.countryName || a.country || k.nat) +
-        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>';
+        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>' + focusLine(id);
       if (!full) {
         var best = [];
         Object.keys(D.toplists).forEach(function (key) {
@@ -672,9 +690,11 @@
       }
       left += '</div>';
       if ((D.frozenProfiles || []).indexOf(id) >= 0) {
-        html += '<p class="notice">This profile is no longer updated. It was last read on ' + fmtDate(a.fetched, true) +
-          '. Career details, world ranking and team may be out of date; the priority race results on this page are still current. ' +
-          'Profiles are kept up to date for top finishers of the priority races and the leaders of the season lists.</p>';
+        var seasons = (D.focus[id] || []).map(function (f) { return f.season; });
+        html += '<p class="notice">This profile is no longer updated. It was last read on ' + fmtDate(a.fetched, true) + '. ' +
+          (seasons.length ? 'The athlete was last among the athletes in focus in ' + Math.max.apply(null, seasons) + ' and did not meet the criteria again. '
+            : 'The athlete has not been among the athletes in focus. ') +
+          'Career details, world ranking and team may be out of date; the priority race results on this page are still current.</p>';
       }
       html += teamBlock(id);
       var right = appsCard(id);

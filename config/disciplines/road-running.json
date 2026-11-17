@@ -42,13 +42,14 @@
  "athlete_max_per_run": 12,
  "athlete_request_interval_seconds": 6,
  "profile_rule": {
-  "_about": "Which athletes get a profile: the top N finishers per event, by kind of race, and the top N of each season list. For championships, only the listed distances count.",
+  "_about": "Who is in focus for a season (scripts/update_focus.py): the top N finishers per event by kind of race (for championships, only the listed distances), and the top N of each season list with a mark better than the N-th mark of the same list in the previous season. Profiles are kept up to date for the previous season's final list and everyone on the current season's list.",
   "major_top": 10,
   "platinum_top": 5,
   "gold_top": 3,
   "championship_top": {
    "half-marathon": 10
   },
-  "toplist_top": 20
+  "toplist_top": 20,
+  "toplist_threshold": "previous-season-20th"
  }
 }

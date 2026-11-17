@@ -145,3 +145,6 @@ table.honours tbody tr.grp:first-child th { padding-top: 6px; }
 /* external links: marked with an arrow, so they take the colour of the surrounding text */
 a[target="_blank"] { color: inherit; }
 a[target="_blank"]:hover { text-decoration: underline; }
+
+.focus-line { margin: -8px 0 16px; font-size: 13.5px; color: var(--ink-2); }
+.focus-line b { color: var(--ink); font-weight: 600; }

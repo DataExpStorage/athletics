@@ -418,6 +418,57 @@ def check_links(c):
             c.fail("no athlete profile with this id")
 
 
+def check_focus(c):
+    """data/focus/<season>.json: the yearly lists of athletes in focus. A closed list
+    must never change again."""
+    import subprocess
+    for path in sorted(glob.glob(os.path.join(ROOT, "data", "focus", "*"))):
+        name = os.path.basename(path)
+        c.where = "data/focus/" + name
+        if not re.match(r"^\d{4}\.json$", name):
+            c.fail("unexpected file name (expected e.g. 2026.json)")
+            continue
+        doc = load(c, path)
+        if not isinstance(doc, dict):
+            continue
+        if str(doc.get("season")) != name[:-5]:
+            c.fail("season does not match the file name")
+        if not isinstance(doc.get("closed"), bool):
+            c.fail("closed must be true or false")
+        athletes = doc.get("athletes")
+        if not isinstance(athletes, dict):
+            c.fail("athletes must be an object")
+            continue
+        for aid, e in athletes.items():
+            if not re.match(r"^[1-9]\d{0,11}$", aid):
+                c.fail("athlete id %r is not a number without leading zero" % aid)
+            if not isinstance(e, dict) or not isinstance(e.get("reasons"), list) or not e["reasons"]:
+                c.fail("athlete %s has no reasons" % aid)
+                continue
+            for r in e["reasons"] + (e.get("finalReasons") or []):
+                if not isinstance(r, dict) or r.get("kind") not in ("race", "toplist"):
+                    c.fail("athlete %s has a reason of unknown kind" % aid)
+                elif r["kind"] == "race" and not isinstance(r.get("raceId"), int):
+                    c.fail("athlete %s has a race reason without a race id" % aid)
+        if doc.get("closed"):
+            final = doc.get("final")
+            if not isinstance(final, list) or not set(final) <= set(athletes):
+                c.fail("a closed list needs a final list drawn from its athletes")
+            rel = "data/focus/" + name
+            try:
+                old = subprocess.run(["git", "show", "HEAD:" + rel], cwd=ROOT, stdout=subprocess.PIPE,
+                                     stderr=subprocess.PIPE)
+            except OSError:
+                continue  # no git here: cannot compare
+            if old.returncode == 0:
+                try:
+                    before = json.loads(old.stdout.decode("utf-8"))
+                except ValueError:
+                    before = None
+                if isinstance(before, dict) and before.get("closed") and before != doc:
+                    c.fail("this list was closed and must not change")
+
+
 CHECKS = {
     "prize_money": check_prize_money,
     "agencies": check_agencies,
@@ -428,8 +479,9 @@ CHECKS = {
     "newsletters": check_newsletters,
     "fetched": check_fetched,
     "links": check_links,
+    "focus": check_focus,
 }
-ORDER = ("fetched", "prize_money", "agencies", "entries", "reports", "team", "news", "newsletters", "links")
+ORDER = ("fetched", "focus", "prize_money", "agencies", "entries", "reports", "team", "news", "newsletters", "links")
 
 
 def check(kinds=None):

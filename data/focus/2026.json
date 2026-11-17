@@ -1,0 +1,6282 @@
+{
+ "season": 2026,
+ "closed": false,
+ "athletes": {
+  "14181700": {
+   "name": "Dawit WOLDE",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14193865": {
+   "name": "Richard RINGER",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "14269741": {
+   "name": "Volha MAZURONAK",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14275729": {
+   "name": "Eilish MCCOLGAN",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 17,
+     "mark": "30:08",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14276523": {
+   "name": "Calli HAUGER-THACKERY",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14288936": {
+   "name": "Irine Chepet CHEPTAI",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-02-08"
+    }
+   ]
+  },
+  "14288983": {
+   "name": "Philomena CHEYECH",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14289137": {
+   "name": "Edna Ngeringwony KIPLAGAT",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14289156": {
+   "name": "Sheila CHEPKIRUI",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236072,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14289264": {
+   "name": "Linet Chepkwemoi MASAI",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14289351": {
+   "name": "Priscah Jepleting CHERONO",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14289475": {
+   "name": "Mary NGUGI-COOPER",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 14,
+     "mark": "2:17:23",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14305595": {
+   "name": "Sara HALL",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14321386": {
+   "name": "Emily SISSON",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "14326294": {
+   "name": "Mare DIBABA",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14329379": {
+   "name": "Marta GALIMANY",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14335575": {
+   "name": "Joyce Chepkemoi TELE",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14335825": {
+   "name": "Jessica MCCLAIN",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 7,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14372181": {
+   "name": "Violah CHEPTOO",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14375137": {
+   "name": "Bashir ABDI",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14375882": {
+   "name": "Margaret Chelimo KIPKEMBOI",
+   "since": "2026-10-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "14383158": {
+   "name": "Shitaye ESHETE",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14383846": {
+   "name": "Biruktayit DEGEFA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14388506": {
+   "name": "Tigst ASSEFA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 2,
+     "mark": "2:11:04",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14390193": {
+   "name": "Fabienne KÖNIGSTEIN",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14413304": {
+   "name": "Esther CHEMTAI",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14413330": {
+   "name": "Othmane EL GOUMRI",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 10,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 4,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 4,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "14423680": {
+   "name": "Geoffrey KAMWOROR",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-02-14"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 9,
+     "mark": "58:14",
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14423913": {
+   "name": "Eunice Chebichii CHUMBA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14424921": {
+   "name": "Hellen OBIRI",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 6,
+     "mark": "2:15:53",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14425858": {
+   "name": "Naomi CHEPNGENO",
+   "since": "2026-10-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "14428737": {
+   "name": "Afewerk MESFIN",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14436833": {
+   "name": "Rose CHELIMO",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14437533": {
+   "name": "Solomon Kirwa YEGO",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 5,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14438913": {
+   "name": "Asefa MENGSTU",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14441541": {
+   "name": "Mustapha HOUDADI",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14441904": {
+   "name": "Natsuki OMORI",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236072,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14448453": {
+   "name": "Ellie PASHLEY",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14460738": {
+   "name": "Andreas ALMGREN",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 3,
+     "mark": "26:45",
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 5,
+     "mark": "58:06",
+     "date": "2026-09-20"
+    }
+   ]
+  },
+  "14464195": {
+   "name": "Brillian Jepkorir KIPKOECH",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 12,
+     "mark": "2:17:05",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14464196": {
+   "name": "Buze DIRIBA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 8,
+     "mark": "2:16:12",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14464203": {
+   "name": "Stella CHESANG",
+   "since": "2026-01-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235936,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-25"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "14464221": {
+   "name": "Muktar EDRIS",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14472843": {
+   "name": "Magdalyne MASAI",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14473176": {
+   "name": "Emmanuel ROUDOLFF LEVISSE",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14477333": {
+   "name": "Tigist GASHAW",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14477352": {
+   "name": "Hagos GEBRHIWET",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-02-15"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 4,
+     "mark": "58:05",
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14477373": {
+   "name": "Haftamnesh TESFAYE",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14477377": {
+   "name": "Roman GIDEY",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14479236": {
+   "name": "Selah BUSIENEI",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14485673": {
+   "name": "Carrie ELLWOOD",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14487535": {
+   "name": "Alphonce Felix SIMBU",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-02-08"
+    }
+   ]
+  },
+  "14509843": {
+   "name": "Mekuant AYENEW",
+   "since": "2026-05-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "14513998": {
+   "name": "Yemaneberhan CRIPPA",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 7,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14515907": {
+   "name": "Glenrose XABA",
+   "since": "2026-04-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-04-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "14519260": {
+   "name": "Isobel BATT-DOYLE",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14524534": {
+   "name": "Victor KIPCHIRCHIR",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-03-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 5,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14526495": {
+   "name": "Kidsan ALEMA",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14528844": {
+   "name": "Yann SCHRUB",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 2,
+     "mark": "26:43",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14530653": {
+   "name": "Gladys CHEPKURUI",
+   "since": "2026-03-29",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "14534530": {
+   "name": "Ruti AGA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14534819": {
+   "name": "Axumawit EMBAYE",
+   "since": "2026-06-28",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 2,
+     "date": "2026-06-28"
+    }
+   ]
+  },
+  "14534952": {
+   "name": "Shuangshuang XU",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14555208": {
+   "name": "Melaku BELACHEW",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14566477": {
+   "name": "Tadese WORKU",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 4,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 14,
+     "mark": "58:32",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14573513": {
+   "name": "Ali KAYA",
+   "since": "2026-04-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-04-19"
+    }
+   ]
+  },
+  "14577962": {
+   "name": "Yihunilign ADANE",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14577963": {
+   "name": "Zouhair TALBI",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14581927": {
+   "name": "Shure DEMISE",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-04-12"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 19,
+     "mark": "2:18:34",
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14584604": {
+   "name": "Haimro ALAME",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14585136": {
+   "name": "Iliass AOUANI",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14585615": {
+   "name": "Mercy Jerop KWAMBAI",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14585818": {
+   "name": "Sutume Asefa KEBEDE",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 15,
+     "mark": "2:17:39",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14589459": {
+   "name": "Tamirat TOLA",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-16"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 7,
+     "mark": "2:02:59",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14590678": {
+   "name": "Lilian Kasait RENGERUK",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14590680": {
+   "name": "Loice CHEMNUNG",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-02-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-06-28"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 4,
+     "mark": "1:04:01",
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14590685": {
+   "name": "Alexander MUNYAO",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 12,
+     "mark": "2:03:38",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14590877": {
+   "name": "Paige WOOD",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14593390": {
+   "name": "Muluhabt TSEGA",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-16"
+    }
+   ]
+  },
+  "14593938": {
+   "name": "Peres JEPCHIRCHIR",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14594119": {
+   "name": "Sayaka SATO",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236072,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14594967": {
+   "name": "Yomif KEJELCHA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 1,
+     "mark": "56:51",
+     "date": "2026-08-23"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 2,
+     "mark": "1:59:41",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14605811": {
+   "name": "Klara LUKAN",
+   "since": "2026-04-18",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 8,
+     "mark": "29:51",
+     "date": "2026-04-18"
+    }
+   ]
+  },
+  "14609456": {
+   "name": "Christian PACHECO",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14613273": {
+   "name": "Yeshi Kalayu CHEKOLE",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14615181": {
+   "name": "Asbel KIPLIMO",
+   "since": "2026-11-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 5,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "14625896": {
+   "name": "Merhawi KESETE",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14629097": {
+   "name": "Guye Idemo ADOLA",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-04-12"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 5,
+     "mark": "2:02:50",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14635616": {
+   "name": "Getaneh MOLLA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14639731": {
+   "name": "Lemi BERHANU",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 10,
+     "mark": "2:03:33",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14642902": {
+   "name": "Mahamed MAHAMED",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14643341": {
+   "name": "Ahmed MUHUMED",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14645612": {
+   "name": "Joshua CHEPTEGEI",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-02-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 11,
+     "mark": "58:26",
+     "date": "2026-09-20"
+    }
+   ]
+  },
+  "14657138": {
+   "name": "Leonard LANGAT",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14661449": {
+   "name": "Thierry NDIKUMWENAYO",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 7,
+     "mark": "58:09",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14663881": {
+   "name": "Cuomu CIREN",
+   "since": "2026-05-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-05-24"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14666137": {
+   "name": "Silas TOO",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14672196": {
+   "name": "Dera DIDA",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 11,
+     "mark": "2:16:55",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14672593": {
+   "name": "Ai HOSODA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14675188": {
+   "name": "Workenesh EDESA",
+   "since": "2026-01-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235936,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-25"
+    }
+   ]
+  },
+  "14677692": {
+   "name": "Gabriel Gerald GEAY",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 17,
+     "mark": "2:03:59",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14677914": {
+   "name": "Esther CHEBET",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 10,
+     "date": "2026-09-19"
+    }
+   ]
+  },
+  "14679812": {
+   "name": "Fotyen TESFAY",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 3,
+     "mark": "1:03:57",
+     "date": "2026-08-23"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 1,
+     "mark": "2:10:51",
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14679817": {
+   "name": "Seifu TURA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14684778": {
+   "name": "Sharon LOKEDI",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 4,
+     "mark": "2:14:07",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14686449": {
+   "name": "Mao UESUGI",
+   "since": "2026-01-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235936,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-01-25"
+    }
+   ]
+  },
+  "14690376": {
+   "name": "Ibrahim HASSAN",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14693199": {
+   "name": "Clayton YOUNG",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14694013": {
+   "name": "Amos KIPRUTO",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 4,
+     "mark": "2:01:09",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14695983": {
+   "name": "Birhanu BALEW",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-02-14"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 10,
+     "mark": "58:23",
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14699428": {
+   "name": "Meseret ABEBAYAHAU",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 4,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14700830": {
+   "name": "Nadia BATTOCLETTI",
+   "since": "2026-04-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 17,
+     "mark": "30:08",
+     "date": "2026-04-04"
+    }
+   ]
+  },
+  "14701622": {
+   "name": "Peter LYNCH",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14702479": {
+   "name": "Meizhen LI",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-03-22"
+    }
+   ]
+  },
+  "14704113": {
+   "name": "Jana VAN LENT",
+   "since": "2026-01-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 20,
+     "mark": "30:10",
+     "date": "2026-01-04"
+    }
+   ]
+  },
+  "14704912": {
+   "name": "Rhonzas Lokitam KILIMO",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 4,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14704913": {
+   "name": "Joyciline JEPKOSGEI",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 7,
+     "mark": "2:15:55",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14706109": {
+   "name": "Santiago CATROFE",
+   "since": "2026-03-29",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 4,
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "14707661": {
+   "name": "Peruth CHEMUTAI",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 10,
+     "mark": "29:57",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14708277": {
+   "name": "Emma Grace HURLEY",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 5,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14708966": {
+   "name": "Jesca CHELANGAT",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 18,
+     "mark": "1:05:29",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14708978": {
+   "name": "Nicholas KIPKORIR",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-02-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 6,
+     "mark": "58:08",
+     "date": "2026-03-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 13,
+     "mark": "2:03:39",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14714493": {
+   "name": "Bedatu HIRPA",
+   "since": "2026-01-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235936,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-25"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 10,
+     "mark": "2:16:53",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14719677": {
+   "name": "Rika KASEDA",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236072,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14730723": {
+   "name": "Shura KITATA",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 17,
+     "mark": "2:03:59",
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14730790": {
+   "name": "Brigid KOSGEI",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 5,
+     "mark": "2:14:29",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14731840": {
+   "name": "Magdalena SHAURI",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14732971": {
+   "name": "Tsegaye GETACHEW",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14733441": {
+   "name": "Shifera TAMRU",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14735365": {
+   "name": "Jacob KIPLIMO",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 2,
+     "mark": "57:20",
+     "date": "2026-03-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 3,
+     "mark": "2:00:28",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14736859": {
+   "name": "Annie FRISBIE",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "14739729": {
+   "name": "Tigist GIRMA",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-16"
+    }
+   ]
+  },
+  "14745128": {
+   "name": "Haftu STRINTZOS",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14746654": {
+   "name": "Moses KIBET",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14747887": {
+   "name": "Mikuni YADA",
+   "since": "2026-01-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235936,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-01-25"
+    }
+   ]
+  },
+  "14748107": {
+   "name": "Tafere ADISU",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14748876": {
+   "name": "Kuftu TAHIR",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14750322": {
+   "name": "Rose HARVEY",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14751317": {
+   "name": "Selemon BAREGA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14751322": {
+   "name": "Fantu WORKU",
+   "since": "2026-11-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "14752711": {
+   "name": "Ying LU",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14754273": {
+   "name": "Azmera ABREHA",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14754378": {
+   "name": "Yuhei URANO",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14755131": {
+   "name": "Julia PATERNAIN",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14757121": {
+   "name": "Haftu TEKLU",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "14757695": {
+   "name": "Jemal MEKONEN",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 19,
+     "mark": "58:55",
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14758189": {
+   "name": "Agnes Jebet NGETICH",
+   "since": "2026-04-04",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 1,
+     "mark": "28:58",
+     "date": "2026-04-04"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 7,
+     "mark": "1:04:23",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14758190": {
+   "name": "Dolphine Nyaboke OMARE",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14758213": {
+   "name": "Benson KIPRUTO",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14761963": {
+   "name": "Caroline Makandi GITONGA",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 4,
+     "mark": "29:34",
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 12,
+     "mark": "1:04:59",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14763752": {
+   "name": "Kalipus LOMWAI",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14763753": {
+   "name": "Ezra Kipchumba KERING",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14765559": {
+   "name": "Akira AKASAKI",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14765899": {
+   "name": "Bekelech GUDETA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14767711": {
+   "name": "Medina Deme ARMINO",
+   "since": "2026-05-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-05-24"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14768868": {
+   "name": "Sisay Meseret GOLA",
+   "since": "2026-03-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-03-22"
+    }
+   ]
+  },
+  "14774179": {
+   "name": "Tesfaye DERIBA",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14776630": {
+   "name": "Ryan FORD",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14780436": {
+   "name": "Shadrack KIMINING",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14783730": {
+   "name": "Ivyne JERUTO",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14784005": {
+   "name": "Bernard WAMBUA",
+   "since": "2026-10-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "14785042": {
+   "name": "Degitu AZIMERAW",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14785774": {
+   "name": "Tadu ABATE",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14786619": {
+   "name": "Hani Idriss HERSI",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 6,
+     "date": "2026-09-19"
+    }
+   ]
+  },
+  "14786742": {
+   "name": "Hawi FEYSA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 3,
+     "mark": "2:13:33",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14786747": {
+   "name": "Wede KEFALE",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 4,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-11-15"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 9,
+     "mark": "29:55",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14786830": {
+   "name": "Bayelign TESHAGER",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14786905": {
+   "name": "Rodrigue KWIZERA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 3,
+     "mark": "58:03",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14788972": {
+   "name": "Tesfaye Lencho ANBESA",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14792211": {
+   "name": "Dominic Lokinyomo LOBALU",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14794838": {
+   "name": "Tebello RAMAKONGOANA",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14798170": {
+   "name": "Samwel Chebolei MASAI",
+   "since": "2026-03-28",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 17,
+     "mark": "58:48",
+     "date": "2026-03-28"
+    }
+   ]
+  },
+  "14798255": {
+   "name": "Catherine Reline AMANANG'OLE",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 16,
+     "mark": "1:05:11",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  "14800831": {
+   "name": "Andamlak BELIHU",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14802641": {
+   "name": "Stanley Waithaka MBURU",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14805798": {
+   "name": "Milkesa MENGESHA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 5,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 15,
+     "mark": "2:03:46",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14805826": {
+   "name": "Hirut MESHESHA",
+   "since": "2026-04-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 14,
+     "mark": "30:05",
+     "date": "2026-04-04"
+    }
+   ]
+  },
+  "14808803": {
+   "name": "Joan KILIMO",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 20,
+     "mark": "2:18:39",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14808815": {
+   "name": "Faith CHERONO",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 15,
+     "mark": "30:06",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14811361": {
+   "name": "Amid Fozya JEMAL",
+   "since": "2026-03-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14812861": {
+   "name": "Nicholas KIRWA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14813827": {
+   "name": "Vincent Kipkemoi NGETICH",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "14815683": {
+   "name": "Megertu ALEMU",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 5,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14816253": {
+   "name": "Haven Hailu DESSE",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "14816982": {
+   "name": "Deresa GELETA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 9,
+     "mark": "2:03:23",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14817923": {
+   "name": "Evaline CHIRCHIR",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14818691": {
+   "name": "Anahi ALVAREZ",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14820095": {
+   "name": "Pascalia CHEPKOGEI",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 9,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14822331": {
+   "name": "Chernet MISGANAW",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14823019": {
+   "name": "Hillary KIPKOECH",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14823331": {
+   "name": "Mestawut FIKIR",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14823795": {
+   "name": "Meseret BELETE",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 16,
+     "mark": "2:18:06",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14825107": {
+   "name": "Gemechu DIDA",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 8,
+     "mark": "2:03:19",
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14828354": {
+   "name": "Ftaw ZERAY",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 8,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-04-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-02-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 17,
+     "mark": "1:05:12",
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14829139": {
+   "name": "Alex Chesiro MASAI",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "14833335": {
+   "name": "Sabastian Kimaru SAWE",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 1,
+     "mark": "1:59:30",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14833593": {
+   "name": "Mohammed EL YOUSSFI",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14833909": {
+   "name": "Vincent MAURI",
+   "since": "2026-10-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14839997": {
+   "name": "Alemtsehay ASEFA",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14840778": {
+   "name": "Nibret MELAK",
+   "since": "2026-02-01",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 20,
+     "mark": "2:04:00",
+     "date": "2026-02-01"
+    }
+   ]
+  },
+  "14845463": {
+   "name": "John KORIR",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "14847931": {
+   "name": "Kennedy KIMUTAI",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 9,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14847987": {
+   "name": "Francis Kipkorir LANGAT",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14848725": {
+   "name": "Alemitu TARIKU",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14848732": {
+   "name": "Tsigie GEBRESELAMA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 8,
+     "mark": "1:04:48",
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14848733": {
+   "name": "Girmawit GEBRZIHAIR",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 12,
+     "mark": "30:02",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14848746": {
+   "name": "Ejgayehu TAYE",
+   "since": "2026-05-17",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 6,
+     "mark": "1:04:22",
+     "date": "2026-05-17"
+    }
+   ]
+  },
+  "14848748": {
+   "name": "Mizan ALEM",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 10,
+     "mark": "1:04:53",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14849583": {
+   "name": "Janeth Nyiva MUTUNGI",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14855730": {
+   "name": "Geofry Toroitich KIPCHUMBA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 11,
+     "mark": "2:03:37",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14858600": {
+   "name": "Gideon Kipkertich RONO",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 5,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-02-14"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 15,
+     "mark": "58:38",
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14861880": {
+   "name": "Aberu AYANA",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14862415": {
+   "name": "Wuga HE",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14863334": {
+   "name": "Ezra Kipketer TANUI",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235570,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14863951": {
+   "name": "Balew YIHUNLE",
+   "since": "2026-08-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14874368": {
+   "name": "Mercy CHELANGAT",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14877184": {
+   "name": "Weini KELATI FREZGHI",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 6,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-11-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14877871": {
+   "name": "Likina AMEBAW",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 3,
+     "mark": "29:29",
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 15,
+     "mark": "1:05:07",
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "14878325": {
+   "name": "Meseret DINKE",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14884801": {
+   "name": "Charles HICKS",
+   "since": "2026-04-20",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 8,
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14884936": {
+   "name": "Aminet AHMED",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-04-12"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 10,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14889023": {
+   "name": "Kebebush YISMA",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14892079": {
+   "name": "Boniface MULWA",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14892498": {
+   "name": "Purity Kajuju GITONGA",
+   "since": "2026-04-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-04-19"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 13,
+     "mark": "30:04",
+     "date": "2026-06-07"
+    }
+   ]
+  },
+  "14894746": {
+   "name": "Tadese TAKELE",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 6,
+     "mark": "2:02:56",
+     "date": "2026-10-11"
+    }
+   ]
+  },
+  "14895741": {
+   "name": "Samuel LOMOI",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14896244": {
+   "name": "Tigist GEZAHAGN",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-01-16"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14907588": {
+   "name": "Nigsti HAFTU",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235568,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14913520": {
+   "name": "Peiyou FENG",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "14913625": {
+   "name": "Jinhu MAO",
+   "since": "2026-03-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-03-22"
+    }
+   ]
+  },
+  "14914204": {
+   "name": "Sila KIPTOO",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "14915503": {
+   "name": "Agnes Mwikali MUTUKU",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "14916366": {
+   "name": "Daniel Simiu EBENYO",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 9,
+     "date": "2026-09-19"
+    }
+   ]
+  },
+  "14916367": {
+   "name": "Daniel MATEIKO",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 13,
+     "mark": "58:30",
+     "date": "2026-08-23"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 14,
+     "mark": "2:03:44",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14918707": {
+   "name": "Megan KEITH",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 16,
+     "mark": "30:07",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14919315": {
+   "name": "Habtom SAMUEL",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14919620": {
+   "name": "Patrick MOSIN",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236081,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 16,
+     "mark": "2:03:58",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14919658": {
+   "name": "Oqbe Kibrom RUESOM",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14920350": {
+   "name": "Philimon Kiptoo KIPCHUMBA",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14920360": {
+   "name": "Gilbert KIBET",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 10,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14921807": {
+   "name": "Bosena MULATIE",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14921809": {
+   "name": "Hailemaryam KIROS",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235561,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-04-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14922353": {
+   "name": "Kolole MEKASHU",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235589,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14923869": {
+   "name": "Chimdessa DEBELE",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "14923882": {
+   "name": "Melknat WUDU",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "14932836": {
+   "name": "Adane KEBEDE",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235560,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14943206": {
+   "name": "Asrar HIYRDEN",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "marathon-men",
+     "rank": 17,
+     "mark": "2:03:59",
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "14950023": {
+   "name": "Ryota KONDO",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "14950779": {
+   "name": "Tiantian LIANG",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14964832": {
+   "name": "Enock ONCHARI",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235593,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "14966719": {
+   "name": "Fatima Ezzahra BIRDAHA",
+   "since": "2026-09-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 9,
+     "date": "2026-09-19"
+    }
+   ]
+  },
+  "14974968": {
+   "name": "Diana WANZA",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 2,
+     "mark": "1:03:52",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "14975265": {
+   "name": "Bertukan WELDE",
+   "since": "2026-03-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236397,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-03-01"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 9,
+     "mark": "2:16:36",
+     "date": "2026-03-01"
+    }
+   ]
+  },
+  "14975463": {
+   "name": "Patrick Kiptoo KIPROP",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14976253": {
+   "name": "Marcela ALVAREZ",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 5,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "14977271": {
+   "name": "Rui MA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "14977672": {
+   "name": "Fentaye BELAYNEH",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236794,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 9,
+     "mark": "1:04:49",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14989875": {
+   "name": "Gilbert Kipkosgei KIPROTICH",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 3,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 20,
+     "mark": "58:59",
+     "date": "2026-03-08"
+    }
+   ]
+  },
+  "14989897": {
+   "name": "Brenda JEPCHIRCHIR",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 2,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 2,
+     "mark": "29:25",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "14989935": {
+   "name": "Filex Kibet MASAI",
+   "since": "2026-06-28",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 3,
+     "date": "2026-06-28"
+    }
+   ]
+  },
+  "14996573": {
+   "name": "Ludwina CHEPNGETICH",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "14999707": {
+   "name": "Rebbeca Sirwanei TANUI",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 17,
+     "mark": "2:18:25",
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "15002391": {
+   "name": "Gerba DIBABA",
+   "since": "2026-05-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235588,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "15005374": {
+   "name": "Ayinadis TESHOME",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 5,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "15008615": {
+   "name": "Boki DIRIBA",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235563,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-10-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-16"
+    }
+   ]
+  },
+  "15008619": {
+   "name": "Aamelmal TAGEL",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 5,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "15009589": {
+   "name": "Aynalem DESTA",
+   "since": "2026-03-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236072,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-03-08"
+    },
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 3,
+     "date": "2026-06-28"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 13,
+     "mark": "2:17:06",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15010432": {
+   "name": "Anchinalu DESSIE",
+   "since": "2026-02-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235591,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "toplist",
+     "list": "marathon-women",
+     "rank": 18,
+     "mark": "2:18:31",
+     "date": "2026-02-01"
+    }
+   ]
+  },
+  "15018129": {
+   "name": "Samwel Nyamai MAILU",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15019004": {
+   "name": "Miriam CHEBET",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 17,
+     "mark": "30:08",
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 20,
+     "mark": "1:05:39",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15021643": {
+   "name": "Adela HONORATO",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 4,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15024106": {
+   "name": "Asmarech ANLEY",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237781,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-02-14"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 5,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "15028742": {
+   "name": "Fikrte WERETA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 8,
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  "15035985": {
+   "name": "Fridah NDINDA",
+   "since": "2026-05-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241271,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 3,
+     "date": "2026-05-30"
+    }
+   ]
+  },
+  "15036075": {
+   "name": "Catherine CHEROTICH",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235571,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "15040766": {
+   "name": "Veronica LOLEO",
+   "since": "2026-03-29",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 19,
+     "mark": "1:05:35",
+     "date": "2026-03-29"
+    }
+   ]
+  },
+  "15041291": {
+   "name": "Asayech AYICHEW",
+   "since": "2026-03-07",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 11,
+     "mark": "30:01",
+     "date": "2026-03-07"
+    }
+   ]
+  },
+  "15046190": {
+   "name": "Senayet GETACHEW",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 11,
+     "mark": "1:04:57",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15048801": {
+   "name": "Benard KIPKORIR",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "15049168": {
+   "name": "Kasanesh BAZE",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "15056477": {
+   "name": "Kemal HUSEN",
+   "since": "2026-03-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235574,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-03-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235594,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "15058748": {
+   "name": "Nibret KINDE",
+   "since": "2026-10-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 8,
+     "mark": "27:02",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  "15068854": {
+   "name": "Isaia Kipkoech LASOI",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237360,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 11,
+     "mark": "58:26",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  "15069501": {
+   "name": "Challa GOSSA",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235592,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15071402": {
+   "name": "Gladys KWAMBOKA",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 13,
+     "mark": "1:05:02",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15079802": {
+   "name": "Ayele TADESSE",
+   "since": "2026-10-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 10,
+     "mark": "27:10",
+     "date": "2026-10-04"
+    }
+   ]
+  },
+  "15084878": {
+   "name": "Derartu HAILU",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "15087316": {
+   "name": "Charles Mbatha MATATA",
+   "since": "2026-04-19",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-04-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 18,
+     "mark": "58:52",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15092325": {
+   "name": "Daisilah JERONO",
+   "since": "2026-02-08",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 4,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237869,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 2,
+     "date": "2026-02-08"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 5,
+     "mark": "1:04:11",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15098714": {
+   "name": "Florence NIYONKURU",
+   "since": "2026-04-26",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-04-26"
+    }
+   ]
+  },
+  "15105333": {
+   "name": "Diniya ABARAYA",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237513,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-02-15"
+    }
+   ]
+  },
+  "15113613": {
+   "name": "Addisu GOBENA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235562,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 7,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235579,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-08-30"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "15113614": {
+   "name": "Gideon KIPROTICH",
+   "since": "2026-10-24",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236427,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-10-24"
+    }
+   ]
+  },
+  "15115357": {
+   "name": "Vincent RONOH",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "15115390": {
+   "name": "Boaz KIPKEMEI",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "15117582": {
+   "name": "Nelvin JEPKEMBOI",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 5,
+     "mark": "29:45",
+     "date": "2026-02-22"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 14,
+     "mark": "1:05:06",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  "15118094": {
+   "name": "Biniam MEHARY",
+   "since": "2026-04-18",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 5,
+     "mark": "26:55",
+     "date": "2026-04-18"
+    }
+   ]
+  },
+  "15119269": {
+   "name": "Chaltu DIDA",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 3,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 7,
+     "mark": "29:50",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15122982": {
+   "name": "Asefa BOKI",
+   "since": "2026-01-16",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235566,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-01-16"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 6,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "15123187": {
+   "name": "Qing ZHU",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235935,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "15126593": {
+   "name": "Silas SENCHURA",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 6,
+     "mark": "26:58",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15138312": {
+   "name": "Harbert KIBET",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236016,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 2,
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 1,
+     "mark": "26:39",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15142601": {
+   "name": "Gojjam TSEGAYE",
+   "since": "2026-01-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235567,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-01-18"
+    }
+   ]
+  },
+  "15146580": {
+   "name": "Benard Kibet MURKOMEN",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236073,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-03-15"
+    }
+   ]
+  },
+  "15149838": {
+   "name": "Alex Nzioka MATATA",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7204187,
+     "level": "championship",
+     "event": "Men's Half Marathon",
+     "place": 8,
+     "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235575,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235697,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236079,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-04-19"
+    }
+   ]
+  },
+  "15155359": {
+   "name": "Kamohelo MOFOLO",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235564,
+     "level": "major",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "15156595": {
+   "name": "Khairi BEJIGA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 4,
+     "mark": "26:51",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "15156763": {
+   "name": "Mekides SHIMELES",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235576,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "15182754": {
+   "name": "Brian Kibor AKOTIR",
+   "since": "2026-06-28",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 2,
+     "date": "2026-06-28"
+    }
+   ]
+  },
+  "15186305": {
+   "name": "Biniyam MELAK",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 10,
+     "mark": "27:10",
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15190907": {
+   "name": "Misgane ALEMAYEHU",
+   "since": "2026-04-12",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 7,
+     "date": "2026-09-27"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235597,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 2,
+     "date": "2026-04-12"
+    }
+   ]
+  },
+  "15193093": {
+   "name": "Ablelom MARYO",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235565,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 4,
+     "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235590,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "15193094": {
+   "name": "Sufaro WOLIYI",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235569,
+     "level": "platinum",
+     "event": "Men's Marathon",
+     "place": 5,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 2,
+     "date": "2026-11-01"
+    }
+   ]
+  },
+  "15205628": {
+   "name": "Cynthia Chelangat CHEPKWONY",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 3,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15207175": {
+   "name": "Pasacline JELAGAT",
+   "since": "2026-09-27",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235580,
+     "level": "major",
+     "event": "Women's Marathon",
+     "place": 6,
+     "date": "2026-09-27"
+    }
+   ]
+  },
+  "15208108": {
+   "name": "Victor KIPRUTO",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 8,
+     "mark": "58:12",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15221351": {
+   "name": "Sheila CHEPKIRUI",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236005,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-10-25"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-women",
+     "rank": 1,
+     "mark": "1:03:51",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15221548": {
+   "name": "Cornelius Kipkosgei KONOR",
+   "since": "2026-04-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 9,
+     "mark": "27:06",
+     "date": "2026-04-04"
+    }
+   ]
+  },
+  "15221550": {
+   "name": "Laban Kiptoo KOSGEI",
+   "since": "2026-04-04",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-men",
+     "rank": 7,
+     "mark": "26:59",
+     "date": "2026-04-04"
+    }
+   ]
+  },
+  "15228441": {
+   "name": "Tiringo MULU",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235581,
+     "level": "platinum",
+     "event": "Women's Marathon",
+     "place": 4,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15245388": {
+   "name": "Baraky REDAE",
+   "since": "2026-11-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Women's Half Marathon",
+     "place": 4,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "15248966": {
+   "name": "Clare NDIWA",
+   "since": "2026-01-11",
+   "reasons": [
+    {
+     "kind": "toplist",
+     "list": "10km-women",
+     "rank": 6,
+     "mark": "29:49",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  "15259823": {
+   "name": "Emanuel DINDAY",
+   "since": "2026-02-22",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235573,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-02-22"
+    }
+   ]
+  },
+  "15260968": {
+   "name": "Wudinesh ALEMU",
+   "since": "2026-10-18",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236424,
+     "level": "gold",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  "15265929": {
+   "name": "Owen KORIR",
+   "since": "2026-06-28",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7239719,
+     "level": "gold",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-06-28"
+    },
+    {
+     "kind": "toplist",
+     "list": "half-marathon-men",
+     "rank": 16,
+     "mark": "58:42",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  "15316222": {
+   "name": "Kephar Lumbasi NAMUTALA",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Men's Marathon",
+     "place": 3,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "15324192": {
+   "name": "Getaw WGAGEN",
+   "since": "2026-02-14",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235572,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-02-14"
+    }
+   ]
+  },
+  "15326866": {
+   "name": "Alex LENALEPISHO",
+   "since": "2026-11-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 3,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "15328406": {
+   "name": "Silnat BITWE",
+   "since": "2026-05-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241271,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-05-30"
+    }
+   ]
+  },
+  "15328407": {
+   "name": "Mahait KASAHWU",
+   "since": "2026-05-30",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241271,
+     "level": "gold",
+     "event": "Women's 10 Kilometres Road",
+     "place": 2,
+     "date": "2026-05-30"
+    }
+   ]
+  },
+  "15339126": {
+   "name": "Aliyi KASIM",
+   "since": "2026-11-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7241749,
+     "level": "platinum",
+     "event": "Men's Half Marathon",
+     "place": 2,
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  "15356108": {
+   "name": "Diribe HİRKO",
+   "since": "2026-11-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7235596,
+     "level": "gold",
+     "event": "Women's Marathon",
+     "place": 3,
+     "date": "2026-11-01"
+    }
+   ]
+  }
+ },
+ "thresholds": {
+  "10km-men": {
+   "mark": "27:12",
+   "from": 2025
+  },
+  "10km-women": {
+   "mark": "30:31",
+   "from": 2025
+  },
+  "half-marathon-men": {
+   "mark": "59:20",
+   "from": 2025
+  },
+  "half-marathon-women": {
+   "mark": "1:06:28",
+   "from": 2025
+  },
+  "marathon-men": {
+   "mark": "2:04:37",
+   "from": 2025
+  },
+  "marathon-women": {
+   "mark": "2:19:26",
+   "from": 2025
+  }
+ },
+ "updated": "2026-11-17"
+}

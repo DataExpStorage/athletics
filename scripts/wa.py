@@ -162,8 +162,16 @@ def config():
     return cfg
 
 
+def today_date():
+    """Today, or the date in ATHLETICS_TODAY (YYYY-MM-DD) to try the rules on another day."""
+    override = os.environ.get("ATHLETICS_TODAY")
+    if override:
+        return datetime.datetime.strptime(override, "%Y-%m-%d").date()
+    return datetime.date.today()
+
+
 def today():
-    return datetime.date.today().isoformat()
+    return today_date().isoformat()
 
 
 def active_seasons(cfg=None):

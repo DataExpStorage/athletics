@@ -1,4 +1,5 @@
 """Season top lists (best mark per athlete) -> data/toplists/{distance}-{gender}.json"""
+import glob
 import os
 import re
 
@@ -40,6 +41,12 @@ def main():
     seasons = [s for s in wa.active_seasons(cfg) if s <= this_year]  # a season has no list before it starts
     for season in seasons:
         fetch_season(cfg, season)
+        # the previous season's lists set this season's inclusion thresholds; fetch once
+        prev = season - 1
+        stored = glob.glob(os.path.join(wa.DATA, "toplists", str(prev), "*.json"))
+        if prev not in seasons and len(stored) < 2 * len(cfg["toplists"]):
+            print("Fetching the %d lists once, for the %d thresholds" % (prev, season))
+            fetch_season(cfg, prev)
 
 
 def fetch_season(cfg, season):

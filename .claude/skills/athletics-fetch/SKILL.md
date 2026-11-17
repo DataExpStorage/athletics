@@ -2,7 +2,7 @@
 name: athletics-fetch
 description: Pipeline stage. Runs the project's fetch scripts to bring in the latest calendar, race results, season top lists, athlete profiles and report texts from World Athletics. Runs fixed scripts only; no research. Run by the athletics-weekly skill, or alone to refresh the data.
 argument-hint: "[discipline, default road-running]"
-allowed-tools: Bash(python scripts/fetch_calendar.py), Bash(python scripts/fetch_results.py), Bash(python scripts/fetch_toplists.py), Bash(python scripts/fetch_athletes.py), Bash(python scripts/fetch_reports.py), Read
+allowed-tools: Bash(python scripts/fetch_calendar.py), Bash(python scripts/fetch_results.py), Bash(python scripts/fetch_toplists.py), Bash(python scripts/update_focus.py), Bash(python scripts/fetch_athletes.py), Bash(python scripts/fetch_reports.py), Read
 ---
 
 # Stage: fetch
@@ -16,8 +16,10 @@ Run these, one at a time, from the project folder, in this order:
 1. `python scripts/fetch_calendar.py`
 2. `python scripts/fetch_results.py`
 3. `python scripts/fetch_toplists.py`
-4. `python scripts/fetch_athletes.py`
-5. `python scripts/fetch_reports.py`
+4. `python scripts/update_focus.py` (updates the yearly lists of athletes in focus; no
+   web requests)
+5. `python scripts/fetch_athletes.py`
+6. `python scripts/fetch_reports.py`
 
 Rules:
 

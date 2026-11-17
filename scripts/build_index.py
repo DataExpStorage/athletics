@@ -9,7 +9,7 @@ import shutil
 import sys
 import unicodedata
 
-import fetch_athletes
+import update_focus
 import validate
 import wa
 
@@ -180,6 +180,20 @@ def build_team():
     return out
 
 
+def build_focus():
+    """Per athlete, the seasons they are in focus for: [{season, final, reasons}]."""
+    out = {}
+    for f in sorted(glob.glob(os.path.join(wa.DATA, "focus", "*.json"))):
+        doc = wa.load_json(f)
+        for aid, e in doc["athletes"].items():
+            out.setdefault(aid, []).append({
+                "season": doc["season"],
+                "final": e.get("final") if doc.get("closed") else None,
+                "reasons": e.get("finalReasons") if doc.get("closed") and e.get("final") else e["reasons"],
+            })
+    return out
+
+
 def main():
     # researched files are untrusted input: nothing is built from them unless they pass
     errors = validate.check()
@@ -210,8 +224,11 @@ def main():
         races.append(race)
 
     toplists = {}
+    shown = set(season for season, _ in wa.calendars())
     for f in sorted(glob.glob(os.path.join(wa.DATA, "toplists", "*", "*.json"))):
         t = wa.load_json(f)
+        if t["season"] not in shown:
+            continue  # e.g. last season's lists, kept only for the focus thresholds
         toplists.setdefault(str(t["season"]), {})["%s-%s" % (t["distance"], t["gender"])] = {
             "source": t["source"],
             "rows": [{
@@ -251,7 +268,8 @@ def main():
         "team": build_team(),
         "athleteIds": sorted(athlete_ids),
         # profiles of athletes outside the current rule: kept, but no longer refreshed
-        "frozenProfiles": sorted(set(athlete_ids) - set(fetch_athletes.wanted(wa.config()))),
+        "frozenProfiles": sorted(set(athlete_ids) - set(update_focus.kept_up_to_date())),
+        "focus": build_focus(),
         "newsletters": newsletters,
     })
     print("Site data: %d races (%d with results), %d top lists, %d athletes, %d newsletters" % (
