@@ -201,13 +201,13 @@ to their page.
 
 | View | Address | Content |
 |---|---|---|
-| Overview | `#/` | Key figures; season timeline (one dot per race by date, rows by distance, colour by tier, larger for Majors, outline for races not yet run, tooltip on hover); latest results; coming up; latest runs (top 5); running next (next race with entries); prize money leaders; fastest of the season |
+| Overview | `#/` | Key figures; season timeline (one dot per race by date, rows by distance, colour by tier, larger for Majors, outline for races not yet run, tooltip on hover); latest results (winners set apart below each race); coming up (with whether an elite field has been announced); latest runs (top 5); running next (next race with entries); prize money leaders; fastest of the season |
 | Races | `#/races` | All priority races with tier, distance, winners and winner's prize; filters by tier and distance |
 | Latest runs | `#/runs` | Top-20 finishes from priority races in the 30 days up to the latest race, women and men, ordered by where the time sits in the season list for its distance |
 | Running next | `#/next` | Every upcoming race with its announced athletes, best time, reliability, first-named and last-confirmed dates; withdrawn athletes kept, with date, reason and source |
 | Distance | `#/distance/<d>` | Season top 100 (women / men) and the priority races at that distance |
 | Race | `#/race/<id>` | Race report summary; top 20 women and men with prize money; prize money card; announced entries and change log |
-| Athlete | `#/athlete/<id>` | Header figures (Marathon Majors count and wins; seasons in road running); season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, bests by season and honours when a profile exists |
+| Athlete | `#/athlete/<id>` | Team (coach, manager, agency, shoe sponsor); season bests or full personal bests; priority races with place, time and prize; known prize money total; how the races went; race plans and withdrawals; season results, bests by season and honours when a profile exists |
 | People | `#/people` | Coaches, managers, agencies and shoe sponsors of the athletes with profiles, with the number of athletes each |
 | Coach, manager, agency, shoe sponsor | `#/coach/<name>`, `#/manager/<name>`, `#/agency/<name>`, `#/shoe/<name>` | The athletes associated with that person, agency or brand, their other team members, and how each link is known |
 | Newsletter | `#/news`, `#/news/<week>` | The latest issue in full, links to the older and newer issue, and a list of every issue by year |
@@ -227,11 +227,6 @@ Display rules:
   groups only, in one table with shared columns: Marathon Majors, International
   Marathons, Olympic Games, World Championships, World Road Running Championships, World
   Cross Country Championships.
-- Athlete header figures: with a profile, Marathon Majors are the top-eight finishes
-  World Athletics lists under honours (it does not list lower places), and seasons are
-  those with a result at marathon, half marathon or 10 km. Without a profile, both are
-  counted from the seasons tracked here and labelled as such; they become career figures
-  when the profile is fetched.
 - Athlete team: a Team card lists coach, manager, agency and shoe sponsor with the
   reliability grade and source of each; entries not yet checked on the source page are
   marked "to verify". The shoe sponsor's logo sits at the right of the athlete's name.

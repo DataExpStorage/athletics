@@ -258,9 +258,11 @@
     var rows = ROLE_ORDER.map(function (role) {
       var item = t[role];
       if (!item) return '<dt>' + ROLES[role][0] + '</dt><dd class="muted">Not found</dd>';
-      if (!item.value) return '<dt>' + ROLES[role][0] + '</dt><dd><span class="muted">' + esc(item.note || 'Not found') + '</span>' + (item.source ? ' ' + srcLink(item.source) : '') + '</dd>';
-      return '<dt>' + ROLES[role][0] + '</dt><dd>' + roleLink(role, item.value) + ' &nbsp;' + teamGrade(item) + (item.source ? ' <span class="muted">·</span> ' + srcLink(item.source) : '') +
-        (item.note ? '<div class="muted small">' + esc(item.note) + '</div>' : '') +
+      var src = srcLink(item.source);
+      if (!item.value) return '<dt>' + ROLES[role][0] + '</dt><dd><span class="muted">' + esc(item.note || 'Not found') + '</span>' +
+        (src ? '<div class="muted small">Source: ' + src + '</div>' : '') + '</dd>';
+      return '<dt>' + ROLES[role][0] + '</dt><dd>' + roleLink(role, item.value) + ' &nbsp;' + teamGrade(item) +
+        (src || item.note ? '<div class="muted small">' + (src ? 'Source: ' + src : '') + (src && item.note ? ' · ' : '') + esc(item.note || '') + '</div>' : '') +
         (role === 'manager' && t.managerNote ? '<div class="muted small">' + esc(t.managerNote) + '</div>' : '') + '</dd>';
     }).join('');
     return '<div class="card"><h2>Team</h2><dl class="kv">' + rows + '</dl>' + (t.checked ? '<p class="muted small" style="margin:10px 0 0">Coach and shoe sponsor researched ' + fmtDate(t.checked, true) +
@@ -438,11 +440,23 @@
   });
 
   /* ---------- views ---------- */
+  // for a race still to come: is an elite field announced?
+  function fieldLine(r) {
+    var d = raceEntries(r);
+    var inn = d ? d.entries.filter(function (e) { return e.status === 'announced'; }) : [];
+    var out = d ? d.entries.filter(function (e) { return e.status === 'withdrawn'; }).length : 0;
+    if (!inn.length) return '<div class="field none">Elite field not announced yet</div>';
+    var w = inn.filter(function (e) { return e.gender === 'W'; }).length, m = inn.length - w;
+    return '<div class="field"><a href="#/race/' + esc(r.id) + '">Elite field announced</a>: ' + w + ' women, ' + m + ' men' +
+      (out ? ' · ' + out + ' withdrawn' : '') + (d.checked ? ' <span class="muted">· checked ' + fmtDate(d.checked) + '</span>' : '') + '</div>';
+  }
   function raceItem(r) {
     var html = '<li><div>' + raceLink(r) + '</div><div class="meta"><span>' + fmtDate(r.startDate) + '</span><span>' + esc(r.venue) + '</span>' +
       tierBadge(r) + '<span>' + distName(r.distance) + '</span></div>';
     if (isRun(r) && r.distance !== 'multi') {
-      html += '<div class="win"><span>W</span> ' + winnerText(r, 'W') + ' &nbsp; <span>M</span> ' + winnerText(r, 'M') + '</div>';
+      html += '<div class="winners"><div><span class="g">W</span>' + winnerText(r, 'W') + '</div><div><span class="g">M</span>' + winnerText(r, 'M') + '</div></div>';
+    } else if (!isRun(r)) {
+      html += fieldLine(r);
     }
     return html + '</li>';
   }
@@ -619,43 +633,7 @@
     ['World Championships', 'World Championships'], ['World Road Running Championships', 'World Road Running Championships'],
     ['World Cross Country Championships', 'World Cross Country Championships']];
   var FEATURED = ['Marathon', 'Half Marathon', '10 Kilometres Road'];
-  function careerTiles(id, a, full) {
-    var majors, wins, seasons = {}, note1, note2;
-    if (full) {
-      var list = [];
-      (a.honours || []).forEach(function (h) { if (h.category === 'Major Marathon') list = list.concat(h.results || []); });
-      majors = list.length;
-      wins = list.filter(function (x) { return /^1\.?$/.test(x.place || ''); }).length;
-      (a.roadProgression || []).forEach(function (p) {
-        if (FEATURED.indexOf(p.discipline) >= 0) (p.results || []).forEach(function (x) { if (x.season) seasons[x.season] = 1; });
-      });
-      note1 = wins + (wins === 1 ? ' win' : ' wins') + ' · top-eight finishes, as listed by World Athletics';
-      note2 = 'with a result at marathon, half marathon or 10 km';
-    } else {
-      majors = 0; wins = 0;
-      ALL.races.forEach(function (r) {
-        (r.events || []).forEach(function (ev) {
-          ev.results.forEach(function (x) {
-            if (x.id !== id) return;
-            if (['marathon', 'half-marathon', '10km'].indexOf(ev.distance) >= 0) seasons[r.season] = 1;
-            if (r.major) { majors += 1; if (x.place === '1') wins += 1; }
-          });
-        });
-      });
-      Object.keys(ALL.toplists).forEach(function (season) {
-        Object.keys(ALL.toplists[season]).forEach(function (key) {
-          if (ALL.toplists[season][key].rows.some(function (x) { return x.id === id; })) seasons[season] = 1;
-        });
-      });
-      note1 = wins + (wins === 1 ? ' win' : ' wins') + ' · top-20 finishes in the seasons tracked here only';
-      note2 = 'seasons tracked here only; career figures follow once the profile is fetched';
-    }
-    var years = Object.keys(seasons).sort();
-    var span = years.length ? (years[0] === years[years.length - 1] ? years[0] : years[0] + '–' + years[years.length - 1]) : '';
-    return '<div class="tiles two"><div class="tile"><div class="k">Marathon Majors</div><div class="v">' + majors + '</div><div class="n">' + note1 + '</div></div>' +
-      '<div class="tile"><div class="k">Seasons in road running</div><div class="v">' + years.length + (span ? ' <span class="span">' + span + '</span>' : '') +
-      '</div><div class="n">' + note2 + '</div></div></div>';
-  }
+
   function viewAthlete(id) {
     if (!known[id]) return Promise.resolve(notFound());
     var k = known[id];
@@ -668,7 +646,7 @@
       var name = full ? (a.givenName || '') + ' ' + (a.familyName || '') : k.name;
       var age = /^\d{4}-/.test(a.birthDate || '') ? Math.floor((Date.parse(TODAY) - Date.parse(a.birthDate)) / 31557600000) : null;
       var html = '<a class="back" href="#/" data-back>← Back</a><div class="ath-head"><h1>' + esc(name) + '</h1>' + shoeHeader(id) + '</div><p class="sub">' + esc(a.countryName || a.country || k.nat) +
-        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>' + careerTiles(id, a, full);
+        (a.birthDate ? ' · born ' + fmtDate(a.birthDate, true) + (age !== null ? ' (age ' + age + ')' : '') : (k.born ? ' · born ' + esc(k.born) : '')) + '</p>';
       if (!full) {
         var best = [];
         Object.keys(D.toplists).forEach(function (key) {

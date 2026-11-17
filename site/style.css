@@ -136,3 +136,8 @@ table.honours tbody tr.grp:first-child th { padding-top: 6px; }
 .latest-news { margin: 0 0 16px; }
 
 .notice { background: var(--wash); border: 1px solid var(--axis); border-radius: 8px; padding: 10px 14px; margin: 0 0 16px; color: var(--ink-2); font-size: 14px; }
+
+.racelist .winners { margin-top: 8px; padding-top: 7px; border-top: 1px dashed var(--grid); display: grid; gap: 3px; font-size: 14.5px; }
+.racelist .winners .g { display: inline-block; width: 22px; font-size: 12px; font-weight: 700; color: var(--ink-2); }
+.racelist .field { margin-top: 8px; padding-top: 7px; border-top: 1px dashed var(--grid); font-size: 13.5px; }
+.racelist .field.none { color: var(--muted); }
