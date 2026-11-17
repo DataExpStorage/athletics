@@ -1,0 +1,166 @@
+{
+ "id": "14922353",
+ "givenName": "Kolole",
+ "familyName": "MEKASHU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-09-13",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:49",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:29:56",
+   "venue": "Wuxi (CHN)",
+   "date": "24 MAR 2024",
+   "resultScore": 1118,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:49",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit",
+   "listPosition": "503"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:30:32",
+   "venue": "Guiyang (CHN)",
+   "date": "14 JUN 2026",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Guiyang Marathon",
+   "listPosition": "394"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "Mexico City Marathon Telcel, Ciudad de México",
+   "country": "MEX",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:34:04",
+   "score": 1073,
+   "competitionId": "7235589"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Guiyang Marathon, Guiyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:30:32",
+   "score": 1112,
+   "competitionId": "7236083"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-07",
+   "competition": "Los Angeles Marathon, Dodger Stadium, Los Angeles, CA - Elite Event",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "2:31:55",
+   "score": 1099,
+   "competitionId": "7236754"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "1:12:49",
+   "score": 1072,
+   "competitionId": "7237360"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:12:49",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:31:55",
+     "venue": "Hangzhou (CHN)",
+     "date": "17 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:29:56",
+     "venue": "Wuxi (CHN)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:32:48",
+     "venue": "Madrid (ESP)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:30:32",
+     "venue": "Guiyang (CHN)",
+     "date": "14 JUN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 360,
+   "rankingScore": 1122
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 2429,
+   "rankingScore": 1122
+  }
+ ],
+ "representative": {
+  "name": "Natnael MEKONNEN",
+  "country": "Australia",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/kolole-mekashu-14922353"
+}

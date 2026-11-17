@@ -1,0 +1,377 @@
+{
+ "id": "14635616",
+ "givenName": "Getaneh",
+ "familyName": "MOLLA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-01-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:44.91",
+   "venue": "Luanda (ANG)",
+   "date": "02 JAN 2016",
+   "resultScore": 1042,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:46.06",
+   "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+   "date": "30 JUN 2019",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:18.88",
+   "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+   "date": "30 JUN 2019",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:59.58",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "31 AUG 2018",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:44.61",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "08 JUN 2021",
+   "resultScore": 1156,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:41.50",
+   "venue": "Addis Ababa (ETH)",
+   "date": "24 APR 2016",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "8 Kilometres Road",
+   "mark": "22:50",
+   "venue": "Trier (GER)",
+   "date": "31 DEC 2016",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:18",
+   "venue": "Boulder, CO (USA)",
+   "date": "28 MAY 2018",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:52",
+   "venue": "København (DEN)",
+   "date": "18 SEP 2022",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:34",
+   "venue": "Dubai (UAE)",
+   "date": "25 JAN 2019",
+   "resultScore": 1249,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:23",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1234,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Seoul Marathon",
+   "listPosition": "29"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:04:55",
+   "score": 1224,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:04:23",
+   "score": 1234,
+   "competitionId": "7235569"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "8:18.88",
+     "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+     "date": "30 JUN 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "8 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "22:50",
+     "venue": "Trier (GER)",
+     "date": "31 DEC 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "28:22",
+     "venue": "Taroudant (MAR)",
+     "date": "09 MAR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "28:45",
+     "venue": "Addis Ababa (ETH)",
+     "date": "22 NOV 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "28:18",
+     "venue": "Boulder, CO (USA)",
+     "date": "28 MAY 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "28:25",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 JAN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:02:28",
+     "venue": "Bahir Dar (ETH)",
+     "date": "04 DEC 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:00:34",
+     "venue": "Lille (FRA)",
+     "date": "02 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:47",
+     "venue": "Valencia (ESP)",
+     "date": "24 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:00:26",
+     "venue": "Manama (BRN)",
+     "date": "15 MAR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "59:52",
+     "venue": "København (DEN)",
+     "date": "18 SEP 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:58",
+     "venue": "Al Khobar (KSA)",
+     "date": "14 DEC 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:03:34",
+     "venue": "Dubai (UAE)",
+     "date": "25 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:08:12",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "2:06:38",
+     "venue": "Valencia (ESP)",
+     "date": "04 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:45",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:29",
+     "venue": "Ljubljana (SLO)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:04:19",
+     "venue": "Amsterdam (NED)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:23",
+     "venue": "Seoul (KOR)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Half Marathon Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Half Marathon",
+     "competition": "IAAF World Half Marathon Championships",
+     "mark": "1:00:47",
+     "date": "24 MAR 2018"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "Durban African Championships",
+     "mark": "13:17.84",
+     "date": "26 JUN 2016"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Brazzaville All-Africa Games",
+     "mark": "13:21.88",
+     "date": "17 SEP 2015"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:04:55",
+     "date": "27 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "13:31.5h",
+     "date": "22 APR 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "13:42.4h",
+     "date": "21 MAY 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "13:47.6h",
+     "date": "24 APR 2016"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 11,
+   "rankingScore": 1319
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 144,
+   "rankingScore": 1319
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/getaneh-molla-14635616"
+}

@@ -1,0 +1,302 @@
+{
+ "id": "14786747",
+ "givenName": "Wede",
+ "familyName": "KEFALE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-03-02",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:35.47",
+   "venue": "Assela (ETH)",
+   "date": "26 MAY 2018",
+   "resultScore": 990,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:02.43",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "14 JUN 2024",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:22",
+   "venue": "Lille (FRA)",
+   "date": "19 MAR 2023",
+   "resultScore": 1121,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:55",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:11:26",
+   "venue": "Cassis (FRA)",
+   "date": "29 OCT 2023",
+   "resultScore": 1017,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:21",
+   "venue": "Copenhagen (DEN)",
+   "date": "14 SEP 2025",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:55",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "9"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:54",
+   "venue": "Cardiff (GBR)",
+   "date": "04 OCT 2026",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Cardiff Half Marathon",
+   "listPosition": "23"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "1:09:04",
+   "score": 1149,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-04",
+   "competition": "Cardiff Half Marathon, Cardiff",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "1:05:54",
+   "score": 1215,
+   "competitionId": "7240793"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Antrim Coast Half Marathon, Larne",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "3",
+   "mark": "1:07:12",
+   "score": 1188,
+   "competitionId": "7238724"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "8",
+   "mark": "31:43",
+   "score": 1154,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "4",
+   "mark": "1:07:38",
+   "score": 1179,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "14",
+   "mark": "1:10:18",
+   "score": 1123,
+   "competitionId": "7237781"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "29:55",
+   "score": 1252,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "15:22",
+     "venue": "Lille (FRA)",
+     "date": "19 MAR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "33:14",
+     "venue": "Durban (RSA)",
+     "date": "13 OCT 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "31:16",
+     "venue": "Lille (FRA)",
+     "date": "01 OCT 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "30:31",
+     "venue": "Lille (FRA)",
+     "date": "16 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "30:19",
+     "venue": "Castellón (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "29:55",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:11:26",
+     "venue": "Cassis (FRA)",
+     "date": "29 OCT 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:05:21",
+     "venue": "Copenhagen (DEN)",
+     "date": "14 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:54",
+     "venue": "Cardiff (GBR)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "21:14",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "African Games",
+     "mark": "33:38.37",
+     "date": "21 MAR 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 9,
+   "rankingScore": 1245
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 17,
+   "rankingScore": 1220
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 332,
+   "rankingScore": 1245
+  }
+ ],
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/wede-kefale-14786747"
+}

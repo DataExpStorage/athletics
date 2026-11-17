@@ -1,0 +1,218 @@
+{
+ "id": "14639731",
+ "givenName": "Lemi",
+ "familyName": "BERHANU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-09-13",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:37",
+   "venue": "Valencia (ESP)",
+   "date": "18 OCT 2015",
+   "resultScore": 1122,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:33",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:33",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "10"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:03:33",
+   "score": 1250,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-09",
+   "competition": "Tiberias Marathon, Tiberias",
+   "country": "ISR",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "2:27:11",
+   "score": 841,
+   "competitionId": "7233651"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:01:37",
+     "venue": "Valencia (ESP)",
+     "date": "18 OCT 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "2:10:40",
+     "venue": "Zürich (SUI)",
+     "date": "06 APR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:05:28",
+     "venue": "Dubai (UAE)",
+     "date": "23 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:04:33",
+     "venue": "Dubai (UAE)",
+     "date": "22 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:08:27",
+     "venue": "Xiamen (CHN)",
+     "date": "02 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:08:51",
+     "venue": "Hengshui (CHN)",
+     "date": "29 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:05:09",
+     "venue": "Toronto (CAN)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:48",
+     "venue": "Amsterdam (NED)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:50",
+     "venue": "Mumbai (IND)",
+     "date": "21 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:05:14",
+     "venue": "Praha (CZE)",
+     "date": "04 MAY 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:33",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:12:45",
+     "date": "18 APR 2016"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "B.A.A. Boston Marathon",
+     "mark": "2:10:37",
+     "date": "11 OCT 2021"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "New York Marathon",
+     "mark": "2:11:52",
+     "date": "05 NOV 2017"
+    }
+   ]
+  },
+  {
+   "category": "International Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS Amsterdam Marathon",
+     "mark": "2:03:33",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 23,
+   "rankingScore": 1292
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 222,
+   "rankingScore": 1292
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/lemi-berhanu-14639731"
+}

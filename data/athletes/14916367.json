@@ -1,0 +1,291 @@
+{
+ "id": "14916367",
+ "givenName": "Daniel",
+ "familyName": "MATEIKO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1998-08-04",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:13.45",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "07 MAY 2022",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "14:46.71",
+   "venue": "Ashenfelter Indoor Track, State College, PA (USA) (i)",
+   "date": "30 JAN 2026",
+   "resultScore": 887,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:50.81",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "25 MAY 2024",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:03",
+   "venue": "Eldoret (KEN)",
+   "date": "24 NOV 2019",
+   "resultScore": 1037,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "42:42",
+   "venue": "Nijmegen (NED)",
+   "date": "16 NOV 2025",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:17",
+   "venue": "Valencia (ESP)",
+   "date": "27 OCT 2024",
+   "resultScore": 1256,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:44",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1246,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:46.71",
+   "venue": "Ashenfelter Indoor Track, State College, PA (USA) (i)",
+   "date": "30 JAN 2026",
+   "resultScore": 887,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Penn State National Open"
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "14:46.71",
+   "venue": "Ashenfelter Indoor Track, State College, PA (USA) (i)",
+   "date": "30 JAN 2026",
+   "resultScore": 887,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Penn State National Open",
+   "listPosition": "657"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:30",
+   "venue": "Larne (GBR)",
+   "date": "23 AUG 2026",
+   "resultScore": 1247,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Antrim Coast Half Marathon",
+   "listPosition": "13"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:44",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1246,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "14"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:05:01",
+   "score": 1222,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Antrim Coast Half Marathon, Larne",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "58:30",
+   "score": 1247,
+   "competitionId": "7238724"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:03:44",
+   "score": 1246,
+   "competitionId": "7236397"
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "date": "2026-01-30",
+   "competition": "Penn State National Open, Ashenfelter Indoor Track, State College, PA (i)",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "14:46.71",
+   "score": 887,
+   "competitionId": "7233435"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "29:03",
+     "venue": "Eldoret (KEN)",
+     "date": "24 NOV 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "42:42",
+     "venue": "Nijmegen (NED)",
+     "date": "16 NOV 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "58:26",
+     "venue": "Valencia (ESP)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "58:40",
+     "venue": "Valencia (ESP)",
+     "date": "23 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "58:36",
+     "venue": "Larne (GBR)",
+     "date": "27 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "58:17",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "58:30",
+     "venue": "Larne (GBR)",
+     "date": "23 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:04:24",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:44",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Oregon 2022",
+     "mark": "27:33.57",
+     "date": "17 JUL 2022"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:44",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 22,
+   "rankingScore": 1295
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 215,
+   "rankingScore": 1295
+  }
+ ],
+ "representative": {
+  "name": "Valentijn TROUW",
+  "country": "Netherlands",
+  "website": "http://www.globalsportscommunication.nl"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/daniel-mateiko-14916367"
+}
