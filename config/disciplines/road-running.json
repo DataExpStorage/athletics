@@ -30,6 +30,26 @@
    "endDate": "2026-09-20",
    "tier": "Championship",
    "distance": "multi"
+  },
+  {
+   "id": 7241782,
+   "name": "40. Haspa Marathon Hamburg",
+   "venue": "Hamburg (GER)",
+   "country": "GER",
+   "startDate": "2026-04-26",
+   "endDate": "2026-04-26",
+   "tier": "Extra",
+   "distance": "marathon"
+  },
+  {
+   "id": 7236174,
+   "name": "Urban Trail de Lille - 5 et 10km",
+   "venue": "Lille (FRA)",
+   "country": "FRA",
+   "startDate": "2026-04-04",
+   "endDate": "2026-04-04",
+   "tier": "Extra",
+   "distance": "10km"
   }
  ],
  "toplists": {
@@ -50,6 +70,161 @@
    "half-marathon": 10
   },
   "toplist_top": 20,
-  "toplist_threshold": "previous-season-20th"
+  "toplist_threshold": "previous-season-20th",
+  "extra_top": 1
+ },
+ "extra_label_races_about": "Consistently fast races outside the Platinum and Gold tiers, chosen from the 2022-2026 season lists. They are matched by name in each season's label calendar: the venue must contain 'city', the race name (lower case, without accents) must contain every word in 'include' and none in 'exclude'. They get the tier 'Extra'; only their winners count for the athletes in focus (profile_rule extra_top).",
+ "extra_label_races": [
+  {
+   "name": "Valencia 10K",
+   "city": "valencia",
+   "distance": "10km",
+   "include": [
+    "10k"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Castellon 10K",
+   "city": "castell",
+   "distance": "10km",
+   "include": [
+    "10k"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Brasov 10K (tRUNsylvania)",
+   "city": "brasov",
+   "distance": "10km",
+   "include": [
+    "10k"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Lisbon Half Marathon (March)",
+   "city": "lisboa",
+   "distance": "half-marathon",
+   "include": [
+    "lisbon half"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Berlin Half Marathon",
+   "city": "berlin",
+   "distance": "half-marathon",
+   "include": [
+    "halbmarathon"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Buenos Aires Half Marathon",
+   "city": "buenos aires",
+   "distance": "half-marathon",
+   "include": [
+    "media marat"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Antrim Coast Half Marathon",
+   "city": "larne",
+   "distance": "half-marathon",
+   "include": [
+    "half"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Marugame Half Marathon",
+   "city": "marugame",
+   "distance": "half-marathon",
+   "include": [
+    "half"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Malaga Half Marathon",
+   "city": "malaga",
+   "distance": "half-marathon",
+   "include": [
+    "medio marat"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Seville Marathon",
+   "city": "sevilla",
+   "distance": "marathon",
+   "include": [
+    "marat"
+   ],
+   "exclude": [
+    "medio",
+    "5k",
+    "half"
+   ]
+  },
+  {
+   "name": "Dubai Marathon",
+   "city": "dubai",
+   "distance": "marathon",
+   "include": [
+    "dubai marathon"
+   ],
+   "exclude": []
+  },
+  {
+   "name": "Barcelona Marathon",
+   "city": "barcelona",
+   "distance": "marathon",
+   "include": [
+    "marat"
+   ],
+   "exclude": [
+    "mitja",
+    "medio",
+    "half"
+   ]
+  },
+  {
+   "name": "Frankfurt Marathon",
+   "city": "frankfurt",
+   "distance": "marathon",
+   "include": [
+    "marathon"
+   ],
+   "exclude": [
+    "half",
+    "halb"
+   ]
+  }
+ ],
+ "extra_unlabelled_races": {
+  "_about": "Fast races without a World Athletics label: each season's edition has to be added by hand to extra_races (tier 'Extra') with its World Athletics event id, found on worldathletics.org once the race is on the calendar.",
+  "races": [
+   {
+    "name": "Haspa Marathon Hamburg",
+    "city": "Hamburg",
+    "distance": "marathon",
+    "month": 4
+   },
+   {
+    "name": "Lille 10 km (Urban Trail de Lille, spring; an autumn 10 km in Lille in some years)",
+    "city": "Lille",
+    "distance": "10km",
+    "month": 4
+   },
+   {
+    "name": "adidas 10 km Herzogenaurach (Road to Records; no 2026 edition)",
+    "city": "Herzogenaurach",
+    "distance": "10km",
+    "month": 4
+   }
+  ]
  }
 }

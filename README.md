@@ -1,8 +1,8 @@
 # Athletics tracker
 
 A personal dashboard and weekly newsletter for following athletics. Phase 1 covers road
-running: the season's Platinum and Gold label races, the World Marathon Majors and
-championship road races. Data comes from the public World Athletics website.
+running: the season's Platinum and Gold label races, the World Marathon Majors,
+championship road races and 15 consistently fast "extra" races. Data comes from the public World Athletics website.
 
 ## Use it on this PC
 

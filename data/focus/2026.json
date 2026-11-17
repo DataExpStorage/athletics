@@ -502,6 +502,14 @@
      "event": "Men's Half Marathon",
      "place": 4,
      "date": "2026-11-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241782,
+     "level": "extra",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-04-26"
     }
    ]
   },
@@ -738,6 +746,14 @@
      "rank": 5,
      "mark": "58:06",
      "date": "2026-09-20"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235984,
+     "level": "extra",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-01-11"
     }
    ]
   },
@@ -750,6 +766,14 @@
      "list": "marathon-women",
      "rank": 12,
      "mark": "2:17:05",
+     "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7241782,
+     "level": "extra",
+     "event": "Women's Marathon",
+     "place": 1,
      "date": "2026-04-26"
     }
    ]
@@ -1013,6 +1037,20 @@
      "event": "Men's Half Marathon",
      "place": 3,
      "date": "2026-02-08"
+    }
+   ]
+  },
+  "14504791": {
+   "name": "Alisa VAINIO",
+   "since": "2026-02-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236004,
+     "level": "extra",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-02-15"
     }
    ]
   },
@@ -1616,6 +1654,14 @@
      "rank": 2,
      "mark": "1:59:41",
      "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7243530,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-08-23"
     }
    ]
   },
@@ -1985,6 +2031,14 @@
      "event": "Women's Half Marathon",
      "place": 10,
      "date": "2026-09-19"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236008,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
     }
    ]
   },
@@ -2005,6 +2059,22 @@
      "rank": 1,
      "mark": "2:10:51",
      "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236009,
+     "level": "extra",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7243530,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-08-23"
     }
    ]
   },
@@ -2437,6 +2507,14 @@
      "rank": 17,
      "mark": "2:03:59",
      "date": "2026-02-15"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236004,
+     "level": "extra",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-02-15"
     }
    ]
   },
@@ -2544,6 +2622,14 @@
      "rank": 3,
      "mark": "2:00:28",
      "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236103,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-08"
     }
    ]
   },
@@ -2843,6 +2929,14 @@
      "rank": 7,
      "mark": "1:04:23",
      "date": "2026-10-18"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236174,
+     "level": "extra",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-04-04"
     }
    ]
   },
@@ -2857,6 +2951,14 @@
      "event": "Women's Half Marathon",
      "place": 1,
      "date": "2026-04-26"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236069,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-02-01"
     }
    ]
   },
@@ -2899,6 +3001,14 @@
      "rank": 12,
      "mark": "1:04:59",
      "date": "2026-10-25"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237361,
+     "level": "extra",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-02-22"
     }
    ]
   },
@@ -2999,6 +3109,20 @@
      "event": "Women's Marathon",
      "place": 3,
      "date": "2026-03-22"
+    }
+   ]
+  },
+  "14771299": {
+   "name": "Zeineba YIMER",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7246125,
+     "level": "extra",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-10-25"
     }
    ]
   },
@@ -3872,6 +3996,28 @@
      "rank": 20,
      "mark": "2:04:00",
      "date": "2026-02-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237510,
+     "level": "extra",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-02-01"
+    }
+   ]
+  },
+  "14843618": {
+   "name": "Jirata DINKI",
+   "since": "2026-10-25",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7246125,
+     "level": "extra",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-10-25"
     }
    ]
   },
@@ -3949,6 +4095,14 @@
      "rank": 8,
      "mark": "1:04:48",
      "date": "2026-03-08"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236103,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-03-08"
     }
    ]
   },
@@ -3962,6 +4116,14 @@
      "rank": 12,
      "mark": "30:02",
      "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7238724,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
+     "date": "2026-08-23"
     }
    ]
   },
@@ -3975,6 +4137,20 @@
      "rank": 6,
      "mark": "1:04:22",
      "date": "2026-05-17"
+    }
+   ]
+  },
+  "14848747": {
+   "name": "Asefu ABREHA",
+   "since": "2026-10-04",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237512,
+     "level": "extra",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-10-04"
     }
    ]
   },
@@ -4211,6 +4387,14 @@
      "list": "half-marathon-women",
      "rank": 15,
      "mark": "1:05:07",
+     "date": "2026-03-29"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237042,
+     "level": "extra",
+     "event": "Women's Half Marathon",
+     "place": 1,
      "date": "2026-03-29"
     }
    ]
@@ -4966,6 +5150,14 @@
      "rank": 2,
      "mark": "29:25",
      "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7235984,
+     "level": "extra",
+     "event": "Women's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-01-11"
     }
    ]
   },
@@ -5129,6 +5321,14 @@
      "rank": 18,
      "mark": "2:18:31",
      "date": "2026-02-01"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237510,
+     "level": "extra",
+     "event": "Women's Marathon",
+     "place": 1,
+     "date": "2026-02-01"
     }
    ]
   },
@@ -5171,6 +5371,20 @@
      "rank": 20,
      "mark": "1:05:39",
      "date": "2026-10-25"
+    }
+   ]
+  },
+  "15019944": {
+   "name": "Richard LODUNG",
+   "since": "2026-02-01",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236069,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-02-01"
     }
    ]
   },
@@ -5403,6 +5617,14 @@
      "list": "half-marathon-men",
      "rank": 11,
      "mark": "58:26",
+     "date": "2026-08-23"
+    },
+    {
+     "kind": "race",
+     "raceId": 7238724,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
      "date": "2026-08-23"
     }
    ]
@@ -5764,6 +5986,14 @@
      "rank": 1,
      "mark": "26:39",
      "date": "2026-02-22"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237361,
+     "level": "extra",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-02-22"
     }
    ]
   },
@@ -5857,6 +6087,22 @@
      "rank": 4,
      "mark": "26:51",
      "date": "2026-01-11"
+    },
+    {
+     "kind": "race",
+     "raceId": 7236174,
+     "level": "extra",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-04-04"
+    },
+    {
+     "kind": "race",
+     "raceId": 7237512,
+     "level": "extra",
+     "event": "Men's 10 Kilometres Road",
+     "place": 1,
+     "date": "2026-10-04"
     }
    ]
   },
@@ -5885,6 +6131,20 @@
      "event": "Men's 10 Kilometres Road",
      "place": 2,
      "date": "2026-06-28"
+    }
+   ]
+  },
+  "15184154": {
+   "name": "Abel CHELANGAT",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236009,
+     "level": "extra",
+     "event": "Men's Marathon",
+     "place": 1,
+     "date": "2026-03-15"
     }
    ]
   },
@@ -6063,6 +6323,20 @@
     }
    ]
   },
+  "15226978": {
+   "name": "Vincent KIPKORIR",
+   "since": "2026-03-15",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7236008,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-15"
+    }
+   ]
+  },
   "15228441": {
    "name": "Tiringo MULU",
    "since": "2026-10-18",
@@ -6150,6 +6424,20 @@
      "rank": 16,
      "mark": "58:42",
      "date": "2026-10-25"
+    }
+   ]
+  },
+  "15266477": {
+   "name": "Andrea KIPTOO",
+   "since": "2026-03-29",
+   "reasons": [
+    {
+     "kind": "race",
+     "raceId": 7237042,
+     "level": "extra",
+     "event": "Men's Half Marathon",
+     "place": 1,
+     "date": "2026-03-29"
     }
    ]
   },

@@ -380,7 +380,7 @@
       body += '<line x1="' + left + '" x2="' + (W - right) + '" y1="' + (y + h) + '" y2="' + (y + h) + '" stroke="var(--grid)"/>';
       body += '<text class="row" x="0" y="' + (y + h - 8) + '">' + row.label + '</text>';
       marks.forEach(function (m) {
-        var cy = y + h - 10 - m.lane * lane, col = 'var(--' + (m.r.tier === 'Platinum' ? 'platinum' : m.r.tier === 'Gold' ? 'gold' : 'champ') + ')';
+        var cy = y + h - 10 - m.lane * lane, col = 'var(--' + ({ Platinum: 'platinum', Gold: 'gold', Extra: 'extra' }[m.r.tier] || 'champ') + ')';
         var run = isRun(m.r);
         body += '<a href="#/race/' + esc(m.r.id) + '" data-race="' + esc(m.r.id) + '" aria-label="' + esc(m.r.name) + ', ' + fmtDate(m.r.startDate) + '">' +
           '<circle cx="' + m.cx.toFixed(1) + '" cy="' + cy + '" r="14" fill="transparent"/>' +
@@ -407,7 +407,7 @@
     return '<div class="scroll"><svg class="timeline" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Season timeline of priority road races">' +
       axis + body + today + '</svg></div>' +
       '<div class="legend"><span>' + sw('platinum', true, 4.5) + 'Platinum</span><span>' + sw('gold', true, 4.5) + 'Gold</span><span>' +
-      sw('champ', true, 4.5) + 'Championship</span><span>' + sw('platinum', true, 6.5) + 'Larger = Marathon Major</span><span>' +
+      sw('champ', true, 4.5) + 'Championship</span><span>' + sw('extra', true, 4.5) + 'Extra (fast race)</span><span>' + sw('platinum', true, 6.5) + 'Larger = Marathon Major</span><span>' +
       sw('platinum', false, 4.5) + 'Outline = not yet run</span><span><a href="#/races">See all as a table</a></span></div>';
   }
   function tipFor(el, ev) {
@@ -466,7 +466,7 @@
     var majors = D.races.filter(function (r) { return r.major; });
     var nxt = next[0];
     var html = '<h1>Road running ' + D.season + '</h1><p class="sub">The ' + D.races.length +
-      ' priority races of the season: Platinum and Gold label races plus championships.</p>';
+      ' races followed this season: Platinum and Gold label races, championships, and selected consistently fast races (Extra).</p>';
     html += '<div class="tiles">' +
       '<div class="tile"><div class="k">Races run</div><div class="v">' + run.length + ' of ' + D.races.length + '</div><div class="n">' + left + ' still to come</div></div>' +
       '<div class="tile"><div class="k">Marathon Majors run</div><div class="v">' + majors.filter(isRun).length + ' of ' + majors.length + '</div><div class="n">All Platinum label</div></div>' +
@@ -528,7 +528,7 @@
       return okT && (raceFilter.dist === 'All' || d === raceFilter.dist);
     });
     return '<h1>Races</h1><p class="sub">All priority races of ' + D.season + ' with winners.</p><div class="card">' +
-      '<div class="filters">' + seg('tier', ['All', 'Majors', 'Platinum', 'Gold', 'Championship'], raceFilter.tier) +
+      '<div class="filters">' + seg('tier', ['All', 'Majors', 'Platinum', 'Gold', 'Extra', 'Championship'], raceFilter.tier) +
       seg('dist', ['All', 'marathon', 'half-marathon', '10km', 'other'], raceFilter.dist) +
       '<span class="muted">' + rows.length + ' races</span></div><div class="scroll"><table><thead><tr><th>Date</th><th>Race</th><th>Label</th><th>Distance</th><th>Women</th><th>Men</th><th class="num">1st prize</th></tr></thead><tbody>' +
       rows.map(function (r) {

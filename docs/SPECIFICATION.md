@@ -35,6 +35,7 @@ Priority races for a season ("the priority set"):
 | World Athletics Platinum Label road races | 20 | `competitionSubgroup = Platinum` in the label calendar |
 | World Athletics Gold Label road races | 41 | `competitionSubgroup = Gold` |
 | Championship road races | 1 | Listed by hand in `config/disciplines/road-running.json` (`extra_races`) |
+| Extra races (consistently fast) | 15 | 13 label races matched by name each season (`extra_label_races`); Hamburg Marathon, Lille 10 km and Herzogenaurach 10 km have no label and are added by hand each year (`extra_unlabelled_races`, `extra_races`). Herzogenaurach had no 2026 edition |
 
 The seven World Marathon Majors (Tokyo, Boston, London, Sydney, Berlin, Chicago, New York)
 are all Platinum and are flagged by event ID in `config/disciplines/road-running.json` (`majors`).
@@ -42,8 +43,16 @@ are all Platinum and are flagged by event ID in `config/disciplines/road-running
 2026 split of the 61 label races by distance: marathon 39 (14 Platinum, 25 Gold), half
 marathon 16 (5 + 11), 10 km 4 (0 + 4), other 2 (a Platinum 5 km, a Gold 25 km).
 
-Any other race can be added to the priority set through `extra_races` with its World
-Athletics event ID.
+The extra races were chosen from the 2022-2026 season lists: races outside the Platinum
+and Gold tiers that produced top-100 marks in most years and a good share of the top 20
+(10 km: Valencia, Castellón, Lille, Herzogenaurach, Brașov; half marathon: Lisbon
+(March), Berlin, Buenos Aires, Antrim Coast, Marugame, Málaga; marathon: Hamburg,
+Seville, Dubai, Barcelona, Frankfurt). They have the tier "Extra" on the dashboard, are
+covered by the weekly research like the other races, and only their winners (at the
+race's main distance) count for the athletes in focus; faster finishers are picked up by
+the season lists.
+
+Any other race can be added through `extra_races` with its World Athletics event ID.
 
 ### Seasons
 

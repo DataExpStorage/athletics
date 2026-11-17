@@ -455,7 +455,11 @@ Timetable around the turn of the year:
 - **January:** finish the old season's last races (late December races, late results),
   then write the season look-back in the first newsletter of the year.
 - **Each new season:** add the championship road races for that year to `extra_races`
-  in `config/disciplines/road-running.json`, and check the currency rates in `config/prize_money.json`.
+  in `config/disciplines/road-running.json`; add that season's editions of the unlabelled
+  extra races (`extra_unlabelled_races`: Hamburg Marathon, Lille 10 km, Herzogenaurach
+  10 km) to `extra_races` with their event ids; check that every `extra_label_races` entry
+  was matched (the calendar update lists the Extra races it found; a sponsor change in a
+  race name can break a match); and check the currency rates in `config/prize_money.json`.
 
 Prize money in a new season: organisers often change the table (Tokyo has announced a
 first prize of $170,000 for 2027, up from $80,000). Always confirm the year on the

@@ -1,0 +1,465 @@
+{
+ "id": 7237510,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7237510",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:04:00",
+     "name": "Nibret MELAK",
+     "nat": "ETH",
+     "athleteId": "14840778",
+     "slug": "ethiopia/nibret-melak-14840778",
+     "birthDate": "09 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:05:52",
+     "name": "Yasin HAJI",
+     "nat": "ETH",
+     "athleteId": "14649283",
+     "slug": "ethiopia/yasin-haji-14649283",
+     "birthDate": "22 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:06:04",
+     "name": "John HAKIZIMANA",
+     "nat": "RWA",
+     "athleteId": "14689968",
+     "slug": "rwanda/john-hakizimana-14689968",
+     "birthDate": "26 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:06:48",
+     "name": "Molalign FANTAHUN",
+     "nat": "ETH",
+     "athleteId": "15187563",
+     "slug": "ethiopia/molalign-fantahun-15187563",
+     "birthDate": "25 AUG 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:06:48",
+     "name": "Gizealew AYANA",
+     "nat": "ETH",
+     "athleteId": "15002407",
+     "slug": "ethiopia/gizealew-ayana-15002407",
+     "birthDate": "11 FEB 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:06:57",
+     "name": "Jiregna GELETA",
+     "nat": "ETH",
+     "athleteId": "15284440",
+     "slug": "ethiopia/jiregna-geleta-15284440",
+     "birthDate": "19 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:07:13",
+     "name": "Berehanu TSEGU",
+     "nat": "ETH",
+     "athleteId": "14862278",
+     "slug": "ethiopia/berehanu-tsegu-014862278",
+     "birthDate": "30 SEP 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:07:51",
+     "name": "Gaddisa TAFA",
+     "nat": "ETH",
+     "athleteId": "14928968",
+     "slug": "ethiopia/gaddisa-tafa-14928968",
+     "birthDate": "11 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:08:21",
+     "name": "Dechasa ALEMU",
+     "nat": "ETH",
+     "athleteId": "15028730",
+     "slug": "ethiopia/dechasa-alemu-15028730",
+     "birthDate": "28 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:08:23",
+     "name": "Belay Tilahun BEZABEH",
+     "nat": "ETH",
+     "athleteId": "14751811",
+     "slug": "ethiopia/belay-tilahun-bezabeh-14751811",
+     "birthDate": "07 JAN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:08:36",
+     "name": "Denis KIPKOSGEI",
+     "nat": "KEN",
+     "athleteId": "15075014",
+     "slug": "kenya/denis-kipkosgei-15075014",
+     "birthDate": "12 JAN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:08:48",
+     "name": "Deribe ROBI",
+     "nat": "ETH",
+     "athleteId": "14449123",
+     "slug": "ethiopia/deribe-robi-014449123",
+     "birthDate": "26 SEP 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:08:50",
+     "name": "Semachu SEWNET",
+     "nat": "ERI",
+     "athleteId": "15199898",
+     "slug": "eritrea/semachu-sewnet-15199898",
+     "birthDate": "01 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:08:55",
+     "name": "Weyifen DEJENE",
+     "nat": "ETH",
+     "athleteId": "15119243",
+     "slug": "ethiopia/weyifen-dejene-15119243",
+     "birthDate": "12 NOV 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:09:28",
+     "name": "Geza SENEBETA",
+     "nat": "ETH",
+     "athleteId": "14920167",
+     "slug": "ethiopia/geza-senebeta-014920167",
+     "birthDate": "13 SEP 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:09:32",
+     "name": "Tadesse KASSA",
+     "nat": "ETH",
+     "athleteId": "15090404",
+     "slug": "ethiopia/tadesse-kassa-15090404",
+     "birthDate": "2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:09:42",
+     "name": "Negasa DEKEBA",
+     "nat": "ETH",
+     "athleteId": "15092494",
+     "slug": "ethiopia/negasa-dekeba-15092494",
+     "birthDate": "05 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:09:51",
+     "name": "Girma DEGEFA",
+     "nat": "ETH",
+     "athleteId": "15122312",
+     "slug": "ethiopia/girma-degefa-15122312",
+     "birthDate": "31 DEC 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:10:08",
+     "name": "Mamo MENGISTU",
+     "nat": "ETH",
+     "athleteId": "15284441",
+     "slug": "ethiopia/mamo-mengistu-15284441",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:10:20",
+     "name": "Dadi Yami GEMEDA",
+     "nat": "ETH",
+     "athleteId": "14489601",
+     "slug": "ethiopia/dadi-yami-gemeda-14489601",
+     "birthDate": "1982",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 42
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:18:31",
+     "name": "Anchinalu DESSIE",
+     "nat": "ETH",
+     "athleteId": "15010432",
+     "slug": "ethiopia/anchinalu-dessie-15010432",
+     "birthDate": "09 JAN 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:18:43",
+     "name": "Muliye DEKEBO",
+     "nat": "ETH",
+     "athleteId": "14730758",
+     "slug": "ethiopia/muliye-dekebo-14730758",
+     "birthDate": "13 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:19:08",
+     "name": "Fantu WORKU",
+     "nat": "ETH",
+     "athleteId": "14751322",
+     "slug": "ethiopia/fantu-worku-14751322",
+     "birthDate": "29 MAR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:21:12",
+     "name": "Tiringo MULU",
+     "nat": "ETH",
+     "athleteId": "15228441",
+     "slug": "ethiopia/tiringo-mulu-15228441",
+     "birthDate": "23 FEB 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:21:52",
+     "name": "Maritu KETEMA",
+     "nat": "ETH",
+     "athleteId": "14774202",
+     "slug": "ethiopia/maritu-ketema-14774202",
+     "birthDate": "21 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:22:56",
+     "name": "Askale ALEMAHEYU",
+     "nat": "ETH",
+     "athleteId": "14592599",
+     "slug": "ethiopia/askale-alemaheyu-14592599",
+     "birthDate": "11 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:23:04",
+     "name": "Aberash SHILIMA",
+     "nat": "ETH",
+     "athleteId": "14988718",
+     "slug": "ethiopia/aberash-shilima-14988718",
+     "birthDate": "14 DEC 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:23:29",
+     "name": "Fantu SHUGI",
+     "nat": "ETH",
+     "athleteId": "15023021",
+     "slug": "ethiopia/fantu-shugi-15023021",
+     "birthDate": "18 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:23:30",
+     "name": "Elifinesh DEMISE",
+     "nat": "ETH",
+     "athleteId": "15186295",
+     "slug": "ethiopia/elifinesh-demise-15186295",
+     "birthDate": "07 AUG 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:23:52",
+     "name": "Abebech AFEWORK",
+     "nat": "ETH",
+     "athleteId": "14335998",
+     "slug": "ethiopia/abebech-afework-14335998",
+     "birthDate": "11 DEC 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:23:55",
+     "name": "Lemlem HAILU",
+     "nat": "ETH",
+     "athleteId": "14806061",
+     "slug": "ethiopia/lemlem-hailu-14806061",
+     "birthDate": "25 MAY 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:26:36",
+     "name": "Rediet DANIEL",
+     "nat": "ETH",
+     "athleteId": "14922318",
+     "slug": "ethiopia/rediet-daniel-14922318",
+     "birthDate": "14 JUN 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:26:48",
+     "name": "Tadelech BEKELE",
+     "nat": "ETH",
+     "athleteId": "14583674",
+     "slug": "ethiopia/tadelech-bekele-14583674",
+     "birthDate": "24 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:27:04",
+     "name": "Mimi BELETE",
+     "nat": "BRN",
+     "athleteId": "14270503",
+     "slug": "bahrain/mimi-belete-14270503",
+     "birthDate": "09 JUN 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:29:44",
+     "name": "Netsanet TAFERE",
+     "nat": "ETH",
+     "athleteId": "15119257",
+     "slug": "ethiopia/netsanet-tafere-15119257",
+     "birthDate": "10 MAR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:29:55",
+     "name": "Zinash MEKONEN",
+     "nat": "ETH",
+     "athleteId": "14810299",
+     "slug": "ethiopia/zinash-mekonen-14810299",
+     "birthDate": "11 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:30:49",
+     "name": "Melkam TESFAHUN",
+     "nat": "ETH",
+     "athleteId": "15150905",
+     "slug": "ethiopia/melkam-tesfahun-15150905",
+     "birthDate": "09 MAY 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:34:18",
+     "name": "Kekabo Chaltu SHUNA",
+     "nat": "ETH",
+     "athleteId": "14729669",
+     "slug": "ethiopia/kekabo-chaltu-shuna-14729669",
+     "birthDate": "20 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:41:24",
+     "name": "Bashanke BILO",
+     "nat": "ETH",
+     "athleteId": "14833104",
+     "slug": "ethiopia/bashanke-bilo-014833104",
+     "birthDate": "14 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:45:13",
+     "name": "Carla JOHNSON",
+     "nat": "RSA",
+     "athleteId": "15182785",
+     "slug": "south-africa/carla-johnson-15182785",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 24
+  }
+ ]
+}

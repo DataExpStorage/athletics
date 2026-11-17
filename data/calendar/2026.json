@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "source": "https://worldathletics.org/competitions/world-athletics-label-road-races",
  "labelRaceCounts": {
   "Label": 208,
@@ -9,6 +9,17 @@
   "Elite": 69
  },
  "races": [
+  {
+   "id": 7235984,
+   "name": "10K Valencia Ibercaja by Kiprun",
+   "venue": "Valencia (ESP)",
+   "country": "ESP",
+   "startDate": "2026-01-11",
+   "endDate": "2026-01-11",
+   "tier": "Extra",
+   "major": false,
+   "distance": "10km"
+  },
   {
    "id": 7236794,
    "name": "Aramco Houston Half Marathon",
@@ -98,6 +109,28 @@
    "distance": "marathon"
   },
   {
+   "id": 7236069,
+   "name": "78th Kagawa Marugame International Half Marathon",
+   "venue": "Marugame (JPN)",
+   "country": "JPN",
+   "startDate": "2026-02-01",
+   "endDate": "2026-02-01",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
+  },
+  {
+   "id": 7237510,
+   "name": "Dubai Marathon",
+   "venue": "Dubai (UAE)",
+   "country": "UAE",
+   "startDate": "2026-02-01",
+   "endDate": "2026-02-01",
+   "tier": "Extra",
+   "major": false,
+   "distance": "marathon"
+  },
+  {
    "id": 7237869,
    "name": "Burj2Burj Half Marathon",
    "venue": "Dubai (UAE)",
@@ -142,6 +175,28 @@
    "distance": "half-marathon"
   },
   {
+   "id": 7236004,
+   "name": "Zurich Maratón Sevilla",
+   "venue": "Sevilla (ESP)",
+   "country": "ESP",
+   "startDate": "2026-02-15",
+   "endDate": "2026-02-15",
+   "tier": "Extra",
+   "major": false,
+   "distance": "marathon"
+  },
+  {
+   "id": 7237361,
+   "name": "10K Facsa Castellón",
+   "venue": "Castellón (ESP)",
+   "country": "ESP",
+   "startDate": "2026-02-22",
+   "endDate": "2026-02-22",
+   "tier": "Extra",
+   "major": false,
+   "distance": "10km"
+  },
+  {
    "id": 7235573,
    "name": "Daegu Marathon",
    "venue": "Daegu (KOR)",
@@ -184,6 +239,17 @@
    "tier": "Platinum",
    "major": true,
    "distance": "marathon"
+  },
+  {
+   "id": 7236103,
+   "name": "EDP Lisbon Half Marathon",
+   "venue": "Lisboa (POR)",
+   "country": "POR",
+   "startDate": "2026-03-08",
+   "endDate": "2026-03-08",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
   },
   {
    "id": 7236072,
@@ -241,6 +307,28 @@
    "distance": "half-marathon"
   },
   {
+   "id": 7236008,
+   "name": "TotalEnergies Medio Maratón de Málaga",
+   "venue": "Málaga (ESP)",
+   "country": "ESP",
+   "startDate": "2026-03-15",
+   "endDate": "2026-03-15",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
+  },
+  {
+   "id": 7236009,
+   "name": "Zurich Marató de Barcelona",
+   "venue": "Barcelona (ESP)",
+   "country": "ESP",
+   "startDate": "2026-03-15",
+   "endDate": "2026-03-15",
+   "tier": "Extra",
+   "major": false,
+   "distance": "marathon"
+  },
+  {
    "id": 7235574,
    "name": "Wuxi Marathon",
    "venue": "Wuxi (CHN)",
@@ -252,6 +340,17 @@
    "distance": "marathon"
   },
   {
+   "id": 7237042,
+   "name": "Generali Berliner Halbmarathon",
+   "venue": "Berlin (GER)",
+   "country": "GER",
+   "startDate": "2026-03-29",
+   "endDate": "2026-03-29",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
+  },
+  {
    "id": 7235575,
    "name": "Yangzhou Half Marathon",
    "venue": "Yangzhou (CHN)",
@@ -261,6 +360,17 @@
    "tier": "Platinum",
    "major": false,
    "distance": "half-marathon"
+  },
+  {
+   "id": 7236174,
+   "name": "Urban Trail de Lille - 5 et 10km",
+   "venue": "Lille (FRA)",
+   "country": "FRA",
+   "startDate": "2026-04-04",
+   "endDate": "2026-04-04",
+   "tier": "Extra",
+   "distance": "10km",
+   "major": false
   },
   {
    "id": 7235576,
@@ -305,6 +415,17 @@
    "tier": "Platinum",
    "major": true,
    "distance": "marathon"
+  },
+  {
+   "id": 7241782,
+   "name": "40. Haspa Marathon Hamburg",
+   "venue": "Hamburg (GER)",
+   "country": "GER",
+   "startDate": "2026-04-26",
+   "endDate": "2026-04-26",
+   "tier": "Extra",
+   "distance": "marathon",
+   "major": false
   },
   {
    "id": 7236081,
@@ -373,6 +494,28 @@
    "distance": "10km"
   },
   {
+   "id": 7238724,
+   "name": "Antrim Coast Half Marathon",
+   "venue": "Larne (GBR)",
+   "country": "GBR",
+   "startDate": "2026-08-23",
+   "endDate": "2026-08-23",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
+  },
+  {
+   "id": 7243530,
+   "name": "Media Maratón Ciudad de Buenos Aires",
+   "venue": "Buenos Aires (ARG)",
+   "country": "ARG",
+   "startDate": "2026-08-23",
+   "endDate": "2026-08-23",
+   "tier": "Extra",
+   "major": false,
+   "distance": "half-marathon"
+  },
+  {
    "id": 7235589,
    "name": "Mexico City Marathon Telcel",
    "venue": "Ciudad de México (MEX)",
@@ -426,6 +569,17 @@
    "tier": "Gold",
    "major": false,
    "distance": "marathon"
+  },
+  {
+   "id": 7237512,
+   "name": "tRUNsylvania International 10K Brasov",
+   "venue": "Brasov (ROU)",
+   "country": "ROU",
+   "startDate": "2026-10-04",
+   "endDate": "2026-10-04",
+   "tier": "Extra",
+   "major": false,
+   "distance": "10km"
   },
   {
    "id": 7235563,
@@ -503,6 +657,17 @@
    "tier": "Gold",
    "major": false,
    "distance": "half-marathon"
+  },
+  {
+   "id": 7246125,
+   "name": "Mainova Frankfurt Marathon",
+   "venue": "Frankfurt (GER)",
+   "country": "GER",
+   "startDate": "2026-10-25",
+   "endDate": "2026-10-25",
+   "tier": "Extra",
+   "major": false,
+   "distance": "marathon"
   },
   {
    "id": 7236005,

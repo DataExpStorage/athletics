@@ -1,0 +1,465 @@
+{
+ "id": 7243530,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7243530",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "56:51",
+     "name": "Yomif KEJELCHA",
+     "nat": "ETH",
+     "athleteId": "14594967",
+     "slug": "ethiopia/yomif-kejelcha-14594967",
+     "birthDate": "01 AUG 1997",
+     "records": "WR, AR*",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "59:20",
+     "name": "Tadese WORKU",
+     "nat": "ETH",
+     "athleteId": "14566477",
+     "slug": "ethiopia/tadese-worku-14566477",
+     "birthDate": "20 JAN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:00:20",
+     "name": "Bereket NEGA",
+     "nat": "ETH",
+     "athleteId": "14968507",
+     "slug": "ethiopia/bereket-nega-14968507",
+     "birthDate": "25 SEP 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:00:21",
+     "name": "Jonathan Kipkoech KAMOSONG",
+     "nat": "KEN",
+     "athleteId": "14808790",
+     "slug": "kenya/jonathan-kipkoech-kamosong-14808790",
+     "birthDate": "12 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:00:57",
+     "name": "Simon MAYWA",
+     "nat": "KEN",
+     "athleteId": "15042023",
+     "slug": "kenya/simon-maywa-15042023",
+     "birthDate": "17 APR 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:00:59",
+     "name": "Ignacio ERARIO",
+     "nat": "ARG",
+     "athleteId": "14734322",
+     "slug": "argentina/ignacio-erario-14734322",
+     "birthDate": "19 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:01:09",
+     "name": "Dillon KIPYEKO",
+     "nat": "UGA",
+     "athleteId": "15307304",
+     "slug": "uganda/dillon-kipyeko-15307304",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:02:03",
+     "name": "Robert Kiprop KOECH",
+     "nat": "KEN",
+     "athleteId": "14802642",
+     "slug": "kenya/robert-kiprop-koech-14802642",
+     "birthDate": "25 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:03:21",
+     "name": "Julio Alberto ORTIZ PONCE",
+     "nat": "MEX",
+     "athleteId": "14594981",
+     "slug": "mexico/julio-alberto-ortiz-ponce-14594981",
+     "birthDate": "26 AUG 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:03:38",
+     "name": "Jimmy GOMEZ",
+     "nat": "ECU",
+     "athleteId": "14697750",
+     "slug": "ecuador/jimmy-gomez-14697750",
+     "birthDate": "25 APR 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:03:47",
+     "name": "Matías SILVA",
+     "nat": "CHI",
+     "athleteId": "14438221",
+     "slug": "chile/matias-silva-14438221",
+     "birthDate": "27 OCT 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:03:56",
+     "name": "Manuel CORSICO",
+     "nat": "ARG",
+     "athleteId": "14859475",
+     "slug": "argentina/manuel-corsico-14859475",
+     "birthDate": "28 OCT 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:03:57",
+     "name": "Gebretsadik ABRAHA",
+     "nat": "ETH",
+     "athleteId": "14413321",
+     "slug": "ethiopia/gebretsadik-abraha-14413321",
+     "birthDate": "16 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:04:11",
+     "name": "Lautaro IRAOLA",
+     "nat": "ARG",
+     "athleteId": "14750515",
+     "slug": "argentina/lautaro-iraola-14750515",
+     "birthDate": "05 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:04:12",
+     "name": "Juan Ignacio DUTARY",
+     "nat": "ARG",
+     "athleteId": "14889138",
+     "slug": "argentina/juan-ignacio-dutary-14889138",
+     "birthDate": "16 APR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:04:23",
+     "name": "Eulalio MUNOZ",
+     "nat": "ARG",
+     "athleteId": "14594126",
+     "slug": "argentina/eulalio-munoz-14594126",
+     "birthDate": "16 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:04:54",
+     "name": "Alexis CORRIAS",
+     "nat": "ARG",
+     "athleteId": "14468972",
+     "slug": "argentina/alexis-corrias-14468972",
+     "birthDate": "27 JUN 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:05:00",
+     "name": "Ezequiel CHAVARRIA",
+     "nat": "ARG",
+     "athleteId": "14935066",
+     "slug": "argentina/ezequiel-chavarria-14935066",
+     "birthDate": "18 APR 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:05:02",
+     "name": "Joaquin ARBE",
+     "nat": "ARG",
+     "athleteId": "14180528",
+     "slug": "argentina/joaquin-arbe-14180528",
+     "birthDate": "25 AUG 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:05:09",
+     "name": "Miguel MAZA",
+     "nat": "ARG",
+     "athleteId": "14978882",
+     "slug": "argentina/miguel-maza-14978882",
+     "birthDate": "25 JUL 1991",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 79
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:03:57",
+     "name": "Fotyen TESFAY",
+     "nat": "ETH",
+     "athleteId": "14679812",
+     "slug": "ethiopia/fotyen-tesfay-14679812",
+     "birthDate": "17 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:05:06",
+     "name": "Nelvin JEPKEMBOI",
+     "nat": "KEN",
+     "athleteId": "15117582",
+     "slug": "kenya/nelvin-jepkemboi-15117582",
+     "birthDate": "23 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:05:11",
+     "name": "Catherine Reline AMANANG'OLE",
+     "nat": "KEN",
+     "athleteId": "14798255",
+     "slug": "kenya/catherine-reline-amanangole-14798255",
+     "birthDate": "05 OCT 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:06:04",
+     "name": "Irine Jepchumba KIMAIS",
+     "nat": "KEN",
+     "athleteId": "14859612",
+     "slug": "kenya/irine-jepchumba-kimais-14859612",
+     "birthDate": "10 OCT 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:06:13",
+     "name": "Sheila CHEPKIRUI",
+     "nat": "KEN",
+     "athleteId": "15221351",
+     "slug": "kenya/sheila-chepkirui-15221351",
+     "birthDate": "12 APR 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:06:46",
+     "name": "Margaret AKIDOR",
+     "nat": "KEN",
+     "athleteId": "14798242",
+     "slug": "kenya/margaret-akidor-14798242",
+     "birthDate": "26 JUN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:08:32",
+     "name": "Deborah SAMUM",
+     "nat": "KEN",
+     "athleteId": "14749931",
+     "slug": "kenya/deborah-samum-014749931",
+     "birthDate": "27 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:11:13",
+     "name": "Nubia DE OLIVEIRA SILVA",
+     "nat": "BRA",
+     "athleteId": "14952824",
+     "slug": "brazil/nubia-de-oliveira-silva-14952824",
+     "birthDate": "06 APR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:11:21",
+     "name": "Sofia LUNA",
+     "nat": "ARG",
+     "athleteId": "14382005",
+     "slug": "argentina/sofia-luna-14382005",
+     "birthDate": "27 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:11:28",
+     "name": "Dahayana JUAREZ",
+     "nat": "ARG",
+     "athleteId": "14962879",
+     "slug": "argentina/dahayana-juarez-14962879",
+     "birthDate": "12 JUL 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:12:17",
+     "name": "Marla Elena VALTIERRA",
+     "nat": "MEX",
+     "athleteId": "14974295",
+     "slug": "mexico/marla-elena-valtierra-14974295",
+     "birthDate": "11 JAN 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:12:38",
+     "name": "Chiara Milena MAINETTI",
+     "nat": "ARG",
+     "athleteId": "14787521",
+     "slug": "argentina/chiara-milena-mainetti-14787521",
+     "birthDate": "08 JUN 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:13:53",
+     "name": "Angela Sofia GOMEZ",
+     "nat": "ARG",
+     "athleteId": "15004907",
+     "slug": "argentina/angela-sofia-gomez-15004907",
+     "birthDate": "24 MAY 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:13:57",
+     "name": "Renata DOLHARE",
+     "nat": "ARG",
+     "athleteId": "15085311",
+     "slug": "argentina/renata-dolhare-15085311",
+     "birthDate": "14 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:15:19",
+     "name": "Marcela Cristina GOMEZ",
+     "nat": "ARG",
+     "athleteId": "14435728",
+     "slug": "argentina/marcela-cristina-gomez-14435728",
+     "birthDate": "19 FEB 1984",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:16:26",
+     "name": "Natacha Anahi CASTAÑO",
+     "nat": "ARG",
+     "athleteId": "15043770",
+     "slug": "argentina/natacha-anahi-castano-15043770",
+     "birthDate": "14 JUL 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:16:42",
+     "name": "Fernanda OROPEL",
+     "nat": "ARG",
+     "athleteId": "14857183",
+     "slug": "argentina/fernanda-oropel-14857183",
+     "birthDate": "04 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:17:05",
+     "name": "Mercedes PIREDDA",
+     "nat": "ARG",
+     "athleteId": "15176364",
+     "slug": "argentina/mercedes-piredda-15176364",
+     "birthDate": "15 AUG 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:17:11",
+     "name": "Antonella GUERRERO",
+     "nat": "ARG",
+     "athleteId": "14795925",
+     "slug": "argentina/antonella-guerrero-14795925",
+     "birthDate": "16 JUL 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:17:18",
+     "name": "Alice LIMA",
+     "nat": "BRA",
+     "athleteId": "15052630",
+     "slug": "brazil/alice-lima-15052630",
+     "birthDate": "07 SEP 1993",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 64
+  }
+ ]
+}

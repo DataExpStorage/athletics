@@ -1,0 +1,465 @@
+{
+ "id": 7238724,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7238724",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "58:26",
+     "name": "Isaia Kipkoech LASOI",
+     "nat": "KEN",
+     "athleteId": "15068854",
+     "slug": "kenya/isaia-kipkoech-lasoi-15068854",
+     "birthDate": "12 OCT 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "58:30",
+     "name": "Daniel MATEIKO",
+     "nat": "KEN",
+     "athleteId": "14916367",
+     "slug": "kenya/daniel-mateiko-14916367",
+     "birthDate": "04 AUG 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:00:39",
+     "name": "Vincent KIPKORIR",
+     "nat": "KEN",
+     "athleteId": "15226978",
+     "slug": "kenya/vincent-kipkorir-15226978",
+     "birthDate": "25 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:01:02",
+     "name": "Samwel Chebolei MASAI",
+     "nat": "KEN",
+     "athleteId": "14798170",
+     "slug": "kenya/samwel-chebolei-masai-14798170",
+     "birthDate": "20 MAR 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:01:06",
+     "name": "Yismaw DILLU",
+     "nat": "ETH",
+     "athleteId": "15058747",
+     "slug": "ethiopia/yismaw-dillu-15058747",
+     "birthDate": "11 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:01:06",
+     "name": "Adam LIPSCHITZ",
+     "nat": "RSA",
+     "athleteId": "14520934",
+     "slug": "south-africa/adam-lipschitz-14520934",
+     "birthDate": "01 JAN 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:01:15",
+     "name": "Amos Kipkurui LANGAT",
+     "nat": "KEN",
+     "athleteId": "15090403",
+     "slug": "kenya/amos-kipkurui-langat-15090403",
+     "birthDate": "05 MAY 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:01:19",
+     "name": "James WHELAN",
+     "nat": "AUS",
+     "athleteId": "14731199",
+     "slug": "australia/james-whelan-14731199",
+     "birthDate": "11 JUL 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:01:27",
+     "name": "Edward CHESEREK",
+     "nat": "KEN",
+     "athleteId": "14463987",
+     "slug": "kenya/edward-cheserek-14463987",
+     "birthDate": "02 FEB 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:01:30",
+     "name": "Galen RUPP",
+     "nat": "USA",
+     "athleteId": "14250207",
+     "slug": "united-states/galen-rupp-14250207",
+     "birthDate": "08 MAY 1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:02:07",
+     "name": "Hiko Tonosa HASO",
+     "nat": "IRL",
+     "athleteId": "14760034",
+     "slug": "ireland/hiko-tonosa-haso-14760034",
+     "birthDate": "09 OCT 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:02:25",
+     "name": "Marc SCOTT",
+     "nat": "GBR",
+     "athleteId": "14497504",
+     "slug": "great-britain-ni/marc-scott-14497504",
+     "birthDate": "21 DEC 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:03:17",
+     "name": "Andrew FYFE",
+     "nat": "GBR",
+     "athleteId": "14843520",
+     "slug": "great-britain-ni/andrew-fyfe-014843520",
+     "birthDate": "07 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:03:56",
+     "name": "Kurt TAYLOR",
+     "nat": "GBR",
+     "athleteId": "14842376",
+     "slug": "great-britain-ni/kurt-taylor-14842376",
+     "birthDate": "16 JUL 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:04:06",
+     "name": "Hamish HICKEY",
+     "nat": "GBR",
+     "athleteId": "14922529",
+     "slug": "great-britain-ni/hamish-hickey-14922529",
+     "birthDate": "28 OCT 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:04:08",
+     "name": "Sean HOGAN",
+     "nat": "GBR",
+     "athleteId": "14382786",
+     "slug": "great-britain-ni/sean-hogan-14382786",
+     "birthDate": "17 JUL 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:04:26",
+     "name": "Sam GABRIËLS",
+     "nat": "BEL",
+     "athleteId": "15117807",
+     "slug": "belgium/sam-gabriels-15117807",
+     "birthDate": "1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:04:29",
+     "name": "Lawrence MCCOURT",
+     "nat": "GBR",
+     "athleteId": "14527042",
+     "slug": "great-britain-ni/lawrence-mccourt-14527042",
+     "birthDate": "05 JUN 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:04:30",
+     "name": "Ryan THOMSON",
+     "nat": "GBR",
+     "athleteId": "14524850",
+     "slug": "great-britain-ni/ryan-thomson-014524850",
+     "birthDate": "21 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:04:32",
+     "name": "Stephen MCAULEY",
+     "nat": "GBR",
+     "athleteId": "15177173",
+     "slug": "great-britain-ni/stephen-mcauley-15177173",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 64
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:06:12",
+     "name": "Girmawit GEBRZIHAIR",
+     "nat": "ETH",
+     "athleteId": "14848733",
+     "slug": "ethiopia/girmawit-gebrzihair-14848733",
+     "birthDate": "21 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:07:03",
+     "name": "Winnie Jepkosgei KIMUTAI",
+     "nat": "KEN",
+     "athleteId": "14798241",
+     "slug": "kenya/winnie-jepkosgei-kimutai-14798241",
+     "birthDate": "06 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:07:12",
+     "name": "Wede KEFALE",
+     "nat": "ETH",
+     "athleteId": "14786747",
+     "slug": "ethiopia/wede-kefale-14786747",
+     "birthDate": "02 MAR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:08:44",
+     "name": "Degitu AZIMERAW",
+     "nat": "ETH",
+     "athleteId": "14785042",
+     "slug": "ethiopia/degitu-azimeraw-14785042",
+     "birthDate": "24 JAN 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:08:47",
+     "name": "Dakotah POPEHN",
+     "nat": "USA",
+     "athleteId": "14644196",
+     "slug": "united-states/dakotah-popehn-14644196",
+     "birthDate": "01 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:12:00",
+     "name": "Emily HAGGARD-KEARNEY",
+     "nat": "IRL",
+     "athleteId": "14524965",
+     "slug": "ireland/emily-haggard-kearney-14524965",
+     "birthDate": "10 NOV 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:12:47",
+     "name": "Verity HOPKINS",
+     "nat": "GBR",
+     "athleteId": "14994163",
+     "slug": "great-britain-ni/verity-hopkins-14994163",
+     "birthDate": "04 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:12:51",
+     "name": "Alice WRIGHT",
+     "nat": "GBR",
+     "athleteId": "15071634",
+     "slug": "great-britain-ni/alice-wright-15071634",
+     "birthDate": "17 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:13:02",
+     "name": "Sanna MUSTONEN",
+     "nat": "SWE",
+     "athleteId": "14302228",
+     "slug": "sweden/sanna-mustonen-14302228",
+     "birthDate": "06 DEC 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:13:12",
+     "name": "Rebecca WESTON",
+     "nat": "GBR",
+     "athleteId": "14373077",
+     "slug": "great-britain-ni/rebecca-weston-014373077",
+     "birthDate": "29 JUL 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:13:34",
+     "name": "Chelsea BAKER",
+     "nat": "GBR",
+     "athleteId": "15018786",
+     "slug": "great-britain-ni/chelsea-baker-15018786",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:13:42",
+     "name": "Kate ESTLEA-MORRIS",
+     "nat": "GBR",
+     "athleteId": "15002091",
+     "slug": "great-britain-ni/kate-estlea-morris-15002091",
+     "birthDate": "20 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:14:08",
+     "name": "Cheryl NOLAN",
+     "nat": "IRL",
+     "athleteId": "14515686",
+     "slug": "ireland/cheryl-nolan-14515686",
+     "birthDate": "12 NOV 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:14:18",
+     "name": "Stephie PENNYCOOK",
+     "nat": "GBR",
+     "athleteId": "14516217",
+     "slug": "great-britain-ni/stephie-pennycook-14516217",
+     "birthDate": "01 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:15:23",
+     "name": "Emily MARCHANT-PITT",
+     "nat": "GBR",
+     "athleteId": "15008282",
+     "slug": "great-britain-ni/emily-marchant-pitt-15008282",
+     "birthDate": "07 AUG 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:16:03",
+     "name": "Eden O'DEA",
+     "nat": "GBR",
+     "athleteId": "14927848",
+     "slug": "great-britain-ni/eden-odea-14927848",
+     "birthDate": "01 JUN 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:16:58",
+     "name": "Brigid DENNEHY",
+     "nat": "NZL",
+     "athleteId": "14924673",
+     "slug": "new-zealand/brigid-dennehy-14924673",
+     "birthDate": "23 AUG 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:17:10",
+     "name": "Katrina BALLANTYNE",
+     "nat": "GBR",
+     "athleteId": "15050221",
+     "slug": "great-britain-ni/katrina-ballantyne-15050221",
+     "birthDate": "23 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:17:34",
+     "name": "Dearbhla COX",
+     "nat": "GBR",
+     "athleteId": "15030711",
+     "slug": "great-britain-ni/dearbhla-cox-15030711",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:17:37",
+     "name": "Laura SANDGAARD",
+     "nat": "DEN",
+     "athleteId": "15046253",
+     "slug": "denmark/laura-sandgaard-15046253",
+     "birthDate": "28 AUG 1999",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 47
+  }
+ ]
+}

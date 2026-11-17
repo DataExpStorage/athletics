@@ -1,0 +1,465 @@
+{
+ "id": 7236008,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236008",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:30",
+     "name": "Vincent KIPKORIR",
+     "nat": "KEN",
+     "athleteId": "15226978",
+     "slug": "kenya/vincent-kipkorir-15226978",
+     "birthDate": "25 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:00:16",
+     "name": "Shadrack NGUMBAU",
+     "nat": "KEN",
+     "athleteId": "14692941",
+     "slug": "kenya/shadrack-ngumbau-14692941",
+     "birthDate": "02 APR 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:01:29",
+     "name": "Matthew Kipkoech KIPRUTO",
+     "nat": "KEN",
+     "athleteId": "14989890",
+     "slug": "kenya/matthew-kipkoech-kipruto-14989890",
+     "birthDate": "24 AUG 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:01:30",
+     "name": "Daniel Kosen TUMAKA",
+     "nat": "KEN",
+     "athleteId": "14989657",
+     "slug": "kenya/daniel-kosen-tumaka-14989657",
+     "birthDate": "05 OCT 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:04:15",
+     "name": "Kuma DEJENE",
+     "nat": "ETH",
+     "athleteId": "15054323",
+     "slug": "ethiopia/kuma-dejene-15054323",
+     "birthDate": "29 JUL 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:06:00",
+     "name": "Kiruhura Emmanuel NTAGUNGA",
+     "nat": "ART",
+     "athleteId": "14587645",
+     "slug": "athlete-refugee-team/kiruhura-emmanuel-ntagunga-14587645",
+     "birthDate": "25 DEC 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:06:01",
+     "name": "Abdelfatah DALAL JIRARI",
+     "nat": "ESP",
+     "athleteId": "14733006",
+     "slug": "spain/abdelfatah-dalal-jirari-14733006",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:06:40",
+     "name": "Alberto CASAS",
+     "nat": "ESP",
+     "athleteId": "14779019",
+     "slug": "spain/alberto-casas-14779019",
+     "birthDate": "08 DEC 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:06:44",
+     "name": "Abdennasser OUKHELFEN",
+     "nat": "ESP",
+     "athleteId": "14512703",
+     "slug": "spain/abdennasser-oukhelfen-14512703",
+     "birthDate": "07 JAN 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:06:44",
+     "name": "Daniel GARCIA",
+     "nat": "ESP",
+     "athleteId": "14981020",
+     "slug": "spain/daniel-garcia-14981020",
+     "birthDate": "21 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:06:45",
+     "name": "Liam ALDRIDGE",
+     "nat": "GBR",
+     "athleteId": "14918937",
+     "slug": "great-britain-ni/liam-aldridge-14918937",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:06:53",
+     "name": "Alejandro FERNANDEZ",
+     "nat": "ESP",
+     "athleteId": "15275166",
+     "slug": "spain/alejandro-fernandez-15275166",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:07:46",
+     "name": "Håvard LANGELAND",
+     "nat": "NOR",
+     "athleteId": "15261350",
+     "slug": "norway/havard-langeland-15261350",
+     "birthDate": "18 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:07:57",
+     "name": "Adam MIHALOV",
+     "nat": "SVK",
+     "athleteId": "15006075",
+     "slug": "slovak-republic/adam-mihalov-15006075",
+     "birthDate": "1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:07:58",
+     "name": "Pierre CHARMION",
+     "nat": "FRA",
+     "athleteId": "15076610",
+     "slug": "france/pierre-charmion-15076610",
+     "birthDate": "07 SEP 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:08:18",
+     "name": "Cameron HANNON",
+     "nat": "GBR",
+     "athleteId": "15179737",
+     "slug": "great-britain-ni/cameron-hannon-15179737",
+     "birthDate": "29 MAY 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:08:35",
+     "name": "Abdalla Targan YOUSIF",
+     "nat": "SUD",
+     "athleteId": "14689952",
+     "slug": "sudan/abdalla-targan-yousif-14689952",
+     "birthDate": "28 SEP 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:08:58",
+     "name": "Carlos RODRIGUEZ",
+     "nat": "ESP",
+     "athleteId": "14815497",
+     "slug": "spain/carlos-rodriguez-14815497",
+     "birthDate": "25 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:09:04",
+     "name": "Wendelin MÖRTENDORFER",
+     "nat": "AUT",
+     "athleteId": "15074115",
+     "slug": "austria/wendelin-mortendorfer-15074115",
+     "birthDate": "1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:09:15",
+     "name": "Christian MATHYS",
+     "nat": "SUI",
+     "athleteId": "14450478",
+     "slug": "switzerland/christian-mathys-14450478",
+     "birthDate": "13 MAR 1987",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 51
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:06:33",
+     "name": "Esther CHEBET",
+     "nat": "UGA",
+     "athleteId": "14677914",
+     "slug": "uganda/esther-chebet-14677914",
+     "birthDate": "09 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:06:43",
+     "name": "Klara LUKAN",
+     "nat": "SLO",
+     "athleteId": "14605811",
+     "slug": "slovenia/klara-lukan-14605811",
+     "birthDate": "08 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:08:02",
+     "name": "Winnie Jepkosgei KIMUTAI",
+     "nat": "KEN",
+     "athleteId": "14798241",
+     "slug": "kenya/winnie-jepkosgei-kimutai-14798241",
+     "birthDate": "06 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:08:55",
+     "name": "Abigael CHEPKOECH",
+     "nat": "KEN",
+     "athleteId": "15180675",
+     "slug": "kenya/abigael-chepkoech-15180675",
+     "birthDate": "17 MAR 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:09:22",
+     "name": "Marta GALIMANY",
+     "nat": "ESP",
+     "athleteId": "14329379",
+     "slug": "spain/marta-galimany-14329379",
+     "birthDate": "05 OCT 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:11:18",
+     "name": "Poppy TANK",
+     "nat": "GBR",
+     "athleteId": "14473353",
+     "slug": "great-britain-ni/poppy-tank-14473353",
+     "birthDate": "05 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:12:29",
+     "name": "Salome BRUN",
+     "nat": "FRA",
+     "athleteId": "15049169",
+     "slug": "france/salome-brun-15049169",
+     "birthDate": "04 JAN 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:14:29",
+     "name": "Maria UREÑA",
+     "nat": "ESP",
+     "athleteId": "14481724",
+     "slug": "spain/maria-urena-14481724",
+     "birthDate": "16 NOV 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:15:46",
+     "name": "Ariadna FENES",
+     "nat": "AND",
+     "athleteId": "15072281",
+     "slug": "andorra/ariadna-fenes-15072281",
+     "birthDate": "16 MAR 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:15:56",
+     "name": "Johanna BÄCKLUND",
+     "nat": "SWE",
+     "athleteId": "14537583",
+     "slug": "sweden/johanna-backlund-014537583",
+     "birthDate": "09 JUN 1985",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:17:52",
+     "name": "Eva SERENA",
+     "nat": "ITA",
+     "athleteId": "14381819",
+     "slug": "italy/eva-serena-14381819",
+     "birthDate": "1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:20:23",
+     "name": "Hannah LEWIS",
+     "nat": "GBR",
+     "athleteId": "15260969",
+     "slug": "great-britain-ni/hannah-lewis-15260969",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:21:07",
+     "name": "Abigail HALCARZ",
+     "nat": "GBR",
+     "athleteId": "15302172",
+     "slug": "great-britain-ni/abigail-halcarz-15302172",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:21:34",
+     "name": "Lisa JULIEN",
+     "nat": "ITA",
+     "athleteId": "15142604",
+     "slug": "italy/lisa-julien-15142604",
+     "birthDate": "1986",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:21:48",
+     "name": "Sonsoles PANADERO",
+     "nat": "ESP",
+     "athleteId": "15053137",
+     "slug": "spain/sonsoles-panadero-15053137",
+     "birthDate": "24 NOV 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:21:54",
+     "name": "Linnéa Valhovd HOVE",
+     "nat": "NOR",
+     "athleteId": "15169023",
+     "slug": "norway/linnea-valhovd-hove-15169023",
+     "birthDate": "01 JUN 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:22:08",
+     "name": "Cristina SALAZAR",
+     "nat": "ESP",
+     "athleteId": "15139219",
+     "slug": "spain/cristina-salazar-15139219",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:22:51",
+     "name": "Polly MORELAND",
+     "nat": "GBR",
+     "athleteId": "15263377",
+     "slug": "great-britain-ni/polly-moreland-15263377",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:22:57",
+     "name": "Andrea DE LA TORRE",
+     "nat": "ESP",
+     "athleteId": "14753351",
+     "slug": "spain/andrea-de-la-torre-14753351",
+     "birthDate": "06 MAY 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:23:03",
+     "name": "Teodora DELCHEVA",
+     "nat": "BUL",
+     "athleteId": "15187997",
+     "slug": "bulgaria/teodora-delcheva-15187997",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 44
+  }
+ ]
+}

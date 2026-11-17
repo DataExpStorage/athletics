@@ -25,7 +25,7 @@ import os
 import wa
 
 FOCUS = os.path.join(wa.DATA, "focus")
-LEVEL_ORDER = {"major": 0, "platinum": 3, "championship": 3, "gold": 6}
+LEVEL_ORDER = {"major": 0, "platinum": 3, "championship": 3, "gold": 6, "extra": 7}
 
 
 def focus_path(season):
@@ -39,7 +39,7 @@ def load(season):
 def race_level(race):
     if race.get("major"):
         return "major"
-    return {"Platinum": "platinum", "Gold": "gold", "Championship": "championship"}.get(race.get("tier"))
+    return {"Platinum": "platinum", "Gold": "gold", "Championship": "championship", "Extra": "extra"}.get(race.get("tier"))
 
 
 def race_top(rule, race, event):
@@ -47,6 +47,8 @@ def race_top(rule, race, event):
     level = race_level(race)
     if level == "championship":
         return (rule.get("championship_top") or {}).get(event.get("distance"), 0)
+    if level == "extra" and event.get("distance") != race.get("distance"):
+        return 0  # an extra race counts only at the distance it was chosen for (e.g. not Lille's 5 km)
     return rule.get("%s_top" % level, 0) if level else 0
 
 

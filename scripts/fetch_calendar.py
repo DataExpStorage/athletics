@@ -5,6 +5,7 @@ season if it is active (see wa.active_seasons); calendars already stored for oth
 seasons are kept as they are.
 """
 import os
+import unicodedata
 
 import wa
 
@@ -16,6 +17,19 @@ def is_major(cfg, name, tier, distance):
         return False
     low = name.lower()
     return any(key.lower() in low for key in cfg["majors"])
+
+
+def plain(text):
+    return unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode().lower()
+
+
+def match_extra(cfg, event):
+    """The extra_label_races entry this label race matches, if any."""
+    name, venue = plain(event.get("name")), plain(event.get("venue"))
+    for x in cfg.get("extra_label_races", []):
+        if x["city"] in venue and all(k in name for k in x["include"]) and not any(k in name for k in x.get("exclude", [])):
+            return x
+    return None
 
 
 def save_season(cfg, season, cal):
@@ -31,9 +45,13 @@ def save_season(cfg, season, cal):
         except (KeyError, TypeError, ValueError):
             continue
         all_tiers[tier] = all_tiers.get(tier, 0) + 1
+        extra = None
         if tier not in cfg["tiers"]:
-            continue
-        distance = overrides.get(str(e["id"])) or wa.distance_from_name(e["name"])
+            extra = match_extra(cfg, e)
+            if not extra:
+                continue
+            tier = "Extra"
+        distance = (extra or {}).get("distance") or overrides.get(str(e["id"])) or wa.distance_from_name(e["name"])
         races.append({
             "id": e["id"],
             "name": e["name"],

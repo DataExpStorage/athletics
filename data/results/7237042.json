@@ -1,0 +1,465 @@
+{
+ "id": 7237042,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7237042",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:11",
+     "name": "Andrea KIPTOO",
+     "nat": "KEN",
+     "athleteId": "15266477",
+     "slug": "kenya/andrea-kiptoo-15266477",
+     "birthDate": "12 FEB 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "59:11",
+     "name": "Dennis KIPKEMOI KIPKOGEI",
+     "nat": "KEN",
+     "athleteId": "15198208",
+     "slug": "kenya/dennis-kipkemoi-kipkogei-15198208",
+     "birthDate": "07 AUG 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "59:22",
+     "name": "Amanal PETROS",
+     "nat": "GER",
+     "athleteId": "14572523",
+     "slug": "germany/amanal-petros-14572523",
+     "birthDate": "17 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "59:23",
+     "name": "Dominic Lokinyomo LOBALU",
+     "nat": "SUI",
+     "athleteId": "14792211",
+     "slug": "switzerland/dominic-lokinyomo-lobalu-14792211",
+     "birthDate": "16 AUG 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "59:27",
+     "name": "Etienne DAGUINOS",
+     "nat": "FRA",
+     "athleteId": "14756540",
+     "slug": "france/etienne-daguinos-14756540",
+     "birthDate": "15 FEB 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "59:43",
+     "name": "Bereket NEGA",
+     "nat": "ETH",
+     "athleteId": "14968507",
+     "slug": "ethiopia/bereket-nega-14968507",
+     "birthDate": "25 SEP 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "59:51",
+     "name": "Robert Kiprop KOECH",
+     "nat": "KEN",
+     "athleteId": "14802642",
+     "slug": "kenya/robert-kiprop-koech-14802642",
+     "birthDate": "25 FEB 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:00:09",
+     "name": "Bastien AUGUSTO",
+     "nat": "FRA",
+     "athleteId": "14869306",
+     "slug": "france/bastien-augusto-14869306",
+     "birthDate": "10 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:00:23",
+     "name": "Célestin NDIKUMANA",
+     "nat": "BDI",
+     "athleteId": "14993101",
+     "slug": "burundi/celestin-ndikumana-14993101",
+     "birthDate": "22 FEB 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:00:24",
+     "name": "Said MECHAAL",
+     "nat": "ESP",
+     "athleteId": "14708419",
+     "slug": "spain/said-mechaal-14708419",
+     "birthDate": "23 MAY 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:00:33",
+     "name": "Hikaru TUJIHARA",
+     "nat": "JPN",
+     "athleteId": "14962606",
+     "slug": "japan/hikaru-tujihara-14962606",
+     "birthDate": "20 SEP 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:00:33",
+     "name": "Ayensa ALEMU",
+     "nat": "ETH",
+     "athleteId": "14975229",
+     "slug": "ethiopia/ayensa-alemu-14975229",
+     "birthDate": "16 AUG 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:01:06",
+     "name": "Gideon KIPROTICH",
+     "nat": "KEN",
+     "athleteId": "15113614",
+     "slug": "kenya/gideon-kiprotich-15113614",
+     "birthDate": "03 OCT 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:01:12",
+     "name": "Yuta ASANO",
+     "nat": "JPN",
+     "athleteId": "15048938",
+     "slug": "japan/yuta-asano-15048938",
+     "birthDate": "07 NOV 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:01:13",
+     "name": "Weldon LANGAT",
+     "nat": "KEN",
+     "athleteId": "14922144",
+     "slug": "kenya/weldon-langat-14922144",
+     "birthDate": "24 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:01:21",
+     "name": "Philip SESEMANN",
+     "nat": "GBR",
+     "athleteId": "14423383",
+     "slug": "great-britain-ni/philip-sesemann-14423383",
+     "birthDate": "03 OCT 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:01:24",
+     "name": "Alberto GONZALEZ MINDEZ",
+     "nat": "GUA",
+     "athleteId": "14718785",
+     "slug": "guatemala/alberto-gonzalez-mindez-14718785",
+     "birthDate": "28 FEB 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:01:29",
+     "name": "Andrew ALEXANDER",
+     "nat": "CAN",
+     "athleteId": "14740545",
+     "slug": "canada/andrew-alexander-14740545",
+     "birthDate": "10 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:01:29",
+     "name": "Matthias KYBURZ",
+     "nat": "SUI",
+     "athleteId": "14542001",
+     "slug": "switzerland/matthias-kyburz-14542001",
+     "birthDate": "05 MAR 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:01:30",
+     "name": "Hikaru OGAWARA",
+     "nat": "JPN",
+     "athleteId": "15048115",
+     "slug": "japan/hikaru-ogawara-15048115",
+     "birthDate": "05 NOV 2005",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 210
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:05:07",
+     "name": "Likina AMEBAW",
+     "nat": "ETH",
+     "athleteId": "14877871",
+     "slug": "ethiopia/likina-amebaw-14877871",
+     "birthDate": "30 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:05:21",
+     "name": "Daisilah JERONO",
+     "nat": "KEN",
+     "athleteId": "15092325",
+     "slug": "kenya/daisilah-jerono-15092325",
+     "birthDate": "16 NOV 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:05:35",
+     "name": "Veronica LOLEO",
+     "nat": "KEN",
+     "athleteId": "15040766",
+     "slug": "kenya/veronica-loleo-15040766",
+     "birthDate": "18 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:07:22",
+     "name": "Florence NIYONKURU",
+     "nat": "RWA",
+     "athleteId": "15098714",
+     "slug": "rwanda/florence-niyonkuru-15098714",
+     "birthDate": "01 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:07:25",
+     "name": "Esther PFEIFFER",
+     "nat": "GER",
+     "athleteId": "14545770",
+     "slug": "germany/esther-pfeiffer-14545770",
+     "birthDate": "04 SEP 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:07:32",
+     "name": "Chloé HERBIET",
+     "nat": "BEL",
+     "athleteId": "14763815",
+     "slug": "belgium/chloe-herbiet-14763815",
+     "birthDate": "03 DEC 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:07:56",
+     "name": "Eva DIETERICH",
+     "nat": "GER",
+     "athleteId": "14752369",
+     "slug": "germany/eva-dieterich-14752369",
+     "birthDate": "29 MAR 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:08:30",
+     "name": "Carla GALLARDO",
+     "nat": "ESP",
+     "athleteId": "14688215",
+     "slug": "spain/carla-gallardo-14688215",
+     "birthDate": "09 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:08:35",
+     "name": "Domenika MAYER",
+     "nat": "GER",
+     "athleteId": "14537637",
+     "slug": "germany/domenika-mayer-14537637",
+     "birthDate": "09 OCT 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:08:38",
+     "name": "Elvanie NIMBONA",
+     "nat": "ITA",
+     "athleteId": "14660411",
+     "slug": "italy/elvanie-nimbona-14660411",
+     "birthDate": "15 MAR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:08:38",
+     "name": "Samantha HARRISON",
+     "nat": "GBR",
+     "athleteId": "14890196",
+     "slug": "great-britain-ni/samantha-harrison-14890196",
+     "birthDate": "01 FEB 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:08:40",
+     "name": "Lisa ROOMS",
+     "nat": "BEL",
+     "athleteId": "14527618",
+     "slug": "belgium/lisa-rooms-14527618",
+     "birthDate": "17 JUN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:08:59",
+     "name": "Gesa Felicitas KRAUSE",
+     "nat": "GER",
+     "athleteId": "14329341",
+     "slug": "germany/gesa-felicitas-krause-14329341",
+     "birthDate": "03 AUG 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:09:25",
+     "name": "Leonie PERIAULT",
+     "nat": "FRA",
+     "athleteId": "14524044",
+     "slug": "france/leonie-periault-14524044",
+     "birthDate": "31 JUL 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:09:30",
+     "name": "Meritxell SOLER",
+     "nat": "ESP",
+     "athleteId": "14478926",
+     "slug": "spain/meritxell-soler-14478926",
+     "birthDate": "20 JUL 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:09:52",
+     "name": "Christine KOMEN",
+     "nat": "KEN",
+     "athleteId": "14916346",
+     "slug": "kenya/christine-komen-14916346",
+     "birthDate": "09 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:09:56",
+     "name": "Lara KIENE",
+     "nat": "GER",
+     "athleteId": "14806382",
+     "slug": "germany/lara-kiene-14806382",
+     "birthDate": "1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:10:03",
+     "name": "Sheyla EULOGIO PAUCAR",
+     "nat": "PER",
+     "athleteId": "14546581",
+     "slug": "peru/sheyla-eulogio-paucar-14546581",
+     "birthDate": "22 FEB 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:10:21",
+     "name": "Heloise LAIGLE",
+     "nat": "FRA",
+     "athleteId": "15105146",
+     "slug": "france/heloise-laigle-15105146",
+     "birthDate": "16 MAR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:10:22",
+     "name": "Ester NAVARRETE",
+     "nat": "ESP",
+     "athleteId": "14426782",
+     "slug": "spain/ester-navarrete-14426782",
+     "birthDate": "16 MAR 1990",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 173
+  }
+ ]
+}

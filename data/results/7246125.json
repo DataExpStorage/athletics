@@ -1,0 +1,465 @@
+{
+ "id": 7246125,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7246125",
+ "events": [
+  {
+   "event": "Men's Marathon",
+   "eventId": 10229634,
+   "gender": "M",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:05:26",
+     "name": "Jirata DINKI",
+     "nat": "ETH",
+     "athleteId": "14843618",
+     "slug": "ethiopia/jirata-dinki-14843618",
+     "birthDate": "2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:05:46",
+     "name": "Amanal PETROS",
+     "nat": "GER",
+     "athleteId": "14572523",
+     "slug": "germany/amanal-petros-14572523",
+     "birthDate": "17 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:06:23",
+     "name": "Benard BIWOTT",
+     "nat": "KEN",
+     "athleteId": "15040700",
+     "slug": "kenya/benard-biwott-15040700",
+     "birthDate": "26 MAY 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:06:58",
+     "name": "Haimro ALAME",
+     "nat": "ISR",
+     "athleteId": "14584604",
+     "slug": "israel/haimro-alame-14584604",
+     "birthDate": "08 JUN 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:07:07",
+     "name": "Richard RINGER",
+     "nat": "GER",
+     "athleteId": "14193865",
+     "slug": "germany/richard-ringer-14193865",
+     "birthDate": "27 FEB 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:07:19",
+     "name": "Abe GASHAHUN",
+     "nat": "ETH",
+     "athleteId": "14690375",
+     "slug": "ethiopia/abe-gashahun-14690375",
+     "birthDate": "20 APR 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:08:57",
+     "name": "Samuel FITWI SIBHATU",
+     "nat": "GER",
+     "athleteId": "14773664",
+     "slug": "germany/samuel-fitwi-sibhatu-14773664",
+     "birthDate": "01 JAN 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:09:08",
+     "name": "Habtom AMANIEL SOQUAR",
+     "nat": "ART",
+     "athleteId": "14920785",
+     "slug": "athlete-refugee-team/habtom-amaniel-soquar-14920785",
+     "birthDate": "05 MAY 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:10:33",
+     "name": "Adisu NEGASH",
+     "nat": "ETH",
+     "athleteId": "15092490",
+     "slug": "ethiopia/adisu-negash-15092490",
+     "birthDate": "12 SEP 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:13:17",
+     "name": "Martin ZAJÍC",
+     "nat": "CZE",
+     "athleteId": "14876911",
+     "slug": "czechia/martin-zajic-14876911",
+     "birthDate": "30 MAR 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:15:05",
+     "name": "Omar TAREQ",
+     "nat": "GER",
+     "athleteId": "14658286",
+     "slug": "germany/omar-tareq-14658286",
+     "birthDate": "08 APR 1992",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:15:05",
+     "name": "Gustav KRØLL",
+     "nat": "DEN",
+     "athleteId": "14999213",
+     "slug": "denmark/gustav-kroll-14999213",
+     "birthDate": "06 DEC 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:15:24",
+     "name": "Mark Kosgei KIPTOO",
+     "nat": "KEN",
+     "athleteId": "14208497",
+     "slug": "kenya/mark-kosgei-kiptoo-14208497",
+     "birthDate": "21 JUN 1976",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:15:47",
+     "name": "Aleksander TEKLEWELD",
+     "nat": "ERI",
+     "athleteId": "15110832",
+     "slug": "eritrea/aleksander-tekleweld-15110832",
+     "birthDate": "02 OCT 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:16:44",
+     "name": "Andreas VOJTA",
+     "nat": "AUT",
+     "athleteId": "14373239",
+     "slug": "austria/andreas-vojta-14373239",
+     "birthDate": "09 JUN 1989",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:17:52",
+     "name": "Nick KELM",
+     "nat": "CAN",
+     "athleteId": "15234174",
+     "slug": "canada/nick-kelm-15234174",
+     "birthDate": "14 NOV 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:17:58",
+     "name": "Daniel HAMILTON",
+     "nat": "GBR",
+     "athleteId": "14533425",
+     "slug": "great-britain-ni/daniel-hamilton-14533425",
+     "birthDate": "28 JUL 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:18:17",
+     "name": "Sam EGLEN",
+     "nat": "GBR",
+     "athleteId": "14538388",
+     "slug": "great-britain-ni/sam-eglen-14538388",
+     "birthDate": "11 NOV 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:18:55",
+     "name": "Pål GOLBERG",
+     "nat": "NOR",
+     "athleteId": "15259261",
+     "slug": "norway/pal-golberg-15259261",
+     "birthDate": null,
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:19:33",
+     "name": "Yannick VAN LUNTER",
+     "nat": "BEL",
+     "athleteId": "15023147",
+     "slug": "belgium/yannick-van-lunter-15023147",
+     "birthDate": "23 AUG 1991",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 190
+  },
+  {
+   "event": "Women's Marathon",
+   "eventId": 10229534,
+   "gender": "W",
+   "distance": "marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "2:19:45",
+     "name": "Zeineba YIMER",
+     "nat": "ETH",
+     "athleteId": "14771299",
+     "slug": "ethiopia/zeineba-yimer-14771299",
+     "birthDate": "17 JUN 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "2:20:46",
+     "name": "Blanka DÖRFEL",
+     "nat": "GER",
+     "athleteId": "14706228",
+     "slug": "germany/blanka-dorfel-014706228",
+     "birthDate": "24 APR 2002",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "2:22:46",
+     "name": "Beriha GEBRESLASIE",
+     "nat": "ETH",
+     "athleteId": "15199094",
+     "slug": "ethiopia/beriha-gebreslasie-15199094",
+     "birthDate": "03 JUN 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "2:25:31",
+     "name": "Aselef AMARE",
+     "nat": "ETH",
+     "athleteId": "15090732",
+     "slug": "ethiopia/aselef-amare-15090732",
+     "birthDate": "28 FEB 2007",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "2:26:05",
+     "name": "Siranesh YIRGA",
+     "nat": "ETH",
+     "athleteId": "14968516",
+     "slug": "ethiopia/siranesh-yirga-14968516",
+     "birthDate": "11 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "2:26:49",
+     "name": "Mehret GEMEDA",
+     "nat": "ETH",
+     "athleteId": "15184144",
+     "slug": "ethiopia/mehret-gemeda-15184144",
+     "birthDate": "21 NOV 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "2:26:52",
+     "name": "Marion KIBOR",
+     "nat": "KEN",
+     "athleteId": "14590771",
+     "slug": "kenya/marion-kibor-14590771",
+     "birthDate": "27 SEP 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "2:27:36",
+     "name": "Janet RUGURU",
+     "nat": "KEN",
+     "athleteId": "14797483",
+     "slug": "kenya/janet-ruguru-14797483",
+     "birthDate": "20 MAY 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "2:31:00",
+     "name": "Birke DEBELE",
+     "nat": "ETH",
+     "athleteId": "14772067",
+     "slug": "ethiopia/birke-debele-14772067",
+     "birthDate": "12 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "2:31:10",
+     "name": "Annabel GUMMOW",
+     "nat": "GBR",
+     "athleteId": "14329792",
+     "slug": "great-britain-ni/annabel-gummow-14329792",
+     "birthDate": "16 SEP 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "2:33:31",
+     "name": "Tessa MCCORMICK",
+     "nat": "GBR",
+     "athleteId": "14470185",
+     "slug": "great-britain-ni/tessa-mccormick-14470185",
+     "birthDate": "25 JUN 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "2:33:41",
+     "name": "Betsy SAINA",
+     "nat": "USA",
+     "athleteId": "14363050",
+     "slug": "united-states/betsy-saina-14363050",
+     "birthDate": "30 JUN 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "2:34:12",
+     "name": "Kate ESTLEA-MORRIS",
+     "nat": "GBR",
+     "athleteId": "15002091",
+     "slug": "great-britain-ni/kate-estlea-morris-15002091",
+     "birthDate": "20 MAY 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "2:35:48",
+     "name": "Alice BRAHAM",
+     "nat": "GBR",
+     "athleteId": "14274546",
+     "slug": "great-britain-ni/alice-braham-14274546",
+     "birthDate": "17 JAN 1976",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "2:37:15",
+     "name": "Nella OENEMA",
+     "nat": "NED",
+     "athleteId": "15024534",
+     "slug": "netherlands/nella-oenema-15024534",
+     "birthDate": "25 AUG 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "2:41:00",
+     "name": "Stella WERNICKE",
+     "nat": "GER",
+     "athleteId": "15080699",
+     "slug": "germany/stella-wernicke-15080699",
+     "birthDate": "2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "2:42:45",
+     "name": "Jekaterina SOKUNOVA",
+     "nat": "LAT",
+     "athleteId": "14844714",
+     "slug": "latvia/jekaterina-sokunova-14844714",
+     "birthDate": "02 OCT 1982",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "2:43:21",
+     "name": "Martina STRÄHL",
+     "nat": "SUI",
+     "athleteId": "14366123",
+     "slug": "switzerland/martina-strahl-014366123",
+     "birthDate": "07 MAY 1987",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "2:43:35",
+     "name": "Lauren DERMODY",
+     "nat": "IRL",
+     "athleteId": "14715036",
+     "slug": "ireland/lauren-dermody-014715036",
+     "birthDate": "04 MAY 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "2:46:05",
+     "name": "Tanja EILINGER",
+     "nat": "SUI",
+     "athleteId": "15001319",
+     "slug": "switzerland/tanja-eilinger-15001319",
+     "birthDate": "04 MAR 1982",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 95
+  }
+ ]
+}

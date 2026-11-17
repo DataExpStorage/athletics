@@ -1,0 +1,465 @@
+{
+ "id": 7236069,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/competition/calendar-results/results/7236069",
+ "events": [
+  {
+   "event": "Men's Half Marathon",
+   "eventId": 10229633,
+   "gender": "M",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "59:07",
+     "name": "Richard LODUNG",
+     "nat": "KEN",
+     "athleteId": "15019944",
+     "slug": "kenya/richard-lodung-15019944",
+     "birthDate": "12 DEC 2003",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:00:06",
+     "name": "Emmanuel Moi MARU",
+     "nat": "KEN",
+     "athleteId": "14974970",
+     "slug": "kenya/emmanuel-moi-maru-14974970",
+     "birthDate": "04 JAN 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:00:21",
+     "name": "Santiago CATROFE",
+     "nat": "URU",
+     "athleteId": "14706109",
+     "slug": "uruguay/santiago-catrofe-14706109",
+     "birthDate": "13 FEB 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:00:22",
+     "name": "Tomoya OGIKUBO",
+     "nat": "JPN",
+     "athleteId": "14813995",
+     "slug": "japan/tomoya-ogikubo-14813995",
+     "birthDate": "11 DEC 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:00:26",
+     "name": "Yuma NISHIZAWA",
+     "nat": "JPN",
+     "athleteId": "14901741",
+     "slug": "japan/yuma-nishizawa-14901741",
+     "birthDate": "19 SEP 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:00:29",
+     "name": "Neo NAMIKI",
+     "nat": "JPN",
+     "athleteId": "14933083",
+     "slug": "japan/neo-namiki-14933083",
+     "birthDate": "07 DEC 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:00:40",
+     "name": "Daisuke SATO",
+     "nat": "JPN",
+     "athleteId": "15039553",
+     "slug": "japan/daisuke-sato-15039553",
+     "birthDate": "30 APR 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:00:46",
+     "name": "Sondre Nordstad MOEN",
+     "nat": "NOR",
+     "athleteId": "14215417",
+     "slug": "norway/sondre-nordstad-moen-14215417",
+     "birthDate": "12 JAN 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:00:46",
+     "name": "Haruka YAMAMOTO",
+     "nat": "JPN",
+     "athleteId": "14983166",
+     "slug": "japan/haruka-yamamoto-14983166",
+     "birthDate": "03 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:00:48",
+     "name": "Takuma OHAMA",
+     "nat": "JPN",
+     "athleteId": "14995488",
+     "slug": "japan/takuma-ohama-14995488",
+     "birthDate": "02 SEP 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:00:51",
+     "name": "Hiromichi NONAKA",
+     "nat": "JPN",
+     "athleteId": "14963045",
+     "slug": "japan/hiromichi-nonaka-14963045",
+     "birthDate": "16 FEB 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:00:52",
+     "name": "Sodai SHIMIZU",
+     "nat": "JPN",
+     "athleteId": "14786809",
+     "slug": "japan/sodai-shimizu-14786809",
+     "birthDate": "28 SEP 1998",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:00:53",
+     "name": "Sou KAWASAKI",
+     "nat": "JPN",
+     "athleteId": "14969572",
+     "slug": "japan/sou-kawasaki-14969572",
+     "birthDate": "20 DEC 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:00:53",
+     "name": "Itsuki TAKAISHI",
+     "nat": "JPN",
+     "athleteId": "15055368",
+     "slug": "japan/itsuki-takaishi-15055368",
+     "birthDate": "23 MAY 2006",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:00:53",
+     "name": "Kazura MUNAKATA",
+     "nat": "JPN",
+     "athleteId": "15048485",
+     "slug": "japan/kazura-munakata-15048485",
+     "birthDate": "10 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:00:54",
+     "name": "Sota YAMAGUCHI",
+     "nat": "JPN",
+     "athleteId": "14958108",
+     "slug": "japan/sota-yamaguchi-14958108",
+     "birthDate": "08 NOV 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:00:54",
+     "name": "Yuta ASAKAWA",
+     "nat": "JPN",
+     "athleteId": "15002482",
+     "slug": "japan/yuta-asakawa-15002482",
+     "birthDate": "28 JAN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:00:55",
+     "name": "Ryo GODA",
+     "nat": "JPN",
+     "athleteId": "14962756",
+     "slug": "japan/ryo-goda-14962756",
+     "birthDate": "08 AUG 1999",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:00:56",
+     "name": "Riku TAMAME",
+     "nat": "JPN",
+     "athleteId": "14956081",
+     "slug": "japan/riku-tamame-14956081",
+     "birthDate": "15 JUN 2005",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:00:58",
+     "name": "Takuya HANYU",
+     "nat": "JPN",
+     "athleteId": "14615160",
+     "slug": "japan/takuya-hanyu-14615160",
+     "birthDate": "08 NOV 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 388
+  },
+  {
+   "event": "Women's Half Marathon",
+   "eventId": 10229541,
+   "gender": "W",
+   "distance": "half-marathon",
+   "results": [
+    {
+     "place": "1",
+     "mark": "1:06:15",
+     "name": "Dolphine Nyaboke OMARE",
+     "nat": "KEN",
+     "athleteId": "14758190",
+     "slug": "kenya/dolphine-nyaboke-omare-14758190",
+     "birthDate": "26 JUL 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "2",
+     "mark": "1:07:08",
+     "name": "Eilish MCCOLGAN",
+     "nat": "GBR",
+     "athleteId": "14275729",
+     "slug": "great-britain-ni/eilish-mccolgan-14275729",
+     "birthDate": "25 NOV 1990",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "3",
+     "mark": "1:07:56",
+     "name": "Susan KAMOTHO",
+     "nat": "KEN",
+     "athleteId": "15008159",
+     "slug": "kenya/susan-kamotho-15008159",
+     "birthDate": "13 DEC 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "4",
+     "mark": "1:08:51",
+     "name": "Isobel BATT-DOYLE",
+     "nat": "AUS",
+     "athleteId": "14519260",
+     "slug": "australia/isobel-batt-doyle-14519260",
+     "birthDate": "14 SEP 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "5",
+     "mark": "1:09:28",
+     "name": "Kana KOBAYASHI",
+     "nat": "JPN",
+     "athleteId": "15044337",
+     "slug": "japan/kana-kobayashi-15044337",
+     "birthDate": "04 APR 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "6",
+     "mark": "1:10:29",
+     "name": "Hikaru KITAGAWA",
+     "nat": "JPN",
+     "athleteId": "14855581",
+     "slug": "japan/hikaru-kitagawa-14855581",
+     "birthDate": "24 NOV 2001",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "7",
+     "mark": "1:10:50",
+     "name": "Sarah WANJIRU",
+     "nat": "KEN",
+     "athleteId": "14957601",
+     "slug": "kenya/sarah-wanjiru-14957601",
+     "birthDate": "12 APR 2004",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "8",
+     "mark": "1:11:00",
+     "name": "Yuka ANDO",
+     "nat": "JPN",
+     "athleteId": "14419637",
+     "slug": "japan/yuka-ando-14419637",
+     "birthDate": "16 MAR 1994",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "9",
+     "mark": "1:11:16",
+     "name": "Ayumi MORITA",
+     "nat": "JPN",
+     "athleteId": "14809702",
+     "slug": "japan/ayumi-morita-14809702",
+     "birthDate": "17 APR 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "10",
+     "mark": "1:11:38",
+     "name": "Kaho ONISHI",
+     "nat": "JPN",
+     "athleteId": "14868880",
+     "slug": "japan/kaho-onishi-14868880",
+     "birthDate": "20 JUL 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "11",
+     "mark": "1:11:57",
+     "name": "Charlotte PURDUE",
+     "nat": "GBR",
+     "athleteId": "14276123",
+     "slug": "great-britain-ni/charlotte-purdue-14276123",
+     "birthDate": "10 JUN 1991",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "12",
+     "mark": "1:12:33",
+     "name": "Sakura YUMIKI",
+     "nat": "JPN",
+     "athleteId": "14955308",
+     "slug": "japan/sakura-yumiki-14955308",
+     "birthDate": "11 MAR 2007",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "13",
+     "mark": "1:12:43",
+     "name": "Munkhzaya BAYARTSOGT",
+     "nat": "MGL",
+     "athleteId": "14632541",
+     "slug": "mongolia/munkhzaya-bayartsogt-14632541",
+     "birthDate": "10 OCT 1993",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "14",
+     "mark": "1:12:53",
+     "name": "Azusa SUMI",
+     "nat": "JPN",
+     "athleteId": "14524081",
+     "slug": "japan/azusa-sumi-14524081",
+     "birthDate": "12 AUG 1996",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "15",
+     "mark": "1:14:24",
+     "name": "Chisato KAGAYA",
+     "nat": "JPN",
+     "athleteId": "15121876",
+     "slug": "japan/chisato-kagaya-15121876",
+     "birthDate": "05 NOV 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "16",
+     "mark": "1:15:24",
+     "name": "Rebecca LOWE",
+     "nat": "AUS",
+     "athleteId": "14271750",
+     "slug": "australia/rebecca-lowe-14271750",
+     "birthDate": "15 SEP 1988",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "17",
+     "mark": "1:15:29",
+     "name": "Hanami KOGA",
+     "nat": "JPN",
+     "athleteId": "14929317",
+     "slug": "japan/hanami-koga-14929317",
+     "birthDate": "02 DEC 2000",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "18",
+     "mark": "1:16:10",
+     "name": "Mirai WAKU",
+     "nat": "JPN",
+     "athleteId": "14615161",
+     "slug": "japan/mirai-waku-14615161",
+     "birthDate": "01 JUL 1995",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "19",
+     "mark": "1:18:11",
+     "name": "Manami TAKAMI",
+     "nat": "JPN",
+     "athleteId": "15284388",
+     "slug": "japan/manami-takami-15284388",
+     "birthDate": "25 OCT 1997",
+     "records": "",
+     "remark": ""
+    },
+    {
+     "place": "20",
+     "mark": "1:21:22",
+     "name": "Portia OLSEN",
+     "nat": "AUS",
+     "athleteId": "15092013",
+     "slug": "australia/portia-olsen-15092013",
+     "birthDate": "16 MAR 1997",
+     "records": "",
+     "remark": ""
+    }
+   ],
+   "finishers": 30
+  }
+ ]
+}
