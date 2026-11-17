@@ -141,3 +141,7 @@ table.honours tbody tr.grp:first-child th { padding-top: 6px; }
 .racelist .winners .g { display: inline-block; width: 22px; font-size: 12px; font-weight: 700; color: var(--ink-2); }
 .racelist .field { margin-top: 8px; padding-top: 7px; border-top: 1px dashed var(--grid); font-size: 13.5px; }
 .racelist .field.none { color: var(--muted); }
+
+/* external links: marked with an arrow, so they take the colour of the surrounding text */
+a[target="_blank"] { color: inherit; }
+a[target="_blank"]:hover { text-decoration: underline; }
