@@ -43,7 +43,7 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
 4. **Research stages**, in this order: `reports`, `prize-money`, `entries`, `team`, `news`.
    For each stage:
    a. If its work list is empty (for `reports` and `prize-money`: both `this_week` and
-      `backlog` empty; for `entries`: `upcoming` and `just_run` empty; for `team`:
+      `backlog` empty; for `entries`: `upcoming`, `just_run` and `backlog` empty; for `team`:
       `new_profiles` and `to_verify` empty), record
       `python scripts/check_stage.py skip <stage> nothing to do` and go to the next stage.
       `news` is never skipped.

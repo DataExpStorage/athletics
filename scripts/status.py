@@ -32,8 +32,17 @@ def race_rows():
                          upcoming=not run and r["endDate"] >= today,
                          has_prize=rid in prize,
                          has_report=os.path.exists(os.path.join(wa.DATA, "reports", rid + ".json")),
-                         has_entries=os.path.exists(os.path.join(wa.DATA, "entries", rid + ".json"))))
+                         has_entries=os.path.exists(os.path.join(wa.DATA, "entries", rid + ".json")),
+                         has_field=field_tracked(rid)))
     return rows
+
+
+def field_tracked(rid):
+    """True once the race's entry file has been researched for the whole field: it holds an
+    announced athlete, or says it was searched (`searched`), not only a stray withdrawal."""
+    doc = wa.load_json(os.path.join(wa.DATA, "entries", rid + ".json"))
+    return bool(doc) and (bool(doc.get("searched")) or any(
+        h.get("type") in ("announced", "confirmed") for e in doc.get("entries", []) for h in e.get("history", [])))
 
 
 def brief(r):
@@ -79,6 +88,8 @@ def work_list():
             "upcoming": [dict(brief(r), has_file=r["has_entries"]) for r in rows
                          if r["upcoming"] and r["startDate"] <= day(ENTRY_WINDOW_DAYS)],
             "just_run": [brief(r) for r in recent if r["has_entries"]],
+            # races already run whose announced field was never researched
+            "backlog": backlog("has_field"),
         },
         "team": {"new_profiles": no_team[:TEAM_NEW_PER_RUN], "to_verify": unverified[:TEAM_VERIFY_PER_RUN],
                  "waiting": max(0, len(no_team) - TEAM_NEW_PER_RUN)},
@@ -98,7 +109,7 @@ def main():
             sys.stdout.buffer.write(text.encode("utf-8"))
         return
     only_missing = "--missing" in sys.argv
-    totals = {"run": 0, "prize": 0, "report": 0, "upcoming": 0, "entries": 0}
+    totals = {"run": 0, "prize": 0, "report": 0, "upcoming": 0, "entries": 0, "past_entries": 0}
     lines = []
     for r in race_rows():
         totals["run"] += r["run"]
@@ -106,12 +117,13 @@ def main():
         totals["prize"] += r["run"] and r["has_prize"]
         totals["report"] += r["run"] and r["has_report"]
         totals["entries"] += r["upcoming"] and r["has_entries"]
+        totals["past_entries"] += r["run"] and r["has_field"]
         missing = []
         if r["run"] and not r["has_prize"]:
             missing.append("prize money")
         if r["run"] and not r["has_report"]:
             missing.append("race report")
-        if r["upcoming"] and not r["has_entries"]:
+        if (r["upcoming"] and not r["has_entries"]) or (r["run"] and not r["has_field"]):
             missing.append("entries")
         if not r["run"] and not r["upcoming"]:
             missing.append("results")
@@ -121,8 +133,8 @@ def main():
         lines.append("%s  %-8s %-16s %-14s %-44s %s" % (
             r["startDate"], r["rid"], tier, r["distance"], r["name"][:44],
             "missing: " + ", ".join(missing) if missing else "complete"))
-    text = "\n".join(lines) + "\n\nRaces run: %d (prize money %d, race report %d). Upcoming: %d (entries %d).\n" % (
-        totals["run"], totals["prize"], totals["report"], totals["upcoming"], totals["entries"])
+    text = "\n".join(lines) + "\n\nRaces run: %d (prize money %d, race report %d, entries %d). Upcoming: %d (entries %d).\n" % (
+        totals["run"], totals["prize"], totals["report"], totals["past_entries"], totals["upcoming"], totals["entries"])
     sys.stdout.buffer.write(text.encode("utf-8", "replace"))
 
 

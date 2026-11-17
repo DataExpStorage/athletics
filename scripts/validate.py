@@ -184,6 +184,7 @@ def check_entries(c):
         if str(data.get("raceId")) != rid:
             c.fail("raceId does not match the file name")
         c.date(data.get("checked"), "checked")
+        c.date(data.get("searched"), "searched", required=False)
         entries = data.get("entries")
         if not isinstance(entries, list):
             c.fail("entries must be a list")

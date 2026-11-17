@@ -175,6 +175,15 @@ shown for a starter is the best grade among the events since their last withdraw
   athlete not in the results with no withdrawal recorded, search once for the reason and
   record it, or note that they did not start, reason unknown. Bear in mind the results
   hold only the top 20.
+- **Every race of the season is covered, not only upcoming ones.** Races already run
+  whose field was never tracked form a backlog (`entries.backlog` in the work list, five
+  per weekly run, Majors and Platinum first, most recent first). For these the field is
+  reconstructed from the announcements and press releases made before the race, with
+  their original dates, plus any withdrawals and their reasons, then compared with the
+  results. When the search is finished, `"searched": "<date>"` is set in the file, even
+  if nothing was found (empty `entries`, explained in `note`), so the race leaves the
+  backlog. A file holding only a stray withdrawal (Berlin) stays in the backlog until
+  then.
 
 ### Current state
 
@@ -328,7 +337,9 @@ each task: Platinum before Gold, most recent first.
 
 ### Races already run (50)
 
-`P` = prize money, `R` = race report; a dash means still to do.
+`P` = prize money, `R` = race report; a dash means still to do. Announced entries and
+withdrawals (added 17 November 2026) are also still to do for every race run so far: none
+had its field tracked, Berlin has only Sawe's withdrawal.
 
 | Date | Race | Tier | P | R |
 |---|---|---|---|---|
@@ -419,6 +430,9 @@ After each of these races is run, its prize money and race report join the backl
 3. Prize money for the remaining Platinum races and the unresolved Majors (Sydney,
    Boston, Chicago, Berlin).
 4. Race reports, then prize money, for the Gold races, most recent first.
+5. Announced entries and withdrawals for the races already run: the Majors first
+   (Tokyo, Boston, London, Sydney, Berlin, Chicago, New York), then Platinum, then Gold,
+   most recent first.
 
 ## 6. Continuing into 2027 and later seasons
 
@@ -487,7 +501,8 @@ source.
 2. Races run in the last 7 days: race report summary, then prize money.
 3. Races in the next 6 weeks: review entries, append changes, set `checked`.
 4. Races run in the last 7 days that had an entry list: compare with results.
-5. A few items from the backlog in the suggested order.
+5. A few items from the backlog in the suggested order, including entries for races
+   already run.
 6. `python scripts/build_index.py`; look at the changed race pages and at one athlete
    page per change.
 7. Write the newsletter; commit researched files together with it.
