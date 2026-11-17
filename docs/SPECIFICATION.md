@@ -118,7 +118,8 @@ plain HTML, CSS and JavaScript with no build step; git for storage and history.
 | `scripts/fetch_calendar.py` | Label calendar → `data/calendar/<season>.json` |
 | `scripts/fetch_results.py` | Results of races run → `data/results/<raceId>.json` |
 | `scripts/fetch_toplists.py` | Season top 100 per distance and gender → `data/toplists/<season>/` |
-| `scripts/fetch_athletes.py` | Athlete profiles → `data/athletes/<athleteId>.json` |
+| `scripts/update_focus.py` | Yearly lists of athletes in focus → `data/focus/<season>.json` |
+| `scripts/fetch_athletes.py` | Profiles of the athletes in focus → `data/athletes/<athleteId>.json` |
 | `scripts/profile_batch.py` | One scheduled batch of profiles: fetch, check, commit, log |
 | `scripts/fetch_reports.py` | Saves recent World Athletics report texts to the local cache for reading |
 | `scripts/build_index.py` | Merges everything into `site/data/site.json` and `site/data/athletes/` |
@@ -160,11 +161,27 @@ Rules for fetching:
 - **World Athletics refuses bulk requests.** After about 15 profile pages in a short time
   it answered with empty pages. The fetcher treats an empty page or a 403/429 as a
   refusal, stops the run, and never retries or disguises itself.
-- **Who gets a profile** (`profile_rule` in the discipline settings), per event, women
-  and men: the top 10 of a Marathon Major, the top 5 of another Platinum race, the top 3
-  of a Gold race, the top 10 of the half marathon at the World Road Running
-  Championships, and the top 20 of each season list. On the 2026 data up to
-  mid-November that is 336 athletes.
+- **Who gets a profile: the yearly lists of athletes in focus** (`data/focus/<season>.json`,
+  built by `scripts/update_focus.py` in the weekly fetch; criteria in `profile_rule` in the
+  discipline settings). An athlete is in focus for season Y if, in Y, they finish in the
+  top 10 of a Marathon Major, the top 5 of another Platinum race, the top 3 of a Gold
+  race or the top 10 of the World Road Running Championships half marathon (women and
+  men, per event), or if they are in the top 20 of a season list (marathon, half
+  marathon, 10 km) **with a mark better than the 20th mark of the same list in Y-1**.
+  - *During Y the list only grows:* anyone who meets the criteria at any point stays on
+    it, and their profile is kept up to date, even if pushed out of the top 20 later.
+  - *At the end of Y* (on 1 February of Y+1, once the December results are in) the list
+    is closed: everyone on it is checked against the final Y results and lists, and those
+    who still meet the criteria form the **final list**. A closed list never changes.
+  - *One year of grace:* in calendar year Z, profiles are kept up to date for the final
+    list of Z-1 and everyone on the Z list so far. An athlete on the final Z-1 list who
+    does not join the Z list stops being updated when the Z list is closed.
+  - The previous season's six lists are stored to provide the thresholds (the 2025 lists
+    for 2026). On the data up to mid-November 2026 the 2026 list holds 332 athletes; the
+    threshold excluded 9 athletes from the men's 10 km list, the only list whose 2026 top
+    20 was slower than 2025's.
+  - The athlete's page shows why they are in focus ("In focus for 2026: 2nd TCS London
+    Marathon; #1 half marathon list").
 - **How profiles are fetched:** in batches of 12, one page every six seconds, most
   prominent athletes first. Missing profiles come before refreshes; a profile is
   refreshed after 28 days or when the athlete has a new result.
@@ -172,8 +189,9 @@ Rules for fetching:
   (`python scripts/profile_batch.py --log`). It is scheduled twice a day, on this PC
   through Windows Task Scheduler and, once published, by `profiles.yml`. This cadence is
   a trial: if the log shows refusals, reduce the batch size or the frequency.
-- **Profiles outside the rule** are kept but no longer refreshed. The athlete's page says
-  so, with the date the profile was last read.
+- **Profiles of athletes not in focus** are kept but no longer refreshed. The athlete's
+  page says so, with the date the profile was last read and the last season they were
+  in focus.
 - A race is fetched until results exist; stored results are then kept. `--force`
   refetches.
 - If the site layout changes, a fetch fails loudly rather than storing partial data.
@@ -343,7 +361,7 @@ Not done yet:
 |---|---|
 | GitHub repository, Pages, scheduled update | Owner: create a free GitHub account, install the GitHub CLI, run `gh auth login` |
 | Weekly Claude routine | The GitHub repository, and GitHub connected to the owner's Claude account |
-| Athlete profiles | 22 of 336 fetched; two batches of 12 a day on trial |
+| Athlete profiles | 34 of 332 in focus fetched; two batches of 12 a day on trial |
 | 2027 calendar | World Athletics has not published it yet |
 | Researched data backlog | See DATA_GATHERING.md |
 

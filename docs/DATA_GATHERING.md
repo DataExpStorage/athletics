@@ -449,6 +449,9 @@ Timetable around the turn of the year:
 - **When the calendar appears:** run `python scripts/status.py --missing`; create entry
   files for races in the next six weeks; compare the new priority set with last year's
   and note races that gained or lost a Platinum or Gold label.
+- **1 February:** the previous season's list of athletes in focus closes automatically
+  (`scripts/update_focus.py` in the weekly fetch) and its final list is carried into the
+  new season. Nothing to do by hand; check the line it prints.
 - **January:** finish the old season's last races (late December races, late results),
   then write the season look-back in the first newsletter of the year.
 - **Each new season:** add the championship road races for that year to `extra_races`

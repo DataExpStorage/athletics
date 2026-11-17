@@ -32,11 +32,12 @@ Needs Python 3.7 or newer; no extra packages.
   browser does, slowly (one request per second). If the site changes, the fix belongs in
   `scripts/wa.py`.
 - The site refuses bulk requests for athlete profiles. Profiles are collected in small
-  batches (12, twice a day) for the top finishers of the priority races and the leaders
-  of the season lists; a batch stops as soon as the site declines a request.
-  `python scripts/profile_batch.py --log` shows how the batches went. Athlete pages work
-  without a profile, with less career detail; a profile that is no longer refreshed is
-  marked as such.
+  batches (12, twice a day) for the **athletes in focus**: a yearly list of top finishers
+  of the priority races and leaders of the season lists who beat last year's 20th mark
+  (`data/focus/<season>.json`, built by `scripts/update_focus.py`). The list grows during
+  the year, is reduced to a final list at the end of it, and that final list is kept up
+  to date for one more year. `python scripts/profile_batch.py --log` shows how the
+  batches went; a profile that is no longer refreshed is marked as such.
 - To follow a race outside the Platinum and Gold tiers, add it to `extra_races` in
   `config/disciplines/road-running.json` with its World Athletics event ID (the number in its results URL).
 - Prize money is not published by World Athletics. It is entered by hand in
