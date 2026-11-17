@@ -1,0 +1,268 @@
+{
+ "id": "15221351",
+ "givenName": "Sheila",
+ "familyName": "CHEPKIRUI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1997-04-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:46.5h",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "22 NOV 2025",
+   "resultScore": 861,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:14.4h",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "08 MAY 2026",
+   "resultScore": 1023,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:41",
+   "venue": "Sportzentrum am Maspernplatz, Paderborn (GER)",
+   "date": "04 APR 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "51:21",
+   "venue": "Amsterdam (NED)",
+   "date": "20 SEP 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:51",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1260,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:14.4h",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "08 MAY 2026",
+   "resultScore": 1023,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Athletics Kenya Prison Services Track and Field Championships",
+   "listPosition": "869"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:41",
+   "venue": "Sportzentrum am Maspernplatz, Paderborn (GER)",
+   "date": "04 APR 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Paderborner Osterlauf",
+   "listPosition": "32"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "51:21",
+   "venue": "Amsterdam (NED)",
+   "date": "20 SEP 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Dam tot Damloop",
+   "listPosition": "7"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:51",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1260,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "1"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:03:51",
+   "score": 1260,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "date": "2026-09-20",
+   "competition": "Dam tot Damloop, Amsterdam",
+   "country": "NED",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "51:21",
+   "score": 1166,
+   "competitionId": "7238027"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Media Maratón Ciudad de Buenos Aires, Buenos Aires",
+   "country": "ARG",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "1:06:13",
+   "score": 1209,
+   "competitionId": "7243530"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-28",
+   "competition": "10KM Port Gentil, Port Gentil",
+   "country": "GAB",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "33:12",
+   "score": 1076,
+   "competitionId": "7239719"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-05-17",
+   "competition": "Rimi Riga Half Marathon, Riga - Elite Event",
+   "country": "LAT",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "1:06:01",
+   "score": 1213,
+   "competitionId": "7238050"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-08",
+   "competition": "Athletics Kenya Prison Services Track and Field Championships, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "3",
+   "mark": "16:14.4h",
+   "score": 1023,
+   "competitionId": null
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "36. Internationaler Würzburger Residenzlauf, Würzburg",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:20",
+   "score": 1175,
+   "competitionId": "7238026"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Poznan Half Marathon, Poznan",
+   "country": "POL",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "1:06:08",
+   "score": 1211,
+   "competitionId": "7247756"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Paderborner Osterlauf, Sportzentrum am Maspernplatz, Paderborn",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "30:41",
+   "score": 1210,
+   "competitionId": "7238228"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "30:41",
+     "venue": "Sportzentrum am Maspernplatz, Paderborn (GER)",
+     "date": "04 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "51:21",
+     "venue": "Amsterdam (NED)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:03:51",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 12,
+   "rankingScore": 1241
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 344,
+   "rankingScore": 1243
+  }
+ ],
+ "representative": {
+  "name": "Philipp Kopp",
+  "country": "Germany",
+  "website": "https:// www.issberlin.de"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/sheila-chepkirui-15221351"
+}

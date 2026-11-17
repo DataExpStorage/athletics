@@ -1,0 +1,469 @@
+{
+ "id": "14487535",
+ "givenName": "Alphonce Felix",
+ "familyName": "SIMBU",
+ "country": "TAN",
+ "countryName": "Tanzania",
+ "birthDate": "1992-02-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:45.3h",
+   "venue": "Dar-es-Salaam (TAN)",
+   "date": "24 JUL 2011",
+   "resultScore": 1049,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:58.20",
+   "venue": "Maputo (MOZ)",
+   "date": "12 SEP 2011",
+   "resultScore": 957,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:12",
+   "venue": "Dar Es Salaam (TAN)",
+   "date": "02 FEB 2014",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "46:05",
+   "venue": "São Paulo (BRA)",
+   "date": "31 DEC 2012",
+   "resultScore": 956,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "59:02",
+   "venue": "Maroilles (FRA)",
+   "date": "01 MAY 2013",
+   "resultScore": 1084,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:30",
+   "venue": "Dubai (UAE)",
+   "date": "08 FEB 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:11:56",
+   "venue": "Kolkata (IND)",
+   "date": "21 DEC 2025",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:38",
+   "venue": "Valencia (ESP)",
+   "date": "01 DEC 2024",
+   "resultScore": 1229,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:47",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1245,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:30",
+   "venue": "Dubai (UAE)",
+   "date": "08 FEB 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Burj2Burj Half Marathon",
+   "listPosition": "41"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:47",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1245,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:04:57",
+   "score": 1212,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:02:47",
+   "score": 1245,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-08",
+   "competition": "Burj2Burj Half Marathon, Dubai",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "59:30",
+   "score": 1206,
+   "competitionId": "7237869"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "29:42",
+     "venue": "Brasilia (BRA)",
+     "date": "11 NOV 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "29:57",
+     "venue": "São Paulo (BRA)",
+     "date": "25 JAN 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "28:12",
+     "venue": "Dar Es Salaam (TAN)",
+     "date": "02 FEB 2014"
+    },
+    {
+     "season": "2019",
+     "mark": "30:16",
+     "venue": "Boulder, CO (USA)",
+     "date": "27 MAY 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "46:05",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2012"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "59:02",
+     "venue": "Maroilles (FRA)",
+     "date": "01 MAY 2013"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "1:03:40",
+     "venue": "Dar-es-Salaam (TAN)",
+     "date": "14 OCT 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "1:02:21",
+     "venue": "Kirumba Mwanza (TAN)",
+     "date": "27 OCT 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:02:50",
+     "venue": "Gyeongju (KOR)",
+     "date": "23 FEB 2014"
+    },
+    {
+     "season": "2016",
+     "mark": "1:01:59",
+     "venue": "New Delhi (IND)",
+     "date": "20 NOV 2016"
+    },
+    {
+     "season": "2021",
+     "mark": "1:03:45",
+     "venue": "Dodoma (TAN)",
+     "date": "07 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:00:03",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:00",
+     "venue": "Yangzhou (CHN)",
+     "date": "16 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:28",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "24 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:05",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:30",
+     "venue": "Dubai (UAE)",
+     "date": "08 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:11:56",
+     "venue": "Kolkata (IND)",
+     "date": "21 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:12:01",
+     "venue": "Gold Coast (AUS)",
+     "date": "05 JUL 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:09:19",
+     "venue": "Otsu (JPN)",
+     "date": "06 MAR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:09:10",
+     "venue": "London (GBR)",
+     "date": "23 APR 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "2:08:27",
+     "venue": "Otsu (JPN)",
+     "date": "10 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:09:23",
+     "venue": "Otsu (JPN)",
+     "date": "08 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:07:50",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "26 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:06:20",
+     "venue": "Milano (ITA)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:39",
+     "venue": "Shanghai (CHN)",
+     "date": "26 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:04:38",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:09:48",
+     "venue": "National Stadium, Tokyo (JPN)",
+     "date": "15 SEP 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "The XXXI Olympic Games",
+     "mark": "2:11:15",
+     "date": "21 AUG 2016"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "The XXXII Olympic Games",
+     "mark": "2:11:35",
+     "date": "08 AUG 2021"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:09:48",
+     "date": "15 SEP 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:09:51",
+     "date": "06 AUG 2017"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "10,000 Metres",
+     "competition": "Maputo All-Africa Games",
+     "mark": "29:58.20",
+     "date": "12 SEP 2011"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:02:47",
+     "date": "20 APR 2026"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:05:04",
+     "date": "21 APR 2025"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:09:10",
+     "date": "23 APR 2017"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "XXII Commonwealth Games",
+     "mark": "2:12:29",
+     "date": "30 JUL 2022"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "Tanzanian 10 km Championships",
+     "mark": "28:12",
+     "date": "02 FEB 2014"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 9,
+   "rankingScore": 1334
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 119,
+   "rankingScore": 1334
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/tanzania/alphonce-felix-simbu-14487535"
+}

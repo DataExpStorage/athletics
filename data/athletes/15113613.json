@@ -1,0 +1,230 @@
+{
+ "id": "15113613",
+ "givenName": "Addisu",
+ "familyName": "GOBENA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2004-10-20",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:44",
+   "venue": "Boulder, CO (USA)",
+   "date": "26 MAY 2025",
+   "resultScore": 1065,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:17",
+   "venue": "Houston, TX (USA)",
+   "date": "19 JAN 2025",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:01",
+   "venue": "Dubai (UAE)",
+   "date": "07 JAN 2024",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:42",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:35",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1123,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "listPosition": "348"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:23",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "61"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:42",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:35",
+   "score": 1123,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "2:04:42",
+   "score": 1217,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:05:23",
+   "score": 1215,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:09:22",
+   "score": 1142,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "28:44",
+     "venue": "Boulder, CO (USA)",
+     "date": "26 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:00:51",
+     "venue": "New Delhi (IND)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:28",
+     "venue": "Larne (GBR)",
+     "date": "25 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:17",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:01:35",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:05:01",
+     "venue": "Dubai (UAE)",
+     "date": "07 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:05:22",
+     "venue": "Daegu (KOR)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:23",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:05:23",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 18,
+   "rankingScore": 1307
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 178,
+   "rankingScore": 1307
+  }
+ ],
+ "representative": {
+  "name": "Christopher Gooding",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/addisu-gobena-15113613"
+}

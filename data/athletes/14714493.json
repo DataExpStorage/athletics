@@ -1,0 +1,214 @@
+{
+ "id": "14714493",
+ "givenName": "Bedatu",
+ "familyName": "HIRPA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-04-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:12.92",
+   "venue": "Pascual Guerrero Stadium, Cali (COL)",
+   "date": "18 JUL 2015",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:11",
+   "venue": "Shanghai (CHN)",
+   "date": "21 APR 2019",
+   "resultScore": 1085,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:16:53",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1243,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:16:53",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1243,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "10"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:16:53",
+   "score": 1243,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "11",
+   "mark": "2:23:58",
+   "score": 1155,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-25",
+   "competition": "Osaka Women's Marathon, Osaka",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:19:54",
+   "score": 1213,
+   "competitionId": "7235936"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:12:11",
+     "venue": "Shanghai (CHN)",
+     "date": "21 APR 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:34:18",
+     "venue": "Athina (GRE)",
+     "date": "12 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:21:32",
+     "venue": "Frankfurt (GER)",
+     "date": "28 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:23:43",
+     "venue": "Tokyo (JPN)",
+     "date": "03 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:21:55",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:22:58",
+     "venue": "Praha (CZE)",
+     "date": "30 MAY 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "2:24:48",
+     "venue": "Dubai (UAE)",
+     "date": "12 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:21:09",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:18:27",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:16:53",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U18 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "IAAF World Youth Championships",
+     "mark": "4:12.92",
+     "date": "18 JUL 2015"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:16:53",
+     "date": "27 SEP 2026"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:23:43",
+     "date": "03 MAR 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 10,
+   "rankingScore": 1318
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 115,
+   "rankingScore": 1318
+  }
+ ],
+ "representative": {
+  "name": "Marieke VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/ethiopia/bedatu-hirpa-14714493"
+}

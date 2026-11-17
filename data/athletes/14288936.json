@@ -1,0 +1,459 @@
+{
+ "id": "14288936",
+ "givenName": "Irine Chepet",
+ "familyName": "CHEPTAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1992-02-04",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.75",
+   "venue": "Kortrijk (BEL)",
+   "date": "12 JUL 2014",
+   "resultScore": 1097,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:48.03",
+   "venue": "Letzigrund, Zürich (SUI)",
+   "date": "03 SEP 2015",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:43.42",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "27 MAY 2016",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:44.00",
+   "venue": "National Stadium, Tokyo (JPN)",
+   "date": "07 AUG 2021",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:46",
+   "venue": "Al Khobar (KSA)",
+   "date": "09 DEC 2023",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:16",
+   "venue": "Praha (CZE)",
+   "date": "03 SEP 2022",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:21",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "12 SEP 2021",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:35",
+   "venue": "Amsterdam (NED)",
+   "date": "22 SEP 2019",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:53",
+   "venue": "Valencia (ESP)",
+   "date": "22 OCT 2023",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:17:51",
+   "venue": "Chicago, IL (USA)",
+   "date": "13 OCT 2024",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:11",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Northside Hospital Peachtree Road Race"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:57",
+   "venue": "Dubai (UAE)",
+   "date": "08 FEB 2026",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Burj2Burj Half Marathon",
+   "listPosition": "48"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:54",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "1:07:33",
+   "score": 1181,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:22:11",
+   "score": 1180,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "31:11",
+   "score": 1170,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:20:54",
+   "score": 1185,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-08",
+   "competition": "Burj2Burj Half Marathon, Dubai",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:06:57",
+   "score": 1193,
+   "competitionId": "7237869"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "14:46",
+     "venue": "Al Khobar (KSA)",
+     "date": "09 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "32:21",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2014"
+    },
+    {
+     "season": "2016",
+     "mark": "34:54",
+     "venue": "Baringo (KEN)",
+     "date": "06 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "31:51",
+     "venue": "Bengaluru (IND)",
+     "date": "21 MAY 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "31:27",
+     "venue": "Praha (CZE)",
+     "date": "07 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "30:16",
+     "venue": "Praha (CZE)",
+     "date": "03 SEP 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "30:17",
+     "venue": "Valencia (ESP)",
+     "date": "14 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "49:21",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "12 SEP 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "50:35",
+     "venue": "Amsterdam (NED)",
+     "date": "22 SEP 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:07:39",
+     "venue": "New Delhi (IND)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:06:43",
+     "venue": "New Delhi (IND)",
+     "date": "29 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "1:07:05",
+     "venue": "Manama (BRN)",
+     "date": "12 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:06:42",
+     "venue": "New Delhi (IND)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:04:53",
+     "venue": "Valencia (ESP)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:57",
+     "venue": "Dubai (UAE)",
+     "date": "08 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:17:51",
+     "venue": "Chicago, IL (USA)",
+     "date": "13 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:18:51",
+     "venue": "Shanghai (CHN)",
+     "date": "30 NOV 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXII Olympic Games",
+     "mark": "30:44.00",
+     "date": "07 AUG 2021"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "31:21.11",
+     "date": "05 AUG 2017"
+    },
+    {
+     "place": "7.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "15:03.41",
+     "date": "30 AUG 2015"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "31:57",
+     "date": "26 MAR 2017"
+    },
+    {
+     "place": "2.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "36th IAAF World Cross Country Championships",
+     "mark": "20:04",
+     "date": "30 MAR 2008"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "41st IAAF World Cross Country Championships",
+     "mark": "26:26",
+     "date": "28 MAR 2015"
+    },
+    {
+     "place": "10.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "40th IAAF World Cross Country Championships",
+     "mark": "25:01",
+     "date": "24 MAR 2013"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:17:51",
+     "date": "13 OCT 2024"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:21:32",
+     "date": "21 APR 2025"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:20:54",
+     "date": "20 APR 2026"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "30:49.52",
+     "date": "03 AUG 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 20,
+   "rankingScore": 1291
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 43,
+   "rankingScore": 1199
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 172,
+   "rankingScore": 1291
+  }
+ ],
+ "representative": {
+  "name": "Michel BOETING",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/kenya/irine-chepet-cheptai-14288936"
+}

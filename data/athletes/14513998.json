@@ -1,0 +1,766 @@
+{
+ "id": "14513998",
+ "givenName": "Yemaneberhan",
+ "familyName": "CRIPPA",
+ "country": "ITA",
+ "countryName": "Italy",
+ "birthDate": "1996-10-15",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:50.16",
+   "venue": "Trento (ITA)",
+   "date": "30 APR 2016",
+   "resultScore": 1021,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:32.88",
+   "venue": "Ancona (ITA) (i)",
+   "date": "24 FEB 2013",
+   "resultScore": 864,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres Short Track",
+   "mark": "2:32.88",
+   "venue": "Ancona (ITA) (i)",
+   "date": "24 FEB 2013",
+   "resultScore": 864,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:35.26",
+   "venue": "Stadio Quercia, Rovereto (ITA)",
+   "date": "05 AUG 2020",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "3:51.43",
+   "venue": "Ancona (ITA) (i)",
+   "date": "07 FEB 2015",
+   "resultScore": 1003,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:52.08",
+   "venue": "Centro Enrico Mattei, San Donato Milanese (ITA)",
+   "date": "05 SEP 2020",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:30.80",
+   "venue": "Rovereto (ITA)",
+   "date": "14 APR 2012",
+   "resultScore": 848,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:37.90",
+   "venue": "International Stadium, Gateshead (GBR)",
+   "date": "13 JUL 2021",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:57.25",
+   "venue": "Ancona (ITA) (i)",
+   "date": "06 MAR 2016",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:02.26",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "08 SEP 2020",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:23.99",
+   "venue": "Barclaycard Arena, Birmingham (GBR) (i)",
+   "date": "18 FEB 2017",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:10.76",
+   "venue": "Khalifa International Stadium, Doha (QAT)",
+   "date": "06 OCT 2019",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "34:16",
+   "venue": "Castelbuono (ITA)",
+   "date": "26 JUL 2025",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:14",
+   "venue": "Herzogenaurach (GER)",
+   "date": "30 APR 2022",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:08",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "27 APR 2024",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:01",
+   "venue": "Napoli (ITA)",
+   "date": "22 FEB 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:18",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:43.23",
+   "venue": "Stadio Comunale, Pergine Valsugana (ITA)",
+   "date": "13 JUN 2026",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meeting Internazionale Città di Pergine",
+   "listPosition": "38"
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "34:36",
+   "venue": "Castelbuono (ITA)",
+   "date": "26 JUL 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Giro Podistico Internazionale di Castelbuono"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:14",
+   "venue": "Palermo (ITA)",
+   "date": "07 JUN 2026",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Trofeo Della Legalita '' Giro pod. Int.le Città di Palermo''",
+   "listPosition": "196"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:01",
+   "venue": "Napoli (ITA)",
+   "date": "22 FEB 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Coelmo Napoli City Half Marathon",
+   "listPosition": "21"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:18",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Schneider Electric Marathon de Paris",
+   "listPosition": "54"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:06:14",
+   "score": 1199,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "59:18",
+   "score": 1215,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-15",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "4",
+   "mark": "28:08.56",
+   "score": 1119,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "Road Race",
+   "date": "2026-07-26",
+   "competition": "Giro Podistico Internazionale di Castelbuono, Castelbuono - Non-standard distance: 11,273m",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "34:36",
+   "score": 0,
+   "competitionId": "7240790"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-13",
+   "competition": "Meeting Internazionale Città di Pergine, Stadio Comunale, Pergine Valsugana",
+   "country": "ITA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "27:43.23",
+   "score": 1158,
+   "competitionId": "7242063"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-07",
+   "competition": "Trofeo Della Legalita '' Giro pod. Int.le Città di Palermo'', Palermo - Elite Event",
+   "country": "ITA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "28:14",
+   "score": 1110,
+   "competitionId": "7237724"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:05:18",
+   "score": 1217,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "Coelmo Napoli City Half Marathon, Napoli",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "59:01",
+   "score": 1226,
+   "competitionId": "7235982"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "3:52.08",
+     "venue": "Centro Enrico Mattei, San Donato Milanese (ITA)",
+     "date": "05 SEP 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "4:02.22",
+     "venue": "Arena Civica Gianni Brera, Milano (ITA)",
+     "date": "04 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "3:54.75",
+     "venue": "Arena Civica Gianni Brera, Milano (ITA)",
+     "date": "11 JUN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "34:16",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "34:36",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "13:20",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "13:14",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "29:17",
+     "venue": "Cuneo (ITA)",
+     "date": "09 NOV 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "29:05",
+     "venue": "Cuneo (ITA)",
+     "date": "08 NOV 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "29:41",
+     "venue": "Torino (ITA)",
+     "date": "10 APR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "29:20",
+     "venue": "Trento (ITA)",
+     "date": "30 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "28:34",
+     "venue": "Trento (ITA)",
+     "date": "06 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "28:54",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "28:17",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "28:03",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:08",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "27:57",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "28:14",
+     "venue": "Palermo (ITA)",
+     "date": "07 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "59:26",
+     "venue": "Napoli (ITA)",
+     "date": "27 FEB 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:03",
+     "venue": "Stadio Olimpico, Roma (ITA)",
+     "date": "09 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:52",
+     "venue": "Barcelona (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:01",
+     "venue": "Napoli (ITA)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:08:57",
+     "venue": "Milano (ITA)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:06",
+     "venue": "Sevilla (ESP)",
+     "date": "18 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:10:59",
+     "venue": "Valencia (ESP)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:18",
+     "venue": "Paris (FRA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "27:10.76",
+     "date": "06 OCT 2019"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "59:18",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "European Athletics Championships",
+     "mark": "1:01:03",
+     "date": "09 JUN 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "27:46.13",
+     "date": "21 AUG 2022"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "13:24.83",
+     "date": "16 AUG 2022"
+    },
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "28:12.15",
+     "date": "07 AUG 2018"
+    },
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "28:08.56",
+     "date": "15 AUG 2026"
+    },
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "13:19.85",
+     "date": "11 AUG 2018"
+    },
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "13:46.30",
+     "date": "10 JUL 2016"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:06:14",
+     "date": "01 NOV 2026"
+    }
+   ]
+  },
+  {
+   "category": "European Indoor Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "8:05.63",
+     "date": "05 MAR 2017"
+    }
+   ]
+  },
+  {
+   "category": "European Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "30th SPAR European Cross Country Championships",
+     "mark": "22:24",
+     "date": "08 DEC 2024"
+    },
+    {
+     "place": "2.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "26th SPAR European Cross Country Championships",
+     "mark": "30:21",
+     "date": "08 DEC 2019"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships Super League",
+     "mark": "13:17.23",
+     "date": "29 MAY 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships",
+     "mark": "13:43.30",
+     "date": "10 AUG 2019"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships First Division",
+     "mark": "13:34.29",
+     "date": "25 JUN 2023"
+    }
+   ]
+  },
+  {
+   "category": "European Cup 10,000m",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "28:08.83",
+     "date": "03 JUN 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup - Night of the 10,000m PB’s",
+     "mark": "27:49.79",
+     "date": "06 JUL 2019"
+    },
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "27:44.21",
+     "date": "19 MAY 2018"
+    }
+   ]
+  },
+  {
+   "category": "European U23 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Bydgoszcz European U23 Championships",
+     "mark": "14:14.28",
+     "date": "15 JUL 2017"
+    }
+   ]
+  },
+  {
+   "category": "European U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "European Junior Championships",
+     "mark": "14:35.39",
+     "date": "18 JUL 2015"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Italian Championships",
+     "mark": "13:26.11",
+     "date": "25 JUN 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "Italian Championships",
+     "mark": "3:45.25",
+     "date": "26 JUN 2016"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Italian Indoor Championships",
+     "mark": "7:57.25",
+     "date": "06 MAR 2016"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 27,
+   "rankingScore": 1206
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 32,
+   "rankingScore": 1278
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 53,
+   "rankingScore": 1165
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 276,
+   "rankingScore": 1278
+  }
+ ],
+ "representative": {
+  "name": "Gianni DEMADONNA",
+  "country": "Italy",
+  "website": "http://www.demadonna.com"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/italy/yemaneberhan-crippa-14513998"
+}

@@ -1,0 +1,656 @@
+{
+ "id": "14335825",
+ "givenName": "Jessica",
+ "familyName": "MCCLAIN",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "1992-02-15",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:16.67",
+   "venue": "Palo Alto, CA (USA)",
+   "date": "07 APR 2012",
+   "resultScore": 883,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.75",
+   "venue": "Tempe, AZ (USA)",
+   "date": "06 APR 2019",
+   "resultScore": 1097,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:38.00",
+   "venue": "Seattle, WA (USA) (i)",
+   "date": "17 JAN 2015",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:54.19",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "01 FEB 2020",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:01.84",
+   "venue": "Fayetteville, AR (USA) (i)",
+   "date": "14 MAR 2015",
+   "resultScore": 1121,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "10:24.57",
+   "venue": "Greensboro, NC (USA)",
+   "date": "19 JUN 2008",
+   "resultScore": 973,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:09.50",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "31 JAN 2025",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "15:09.50",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "31 JAN 2025",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:59.71",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "29 MAR 2025",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "35:25",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:40.9h",
+   "venue": "Lodi, CA (USA)",
+   "date": "12 AUG 2019",
+   "resultScore": 1042,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:44",
+   "venue": "New York, NY (USA)",
+   "date": "02 NOV 2019",
+   "resultScore": 1079,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:56",
+   "venue": "New York, NY (USA)",
+   "date": "08 JUN 2019",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:13",
+   "venue": "Mesa, AZ (USA)",
+   "date": "15 FEB 2026",
+   "resultScore": 1172,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "42:13",
+   "venue": "Coronado, CA (USA)",
+   "date": "03 JUL 2021",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:06:50",
+   "venue": "New Haven, CT (USA)",
+   "date": "02 SEP 2024",
+   "resultScore": 1115,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:53",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:42",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:49",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "4x800 Metres Relay",
+   "mark": "8:48.48",
+   "venue": "Austin, TX (USA)",
+   "date": "29 MAR 2012",
+   "resultScore": 1031,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley",
+   "mark": "11:11.07",
+   "venue": "Philadelphia, PA (USA)",
+   "date": "23 APR 2015",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "10:53.66",
+   "venue": "Fayetteville, AR (USA) (i)",
+   "date": "13 MAR 2015",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x1500 Metres Relay",
+   "mark": "17:16.74",
+   "venue": "Philadelphia, PA (USA)",
+   "date": "25 APR 2014",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:15.49",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "28 MAR 2026",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "The TEN",
+   "listPosition": "11"
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "35:25",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "ASICS Falmouth Road Race"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:13",
+   "venue": "Mesa, AZ (USA)",
+   "date": "15 FEB 2026",
+   "resultScore": 1172,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Mesa Marathon - 10K"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:53",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "46"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:42",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "135"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:49",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:24:42",
+   "score": 1167,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "1:06:53",
+   "score": 1195,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Road Race",
+   "date": "2026-08-16",
+   "competition": "ASICS Falmouth Road Race, Falmouth High School, Falmouth, MA - Non-standard distance: 11,265m - 7 Miles",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "35:25",
+   "score": 0,
+   "competitionId": "7242300"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-06",
+   "competition": "Mastercard New York Mini 10K - Women's Race, New York, NY",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "8",
+   "mark": "31:53",
+   "score": 1136,
+   "competitionId": "7241746"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:20:49",
+   "score": 1185,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-28",
+   "competition": "The TEN, JSerra Catholic HS, San Juan Capistrano, CA",
+   "country": "USA",
+   "category": "B",
+   "race": "F2",
+   "place": "2",
+   "mark": "31:15.49",
+   "score": 1179,
+   "competitionId": "7233290"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-01",
+   "competition": "Publix Atlanta Half Marathon, Home Depot Backyard, Atlanta, GA - USA Half Marathon Championships",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "9",
+   "mark": "1:11:27",
+   "score": 1100,
+   "competitionId": "7237355"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-02-15",
+   "competition": "Mesa Marathon - 10K, Mesa, AZ",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:13",
+   "score": 1172,
+   "competitionId": "7238797"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "4:53.80",
+     "venue": "Seattle, WA (USA) (i)",
+     "date": "12 JAN 2013"
+    },
+    {
+     "season": "2015",
+     "mark": "4:38.00",
+     "venue": "Seattle, WA (USA) (i)",
+     "date": "17 JAN 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2008",
+     "mark": "10:24.57",
+     "venue": "Greensboro, NC (USA)",
+     "date": "19 JUN 2008"
+    },
+    {
+     "season": "2009",
+     "mark": "10:33.21",
+     "venue": "Greensboro, NC (USA)",
+     "date": "19 JUN 2009"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "35:25",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "16 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "4:41.82",
+     "venue": "Lodi, CA (USA)",
+     "date": "13 AUG 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "4:40.9h",
+     "venue": "Lodi, CA (USA)",
+     "date": "12 AUG 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "16:07",
+     "venue": "San José (USA)",
+     "date": "27 NOV 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "16:03",
+     "venue": "San José (USA)",
+     "date": "26 NOV 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "16:04",
+     "venue": "Albany, NY (USA)",
+     "date": "02 JUN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "15:44",
+     "venue": "New York, NY (USA)",
+     "date": "02 NOV 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "32:56",
+     "venue": "New York, NY (USA)",
+     "date": "08 JUN 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "42:13",
+     "venue": "Coronado, CA (USA)",
+     "date": "03 JUL 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:08:55",
+     "venue": "New Haven, CT (USA)",
+     "date": "04 SEP 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "1:09:20",
+     "venue": "New Haven, CT (USA)",
+     "date": "02 SEP 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:06:50",
+     "venue": "New Haven, CT (USA)",
+     "date": "02 SEP 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "1:23:08",
+     "venue": "Tempe, AZ (USA)",
+     "date": "17 JAN 2010"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:37",
+     "venue": "Atlanta, GA (USA)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:53",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:29:25",
+     "venue": "Duluth, MN (USA)",
+     "date": "17 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:46",
+     "venue": "Orlando, FL (USA)",
+     "date": "03 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:29:20",
+     "venue": "National Stadium, Tokyo (JPN)",
+     "date": "14 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:42",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:29:20",
+     "date": "14 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:06:53",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:24:42",
+     "date": "01 NOV 2026"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:20:49",
+     "date": "20 APR 2026"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:22:43",
+     "date": "21 APR 2025"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:27:19",
+     "date": "03 NOV 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 34,
+   "rankingScore": 1193
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 38,
+   "rankingScore": 1251
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 65,
+   "rankingScore": 1179
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 235,
+   "rankingScore": 1266
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/united-states/jessica-mcclain-14335825"
+}

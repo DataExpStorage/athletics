@@ -1,0 +1,539 @@
+{
+ "id": "14735365",
+ "givenName": "Jacob",
+ "familyName": "KIPLIMO",
+ "country": "UGA",
+ "countryName": "Uganda",
+ "birthDate": "2000-11-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:50.24",
+   "venue": "Arezzo (ITA)",
+   "date": "07 MAY 2016",
+   "resultScore": 973,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:26.64",
+   "venue": "Stadio Olimpico, Roma (ITA)",
+   "date": "17 SEP 2020",
+   "resultScore": 1261,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:12.93",
+   "venue": "Padova (ITA) (i)",
+   "date": "20 FEB 2016",
+   "resultScore": 1002,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:10.16",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "21 AUG 2021",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:40.96",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "30 MAY 2024",
+   "resultScore": 1280,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:33.93",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "19 MAY 2021",
+   "resultScore": 1268,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:48",
+   "venue": "Valencia (ESP)",
+   "date": "14 JAN 2024",
+   "resultScore": 1245,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:32",
+   "venue": "Madrid (ESP)",
+   "date": "31 DEC 2024",
+   "resultScore": 1236,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "40:42",
+   "venue": "Nijmegen (NED)",
+   "date": "17 NOV 2024",
+   "resultScore": 1272,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "56:42",
+   "venue": "Barcelona (ESP)",
+   "date": "16 FEB 2025",
+   "resultScore": 1323,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:00:28",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1309,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "57:20",
+   "venue": "Lisboa (POR)",
+   "date": "08 MAR 2026",
+   "resultScore": 1296,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "EDP Lisbon Half Marathon",
+   "listPosition": "2"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:00:28",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1309,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "3"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:04:18",
+   "score": 1236,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:00:28",
+   "score": 1309,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "EDP Lisbon Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "57:20",
+   "score": 1296,
+   "competitionId": "7236103"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "28:18",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "8:25.17",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "25 MAY 2018"
+    },
+    {
+     "season": "2021",
+     "mark": "8:10.16",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "21 AUG 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "28:49",
+     "venue": "Roma (ITA)",
+     "date": "31 DEC 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "28:26",
+     "venue": "Cuneo (ITA)",
+     "date": "13 NOV 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "28:17",
+     "venue": "Trento (ITA)",
+     "date": "06 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "27:31",
+     "venue": "Manchester (GBR)",
+     "date": "19 MAY 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "26:48",
+     "venue": "Valencia (ESP)",
+     "date": "14 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "43:00",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "41:05",
+     "venue": "Nijmegen (NED)",
+     "date": "19 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "40:42",
+     "venue": "Nijmegen (NED)",
+     "date": "17 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "57:37",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "57:31",
+     "venue": "Lisboa (POR)",
+     "date": "21 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "57:56",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:31",
+     "venue": "New York, NY (USA)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "58:09",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "56:42",
+     "venue": "Barcelona (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "57:20",
+     "venue": "Lisboa (POR)",
+     "date": "08 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:02:23",
+     "venue": "Chicago, IL (USA)",
+     "date": "12 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:00:28",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXII Olympic Games",
+     "mark": "27:43.88",
+     "date": "30 JUL 2021"
+    },
+    {
+     "place": "5.",
+     "discipline": "5000 Metres",
+     "competition": "The XXXII Olympic Games",
+     "mark": "13:02.40",
+     "date": "06 AUG 2021"
+    },
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "26:46.39",
+     "date": "02 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Oregon 2022",
+     "mark": "27:27.97",
+     "date": "17 JUL 2022"
+    }
+   ]
+  },
+  {
+   "category": "World Half Marathon Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Half Marathon Championships",
+     "mark": "58:49",
+     "date": "17 OCT 2020"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "46th World Athletics Cross Country Championships",
+     "mark": "28:18",
+     "date": "10 JAN 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "45th World Athletics Cross Country Championships",
+     "mark": "28:09",
+     "date": "30 MAR 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "44th World Athletics Cross Country Championships",
+     "mark": "29:17",
+     "date": "18 FEB 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "22:40",
+     "date": "26 MAR 2017"
+    },
+    {
+     "place": "2.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "31:44",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "27:40.36",
+     "date": "10 JUL 2018"
+    },
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "27:26.68",
+     "date": "19 JUL 2016"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "13:23.35",
+     "date": "14 JUL 2018"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Golden Gala Pietro Mennea",
+     "mark": "7:26.64",
+     "date": "17 SEP 2020"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:02:23",
+     "date": "12 OCT 2025"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:03:37",
+     "date": "27 APR 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:00:28",
+     "date": "26 APR 2026"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "13:08.08",
+     "date": "06 AUG 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "27:09.19",
+     "date": "02 AUG 2022"
+    },
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "Gold Coast Commonwealth Games",
+     "mark": "27:30.25",
+     "date": "13 APR 2018"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Cross Country",
+     "competition": "Uganda Cross Country Championships",
+     "mark": "29:04",
+     "date": "10 FEB 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 2,
+   "rankingScore": 1400
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 26,
+   "rankingScore": 1400
+  }
+ ],
+ "representative": {
+  "name": "Federico ROSA",
+  "country": "Italy",
+  "website": "http://www.rosassociati.it"
+ },
+ "fetched": "2026-11-17",
+ "source": "https://worldathletics.org/athletes/uganda/jacob-kiplimo-14735365"
+}
