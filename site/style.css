@@ -13,7 +13,7 @@
   --platinum: #2a78d6;
   --gold: #eb6834;
   --champ: #1baf7a;
-  --extra: #6250d6;
+  --extra: #e87ba4;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -31,7 +31,7 @@
     --platinum: #3987e5;
     --gold: #d95926;
     --champ: #199e70;
-    --extra: #9085e9;
+    --extra: #d55181;
   }
 }
 * { box-sizing: border-box; }
