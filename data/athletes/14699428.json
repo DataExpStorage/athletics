@@ -1,0 +1,276 @@
+{
+ "id": "14699428",
+ "givenName": "Meseret",
+ "familyName": "ABEBAYAHAU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-06-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:22.3h",
+   "venue": "Hawassa (ETH)",
+   "date": "29 MAR 2022",
+   "resultScore": 1119,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:33",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:50",
+   "venue": "Amsterdam (NED)",
+   "date": "15 OCT 2023",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:33",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "173"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:15",
+   "venue": "Xiamen (CHN)",
+   "date": "11 JAN 2026",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "C&D Xiamen Marathon",
+   "listPosition": "157"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:40",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:23:40",
+   "score": 1166,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-10",
+   "competition": "Marathon International de Rabat, Rabat",
+   "country": "MAR",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:25:42",
+   "score": 1158,
+   "competitionId": "7232567"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "4",
+   "mark": "1:09:33",
+   "score": 1139,
+   "competitionId": "7235697"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:25:15",
+   "score": 1162,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:12:39",
+     "venue": "Istanbul (TUR)",
+     "date": "26 APR 2015"
+    },
+    {
+     "season": "2022",
+     "mark": "1:13:21",
+     "venue": "Hawassa (ETH)",
+     "date": "13 FEB 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:59",
+     "venue": "Shanghai (CHN)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:12:12",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:33",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:36:26",
+     "venue": "Beirut (LBN)",
+     "date": "08 NOV 2015"
+    },
+    {
+     "season": "2017",
+     "mark": "2:29:14",
+     "venue": "Barcelona (ESP)",
+     "date": "12 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:32:20",
+     "venue": "Málaga (ESP)",
+     "date": "09 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:30:24",
+     "venue": "Barcelona (ESP)",
+     "date": "10 MAR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:25:18",
+     "venue": "Madrid (ESP)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:19:50",
+     "venue": "Amsterdam (NED)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:00",
+     "venue": "Dongying (CHN)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:28:38",
+     "venue": "Kunming (CHN)",
+     "date": "30 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:15",
+     "venue": "Xiamen (CHN)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "32:30.75",
+     "date": "11 JUN 2022"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:23:08",
+     "date": "03 MAR 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 54,
+   "rankingScore": 1239
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 369,
+   "rankingScore": 1239
+  }
+ ],
+ "representative": {
+  "name": "Hussein MAKKÉ",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/meseret-abebayahau-14699428"
+}

@@ -1,0 +1,258 @@
+{
+ "id": "14594119",
+ "givenName": "Sayaka",
+ "familyName": "SATO",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1994-05-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:31.44",
+   "venue": "ND Soft Stadium, Tendo (JPN)",
+   "date": "14 MAY 2022",
+   "resultScore": 966,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:52.43",
+   "venue": "Athletic Track, Abashiri (JPN)",
+   "date": "10 JUL 2021",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:08.72",
+   "venue": "Yanmar Stadium Nagai, Osaka (JPN)",
+   "date": "26 SEP 2021",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:30.19",
+   "venue": "Yanmar Stadium Nagai, Osaka (JPN)",
+   "date": "04 DEC 2020",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:03",
+   "venue": "Copenhagen (DEN)",
+   "date": "15 SEP 2024",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:59",
+   "venue": "Nagoya (JPN)",
+   "date": "09 MAR 2025",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:57.50",
+   "venue": "ND Soft Stadium, Tendo (JPN)",
+   "date": "17 MAY 2026",
+   "resultScore": 1054,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "68th East Japan Corporate Athletics Championships",
+   "listPosition": "542"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:14",
+   "venue": "Gold Coast (AUS)",
+   "date": "04 JUL 2026",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Gold Coast Half Marathon",
+   "listPosition": "145"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:56",
+   "venue": "Nagoya (JPN)",
+   "date": "08 MAR 2026",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Nagoya Women's Marathon",
+   "listPosition": "72"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-26",
+   "competition": "20th Asian Games, Municipal Mizuho Stadium, Nagoya",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:28:14",
+   "score": 1134,
+   "competitionId": "7176091"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-07-04",
+   "competition": "Gold Coast Half Marathon, Gold Coast",
+   "country": "AUS",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "1:09:14",
+   "score": 1145,
+   "competitionId": "7237755"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-17",
+   "competition": "68th East Japan Corporate Athletics Championships, ND Soft Stadium, Tendo",
+   "country": "JPN",
+   "category": "E",
+   "race": "F2",
+   "place": "10",
+   "mark": "15:57.50",
+   "score": 1054,
+   "competitionId": "7239747"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-08",
+   "competition": "Nagoya Women's Marathon, Nagoya",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "2:21:56",
+   "score": 1194,
+   "competitionId": "7236072"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "1:13:50",
+     "venue": "Matsue (JPN)",
+     "date": "15 MAR 2015"
+    },
+    {
+     "season": "2019",
+     "mark": "1:09:27",
+     "venue": "Yamaguchi (JPN)",
+     "date": "10 FEB 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:03",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:14",
+     "venue": "Gold Coast (AUS)",
+     "date": "04 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "2:23:27",
+     "venue": "Nagoya (JPN)",
+     "date": "08 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:24:32",
+     "venue": "Nagoya (JPN)",
+     "date": "14 MAR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:22:13",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:31:57",
+     "venue": "Hősök tere, Budapest (HUN)",
+     "date": "26 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:24:43",
+     "venue": "Osaka (JPN)",
+     "date": "28 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:20:59",
+     "venue": "Nagoya (JPN)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:21:56",
+     "venue": "Nagoya (JPN)",
+     "date": "08 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Asian Games",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "20th Asian Games",
+     "mark": "2:28:14",
+     "date": "26 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 69,
+   "rankingScore": 1223
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 471,
+   "rankingScore": 1223
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/japan/sayaka-sato-14594119"
+}

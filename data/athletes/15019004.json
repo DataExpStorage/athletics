@@ -1,0 +1,348 @@
+{
+ "id": "15019004",
+ "givenName": "Miriam",
+ "familyName": "CHEBET",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2002-09-18",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:47.6h",
+   "venue": "Eldoret (KEN)",
+   "date": "26 MAY 2017",
+   "resultScore": 952,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:56.27",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "28 APR 2022",
+   "resultScore": 1056,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:27.30",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "25 MAY 2024",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:21",
+   "venue": "Oelde (GER)",
+   "date": "08 JUN 2024",
+   "resultScore": 1123,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:08",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1240,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:38",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2023",
+   "resultScore": 1075,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "54:18",
+   "venue": "Zaandam (NED)",
+   "date": "17 SEP 2023",
+   "resultScore": 1082,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:39",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:09.42",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "19 JUN 2026",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games",
+   "listPosition": "68"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:08",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1240,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "17"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:39",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "20"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "6",
+   "mark": "1:11:08",
+   "score": 1106,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "9",
+   "mark": "1:05:39",
+   "score": 1221,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-09",
+   "competition": "La Carrera del Pacifico Cali 10K, Cali",
+   "country": "COL",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "31:50",
+   "score": 1148,
+   "competitionId": "7240155"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-27",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "7",
+   "mark": "32:12.97",
+   "score": 1128,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-19",
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "B",
+   "race": "F1",
+   "place": "4",
+   "mark": "32:09.42",
+   "score": 1131,
+   "competitionId": "7241942"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "1:06:27",
+   "score": 1204,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "7",
+   "mark": "30:08",
+   "score": 1240,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "15:27",
+     "venue": "Wien (AUT)",
+     "date": "22 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "15:40",
+     "venue": "Monaco (MON)",
+     "date": "12 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "15:21",
+     "venue": "Oelde (GER)",
+     "date": "08 JUN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "34:57",
+     "venue": "Franceville (GAB)",
+     "date": "17 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:02",
+     "venue": "Langueux (FRA)",
+     "date": "17 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "30:40",
+     "venue": "Ibiza (ESP)",
+     "date": "28 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "31:00",
+     "venue": "Cali (COL)",
+     "date": "17 AUG 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "30:08",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "50:38",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "54:18",
+     "venue": "Zaandam (NED)",
+     "date": "17 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:06:43",
+     "venue": "Cardiff (GBR)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:07",
+     "venue": "Istanbul (TUR)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:39",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "XXIII Commonwealth Games",
+     "mark": "32:12.97",
+     "date": "27 JUL 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 6,
+   "rankingScore": 1253
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 10,
+   "rankingScore": 1243
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 286,
+   "rankingScore": 1253
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/kenya/miriam-chebet-15019004"
+}

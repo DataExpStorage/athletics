@@ -1,0 +1,703 @@
+{
+ "id": "14515907",
+ "givenName": "Glenrose",
+ "familyName": "XABA",
+ "country": "RSA",
+ "countryName": "South Africa",
+ "birthDate": "1994-12-31",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:08.88",
+   "venue": "Pilditch Stadium, Pretoria (RSA)",
+   "date": "24 FEB 2024",
+   "resultScore": 1009,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.50",
+   "venue": "Pilditch Stadium, Pretoria (RSA)",
+   "date": "21 FEB 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:07.63",
+   "venue": "Green Point Stadium, Cape Town (RSA)",
+   "date": "14 APR 2023",
+   "resultScore": 1080,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:10.62",
+   "venue": "Parc des Sports, Maisons-Laffitte (FRA)",
+   "date": "07 JUN 2025",
+   "resultScore": 1143,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:26.78",
+   "venue": "Parliament Hill Fields Athletics Track, London (GBR)",
+   "date": "18 MAY 2024",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:46",
+   "venue": "Johannesburg (RSA)",
+   "date": "28 AUG 2016",
+   "resultScore": 967,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:46=",
+   "venue": "Johannesburg (RSA)",
+   "date": "28 AUG 2016",
+   "resultScore": 967,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:12",
+   "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+   "date": "07 JUL 2024",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "40:03",
+   "venue": "Cape Town (RSA)",
+   "date": "20 MAY 2018",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:03",
+   "venue": "Istanbul (TUR)",
+   "date": "19 APR 2026",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:22",
+   "venue": "Cape Town (RSA)",
+   "date": "20 OCT 2024",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.50",
+   "venue": "Pilditch Stadium, Pretoria (RSA)",
+   "date": "21 FEB 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "AGN Track & Field League 3",
+   "listPosition": "368"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:26.89",
+   "venue": "Pilditch Stadium, Pretoria (RSA)",
+   "date": "14 MAR 2026",
+   "resultScore": 1111,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "AGN Championships",
+   "listPosition": "212"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:43.49",
+   "venue": "Pilditch Stadium, Pretoria (RSA)",
+   "date": "13 MAR 2026",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "AGN Championships",
+   "listPosition": "27"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:16",
+   "venue": "Nelson Mandela University, Gqeberha (RSA)",
+   "date": "26 SEP 2026",
+   "resultScore": 1178,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "SPAR Women's Grand Prix Series 4",
+   "listPosition": "65"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:03",
+   "venue": "Istanbul (TUR)",
+   "date": "19 APR 2026",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Half Marathon",
+   "listPosition": "52"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:09:11",
+   "score": 1146,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-11-01",
+   "competition": "Region 5 Marathon, Union Buildings Tshwane, Pretoria",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "33:48",
+   "score": 1046,
+   "competitionId": "7237493"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "SPAR Women's Grand Prix Series, Johannesburg",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "32:25",
+   "score": 1105,
+   "competitionId": "7246556"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-26",
+   "competition": "SPAR Women's Grand Prix Series 4, Nelson Mandela University, Gqeberha",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:16",
+   "score": 1178,
+   "competitionId": "7246835"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "13",
+   "mark": "1:07:49",
+   "score": 1175,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-23",
+   "competition": "ABSA Run Your City 10K, Tshwane - Elite Event",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "31:38",
+   "score": 1159,
+   "competitionId": "7237497"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-01",
+   "competition": "SPAR Women's Grand Prix Series 3, Tshwane",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "32:28",
+   "score": 1114,
+   "competitionId": "7244997"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "10",
+   "mark": "32:20",
+   "score": 1108,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Istanbul Half Marathon, Istanbul",
+   "country": "TUR",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:07:03",
+   "score": 1191,
+   "competitionId": "7236079"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-29",
+   "competition": "SPAR Women's Grand Prix Series, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "31:38",
+   "score": 1159,
+   "competitionId": "7237462"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-03-14",
+   "competition": "AGN Championships, Pilditch Stadium, Pretoria",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "15:26.89",
+   "score": 1111,
+   "competitionId": "7236353"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-13",
+   "competition": "AGN Championships, Pilditch Stadium, Pretoria",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:43.49",
+   "score": 1154,
+   "competitionId": "7236353"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-01",
+   "competition": "ABSA Run Yor City 10K, Marine Park, Gqeberha",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "32:13",
+   "score": 1128,
+   "competitionId": "7237188"
+  },
+  {
+   "discipline": "1500 Metres",
+   "date": "2026-02-21",
+   "competition": "AGN Track & Field League 3, Pilditch Stadium, Pretoria",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "4:13.50",
+   "score": 1099,
+   "competitionId": "7236348"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "34",
+   "mark": "34:51",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "16:46",
+     "venue": "Johannesburg (RSA)",
+     "date": "28 AUG 2016"
+    },
+    {
+     "season": "2016",
+     "mark": "16:46",
+     "venue": "Johannesburg (RSA)",
+     "date": "28 AUG 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "36:31",
+     "venue": "Pretoria (RSA)",
+     "date": "30 AUG 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "35:20",
+     "venue": "Cape Town (RSA)",
+     "date": "29 MAR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "34:50",
+     "venue": "Durban (RSA)",
+     "date": "05 JUN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "33:25",
+     "venue": "Cape Town (RSA)",
+     "date": "17 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "33:14",
+     "venue": "Durban (RSA)",
+     "date": "14 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "32:45",
+     "venue": "Durban (RSA)",
+     "date": "13 OCT 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "32:59",
+     "venue": "Gqeberha (RSA)",
+     "date": "09 OCT 2021"
+    },
+    {
+     "season": "2021",
+     "mark": "32:59",
+     "venue": "Durban (RSA)",
+     "date": "11 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "32:52",
+     "venue": "Durban (RSA)",
+     "date": "10 JUL 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "31:12",
+     "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+     "date": "07 JUL 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "31:50",
+     "venue": "Durban (RSA)",
+     "date": "13 JUL 2025"
+    },
+    {
+     "season": "2025",
+     "mark": "31:50",
+     "venue": "Tshwane (RSA)",
+     "date": "24 AUG 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "31:16",
+     "venue": "Nelson Mandela University, Gqeberha (RSA)",
+     "date": "26 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "42:33",
+     "venue": "Cape Town (RSA)",
+     "date": "21 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "40:03",
+     "venue": "Cape Town (RSA)",
+     "date": "20 MAY 2018"
+    },
+    {
+     "season": "2021",
+     "mark": "41:00",
+     "venue": "Cape Town (RSA)",
+     "date": "21 NOV 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:09:46",
+     "venue": "Buenos Aires (ARG)",
+     "date": "25 AUG 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:09:26",
+     "venue": "Gdynia (POL)",
+     "date": "17 OCT 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "1:09:30",
+     "venue": "Port Elizabeth (RSA)",
+     "date": "01 MAY 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:41",
+     "venue": "Gqeberha (RSA)",
+     "date": "04 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:08:37",
+     "venue": "Gqeberha (RSA)",
+     "date": "03 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:13:42",
+     "venue": "Pollock Beach, Gqeberha (RSA)",
+     "date": "01 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:55",
+     "venue": "Lisboa (POR)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:03",
+     "venue": "Istanbul (TUR)",
+     "date": "19 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:22:22",
+     "venue": "Cape Town (RSA)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:23:22",
+     "venue": "Valencia (ESP)",
+     "date": "07 DEC 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "12.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:09:47",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "32:45.05",
+     "date": "11 JUN 2022"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "South African Championships",
+     "mark": "15:27.95",
+     "date": "24 APR 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "32:56.29",
+     "date": "20 APR 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "South African Championships",
+     "mark": "15:48.44",
+     "date": "18 APR 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "South African 10km Road Running Championships",
+     "mark": "33:00",
+     "date": "10 MAR 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "33:02.13",
+     "date": "30 MAR 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Nelson Mandela Bay Half Marathon",
+     "mark": "1:10:41",
+     "date": "04 JUN 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "32:31.49",
+     "date": "23 APR 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Nelson Mandela Bay Half Marathon",
+     "mark": "1:09:30",
+     "date": "01 MAY 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "33:35.23",
+     "date": "17 APR 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "35:08.92",
+     "date": "27 APR 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "34:56.12",
+     "date": "22 APR 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "South African Championships",
+     "mark": "34:23.56",
+     "date": "16 APR 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "South African 10 km Road Running Championships",
+     "mark": "33:33",
+     "date": "28 SEP 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "NMB Half Marathon",
+     "mark": "1:13:42",
+     "date": "01 JUN 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 52,
+   "rankingScore": 1179
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 57,
+   "rankingScore": 1189
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 77,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 564,
+   "rankingScore": 1214
+  }
+ ],
+ "representative": {
+  "name": "Lee-Roy NEWTON",
+  "country": "South Africa",
+  "website": "http://newtonagency.co.za"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/south-africa/glenrose-xaba-14515907"
+}

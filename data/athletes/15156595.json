@@ -1,0 +1,278 @@
+{
+ "id": "15156595",
+ "givenName": "Khairi",
+ "familyName": "BEJIGA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2006-04-27",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:03.27",
+   "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "date": "21 AUG 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:14",
+   "venue": "Al Khobar (KSA)",
+   "date": "13 DEC 2025",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:51",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:51=",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:32",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:03.27",
+   "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+   "date": "21 AUG 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Athletissima Lausanne",
+   "listPosition": "35"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:51",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "4"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:51=",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Urban Trail de Lille - 5 et 10km"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:32",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "335"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "24",
+   "mark": "1:01:32",
+   "score": 1125,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "27:01",
+   "score": 1225,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-21",
+   "competition": "Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne - Diamond Discipline",
+   "country": "SUI",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "13:03.27",
+   "score": 1198,
+   "competitionId": "7214027"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-10",
+   "competition": "Meeting International d’Athlétisme Herculis EBS, Stade Louis II, Monaco - Diamond Discipline",
+   "country": "MON",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "13:07.06",
+   "score": 1184,
+   "competitionId": "7214023"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-28",
+   "competition": "Meeting de Paris, Stade Charléty, Paris - Diamond Discipline",
+   "country": "FRA",
+   "category": "GW",
+   "race": "F",
+   "place": "15",
+   "mark": "13:15.41",
+   "score": 1154,
+   "competitionId": "7214022"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "Wanda Diamond League Xiamen, Egret Stadium, Xiamen - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "13:06.45",
+   "score": 1186,
+   "competitionId": "7214017"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Urban Trail de Lille - 5 et 10km, Lille",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "26:51",
+   "score": 1241,
+   "competitionId": "7236174"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "26:51",
+   "score": 1241,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "13:22",
+     "venue": "Al Khobar (KSA)",
+     "date": "14 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "13:14",
+     "venue": "Al Khobar (KSA)",
+     "date": "13 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "26:54",
+     "venue": "Brasov (ROU)",
+     "date": "05 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "26:51",
+     "venue": "Lille (FRA)",
+     "date": "04 APR 2026"
+    },
+    {
+     "season": "2026",
+     "mark": "26:51",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:01:32",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 8,
+   "rankingScore": 1249
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 28,
+   "rankingScore": 1239
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 362,
+   "rankingScore": 1259
+  }
+ ],
+ "representative": {
+  "name": "Jeroen BAKKER",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/khairi-bejiga-15156595"
+}

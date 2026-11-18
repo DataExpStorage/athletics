@@ -1,0 +1,572 @@
+{
+ "id": "14464221",
+ "givenName": "Muktar",
+ "familyName": "EDRIS",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-01-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:30.96",
+   "venue": "Bregyó Athletic Center, Székesfehérvár (HUN)",
+   "date": "06 JUL 2021",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:40.69",
+   "venue": "Liévin (FRA) (i)",
+   "date": "13 FEB 2018",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:26.11",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "25 MAY 2018",
+   "resultScore": 1117,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:54.83",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "21 AUG 2014",
+   "resultScore": 1229,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:17.18",
+   "venue": "Hengelo (NED)",
+   "date": "17 JUN 2015",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "33:56",
+   "venue": "Castelbuono (ITA)",
+   "date": "26 JUL 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:09",
+   "venue": "Herzogenaurach (GER)",
+   "date": "12 SEP 2021",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:38",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "27 APR 2024",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "42:55",
+   "venue": "Nijmegen (NED)",
+   "date": "18 NOV 2018",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "44:51",
+   "venue": "Amsterdam (NED)",
+   "date": "22 SEP 2024",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:40",
+   "venue": "Valencia (ESP)",
+   "date": "24 OCT 2021",
+   "resultScore": 1240,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:07",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:11",
+   "venue": "Arezzo (ITA)",
+   "date": "31 MAY 2026",
+   "resultScore": 1025,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Scalata Al Castello",
+   "listPosition": "631"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:07",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "21"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:04:34",
+   "score": 1231,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Scalata Al Castello, Arezzo",
+   "country": "ITA",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "29:11",
+   "score": 1025,
+   "competitionId": "7242463"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "18",
+   "mark": "29:15",
+   "score": 1019,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:04:07",
+   "score": 1239,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "8:26.11",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "25 MAY 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "33:56",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "13:24",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "13:09",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "13:23",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "13:27",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "13:11",
+     "venue": "Lille (FRA)",
+     "date": "17 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "28:45",
+     "venue": "Trento (ITA)",
+     "date": "13 OCT 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "28:11",
+     "venue": "Dongio (SUI)",
+     "date": "01 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "28:52",
+     "venue": "Trento (ITA)",
+     "date": "11 OCT 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "28:22",
+     "venue": "Dongio (SUI)",
+     "date": "06 APR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "28:19",
+     "venue": "San Juan (PUR)",
+     "date": "28 FEB 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "28:45",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "28:31",
+     "venue": "Trento (ITA)",
+     "date": "06 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "27:57",
+     "venue": "Dongio (SUI)",
+     "date": "22 APR 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "28:14",
+     "venue": "Trento (ITA)",
+     "date": "02 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "28:31",
+     "venue": "Bengaluru (IND)",
+     "date": "15 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "28:06",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "05 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:38",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "29:11",
+     "venue": "Arezzo (ITA)",
+     "date": "31 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "42:55",
+     "venue": "Nijmegen (NED)",
+     "date": "18 NOV 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "44:51",
+     "venue": "Amsterdam (NED)",
+     "date": "22 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "46:32",
+     "venue": "Amsterdam (NED)",
+     "date": "21 SEP 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "59:04",
+     "venue": "New Delhi (IND)",
+     "date": "29 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "58:40",
+     "venue": "Valencia (ESP)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:01:05",
+     "venue": "New Delhi (IND)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:27",
+     "venue": "Napoli (ITA)",
+     "date": "26 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:52",
+     "venue": "New Delhi (IND)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:15",
+     "venue": "Shenzhen (CHN)",
+     "date": "14 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:04:07",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "12:58.85",
+     "date": "30 SEP 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "13:32.79",
+     "date": "12 AUG 2017"
+    },
+    {
+     "place": "7.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "13:29.56",
+     "date": "16 AUG 2013"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "41st IAAF World Cross Country Championships",
+     "mark": "35:06",
+     "date": "28 MAR 2015"
+    },
+    {
+     "place": "3.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "40th IAAF World Cross Country Championships",
+     "mark": "21:13",
+     "date": "24 MAR 2013"
+    },
+    {
+     "place": "6.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "28:56",
+     "date": "26 MAR 2017"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "39th IAAF World Cross Country Championships",
+     "mark": "22:44",
+     "date": "20 MAR 2011"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "13:38.95",
+     "date": "14 JUL 2012"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Athletissima Lausanne",
+     "mark": "12:55.23",
+     "date": "06 JUL 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Meeting de Paris",
+     "mark": "7:32.31",
+     "date": "01 JUL 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Eugene Prefontaine Classic",
+     "mark": "12:59.43",
+     "date": "28 MAY 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Shanghai Golden Grand Prix",
+     "mark": "12:59.96",
+     "date": "14 MAY 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Stockholm DN Galan",
+     "mark": "12:54.83",
+     "date": "21 AUG 2014"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:04:07",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:05:59",
+     "date": "21 APR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 27,
+   "rankingScore": 1286
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 246,
+   "rankingScore": 1286
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 275,
+   "rankingScore": 1098
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/muktar-edris-14464221"
+}

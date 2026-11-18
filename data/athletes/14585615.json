@@ -1,0 +1,225 @@
+{
+ "id": "14585615",
+ "givenName": "Mercy Jerop",
+ "familyName": "KWAMBAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1988-04-05",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:02.69",
+   "venue": "Nairobi (KEN)",
+   "date": "16 APR 2022",
+   "resultScore": 1045,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "35:04.33",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "08 JUN 2023",
+   "resultScore": 982,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:53",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1071,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:58",
+   "venue": "Xiamen (CHN)",
+   "date": "05 JAN 2025",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "35:21.82",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "21 MAY 2026",
+   "resultScore": 968,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Athletics Kenya National Police Service Track and Field Championships",
+   "listPosition": "780"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:53",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1071,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit",
+   "listPosition": "510"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:27:22",
+   "venue": "Xiamen (CHN)",
+   "date": "11 JAN 2026",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "C&D Xiamen Marathon",
+   "listPosition": "240"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:30:25",
+   "score": 1113,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "2:30:36",
+   "score": 1112,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-21",
+   "competition": "Athletics Kenya National Police Service Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "11",
+   "mark": "35:21.82",
+   "score": 968,
+   "competitionId": "7241948"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:12:53",
+   "score": 1071,
+   "competitionId": "7237360"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:27:22",
+   "score": 1142,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:14:27",
+     "venue": "Yangzhou (CHN)",
+     "date": "30 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:12:53",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:27:32",
+     "venue": "Firenze (ITA)",
+     "date": "28 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:30:15",
+     "venue": "Bregenz (AUT)",
+     "date": "09 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:37:01",
+     "venue": "Kuala Lumpur (MAS)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:57",
+     "venue": "Changsha (CHN)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:23:58",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:27:22",
+     "venue": "Xiamen (CHN)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 180,
+   "rankingScore": 1166
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1244,
+   "rankingScore": 1166
+  }
+ ],
+ "representative": {
+  "name": "Michael Kraus ",
+  "country": "Germany",
+  "website": "http://www.professional-coach.net/"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/kenya/mercy-jerop-kwambai-14585615"
+}
