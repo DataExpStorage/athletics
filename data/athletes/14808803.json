@@ -1,0 +1,126 @@
+{
+ "id": "14808803",
+ "givenName": "Joan",
+ "familyName": "KILIMO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2004-03-08",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:35.4h",
+   "venue": "Nakuru (KEN)",
+   "date": "03 JUN 2017",
+   "resultScore": 938,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:39",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:39",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "20"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:18:39",
+   "score": 1225,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Zurich Marató de Barcelona, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:18:40",
+   "score": 1225,
+   "competitionId": "7236009"
+  },
+  {
+   "discipline": "Cross Country",
+   "date": "2026-02-14",
+   "competition": "Sirikwa Classic Continental Tour Gold, Lobo Village, Eldoret - XC 10.0km",
+   "country": "KEN",
+   "category": "GL",
+   "race": "F",
+   "place": "23",
+   "mark": "35:40",
+   "score": 0,
+   "competitionId": "7231759"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:27:41",
+     "venue": "Casablanca (MAR)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:32",
+     "venue": "Milano (ITA)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:18:39",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 28,
+   "rankingScore": 1267
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 231,
+   "rankingScore": 1267
+  }
+ ],
+ "representative": {
+  "name": "Federico ROSA",
+  "country": "Italy",
+  "website": "http://www.rosassociati.it"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/kenya/joan-kilimo-14808803"
+}

@@ -1,0 +1,275 @@
+{
+ "id": "14815683",
+ "givenName": "Megertu",
+ "familyName": "ALEMU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-10-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:43",
+   "venue": "København (DEN)",
+   "date": "15 SEP 2019",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:16:34",
+   "venue": "London (GBR)",
+   "date": "21 APR 2024",
+   "resultScore": 1246,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:42",
+   "venue": "Yangzhou (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Yangzhou Half Marathon",
+   "listPosition": "184"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:50",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1224,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "23"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "1:09:42",
+   "score": 1136,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:18:50",
+   "score": 1224,
+   "competitionId": "7236397"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:06:43",
+     "venue": "København (DEN)",
+     "date": "15 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:07:18",
+     "venue": "Jeddah (KSA)",
+     "date": "10 DEC 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:23",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "24 FEB 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:42",
+     "venue": "Yangzhou (CHN)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:29:10",
+     "venue": "Zhengzhou (CHN)",
+     "date": "26 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:28:08",
+     "venue": "Shanghai (CHN)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:21:10",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:24:23",
+     "venue": "London (GBR)",
+     "date": "04 OCT 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:27:18",
+     "venue": "London (GBR)",
+     "date": "03 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:18:32",
+     "venue": "London (GBR)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:17:09",
+     "venue": "Chicago, IL (USA)",
+     "date": "08 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:16:34",
+     "venue": "London (GBR)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:17:18",
+     "venue": "Chicago, IL (USA)",
+     "date": "12 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:18:50",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:17:18",
+     "date": "12 OCT 2025"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:18:37",
+     "date": "23 APR 2023"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:17:09",
+     "date": "08 OCT 2023"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:18:32",
+     "date": "02 OCT 2022"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:16:34",
+     "date": "21 APR 2024"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:18:50",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Virgin Money London Marathon",
+     "mark": "2:24:23",
+     "date": "04 OCT 2020"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 12,
+   "rankingScore": 1306
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 131,
+   "rankingScore": 1306
+  }
+ ],
+ "representative": {
+  "name": "Christopher Gooding",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/megertu-alemu-14815683"
+}

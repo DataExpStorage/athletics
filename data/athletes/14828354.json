@@ -1,0 +1,287 @@
+{
+ "id": "14828354",
+ "givenName": "Ftaw",
+ "familyName": "ZERAY",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-08-03",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:55",
+   "venue": "Boston, MA (USA)",
+   "date": "25 JUN 2023",
+   "resultScore": 1143,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:12",
+   "venue": "Paris (FRA)",
+   "date": "08 MAR 2026",
+   "resultScore": 1230,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:27:38",
+   "venue": "Kolkata (IND)",
+   "date": "16 DEC 2018",
+   "resultScore": 1073,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:29:15",
+   "venue": "Hefei (CHN)",
+   "date": "10 NOV 2019",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:12",
+   "venue": "Paris (FRA)",
+   "date": "08 MAR 2026",
+   "resultScore": 1230,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKA Semi de Paris",
+   "listPosition": "17"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "14",
+   "mark": "1:06:41",
+   "score": 1199,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "1:07:07",
+   "score": 1190,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Istanbul Half Marathon, Istanbul",
+   "country": "TUR",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:06:57",
+   "score": 1193,
+   "competitionId": "7236079"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:02",
+   "score": 1191,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "HOKA Semi de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:05:12",
+   "score": 1230,
+   "competitionId": "7236007"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-08",
+   "competition": "Burj2Burj Half Marathon, Dubai",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:07:01",
+   "score": 1192,
+   "competitionId": "7237869"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "32:07",
+     "venue": "Valencia (ESP)",
+     "date": "09 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:55",
+     "venue": "Boston, MA (USA)",
+     "date": "25 JUN 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "32:12",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 NOV 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:16:20",
+     "venue": "Helong (CHN)",
+     "date": "10 SEP 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "1:10:31",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:12:20",
+     "venue": "Porto (POR)",
+     "date": "22 SEP 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:08:30",
+     "venue": "Berlin (GER)",
+     "date": "22 AUG 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:06:57",
+     "venue": "Gqeberha (RSA)",
+     "date": "04 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:04",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "18 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:06:21",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:36",
+     "venue": "Shanghai (CHN)",
+     "date": "20 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:12",
+     "venue": "Paris (FRA)",
+     "date": "08 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:27:38",
+     "venue": "Kolkata (IND)",
+     "date": "16 DEC 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:29:15",
+     "venue": "Hefei (CHN)",
+     "date": "10 NOV 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:39:18",
+     "venue": "Istanbul (TUR)",
+     "date": "08 NOV 2020"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:08:31",
+     "date": "01 OCT 2023"
+    },
+    {
+     "place": "8.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:07:07",
+     "date": "20 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 16,
+   "rankingScore": 1231
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 262,
+   "rankingScore": 1258
+  }
+ ],
+ "representative": {
+  "name": "Marieke VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/ftaw-zeray-14828354"
+}

@@ -1,0 +1,253 @@
+{
+ "id": "14848725",
+ "givenName": "Alemitu",
+ "familyName": "TARIKU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-09-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:17.59",
+   "venue": "Assela (ETH)",
+   "date": "26 MAY 2018",
+   "resultScore": 1068,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:00.7h",
+   "venue": "Assela (ETH)",
+   "date": "09 DEC 2018",
+   "resultScore": 1103,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:37.15",
+   "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+   "date": "26 AUG 2019",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:15",
+   "venue": "Herzogenaurach (GER)",
+   "date": "12 SEP 2021",
+   "resultScore": 1134,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:11",
+   "venue": "Castellón (ESP)",
+   "date": "26 FEB 2023",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:49",
+   "venue": "Madrid (ESP)",
+   "date": "26 MAR 2023",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:01",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:01",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "26"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:19:01",
+   "score": 1222,
+   "competitionId": "7235580"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "16:00",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "15:55",
+     "venue": "Addis Ababa (ETH)",
+     "date": "15 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "15:15",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "32:04",
+     "venue": "Bengaluru (IND)",
+     "date": "15 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:11",
+     "venue": "Castellón (ESP)",
+     "date": "26 FEB 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:07:58",
+     "venue": "Madrid (ESP)",
+     "date": "14 NOV 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "1:07:49",
+     "venue": "Madrid (ESP)",
+     "date": "26 MAR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:12:01",
+     "venue": "Napoli (ITA)",
+     "date": "23 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:29:06",
+     "venue": "Málaga (ESP)",
+     "date": "14 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:01",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "20:50",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "African Games",
+     "mark": "15:37.15",
+     "date": "26 AUG 2019"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:19:01",
+     "date": "27 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "African U20 Championships",
+     "mark": "9:33.53",
+     "date": "16 APR 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 96,
+   "rankingScore": 1206
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 651,
+   "rankingScore": 1206
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/ethiopia/alemitu-tariku-014848725"
+}

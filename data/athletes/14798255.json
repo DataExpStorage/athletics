@@ -1,0 +1,279 @@
+{
+ "id": "14798255",
+ "givenName": "Catherine Reline",
+ "familyName": "AMANANG'OLE",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2002-10-05",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:29.5h",
+   "venue": "Eldoret (KEN)",
+   "date": "26 MAY 2017",
+   "resultScore": 1009,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:18.01",
+   "venue": "Nairobi (KEN)",
+   "date": "11 JUN 2018",
+   "resultScore": 1017,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:07.42",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "25 MAY 2024",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:39",
+   "venue": "São Paulo (BRA)",
+   "date": "31 DEC 2022",
+   "resultScore": 1105,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:11",
+   "venue": "Buenos Aires (ARG)",
+   "date": "23 AUG 2026",
+   "resultScore": 1231,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:34",
+   "venue": "Abu Dhabi (UAE)",
+   "date": "14 DEC 2024",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:11",
+   "venue": "Buenos Aires (ARG)",
+   "date": "23 AUG 2026",
+   "resultScore": 1231,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Media Maratón Ciudad de Buenos Aires",
+   "listPosition": "16"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:20",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "61"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Media Maratón Ciudad de Buenos Aires, Buenos Aires",
+   "country": "ARG",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "1:05:11",
+   "score": 1231,
+   "competitionId": "7243530"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:21:20",
+   "score": 1199,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Shanghai Half Marathon, Shanghai",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:02",
+   "score": 1191,
+   "competitionId": "7236073"
+  },
+  {
+   "discipline": "Cross Country",
+   "date": "2026-02-14",
+   "competition": "Sirikwa Classic Continental Tour Gold, Lobo Village, Eldoret - XC 10.0km",
+   "country": "KEN",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "33:51",
+   "score": 0,
+   "competitionId": "7231759"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "49:39",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "49:54",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:07:08",
+     "venue": "Telese Terme (ITA)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:05:39",
+     "venue": "Barcelona (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:06:09",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:42",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:11",
+     "venue": "Buenos Aires (ARG)",
+     "date": "23 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:20:34",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "14 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:21:17",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "13 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:21:20",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:07:34",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:21:20",
+     "date": "26 APR 2026"
+    }
+   ]
+  },
+  {
+   "category": "South American Half Marathon Championships ",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Half Marathon",
+     "competition": "Buenos Aires Half Marathon - South American Half Marathon Championships",
+     "mark": "1:08:02",
+     "date": "21 AUG 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 32,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 45,
+   "rankingScore": 1245
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 331,
+   "rankingScore": 1245
+  }
+ ],
+ "representative": {
+  "name": "Federico ROSA",
+  "country": "Italy",
+  "website": "http://www.rosassociati.it"
+ },
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/kenya/catherine-reline-amanangole-14798255"
+}

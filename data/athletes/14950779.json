@@ -1,0 +1,303 @@
+{
+ "id": "14950779",
+ "givenName": "Tiantian",
+ "familyName": "LIANG",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "2004-08-31",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:25.55",
+   "venue": "Sichuan Xipu Training Base, Chengdu (CHN) (i)",
+   "date": "24 FEB 2023",
+   "resultScore": 1028,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:25.55",
+   "venue": "Sichuan Xipu Training Base, Chengdu (CHN) (i)",
+   "date": "24 FEB 2023",
+   "resultScore": 1028,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:57.65",
+   "venue": "National Stadium, Beijing (CHN)",
+   "date": "07 SEP 2025",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:14.96",
+   "venue": "Sichuan Xipu Training Base, Chengdu (CHN) (i)",
+   "date": "25 FEB 2023",
+   "resultScore": 1077,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:09.85",
+   "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+   "date": "18 NOV 2025",
+   "resultScore": 1144,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:23.40",
+   "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+   "date": "20 NOV 2025",
+   "resultScore": 1118,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:33",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:27.54",
+   "venue": "Kuishan Sports Center, Rizhao (CHN)",
+   "date": "26 JUN 2026",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chinese Athletics Meet",
+   "listPosition": "217"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:06.12",
+   "venue": "Hebei Olympic Sports Center, Qinhuangdao (CHN)",
+   "date": "29 APR 2026",
+   "resultScore": 1081,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Regional Athletics Invitational Meeting 5",
+   "listPosition": "204"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:33",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "113"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "24",
+   "mark": "1:09:30",
+   "score": 1140,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-28",
+   "competition": "Chinese Athletics Meet, Kuishan Sports Center, Rizhao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "33:52.28",
+   "score": 1042,
+   "competitionId": "7244577"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-26",
+   "competition": "Chinese Athletics Meet, Kuishan Sports Center, Rizhao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "15:27.54",
+   "score": 1110,
+   "competitionId": "7244577"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-09",
+   "competition": "National Athletics Grand Prix 2, Sports Center, Jiaxing",
+   "country": "CHN",
+   "category": "D",
+   "race": "F",
+   "place": "1",
+   "mark": "33:21.81",
+   "score": 1068,
+   "competitionId": "7239310"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-29",
+   "competition": "Regional Athletics Invitational Meeting 5, Hebei Olympic Sports Center, Qinhuangdao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "33:06.12",
+   "score": 1081,
+   "competitionId": "7237982"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-28",
+   "competition": "Regional Athletics Invitational Meeting 5, Hebei Olympic Sports Center, Qinhuangdao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "16:25.02",
+   "score": 1004,
+   "competitionId": "7237982"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-18",
+   "competition": "National Middle and Long Distance Running Meeting, Henan Provincial Stadium, Zhengzhou",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "15:59.74",
+   "score": 1050,
+   "competitionId": "7240947"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "East Asian Half Marathon Championships, Yangzhou",
+   "country": "CHN",
+   "category": "D",
+   "race": "F",
+   "place": "1",
+   "mark": "1:10:03",
+   "score": 1129,
+   "competitionId": "7241126"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:08:33",
+   "score": 1160,
+   "competitionId": "7235697"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:11:15",
+     "venue": "Chengdu (CHN)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:56",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:08:33",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "32:46.72",
+     "date": "04 AUG 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "15:21.66",
+     "date": "02 AUG 2025"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Chinese Indoor Championships",
+     "mark": "9:19.95",
+     "date": "17 MAR 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 88,
+   "rankingScore": 1164
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 123,
+   "rankingScore": 1132
+  },
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 166,
+   "rankingScore": 1109
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1189,
+   "rankingScore": 1169
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-18",
+ "source": "https://worldathletics.org/athletes/pr-of-china/tiantian-liang-14950779"
+}
