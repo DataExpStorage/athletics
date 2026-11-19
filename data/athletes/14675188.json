@@ -1,0 +1,221 @@
+{
+ "id": "14675188",
+ "givenName": "Workenesh",
+ "familyName": "EDESA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1992-09-11",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:00",
+   "venue": "Lisboa (POR)",
+   "date": "22 MAR 2015",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:17:55",
+   "venue": "Hamburg (GER)",
+   "date": "27 APR 2025",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:56",
+   "venue": "Osaka (JPN)",
+   "date": "25 JAN 2026",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Osaka Women's Marathon",
+   "listPosition": "41"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:21:52",
+   "score": 1175,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-25",
+   "competition": "Osaka Women's Marathon, Osaka",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:19:56",
+   "score": 1213,
+   "competitionId": "7235936"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:14:42",
+     "venue": "Kochi (IND)",
+     "date": "07 DEC 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:12:00",
+     "venue": "Lisboa (POR)",
+     "date": "22 MAR 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:31:06",
+     "venue": "Marrakech (MAR)",
+     "date": "25 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:24:04",
+     "venue": "Xiamen (CHN)",
+     "date": "02 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:26:27",
+     "venue": "Xiamen (CHN)",
+     "date": "02 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:26:28",
+     "venue": "Hengshui (CHN)",
+     "date": "29 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:20:24",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:18:51",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:19:40",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:18:51",
+     "venue": "Osaka (JPN)",
+     "date": "28 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:17:55",
+     "venue": "Hamburg (GER)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:56",
+     "venue": "Osaka (JPN)",
+     "date": "25 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:20:13",
+     "date": "05 MAR 2023"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:18:51",
+     "date": "25 SEP 2022"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "B.A.A. Boston Marathon",
+     "mark": "2:27:38",
+     "date": "11 OCT 2021"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:21:52",
+     "date": "20 APR 2026"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:24:47",
+     "date": "15 APR 2024"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:19:40",
+     "date": "24 SEP 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 24,
+   "rankingScore": 1276
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 209,
+   "rankingScore": 1276
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/ethiopia/workenesh-edesa-14675188"
+}

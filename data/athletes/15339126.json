@@ -1,0 +1,97 @@
+{
+ "id": "15339126",
+ "givenName": "Aliyi",
+ "familyName": "KASIM",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:38.56",
+   "venue": "Addis Ababa (ETH)",
+   "date": "02 MAY 2026",
+   "resultScore": 875,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:31",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:38.56",
+   "venue": "Addis Ababa (ETH)",
+   "date": "02 MAY 2026",
+   "resultScore": 875,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ethiopian U20 Championships"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:31",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "listPosition": "632"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "1:02:31",
+   "score": 1087,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-02",
+   "competition": "Ethiopian U20 Championships, Addis Ababa",
+   "country": "ETH",
+   "category": "F",
+   "race": "H1",
+   "place": "11",
+   "mark": "14:38.56",
+   "score": 875,
+   "competitionId": "7234050"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:02:31",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": null,
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/ethiopia/aliyi-kasim-15339126"
+}

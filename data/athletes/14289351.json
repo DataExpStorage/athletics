@@ -1,0 +1,604 @@
+{
+ "id": "14289351",
+ "givenName": "Priscah Jepleting",
+ "familyName": "CHERONO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1980-06-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:07.8h",
+   "venue": "Nairobi (KEN)",
+   "date": "02 JUL 1999",
+   "resultScore": 1027,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:15.7h",
+   "venue": "Nairobi (KEN)",
+   "date": "22 JUL 2000",
+   "resultScore": 1083,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:29.06",
+   "venue": "Gottlieb-Daimler Stadion, Stuttgart (GER)",
+   "date": "23 SEP 2007",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "9:14.09",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "14 SEP 2007",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:35.30",
+   "venue": "Oslo (NOR)",
+   "date": "02 JUN 2006",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:56.43",
+   "venue": "DS, Daegu (KOR)",
+   "date": "27 AUG 2011",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:28.94",
+   "venue": "Kapsabet (KEN)",
+   "date": "11 JUN 2004",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:32",
+   "venue": "Praha (CZE)",
+   "date": "10 SEP 2011",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:53",
+   "venue": "Marseille (FRA)",
+   "date": "01 MAY 2002",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "48:15",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1148,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "51:57",
+   "venue": "Amsterdam (NED)",
+   "date": "18 SEP 2011",
+   "resultScore": 1137,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:35",
+   "venue": "Lille (FRA)",
+   "date": "01 SEP 2012",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:17",
+   "venue": "Rawhide Events Center, Chandler, AZ (USA)",
+   "date": "21 DEC 2025",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:49",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:14",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1127,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "B.A.A. 10K",
+   "listPosition": "164"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "48:15",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1148,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Boilermaker Road Race",
+   "listPosition": "5"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:12:31",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1078,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "listPosition": "451"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:20",
+   "venue": "Dodger Stadium, Los Angeles, CA (USA)",
+   "date": "07 MAR 2026",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Los Angeles Marathon",
+   "listPosition": "159"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:49",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "10",
+   "mark": "1:12:31",
+   "score": 1078,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:23:49",
+   "score": 1165,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "Boilermaker Road Race, Utica, NY",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "48:15",
+   "score": 1148,
+   "competitionId": "7244046"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "7",
+   "mark": "32:14",
+   "score": 1127,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-07",
+   "competition": "Los Angeles Marathon, Dodger Stadium, Los Angeles, CA - Elite Event",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "2:25:20",
+   "score": 1161,
+   "competitionId": "7236754"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2007",
+     "mark": "9:14.09",
+     "venue": "Boudewijnstadion, Bruxelles (BEL)",
+     "date": "14 SEP 2007"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2006",
+     "mark": "15:53",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2006"
+    },
+    {
+     "season": "2010",
+     "mark": "16:00",
+     "venue": "Bolzano (ITA)",
+     "date": "31 DEC 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "15:32",
+     "venue": "Praha (CZE)",
+     "date": "10 SEP 2011"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2002",
+     "mark": "31:53",
+     "venue": "Marseille (FRA)",
+     "date": "01 MAY 2002"
+    },
+    {
+     "season": "2010",
+     "mark": "32:04",
+     "venue": "Houilles (FRA)",
+     "date": "26 DEC 2010"
+    },
+    {
+     "season": "2015",
+     "mark": "32:05",
+     "venue": "Langueux (FRA)",
+     "date": "13 JUN 2015"
+    },
+    {
+     "season": "2026",
+     "mark": "32:14",
+     "venue": "Boston, MA (USA)",
+     "date": "21 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "48:15",
+     "venue": "Utica, NY (USA)",
+     "date": "12 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "1:08:35",
+     "venue": "Lille (FRA)",
+     "date": "01 SEP 2012"
+    },
+    {
+     "season": "2015",
+     "mark": "1:10:49",
+     "venue": "Lisboa (POR)",
+     "date": "18 OCT 2015"
+    },
+    {
+     "season": "2025",
+     "mark": "1:16:50",
+     "venue": "Boulder, CO (USA)",
+     "date": "28 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:12:31",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:31:34",
+     "venue": "Firenze (ITA)",
+     "date": "29 NOV 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:27:41",
+     "venue": "Venezia (ITA)",
+     "date": "23 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:28:29",
+     "venue": "Seoul (KOR)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:32:12",
+     "venue": "Singapore (SGP)",
+     "date": "09 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:28:54",
+     "venue": "Singapore (SGP)",
+     "date": "30 NOV 2019"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:17",
+     "venue": "Rawhide Events Center, Chandler, AZ (USA)",
+     "date": "21 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:20",
+     "venue": "Dodger Stadium, Los Angeles, CA (USA)",
+     "date": "07 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "14:59.21",
+     "date": "01 SEP 2007"
+    },
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "30:56.43",
+     "date": "27 AUG 2011"
+    },
+    {
+     "place": "7.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Championships",
+     "mark": "14:44.00",
+     "date": "13 AUG 2005"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Cross Country Short Race",
+     "competition": "34th IAAF World Cross Country Championships",
+     "mark": "12:53",
+     "date": "02 APR 2006"
+    },
+    {
+     "place": "2.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "25th IAAF World Cross Country Championships",
+     "mark": "14:59",
+     "date": "23 MAR 1997"
+    },
+    {
+     "place": "4.",
+     "discipline": "Cross Country Short Race",
+     "competition": "33rd IAAF World Cross Country Championships",
+     "mark": "13:25",
+     "date": "20 MAR 2005"
+    },
+    {
+     "place": "5.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "39th IAAF World Cross Country Championships",
+     "mark": "25:20",
+     "date": "20 MAR 2011"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "36th IAAF World Cross Country Championships",
+     "mark": "25:36",
+     "date": "30 MAR 2008"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "35th IAAF World Cross Country Championships",
+     "mark": "27:39",
+     "date": "24 MAR 2007"
+    },
+    {
+     "place": "11.",
+     "discipline": "Cross Country Short Race",
+     "competition": "31st IAAF World Cross Country Championships",
+     "mark": "13:04",
+     "date": "30 MAR 2003"
+    },
+    {
+     "place": "11.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "26th IAAF World Cross Country Championships",
+     "mark": "20:16",
+     "date": "21 MAR 1998"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "5000 Metres",
+     "competition": "Annecy IAAF World Junior Championships",
+     "mark": "16:07.12",
+     "date": "02 AUG 1998"
+    },
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "Sydney IAAF World Junior Championships",
+     "mark": "16:20.39",
+     "date": "25 AUG 1996"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "Brazzaville African Championships",
+     "mark": "16:26.15",
+     "date": "14 JUL 2004"
+    },
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "Porto Novo African Championships",
+     "mark": "32:45.73",
+     "date": "30 JUN 2012"
+    }
+   ]
+  },
+  {
+   "category": "World Athletics Final",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "Stuttgart IAAF World Athletics Final",
+     "mark": "8:29.06",
+     "date": "23 SEP 2007"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "Stuttgart IAAF World Athletics Final",
+     "mark": "14:58.97",
+     "date": "22 SEP 2007"
+    },
+    {
+     "place": "5.",
+     "discipline": "5000 Metres",
+     "competition": "Stuttgart IAAF World Athletics Final",
+     "mark": "14:59.74",
+     "date": "13 SEP 2008"
+    },
+    {
+     "place": "8.",
+     "discipline": "3000 Metres",
+     "competition": "Monaco IAAF World Athletics Final",
+     "mark": "8:53.18",
+     "date": "10 SEP 2005"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Kenyan Championships",
+     "mark": "15:38.4h",
+     "date": "17 JUN 2004"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 120,
+   "rankingScore": 1192
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 208,
+   "rankingScore": 1121
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 814,
+   "rankingScore": 1192
+  }
+ ],
+ "representative": {
+  "name": "Scott SIMMONS",
+  "country": "United States",
+  "website": "https://www.TeamHarambee.com"
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/kenya/priscah-jepleting-cherono-14289351"
+}

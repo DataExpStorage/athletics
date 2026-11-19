@@ -1,0 +1,503 @@
+{
+ "id": "14585136",
+ "givenName": "Iliass",
+ "familyName": "AOUANI",
+ "country": "ITA",
+ "countryName": "Italy",
+ "birthDate": "1995-09-29",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:56.08",
+   "venue": "Lodi (ITA)",
+   "date": "01 JUN 2013",
+   "resultScore": 860,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:29.57",
+   "venue": "Cornell-Barton Hall, Ithaca, NY (USA) (i)",
+   "date": "01 FEB 2020",
+   "resultScore": 931,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres Short Track",
+   "mark": "2:29.57",
+   "venue": "Cornell-Barton Hall, Ithaca, NY (USA) (i)",
+   "date": "01 FEB 2020",
+   "resultScore": 931,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:45.61",
+   "venue": "Charlottesville, VA (USA)",
+   "date": "20 APR 2019",
+   "resultScore": 1032,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:12.06",
+   "venue": "Ancona (ITA) (i)",
+   "date": "08 FEB 2014",
+   "resultScore": 753,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:00.07",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "15 FEB 2020",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:00.07",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "15 FEB 2020",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:57.67",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "28 JAN 2017",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:57.67",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "28 JAN 2017",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:28.09",
+   "venue": "Stadio Luigi Ridolfi, Firenze (ITA)",
+   "date": "10 JUN 2021",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:35.07",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "07 DEC 2019",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:45.81",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "19 MAY 2021",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "35:07",
+   "venue": "Castelbuono (ITA)",
+   "date": "26 JUL 2022",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:24",
+   "venue": "Forli (ITA)",
+   "date": "10 OCT 2021",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:32",
+   "venue": "Sevilla (ESP)",
+   "date": "28 JAN 2024",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:26",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "9:57.20",
+   "venue": "Birmingham, AL (USA) (i)",
+   "date": "15 FEB 2016",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:50.05",
+   "venue": "Centro Sportivo A. Montagna, La Spezia (ITA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1147,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "European 10,000m Cup",
+   "listPosition": "46"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:29",
+   "venue": "Piazza Grande Oderzo, Oderzo (ITA)",
+   "date": "01 MAY 2026",
+   "resultScore": 1088,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "International Road Race - 29th Trofeo Opitergium 10km Male",
+   "listPosition": "282"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:26",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "32"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-23",
+   "competition": "European 10,000m Cup, Centro Sportivo A. Montagna, La Spezia",
+   "country": "ITA",
+   "category": "B",
+   "race": "F1",
+   "place": "1",
+   "mark": "27:50.05",
+   "score": 1147,
+   "competitionId": "7181225"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-01",
+   "competition": "International Road Race - 29th Trofeo Opitergium 10km Male, Piazza Grande Oderzo, Oderzo",
+   "country": "ITA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "28:29",
+   "score": 1088,
+   "competitionId": "7242309"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:04:26",
+   "score": 1233,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "4:13.15",
+     "venue": "College Station, TX (USA) (i)",
+     "date": "15 JAN 2016"
+    },
+    {
+     "season": "2020",
+     "mark": "4:00.07",
+     "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+     "date": "15 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "4:13.15",
+     "venue": "College Station, TX (USA) (i)",
+     "date": "15 JAN 2016"
+    },
+    {
+     "season": "2020",
+     "mark": "4:00.07",
+     "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+     "date": "15 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "35:07",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "35:14",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "28:24",
+     "venue": "Forli (ITA)",
+     "date": "10 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "29:26",
+     "venue": "Telese Terme (ITA)",
+     "date": "19 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "28:43",
+     "venue": "Pescara (ITA)",
+     "date": "10 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "28:30",
+     "venue": "Praha (CZE)",
+     "date": "07 SEP 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "28:29",
+     "venue": "Piazza Grande Oderzo, Oderzo (ITA)",
+     "date": "01 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:06:52",
+     "venue": "Napoli (ITA)",
+     "date": "13 JUL 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:02:58",
+     "venue": "Roma (ITA)",
+     "date": "07 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:02:32",
+     "venue": "Napoli (ITA)",
+     "date": "27 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:02:51",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:32",
+     "venue": "Sevilla (ESP)",
+     "date": "28 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:08:34",
+     "venue": "Milano (ITA)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:16",
+     "venue": "Barcelona (ESP)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:06",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:09:05",
+     "venue": "Brussels-Leuven (BEL)",
+     "date": "13 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:26",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:09:53",
+     "date": "15 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:04:26",
+     "date": "01 MAR 2026"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS New York Marathon",
+     "mark": "2:10:54",
+     "date": "05 NOV 2023"
+    }
+   ]
+  },
+  {
+   "category": "European Running Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "European Running Championships",
+     "mark": "2:09:05",
+     "date": "13 APR 2025"
+    }
+   ]
+  },
+  {
+   "category": "European Cup 10,000m",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "27:50.05",
+     "date": "23 MAY 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Italian 10,000m Championships",
+     "mark": "28:26.38",
+     "date": "02 MAY 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "Italian 10 km Road Running Championships",
+     "mark": "28:24",
+     "date": "10 OCT 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Mezza Maratona di Roma",
+     "mark": "1:02:58",
+     "date": "07 NOV 2021"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 30,
+   "rankingScore": 1281
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 103,
+   "rankingScore": 1138
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 264,
+   "rankingScore": 1281
+  }
+ ],
+ "representative": {
+  "name": "Marcello MAGNANI",
+  "country": "Italy",
+  "website": "https://magnanisport.it/"
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/italy/iliass-aouani-14585136"
+}

@@ -1,0 +1,547 @@
+{
+ "id": "14519260",
+ "givenName": "Isobel",
+ "familyName": "BATT-DOYLE",
+ "country": "AUS",
+ "countryName": "Australia",
+ "birthDate": "1995-09-14",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:18.80",
+   "venue": "Adelaide (AUS)",
+   "date": "30 NOV 2013",
+   "resultScore": 850,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:08.48",
+   "venue": "Stadio G. Teghil, Lignano Sabbiadoro (ITA)",
+   "date": "14 JUL 2024",
+   "resultScore": 1138,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:55.83",
+   "venue": "New York, NY (USA) (i)",
+   "date": "06 FEB 2015",
+   "resultScore": 968,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:55.83",
+   "venue": "New York, NY (USA) (i)",
+   "date": "06 FEB 2015",
+   "resultScore": 968,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:47.99",
+   "venue": "ES Marks Athletics Field, Sydney (AUS)",
+   "date": "23 MAR 2024",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:45.55",
+   "venue": "New York, NY (USA) (i)",
+   "date": "31 JAN 2015",
+   "resultScore": 977,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:49.75",
+   "venue": "Stade Naimette-Xhovémont, Liège (BEL)",
+   "date": "19 JUN 2024",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "16:06.38",
+   "venue": "Birmingham, AL (USA) (i)",
+   "date": "08 MAR 2019",
+   "resultScore": 1060,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:51.27",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "11 JUN 2025",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "10:02.00",
+   "venue": "Eugene, OR (USA)",
+   "date": "09 APR 2016",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:25",
+   "venue": "Ballarat (AUS)",
+   "date": "26 APR 2025",
+   "resultScore": 1115,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:44",
+   "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+   "date": "03 MAY 2025",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:23",
+   "venue": "Madrid (ESP)",
+   "date": "02 JUN 2024",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "39:10",
+   "venue": "Adelaide (AUS)",
+   "date": "16 SEP 2018",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "48:22",
+   "venue": "Nijmegen (NED)",
+   "date": "19 NOV 2023",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:17",
+   "venue": "Marugame (JPN)",
+   "date": "02 FEB 2025",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:38",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x800 Metres Relay",
+   "mark": "8:54.56",
+   "venue": "Philadelphia, PA (USA)",
+   "date": "25 APR 2015",
+   "resultScore": 1008,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "11:43.14",
+   "venue": "New York, NY (USA) (i)",
+   "date": "28 FEB 2015",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:29",
+   "venue": "Gold Coast (AUS)",
+   "date": "04 JUL 2026",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Gold Coast Half Marathon",
+   "listPosition": "71"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:38",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "50"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:20:38",
+   "score": 1206,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-02",
+   "competition": "Sunshine Coast Marathon Festival, Sunshine Coast",
+   "country": "AUS",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:08:49",
+   "score": 1154,
+   "competitionId": "7236084"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-07-04",
+   "competition": "Gold Coast Half Marathon, Gold Coast - Australian Half Marathon Ch.",
+   "country": "AUS",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:07:29",
+   "score": 1182,
+   "competitionId": "7237755"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-05-31",
+   "competition": "McGrath Launceston Running Festival - Peppers Silo Half Marathon, Riverbend Park, Launceston",
+   "country": "AUS",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "1:08:46",
+   "score": 1155,
+   "competitionId": "7236082"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "16",
+   "mark": "2:25:06",
+   "score": 1144,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-08",
+   "competition": "Nagoya Women's Marathon, Nagoya",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7236072"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-01",
+   "competition": "78th Kagawa Marugame International Half Marathon, Marugame",
+   "country": "JPN",
+   "category": "C",
+   "race": "F",
+   "place": "4",
+   "mark": "1:08:51",
+   "score": 1153,
+   "competitionId": "7236069"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "5:02.67",
+     "venue": "South Huntington, NY (USA) (i)",
+     "date": "08 DEC 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "4:55.83",
+     "venue": "New York, NY (USA) (i)",
+     "date": "06 FEB 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "5:02.67",
+     "venue": "South Huntington, NY (USA) (i)",
+     "date": "08 DEC 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "4:55.83",
+     "venue": "New York, NY (USA) (i)",
+     "date": "06 FEB 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "17:38",
+     "venue": "Adelaide (AUS)",
+     "date": "04 AUG 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "17:10",
+     "venue": "Adelaide (AUS)",
+     "date": "05 AUG 2014"
+    },
+    {
+     "season": "2021",
+     "mark": "15:57",
+     "venue": "Noosa (AUS)",
+     "date": "30 OCT 2021"
+    },
+    {
+     "season": "2025",
+     "mark": "15:25",
+     "venue": "Ballarat (AUS)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "32:10",
+     "venue": "Launceston (AUS)",
+     "date": "13 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "32:54",
+     "venue": "Burnie (AUS)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "33:22",
+     "venue": "Hobart (AUS)",
+     "date": "27 FEB 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "31:12",
+     "venue": "Albert Park, Melbourne (AUS)",
+     "date": "22 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "30:44",
+     "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+     "date": "03 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "39:10",
+     "venue": "Adelaide (AUS)",
+     "date": "16 SEP 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "46:34",
+     "venue": "Adelaide (AUS)",
+     "date": "18 SEP 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "48:22",
+     "venue": "Nijmegen (NED)",
+     "date": "19 NOV 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:09:27",
+     "venue": "Marugame (JPN)",
+     "date": "05 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:09",
+     "venue": "Cricket Ground, Melbourne (AUS)",
+     "date": "13 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:07:17",
+     "venue": "Marugame (JPN)",
+     "date": "02 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:29",
+     "venue": "Gold Coast (AUS)",
+     "date": "04 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:28:10",
+     "venue": "Melbourne (AUS)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:23:27",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:59",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:23:29",
+     "venue": "Nagoya (JPN)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:38",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "15:13.53",
+     "date": "07 AUG 2022"
+    },
+    {
+     "place": "8.",
+     "discipline": "10,000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "32:04.52",
+     "date": "03 AUG 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 31,
+   "rankingScore": 1201
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 50,
+   "rankingScore": 1241
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 53,
+   "rankingScore": 1193
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 358,
+   "rankingScore": 1241
+  }
+ ],
+ "representative": {
+  "name": "Collis BIRMINGHAM",
+  "country": "Australia",
+  "website": null
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/australia/isobel-batt-doyle-14519260"
+}
