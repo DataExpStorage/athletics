@@ -1,0 +1,505 @@
+{
+ "id": "14862415",
+ "givenName": "Wuga",
+ "familyName": "HE",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "1998-07-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:19.97",
+   "venue": "Xipu Training Base Indoor Athletics Stadium, Chengdu (CHN) (i)",
+   "date": "10 FEB 2025",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:19.97",
+   "venue": "Xipu Training Base Indoor Athletics Stadium, Chengdu (CHN) (i)",
+   "date": "10 FEB 2025",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:47.56",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "10 FEB 2024",
+   "resultScore": 996,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:52.19",
+   "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+   "date": "02 JUL 2022",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:01.80",
+   "venue": "Xipu Training Base Indoor Athletics Stadium, Chengdu (CHN) (i)",
+   "date": "11 FEB 2025",
+   "resultScore": 1122,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:56.62",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "15:40.94",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "27 JAN 2024",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:14.94",
+   "venue": "Hilmer Lodge Stadium, Walnut, CA (USA)",
+   "date": "06 MAY 2023",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:22",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:31",
+   "venue": "Meishan (CHN)",
+   "date": "23 FEB 2025",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:31=",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:38:30",
+   "venue": "Hengshui (CHN)",
+   "date": "22 SEP 2024",
+   "resultScore": 1039,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:56.62",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "LA Track Festival",
+   "listPosition": "56"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:53.38",
+   "venue": "Griswold Stadium, Portland, OR (USA)",
+   "date": "20 JUN 2026",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Portland Track Festival",
+   "listPosition": "36"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:22",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TD Beach to Beacon 10K Road Race",
+   "listPosition": "188"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:31=",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "109"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:39:30",
+   "venue": "Rotterdam (NED)",
+   "date": "12 APR 2026",
+   "resultScore": 1030,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NN Marathon Rotterdam",
+   "listPosition": "795"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "21",
+   "mark": "1:08:31",
+   "score": 1160,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-16",
+   "competition": "Chinese Championships, Sports Center, Quzhou",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "33:54.33",
+   "score": 1040,
+   "competitionId": "7243221"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-12",
+   "competition": "Chinese Championships, Sports Center, Quzhou",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "15:53.77",
+   "score": 1061,
+   "competitionId": "7243221"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-01",
+   "competition": "TD Beach to Beacon 10K Road Race, 1000 Shore Road, Cape Elizabeth, ME",
+   "country": "USA",
+   "category": "C",
+   "race": "F",
+   "place": "5",
+   "mark": "32:22",
+   "score": 1120,
+   "competitionId": "7240792"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-11",
+   "competition": "Sunset Tour, Jack Kemp Stadium - Occidental College, Los Angeles, CA",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "15:22.23",
+   "score": 1120,
+   "competitionId": "7233851"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-20",
+   "competition": "Portland Track Festival, Griswold Stadium, Portland, OR - High Performance",
+   "country": "USA",
+   "category": "C",
+   "race": "F1",
+   "place": "1",
+   "mark": "31:53.38",
+   "score": 1145,
+   "competitionId": "7236635"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-13",
+   "competition": "USATF LA Grand Prix, USC Allyson Felix at Loker Track Stadium, Los Angeles, CA",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "15:05.64",
+   "score": 1152,
+   "competitionId": "7233063"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-06",
+   "competition": "Mastercard New York Mini 10K - Women's Race, New York, NY",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "15",
+   "mark": "32:31",
+   "score": 1103,
+   "competitionId": "7241746"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "LA Track Festival, Drake Stadium, Los Angeles, CA",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "14:56.62",
+   "score": 1170,
+   "competitionId": "7236537"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "NN Marathon Rotterdam, Rotterdam",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "14",
+   "mark": "2:39:30",
+   "score": 1030,
+   "competitionId": "7235576"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "1:09:07",
+   "score": 1148,
+   "competitionId": "7235697"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "4:47.56",
+     "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+     "date": "10 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "33:32",
+     "venue": "Shanghai (CHN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "32:22",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "01 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:12:28",
+     "venue": "Beijing (CHN)",
+     "date": "24 APR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:54",
+     "venue": "Philadelphia, PA (USA)",
+     "date": "18 SEP 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:17:03",
+     "venue": "Chengdu (CHN)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:31",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:08:31",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:54:46",
+     "venue": "Shanghai (CHN)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "2:51:56",
+     "venue": "Nanjing (CHN)",
+     "date": "29 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:42:36",
+     "venue": "Xuzhou (CHN)",
+     "date": "11 APR 2021"
+    },
+    {
+     "season": "2024",
+     "mark": "2:38:30",
+     "venue": "Hengshui (CHN)",
+     "date": "22 SEP 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:39:30",
+     "venue": "Rotterdam (NED)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Asian Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "26th Asian Athletics Championships",
+     "mark": "15:23.96",
+     "date": "31 MAY 2025"
+    },
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "26th Asian Athletics Championships",
+     "mark": "31:36.18",
+     "date": "29 MAY 2025"
+    }
+   ]
+  },
+  {
+   "category": "Asian Indoor Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "10th Asian Indoor Athletics Championships",
+     "mark": "9:03.43",
+     "date": "10 FEB 2023"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "33:54.33",
+     "date": "16 AUG 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "15:53.77",
+     "date": "12 AUG 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 38,
+   "rankingScore": 1191
+  },
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 47,
+   "rankingScore": 1196
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 103,
+   "rankingScore": 1159
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 466,
+   "rankingScore": 1224
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 483,
+   "rankingScore": 1095
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/pr-of-china/wuga-he-14862415"
+}

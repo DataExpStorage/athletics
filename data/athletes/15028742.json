@@ -1,0 +1,171 @@
+{
+ "id": "15028742",
+ "givenName": "Fikrte",
+ "familyName": "WERETA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-09-21",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:28",
+   "venue": "Meishan (CHN)",
+   "date": "23 FEB 2025",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:32",
+   "venue": "Seoul (KOR)",
+   "date": "17 MAR 2024",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:31",
+   "venue": "Xiamen (CHN)",
+   "date": "11 JAN 2026",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "C&D Xiamen Marathon",
+   "listPosition": "165"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:18",
+   "venue": "Sydney (AUS)",
+   "date": "30 AUG 2026",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "TCS Sydney Marathon Presented by ASICS"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:25:18",
+   "score": 1150,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Guiyang Marathon, Guiyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:29:04",
+   "score": 1126,
+   "competitionId": "7236083"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:25:31",
+   "score": 1159,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:11:40",
+     "venue": "Zwolle (NED)",
+     "date": "10 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:11:42",
+     "venue": "Riyadh (KSA)",
+     "date": "10 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:28",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:26:15",
+     "venue": "Hamburg (GER)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:22:07",
+     "venue": "Shenzhen (CHN)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:21:32",
+     "venue": "Seoul (KOR)",
+     "date": "17 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:54",
+     "venue": "Seoul (KOR)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:31",
+     "venue": "Xiamen (CHN)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 76,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 564,
+   "rankingScore": 1214
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/ethiopia/fikrte-wereta-15028742"
+}

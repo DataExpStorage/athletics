@@ -1,0 +1,137 @@
+{
+ "id": "14920360",
+ "givenName": "Gilbert",
+ "familyName": "KIBET",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1994-08-13",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:26",
+   "venue": "Porto (POR)",
+   "date": "15 SEP 2024",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:31",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1231,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:31",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1231,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Seoul Marathon",
+   "listPosition": "33"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:07:13",
+   "score": 1170,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "2:04:31",
+   "score": 1231,
+   "competitionId": "7235569"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:00:26",
+     "venue": "Porto (POR)",
+     "date": "15 SEP 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:26:27",
+     "venue": "Nairobi (KEN)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "2:09:48",
+     "venue": "Marrakech (MAR)",
+     "date": "29 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:06",
+     "venue": "Seoul (KOR)",
+     "date": "03 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:39",
+     "venue": "Daegu (KOR)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:31",
+     "venue": "Seoul (KOR)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 51,
+   "rankingScore": 1253
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 404,
+   "rankingScore": 1253
+  }
+ ],
+ "representative": {
+  "name": "Juan Pedro PINEDA DE LA LOSA",
+  "country": "Spain",
+  "website": "https://www.pinedasport.com/"
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/kenya/gilbert-kibet-14920360"
+}

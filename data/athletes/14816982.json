@@ -1,0 +1,210 @@
+{
+ "id": "14816982",
+ "givenName": "Deresa",
+ "familyName": "GELETA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-01-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:14",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1098,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:02:38",
+   "venue": "Valencia (ESP)",
+   "date": "01 DEC 2024",
+   "resultScore": 1267,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:14",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1098,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "519"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:23",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1253,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "9"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:03:23",
+   "score": 1253,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "7",
+   "mark": "1:02:14",
+   "score": 1098,
+   "competitionId": "7235697"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:02:14",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:17:57",
+     "venue": "Xichang (CHN)",
+     "date": "04 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:12:33",
+     "venue": "Beirut (LBN)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:10:42",
+     "venue": "Nagano (JPN)",
+     "date": "21 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:11:35",
+     "venue": "Lagos (NGR)",
+     "date": "08 FEB 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:08:42",
+     "venue": "Roma (ITA)",
+     "date": "19 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:07:30",
+     "venue": "Frankfurt (GER)",
+     "date": "30 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:51",
+     "venue": "Dubai (UAE)",
+     "date": "12 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:02:38",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:03:51",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:23",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "2:07:31",
+     "date": "10 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:03:51",
+     "date": "02 MAR 2025"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:03:23",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 25,
+   "rankingScore": 1289
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 233,
+   "rankingScore": 1289
+  }
+ ],
+ "representative": {
+  "name": "Hussein MAKKÉ",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-19",
+ "source": "https://worldathletics.org/athletes/ethiopia/deresa-geleta-14816982"
+}
