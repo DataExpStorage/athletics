@@ -1,0 +1,472 @@
+{
+ "id": "14326294",
+ "givenName": "Mare",
+ "familyName": "DIBABA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1989-10-20",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:16.94",
+   "venue": "Baku (AZE)",
+   "date": "28 JUN 2009",
+   "resultScore": 1049,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:42.83",
+   "venue": "Baku (AZE)",
+   "date": "30 MAY 2009",
+   "resultScore": 1081,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:43",
+   "venue": "Bengaluru (IND)",
+   "date": "05 JUN 2011",
+   "resultScore": 1050,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:56",
+   "venue": "Istanbul (TUR)",
+   "date": "18 OCT 2009",
+   "resultScore": 1066,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "53:52",
+   "venue": "Flint, MI (USA)",
+   "date": "28 AUG 2010",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:13",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "19 FEB 2010",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:52",
+   "venue": "Dubai (UAE)",
+   "date": "27 JAN 2012",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:52=",
+   "venue": "Xiamen (CHN)",
+   "date": "03 JAN 2015",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:44",
+   "venue": "Osaka (JPN)",
+   "date": "22 FEB 2026",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Osaka Marathon",
+   "listPosition": "68"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:29:07",
+   "score": 1125,
+   "competitionId": "7235574"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:21:44",
+   "score": 1195,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2008",
+     "mark": "34:24",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 NOV 2008"
+    },
+    {
+     "season": "2010",
+     "mark": "33:59",
+     "venue": "Bengaluru (IND)",
+     "date": "16 MAY 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "33:43",
+     "venue": "Bengaluru (IND)",
+     "date": "05 JUN 2011"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2009",
+     "mark": "50:56",
+     "venue": "Istanbul (TUR)",
+     "date": "18 OCT 2009"
+    },
+    {
+     "season": "2025",
+     "mark": "52:11",
+     "venue": "Utica, NY (USA)",
+     "date": "13 JUL 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "53:52",
+     "venue": "Flint, MI (USA)",
+     "date": "28 AUG 2010"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2008",
+     "mark": "1:10:28",
+     "venue": "New Delhi (IND)",
+     "date": "09 NOV 2008"
+    },
+    {
+     "season": "2009",
+     "mark": "1:08:45",
+     "venue": "New Delhi (IND)",
+     "date": "01 NOV 2009"
+    },
+    {
+     "season": "2010",
+     "mark": "1:07:13",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "1:08:57",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "18 FEB 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "1:07:44",
+     "venue": "Philadelphia, PA (USA)",
+     "date": "16 SEP 2012"
+    },
+    {
+     "season": "2014",
+     "mark": "1:08:56",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2014"
+    },
+    {
+     "season": "2016",
+     "mark": "1:07:55",
+     "venue": "Houston, TX (USA)",
+     "date": "17 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:09:43",
+     "venue": "Lisboa (POR)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:09:15",
+     "venue": "Glasgow (GBR)",
+     "date": "30 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:16:03",
+     "venue": "Bogotá (COL)",
+     "date": "28 JUL 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "1:12:02",
+     "venue": "New Delhi (IND)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:08:56",
+     "venue": "Meishan (CHN)",
+     "date": "25 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "2:25:27",
+     "venue": "Frankfurt (GER)",
+     "date": "31 OCT 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "2:23:25",
+     "venue": "Toronto (CAN)",
+     "date": "16 OCT 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "2:19:52",
+     "venue": "Dubai (UAE)",
+     "date": "27 JAN 2012"
+    },
+    {
+     "season": "2014",
+     "mark": "2:21:36",
+     "venue": "Xiamen (CHN)",
+     "date": "02 JAN 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:19:52",
+     "venue": "Xiamen (CHN)",
+     "date": "03 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:24:09",
+     "venue": "London (GBR)",
+     "date": "24 APR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:28:49",
+     "venue": "Olympic Stadium, London (GBR)",
+     "date": "06 AUG 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:25:24",
+     "venue": "Frankfurt (GER)",
+     "date": "28 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:20:21",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:21:25",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "17 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:30:06",
+     "venue": "Shenzhen (CHN)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:36",
+     "venue": "Cape Town (RSA)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:27:49",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:21:44",
+     "venue": "Osaka (JPN)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "The XXXI Olympic Games",
+     "mark": "2:24:30",
+     "date": "14 AUG 2016"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships",
+     "mark": "2:27:35",
+     "date": "30 AUG 2015"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:28:49",
+     "date": "06 AUG 2017"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Maputo All-Africa Games",
+     "mark": "1:10:47",
+     "date": "15 SEP 2011"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Chicago Marathon",
+     "mark": "2:25:37",
+     "date": "12 OCT 2014"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "BMW BERLIN-MARATHON",
+     "mark": "2:20:21",
+     "date": "29 SEP 2019"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:24:59",
+     "date": "20 APR 2015"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:20:35",
+     "date": "21 APR 2014"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:24:09",
+     "date": "24 APR 2016"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:27:45",
+     "date": "22 APR 2018"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships 3rd League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships Third League",
+     "mark": "16:02.58",
+     "date": "21 JUN 2009"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "European Athletics Team Championships Third League",
+     "mark": "9:27.05",
+     "date": "20 JUN 2009"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 111,
+   "rankingScore": 1198
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 736,
+   "rankingScore": 1198
+  }
+ ],
+ "representative": {
+  "name": "Leo LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/mare-dibaba-14326294"
+}

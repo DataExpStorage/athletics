@@ -1,0 +1,192 @@
+{
+ "id": "15122982",
+ "givenName": "Asefa",
+ "familyName": "BOKI",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-09-26",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:09",
+   "venue": "Boulder, CO (USA)",
+   "date": "26 MAY 2025",
+   "resultScore": 942,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:50",
+   "venue": "Meishan (CHN)",
+   "date": "23 FEB 2025",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:32",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:16",
+   "venue": "Yangzhou (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 984,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Yangzhou Half Marathon"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:32",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "66"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:05:32",
+   "score": 1212,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "12",
+   "mark": "1:05:16",
+   "score": 984,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:05:55",
+   "score": 1205,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "30:09",
+     "venue": "Boulder, CO (USA)",
+     "date": "26 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:06:25",
+     "venue": "Bogotá (COL)",
+     "date": "28 JUL 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:50",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:16",
+     "venue": "Yangzhou (CHN)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:05:40",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:32",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:32",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:05:32",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 50,
+   "rankingScore": 1256
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 385,
+   "rankingScore": 1256
+  }
+ ],
+ "representative": {
+  "name": "Christopher Gooding",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/asefa-boki-15122982"
+}

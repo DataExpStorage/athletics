@@ -1,0 +1,776 @@
+{
+ "id": "14275729",
+ "givenName": "Eilish",
+ "familyName": "MCCOLGAN",
+ "country": "GBR",
+ "countryName": "Great Britain & N.I.",
+ "birthDate": "1990-11-25",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:08.11",
+   "venue": "Longford Stadium Trafford, Manchester (GBR)",
+   "date": "25 AUG 2020",
+   "resultScore": 1022,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "2:18.00",
+   "venue": "Glasgow (GBR) (i)",
+   "date": "17 FEB 2005",
+   "resultScore": 908,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:00.97",
+   "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+   "date": "16 JUN 2019",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:08.07",
+   "venue": "Gallur, Madrid (ESP) (i)",
+   "date": "08 FEB 2018",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:24.71",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "18 AUG 2019",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:31.00",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "20 AUG 2017",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:43.02",
+   "venue": "Barclaycard Arena, Birmingham (GBR) (i)",
+   "date": "18 FEB 2017",
+   "resultScore": 1187,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:28.55",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "01 JUL 2021",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:00.86",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "04 MAR 2023",
+   "resultScore": 1247,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:42.24",
+   "venue": "Bedford (GBR)",
+   "date": "02 MAY 2011",
+   "resultScore": 1020,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "9:35.82",
+   "venue": "Luzhniki Stadion, Moskva (RUS)",
+   "date": "10 AUG 2013",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:32.04",
+   "venue": "Stockton-on-Tees (GBR)",
+   "date": "07 SEP 2019",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:19.2h",
+   "venue": "New York, NY (USA)",
+   "date": "10 SEP 2017",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:29.7h",
+   "venue": "New York, NY (USA)",
+   "date": "22 SEP 2012",
+   "resultScore": 1079,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:45",
+   "venue": "Málaga (ESP)",
+   "date": "24 APR 2022",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:08",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1240,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:12",
+   "venue": "Nijmegen (NED)",
+   "date": "16 NOV 2025",
+   "resultScore": 1181,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:43",
+   "venue": "Portsmouth (GBR)",
+   "date": "17 OCT 2021",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:43",
+   "venue": "Berlin (GER)",
+   "date": "02 APR 2023",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:25",
+   "venue": "London (GBR)",
+   "date": "27 APR 2025",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x1500 Metres Relay",
+   "mark": "19:09.20",
+   "venue": "Grangemouth (GBR)",
+   "date": "17 AUG 2006",
+   "resultScore": 955,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:08",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1240,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "17"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:08",
+   "venue": "Marugame (JPN)",
+   "date": "01 FEB 2026",
+   "resultScore": 1189,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "78th Kagawa Marugame International Half Marathon",
+   "listPosition": "55"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:51",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "142"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:24:51",
+   "score": 1166,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-02-22",
+   "competition": "10K Facsa Castellón, Castellón",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "6",
+   "mark": "30:36",
+   "score": 1214,
+   "competitionId": "7237361"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-01",
+   "competition": "78th Kagawa Marugame International Half Marathon, Marugame",
+   "country": "JPN",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:08",
+   "score": 1189,
+   "competitionId": "7236069"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "8",
+   "mark": "30:08",
+   "score": 1240,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "4:25.07",
+     "venue": "Olympiastadion, Berlin (GER)",
+     "date": "02 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:24.71",
+     "venue": "Alexander Stadium, Birmingham (GBR)",
+     "date": "18 AUG 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "4:43.0h",
+     "venue": "Newcastle upon Tyne (GBR)",
+     "date": "15 SEP 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "4:43.02",
+     "venue": "Gateshead (GBR)",
+     "date": "14 SEP 2013"
+    },
+    {
+     "season": "2016",
+     "mark": "4:36.94",
+     "venue": "Gateshead (GBR)",
+     "date": "10 SEP 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "4:38.0h",
+     "venue": "Gateshead (GBR)",
+     "date": "08 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:32.04",
+     "venue": "Stockton-on-Tees (GBR)",
+     "date": "07 SEP 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:45.70",
+     "venue": "Hamilton (BER)",
+     "date": "17 JAN 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "15:57",
+     "venue": "Barrowford (GBR)",
+     "date": "05 MAR 2016"
+    },
+    {
+     "season": "2022",
+     "mark": "14:45",
+     "venue": "Málaga (ESP)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "15:19",
+     "venue": "Wien (AUT)",
+     "date": "26 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "15:15",
+     "venue": "Al Khobar (KSA)",
+     "date": "13 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "33:04",
+     "venue": "Leeds (GBR)",
+     "date": "16 NOV 2014"
+    },
+    {
+     "season": "2016",
+     "mark": "32:32",
+     "venue": "Sheffield (GBR)",
+     "date": "04 DEC 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "32:01",
+     "venue": "Doha (QAT)",
+     "date": "13 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "31:53",
+     "venue": "Doha (QAT)",
+     "date": "12 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "31:48",
+     "venue": "Sheffield (GBR)",
+     "date": "01 DEC 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "32:26",
+     "venue": "Partington (GBR)",
+     "date": "01 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "30:52",
+     "venue": "Manchester (GBR)",
+     "date": "26 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "30:19",
+     "venue": "Manchester (GBR)",
+     "date": "22 MAY 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "31:52",
+     "venue": "Appingedam (NED)",
+     "date": "29 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "31:03",
+     "venue": "Rockland Lake State Park, Congers, NY (USA)",
+     "date": "30 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "30:08",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "47:40",
+     "venue": "Nijmegen (NED)",
+     "date": "20 NOV 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "47:12",
+     "venue": "Nijmegen (NED)",
+     "date": "16 NOV 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "54:43",
+     "venue": "Portsmouth (GBR)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "51:38",
+     "venue": "Portsmouth (GBR)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "50:43",
+     "venue": "Portsmouth (GBR)",
+     "date": "17 OCT 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:07:48",
+     "venue": "Newcastle upon Tyne (GBR)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:06:26",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:05:43",
+     "venue": "Berlin (GER)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:14",
+     "venue": "London (GBR)",
+     "date": "01 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:58",
+     "venue": "Dubai (UAE)",
+     "date": "09 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:08",
+     "venue": "Marugame (JPN)",
+     "date": "01 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:24:25",
+     "venue": "London (GBR)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:51",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "30:41.05",
+     "date": "15 AUG 2022"
+    },
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "14:53.05",
+     "date": "12 AUG 2018"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "14:59.34",
+     "date": "18 AUG 2022"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "15:28.53",
+     "date": "09 JUL 2016"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:24:51",
+     "date": "26 APR 2026"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:24:25",
+     "date": "27 APR 2025"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "30:48.60",
+     "date": "03 AUG 2022"
+    },
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "14:42.14",
+     "date": "07 AUG 2022"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "Gold Coast Commonwealth Games",
+     "mark": "15:34.88",
+     "date": "14 APR 2018"
+    },
+    {
+     "place": "6.",
+     "discipline": "1500 Metres",
+     "competition": "Gold Coast Commonwealth Games",
+     "mark": "4:04.30",
+     "date": "10 APR 2018"
+    },
+    {
+     "place": "6.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Glasgow Commonwealth Games",
+     "mark": "9:44.65",
+     "date": "30 JUL 2014"
+    }
+   ]
+  },
+  {
+   "category": "European Indoor Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "8:47.43",
+     "date": "05 MAR 2017"
+    },
+    {
+     "place": "7.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "8:59.71",
+     "date": "01 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "European Cup 10,000m",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "31:19.35",
+     "date": "05 JUN 2021"
+    },
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup - Night of the 10,000m PB’s",
+     "mark": "31:16.76",
+     "date": "06 JUL 2019"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:24:25",
+     "date": "27 APR 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "British Championships",
+     "mark": "15:21.38",
+     "date": "25 AUG 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "UK Championships",
+     "mark": "9:50.06",
+     "date": "28 JUN 2014"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "UK Championships",
+     "mark": "9:56.02",
+     "date": "14 JUL 2013"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "UK Championships",
+     "mark": "9:56.89",
+     "date": "24 JUN 2012"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "31:19.35",
+     "date": "05 JUN 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Big Half",
+     "mark": "1:09:14",
+     "date": "01 SEP 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "Vitality London 10k",
+     "mark": "30:26",
+     "date": "02 MAY 2022"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "1500 Metres Short Track",
+     "competition": "UK Indoor Championships",
+     "mark": "4:13.94",
+     "date": "18 FEB 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "British Indoor Championships",
+     "mark": "9:05.07",
+     "date": "11 FEB 2017"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 24,
+   "rankingScore": 1220
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 105,
+   "rankingScore": 1201
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 508,
+   "rankingScore": 1220
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/great-britain-ni/eilish-mccolgan-14275729"
+}

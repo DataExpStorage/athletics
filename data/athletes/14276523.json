@@ -1,0 +1,680 @@
+{
+ "id": "14276523",
+ "givenName": "Calli",
+ "familyName": "HAUGER-THACKERY",
+ "country": "GBR",
+ "countryName": "Great Britain & N.I.",
+ "birthDate": "1993-01-09",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:12.06",
+   "venue": "Cardiff (GBR)",
+   "date": "06 SEP 2009",
+   "resultScore": 956,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "2:14.99",
+   "venue": "Sheffield (GBR) (i)",
+   "date": "17 JAN 2010",
+   "resultScore": 952,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:14.08",
+   "venue": "Ninove (BEL)",
+   "date": "15 JUL 2017",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:51.19",
+   "venue": "Birmingham (GBR) (i)",
+   "date": "28 FEB 2010",
+   "resultScore": 845,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:43.74",
+   "venue": "Rawlinson Track – Melbourne Uni, Melbourne (AUS)",
+   "date": "18 FEB 2020",
+   "resultScore": 1022,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:45.54",
+   "venue": "Albuquerque, NM (USA) (i)",
+   "date": "30 JAN 2016",
+   "resultScore": 1038,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:48.10",
+   "venue": "Stadio Quercia, Rovereto (ITA)",
+   "date": "30 AUG 2022",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:09.35",
+   "venue": "Birmingham, AL (USA) (i)",
+   "date": "12 MAR 2016",
+   "resultScore": 1096,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:55.68",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "15 FEB 2025",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "14:55.68",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "15 FEB 2025",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:50.64",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "11 JUN 2025",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "24:46",
+   "venue": "Manchester, CT (USA)",
+   "date": "23 NOV 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:51.72",
+   "venue": "Washington, DC (USA)",
+   "date": "01 OCT 2017",
+   "resultScore": 968,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:35",
+   "venue": "Quayside, Newcastle upon Tyne (GBR)",
+   "date": "06 SEP 2024",
+   "resultScore": 1096,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:43",
+   "venue": "Hobart (AUS)",
+   "date": "27 FEB 2022",
+   "resultScore": 1050,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "42:23",
+   "venue": "Spokane, WA (USA)",
+   "date": "06 MAY 2018",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:24",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "01 MAR 2025",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "57:58",
+   "venue": "Pittsburgh, PA (USA)",
+   "date": "05 NOV 2017",
+   "resultScore": 982,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:58",
+   "venue": "Marugame (JPN)",
+   "date": "02 FEB 2025",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:24",
+   "venue": "Berlin (GER)",
+   "date": "29 SEP 2024",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "11:08.95",
+   "venue": "Winston Salem, NC (USA) (i)",
+   "date": "20 FEB 2016",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x1500 Metres Relay",
+   "mark": "17:35.25",
+   "venue": "Philadelphia, PA (USA)",
+   "date": "25 APR 2014",
+   "resultScore": 1127,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:48",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "07 MAR 2026",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Gate River Run 15K",
+   "listPosition": "21"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:13:16",
+   "venue": "New York, NY (USA)",
+   "date": "15 MAR 2026",
+   "resultScore": 1063,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "United Airlines NYC Half",
+   "listPosition": "567"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:17",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chevron Houston Marathon",
+   "listPosition": "123"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "60",
+   "mark": "2:43:58",
+   "score": 972,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "United Airlines NYC Half, New York, NY - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "17",
+   "mark": "1:13:16",
+   "score": 1063,
+   "competitionId": "7237506"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-03-07",
+   "competition": "Gate River Run 15K, Jacksonville, FL",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "9",
+   "mark": "50:48",
+   "score": 1070,
+   "competitionId": "7237320"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "Chevron Houston Marathon, Houston, TX",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:24:17",
+   "score": 1171,
+   "competitionId": "7235560"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2007",
+     "mark": "4:55.68",
+     "venue": "Solihull (GBR)",
+     "date": "21 JUL 2007"
+    },
+    {
+     "season": "2009",
+     "mark": "5:02.70",
+     "venue": "Solihull (GBR)",
+     "date": "18 JUL 2009"
+    },
+    {
+     "season": "2015",
+     "mark": "5:00.62",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "24 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "4:45.54",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "30 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "4:53.21",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "28 JAN 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "4:59.55",
+     "venue": "Landy Field, Geelong (AUS)",
+     "date": "21 DEC 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:43.74",
+     "venue": "Rawlinson Track – Melbourne Uni, Melbourne (AUS)",
+     "date": "18 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "5:00.62",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "24 JAN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "4:45.54",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "30 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "4:53.21",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "28 JAN 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "24:46",
+     "venue": "Manchester, CT (USA)",
+     "date": "23 NOV 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "4:51.72",
+     "venue": "Washington, DC (USA)",
+     "date": "01 OCT 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "15:44",
+     "venue": "Newcastle upon Tyne (GBR)",
+     "date": "08 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "15:35",
+     "venue": "Quayside, Newcastle upon Tyne (GBR)",
+     "date": "06 SEP 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "35:46",
+     "venue": "Derby (GBR)",
+     "date": "28 APR 2013"
+    },
+    {
+     "season": "2017",
+     "mark": "34:00",
+     "venue": "Shelter Island, NY (USA)",
+     "date": "17 JUN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "33:59",
+     "venue": "Brighton (GBR)",
+     "date": "15 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "35:08",
+     "venue": "Draycott (GBR)",
+     "date": "01 SEP 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "34:16",
+     "venue": "Hobart (AUS)",
+     "date": "23 FEB 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "33:43",
+     "venue": "Hobart (AUS)",
+     "date": "27 FEB 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "43:40",
+     "venue": "Spokane, WA (USA)",
+     "date": "07 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "42:23",
+     "venue": "Spokane, WA (USA)",
+     "date": "06 MAY 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "47:24",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "01 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "50:48",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "07 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "57:58",
+     "venue": "Pittsburgh, PA (USA)",
+     "date": "05 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "58:48",
+     "venue": "Portsmouth (GBR)",
+     "date": "21 OCT 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:15:33",
+     "venue": "Manchester (GBR)",
+     "date": "14 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:15:55",
+     "venue": "Glasgow (GBR)",
+     "date": "29 SEP 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:12:16",
+     "venue": "Launceston (AUS)",
+     "date": "13 JUN 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:09:02",
+     "venue": "København (DEN)",
+     "date": "18 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:08:56",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:08:20",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:58",
+     "venue": "Marugame (JPN)",
+     "date": "02 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:13:16",
+     "venue": "New York, NY (USA)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:22:17",
+     "venue": "Valley Cottage, NY (USA)",
+     "date": "14 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:21:24",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:30:43",
+     "venue": "Honolulu, HI (USA)",
+     "date": "14 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:17",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:08:56",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Half Marathon",
+     "competition": "European Athletics Championships",
+     "mark": "1:08:58",
+     "date": "09 JUN 2024"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "15:08.79",
+     "date": "18 AUG 2022"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:22:38",
+     "date": "21 APR 2025"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:21:24",
+     "date": "29 SEP 2024"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5 Kilometres Road",
+     "competition": "The AJ Bell Great North 5k",
+     "mark": "15:35",
+     "date": "06 SEP 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Big Half",
+     "mark": "1:09:15",
+     "date": "03 SEP 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 19,
+   "rankingScore": 1220
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 150,
+   "rankingScore": 1179
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 336,
+   "rankingScore": 1091
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 509,
+   "rankingScore": 1220
+  }
+ ],
+ "representative": {
+  "name": "Merhawi KEFLEZIGHI",
+  "country": "United States",
+  "website": "http://www.hawimanagement.com"
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/great-britain-ni/calli-hauger-thackery-14276523"
+}

@@ -1,0 +1,112 @@
+{
+ "id": "15207175",
+ "givenName": "Pascaline Jelagat",
+ "familyName": "KIBIWOT",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1998-04-26",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:23",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:23",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "47"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:20:23",
+   "score": 1209,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Acea Run Rome The Marathon, Roma",
+   "country": "ITA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:22:44",
+   "score": 1186,
+   "competitionId": "7238218"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:24:56",
+     "venue": "Frankfurt (GER)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:23",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:20:23",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 52,
+   "rankingScore": 1240
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 363,
+   "rankingScore": 1240
+  }
+ ],
+ "representative": {
+  "name": "Lee-Roy NEWTON",
+  "country": "South Africa",
+  "website": "http://newtonagency.co.za"
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/kenya/pasacline-jelagat-15207175"
+}

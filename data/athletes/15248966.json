@@ -1,0 +1,123 @@
+{
+ "id": "15248966",
+ "givenName": "Clare",
+ "familyName": "NDIWA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2003",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:49",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1258,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:49",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1258,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "6"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-03",
+   "competition": "27e Huis & Hypotheek Stadsloop Appingedam, Appingedam",
+   "country": "NED",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "30:46",
+   "score": 1205,
+   "competitionId": "7235539"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-05",
+   "competition": "Prague 10K Night Race, Praha",
+   "country": "CZE",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "30:39",
+   "score": 1212,
+   "competitionId": "7236035"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-15",
+   "competition": "Sands China Macao International 10K, Macao",
+   "country": "MAC",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "32:31",
+   "score": 1112,
+   "competitionId": "7237364"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "29:49",
+   "score": 1258,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "30:50",
+     "venue": "Durban (RSA)",
+     "date": "13 JUL 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "29:49",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 18,
+   "rankingScore": 1228
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 438,
+   "rankingScore": 1228
+  }
+ ],
+ "representative": {
+  "name": "Hannah BIWOTT-VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/kenya/clare-ndiwa-15248966"
+}

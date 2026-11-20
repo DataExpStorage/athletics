@@ -1,0 +1,287 @@
+{
+ "id": "15098714",
+ "givenName": "Florence",
+ "familyName": "NIYONKURU",
+ "country": "RWA",
+ "countryName": "Rwanda",
+ "birthDate": "2001-01-01",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:34.35",
+   "venue": "Amahoro National Stadium, Kigali (RWA)",
+   "date": "19 JUL 2025",
+   "resultScore": 945,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "6:16.9h",
+   "venue": "Amahoro National Stadium, Kigali (RWA)",
+   "date": "26 APR 2025",
+   "resultScore": 942,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:59.3h",
+   "venue": "Amahoro National Stadium, Kigali (RWA)",
+   "date": "30 MAR 2025",
+   "resultScore": 943,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:43.73",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:45",
+   "venue": "Bengaluru (IND)",
+   "date": "26 APR 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "52:31",
+   "venue": "Amsterdam (NED)",
+   "date": "21 SEP 2025",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:08",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:43.73",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "African Athletics Championships",
+   "listPosition": "28"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:45",
+   "venue": "Bengaluru (IND)",
+   "date": "26 APR 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS World 10K Bengaluru",
+   "listPosition": "34"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:08",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "28"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "1:06:08",
+   "score": 1211,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-27",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "3",
+   "mark": "31:55.47",
+   "score": 1143,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-15",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "2",
+   "mark": "31:43.73",
+   "score": 1153,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "30:45",
+   "score": 1206,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Generali Berliner Halbmarathon, Berlin",
+   "country": "GER",
+   "category": "C",
+   "race": "F",
+   "place": "4",
+   "mark": "1:07:22",
+   "score": 1184,
+   "competitionId": "7237042"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "30:45",
+     "venue": "Bengaluru (IND)",
+     "date": "26 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "52:31",
+     "venue": "Amsterdam (NED)",
+     "date": "21 SEP 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:19:31",
+     "venue": "Kigali (RWA)",
+     "date": "11 JUN 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:08",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:06:08",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "31:43.73",
+     "date": "15 MAY 2026"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "XXIII Commonwealth Games",
+     "mark": "31:55.47",
+     "date": "27 JUL 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Rwandan Championships",
+     "mark": "32:23.29",
+     "date": "19 JUL 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 14,
+   "rankingScore": 1236
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 21,
+   "rankingScore": 1219
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 265,
+   "rankingScore": 1257
+  }
+ ],
+ "representative": {
+  "name": "Jos HERMENS",
+  "country": "Netherlands",
+  "website": "http://www.globalsportscommunication.nl"
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/rwanda/florence-niyonkuru-15098714"
+}

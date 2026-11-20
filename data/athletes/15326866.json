@@ -1,0 +1,140 @@
+{
+ "id": "15326866",
+ "givenName": "Alex",
+ "familyName": "LENALEPISHO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2008-05-06",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:01.57",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "23 MAY 2026",
+   "resultScore": 994,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:10",
+   "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:50",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1075,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:01.57",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "23 MAY 2026",
+   "resultScore": 994,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Trials World Athletics U20 Championships"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:10",
+   "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "ABSA Run Yor City 10km",
+   "listPosition": "177"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:50",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1075,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "listPosition": "755"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "1:02:50",
+   "score": 1075,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "ABSA Run Yor City 10km, Kings Park Athletics Stadium, Durban",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "28:10",
+   "score": 1116,
+   "competitionId": "7237456"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "Trials World Athletics U20 Championships, Nyayo National Stadium, Nairobi - U20 Events",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "6",
+   "mark": "14:01.57",
+   "score": 994,
+   "competitionId": "7241938"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "28:10",
+     "venue": "Kings Park Athletics Stadium, Durban (RSA)",
+     "date": "12 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:02:50",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": null,
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/kenya/alex-lenalepisho-15326866"
+}

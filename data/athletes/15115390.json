@@ -1,0 +1,160 @@
+{
+ "id": "15115390",
+ "givenName": "Boaz",
+ "familyName": "KIPKEMEI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1993-03-22",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:54",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:06",
+   "venue": "Hannover (GER)",
+   "date": "14 APR 2024",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:54",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "183"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:38",
+   "venue": "Praha (CZE)",
+   "date": "03 MAY 2026",
+   "resultScore": 1119,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vodafone Prague Marathon",
+   "listPosition": "495"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:11:10",
+   "score": 1109,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-03",
+   "competition": "Vodafone Prague Marathon, Praha",
+   "country": "CZE",
+   "category": "B",
+   "race": "F",
+   "place": "8",
+   "mark": "2:10:38",
+   "score": 1119,
+   "competitionId": "7236039"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "1:00:54",
+   "score": 1150,
+   "competitionId": "7235697"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:11:46",
+   "score": 1098,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:00:54",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:07:06",
+     "venue": "Hannover (GER)",
+     "date": "14 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:18",
+     "venue": "Chongqing (CHN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:10:38",
+     "venue": "Praha (CZE)",
+     "date": "03 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 283,
+   "rankingScore": 1153
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1982,
+   "rankingScore": 1153
+  }
+ ],
+ "representative": {
+  "name": "Michael Kraus ",
+  "country": "Germany",
+  "website": "http://www.professional-coach.net/"
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/kenya/boaz-kipkemei-15115390"
+}
