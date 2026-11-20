@@ -1,0 +1,227 @@
+{
+ "id": "14555208",
+ "givenName": "Melaku",
+ "familyName": "BELACHEW",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1990-05-19",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:48",
+   "venue": "Hamburg (GER)",
+   "date": "07 SEP 2014",
+   "resultScore": 1059,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:19",
+   "venue": "Pune (IND)",
+   "date": "02 DEC 2012",
+   "resultScore": 1134,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:30",
+   "venue": "Berlin (GER)",
+   "date": "29 SEP 2024",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:51",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 927,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:39",
+   "venue": "Hong Kong (HKG)",
+   "date": "18 JAN 2026",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Standard Chartered Hong Kong Marathon",
+   "listPosition": "381"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "20",
+   "mark": "1:06:51",
+   "score": 927,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:13:59",
+   "score": 1059,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Standard Chartered Hong Kong Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:09:39",
+   "score": 1136,
+   "competitionId": "7235568"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "28:48",
+     "venue": "Hamburg (GER)",
+     "date": "07 SEP 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "1:01:19",
+     "venue": "Pune (IND)",
+     "date": "02 DEC 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "1:04:30",
+     "venue": "Pune (IND)",
+     "date": "01 DEC 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:02:16",
+     "venue": "Ahmedabad (IND)",
+     "date": "05 JAN 2014"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:51",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:13:10",
+     "venue": "Mainz (GER)",
+     "date": "10 MAY 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:17:27",
+     "venue": "Hong Kong (HKG)",
+     "date": "17 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:10:31",
+     "venue": "Hong Kong (HKG)",
+     "date": "12 FEB 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:16:57",
+     "venue": "Hong Kong (HKG)",
+     "date": "21 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:13:51",
+     "venue": "Roma (ITA)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:13:04",
+     "venue": "Annecy (FRA)",
+     "date": "17 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:13:31",
+     "venue": "Shenyang (CHN)",
+     "date": "17 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:30",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:09",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:09:39",
+     "venue": "Hong Kong (HKG)",
+     "date": "18 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 193,
+   "rankingScore": 1172
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1488,
+   "rankingScore": 1172
+  }
+ ],
+ "representative": {
+  "name": "Haile Belachew BIZUNEH",
+  "country": "Ethiopia",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/melaku-belachew-14555208"
+}

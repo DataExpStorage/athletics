@@ -1,0 +1,368 @@
+{
+ "id": "14477373",
+ "givenName": "Haftamnesh",
+ "familyName": "TESFAYE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-04-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:07.98",
+   "venue": "Hässelby (SWE)",
+   "date": "25 JUN 2013",
+   "resultScore": 1024,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.97",
+   "venue": "Heusden-Zolder (BEL)",
+   "date": "13 JUL 2013",
+   "resultScore": 1096,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:40.80",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "20 MAY 2016",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:59.50",
+   "venue": "Eaubonne (FRA) (i)",
+   "date": "07 FEB 2013",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:10.85",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "22 MAY 2016",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:28.5h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "17 APR 2018",
+   "resultScore": 1062,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:24",
+   "venue": "Rennes (FRA)",
+   "date": "13 OCT 2013",
+   "resultScore": 1117,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:56",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:02",
+   "venue": "Ostia (ITA)",
+   "date": "11 MAR 2018",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:17",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:56",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "B.A.A. 10K",
+   "listPosition": "299"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:17",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "32"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:19:17",
+   "score": 1219,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "18",
+   "mark": "34:12",
+   "score": 1012,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "10",
+   "mark": "32:56",
+   "score": 1090,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-19",
+   "competition": "Vienna City Marathon, Wien",
+   "country": "AUT",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:20:18",
+   "score": 1209,
+   "competitionId": "7236128"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "15:36",
+     "venue": "Rennes (FRA)",
+     "date": "14 OCT 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "15:24",
+     "venue": "Rennes (FRA)",
+     "date": "13 OCT 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "15:56",
+     "venue": "Rennes (FRA)",
+     "date": "12 OCT 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "34:57",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "33:53",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2013"
+    },
+    {
+     "season": "2015",
+     "mark": "35:01",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2015"
+    },
+    {
+     "season": "2026",
+     "mark": "32:56",
+     "venue": "Boston, MA (USA)",
+     "date": "21 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:14:29",
+     "venue": "Valencia (ESP)",
+     "date": "19 OCT 2014"
+    },
+    {
+     "season": "2018",
+     "mark": "1:09:02",
+     "venue": "Ostia (ITA)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2025",
+     "mark": "1:11:53",
+     "venue": "Trient (ITA)",
+     "date": "05 OCT 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:20:13",
+     "venue": "Dubai (UAE)",
+     "date": "26 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:26:50",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:27:50",
+     "venue": "Osaka (JPN)",
+     "date": "26 JAN 2020"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:17",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "9:10.02",
+     "date": "10 JUL 2012"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "Brazzaville All-Africa Games",
+     "mark": "15:52.10",
+     "date": "13 SEP 2015"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "BMW BERLIN-MARATHON",
+     "mark": "2:26:50",
+     "date": "29 SEP 2019"
+    }
+   ]
+  },
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Réduit African Junior Championships",
+     "mark": "9:32.3h",
+     "date": "29 AUG 2013"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "33:28.5h",
+     "date": "17 APR 2018"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 37,
+   "rankingScore": 1251
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 299,
+   "rankingScore": 1251
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 436,
+   "rankingScore": 1065
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/haftamnesh-tesfaye-14477373"
+}

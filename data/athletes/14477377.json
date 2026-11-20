@@ -1,0 +1,169 @@
+{
+ "id": "14477377",
+ "givenName": "Roman",
+ "familyName": "GIDEY",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-02-20",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:24.2h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "24 MAY 2013",
+   "resultScore": 1026,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:45.60",
+   "venue": "Stade de France, Paris-St-Denis (FRA)",
+   "date": "06 JUL 2013",
+   "resultScore": 1076,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "34:43.50",
+   "venue": "Addis Ababa (ETH)",
+   "date": "07 MAY 2011",
+   "resultScore": 999,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:22",
+   "venue": "Guangzhou (CHN)",
+   "date": "08 DEC 2024",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:29",
+   "venue": "Doha (QAT)",
+   "date": "16 JAN 2026",
+   "resultScore": 1160,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Doha Marathon by Ooredoo",
+   "listPosition": "163"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:27:48",
+   "score": 1138,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-07",
+   "competition": "Maratona da Cidade do Rio de Janeiro, Rio de Janeiro - Elite Event",
+   "country": "BRA",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7239891"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:33:47",
+   "score": 1082,
+   "competitionId": "7235571"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:25:29",
+   "score": 1160,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:25:22",
+     "venue": "Guangzhou (CHN)",
+     "date": "08 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:29:53",
+     "venue": "Istanbul (TUR)",
+     "date": "02 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:29",
+     "venue": "Doha (QAT)",
+     "date": "16 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "Réduit African Junior Championships",
+     "mark": "9:36.4h",
+     "date": "29 AUG 2013"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 138,
+   "rankingScore": 1184
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 928,
+   "rankingScore": 1184
+  }
+ ],
+ "representative": {
+  "name": "Robert WAGNER",
+  "country": "Austria",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/roman-gidey-14477377"
+}

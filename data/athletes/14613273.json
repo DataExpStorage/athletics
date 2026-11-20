@@ -1,0 +1,264 @@
+{
+ "id": "14613273",
+ "givenName": "Yeshi Kalayu",
+ "familyName": "CHEKOLE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-07-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:47",
+   "venue": "Langueux (FRA)",
+   "date": "18 JUN 2016",
+   "resultScore": 1098,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:40",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2023",
+   "resultScore": 1091,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "38:49",
+   "venue": "Spokane, WA (USA)",
+   "date": "07 MAY 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:30",
+   "venue": "Málaga (ESP)",
+   "date": "24 APR 2022",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:15",
+   "venue": "Milano (ITA)",
+   "date": "12 APR 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:15",
+   "venue": "Milano (ITA)",
+   "date": "12 APR 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wizz Air Milano Marathon",
+   "listPosition": "46"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Wizz Air Milano Marathon, Milano",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "2:20:15",
+   "score": 1210,
+   "competitionId": "7236394"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Tata Mumbai Marathon, Mumbai",
+   "country": "IND",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:25:13",
+   "score": 1162,
+   "competitionId": "7235567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "33:44",
+     "venue": "Dubai (UAE)",
+     "date": "08 NOV 2013"
+    },
+    {
+     "season": "2015",
+     "mark": "33:14",
+     "venue": "Suresnes (FRA)",
+     "date": "13 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "32:47",
+     "venue": "Langueux (FRA)",
+     "date": "18 JUN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "33:36",
+     "venue": "Addis Ababa (ETH)",
+     "date": "26 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "35:04",
+     "venue": "Okpekpe (NGR)",
+     "date": "12 MAY 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "38:49",
+     "venue": "Spokane, WA (USA)",
+     "date": "07 MAY 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:16:01",
+     "venue": "Kochi (IND)",
+     "date": "07 DEC 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:12:17",
+     "venue": "Remich (LUX)",
+     "date": "27 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:18:40",
+     "venue": "Troyes (FRA)",
+     "date": "08 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:09:13",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:07:58",
+     "venue": "Valencia (ESP)",
+     "date": "28 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:10:54",
+     "venue": "Manama (BRN)",
+     "date": "15 MAR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:07:30",
+     "venue": "Málaga (ESP)",
+     "date": "24 APR 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:24:28",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "06 DEC 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:40:26",
+     "venue": "Istanbul (TUR)",
+     "date": "08 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:27:10",
+     "venue": "Paris (FRA)",
+     "date": "17 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:21:17",
+     "venue": "Sevilla (ESP)",
+     "date": "20 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:23:29",
+     "venue": "Paris (FRA)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:32:04",
+     "venue": "Lanzhou (CHN)",
+     "date": "26 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:23:26",
+     "venue": "Incheon (KOR)",
+     "date": "23 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:15",
+     "venue": "Milano (ITA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 78,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 568,
+   "rankingScore": 1214
+  }
+ ],
+ "representative": {
+  "name": "Marieke VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-20",
+ "source": "https://worldathletics.org/athletes/ethiopia/yeshi-kalayu-chekole-14613273"
+}
