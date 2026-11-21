@@ -1,0 +1,639 @@
+{
+ "id": "14877184",
+ "givenName": "Weini",
+ "familyName": "KELATI FREZGHI",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "1996-12-01",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:10.88",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "24 APR 2021",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:37.75",
+   "venue": "Albuquerque, NM (USA) (i)",
+   "date": "23 FEB 2019",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:37.75",
+   "venue": "Albuquerque, NM (USA) (i)",
+   "date": "23 FEB 2019",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:32.50",
+   "venue": "Bislett Stadion, Oslo (NOR)",
+   "date": "15 JUN 2023",
+   "resultScore": 1200,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:33.72",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "29 JAN 2022",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "10:00.38",
+   "venue": "Greensboro, NC (USA)",
+   "date": "18 JUN 2016",
+   "resultScore": 1044,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "10:02.71",
+   "venue": "New York, NY (USA) (i)",
+   "date": "11 MAR 2016",
+   "resultScore": 1059,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:35.43",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "25 MAY 2024",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "15:14.71",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "07 DEC 2019",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:33.82",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "16 MAR 2024",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "23:14",
+   "venue": "Manchester, CT (USA)",
+   "date": "28 NOV 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:28.68",
+   "venue": "Honolulu, HI (USA)",
+   "date": "07 DEC 2024",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:04",
+   "venue": "Boston, MA (USA)",
+   "date": "16 APR 2022",
+   "resultScore": 1155,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:17",
+   "venue": "Manchester (GBR)",
+   "date": "31 MAY 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:49",
+   "venue": "New York, NY (USA)",
+   "date": "07 JUN 2025",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:46",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:04",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:51",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1147,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "11:12.27",
+   "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+   "date": "27 FEB 2020",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:17",
+   "venue": "Manchester (GBR)",
+   "date": "31 MAY 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Great Manchester Run",
+   "listPosition": "67"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:46",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Credit Union Cherry Blossom 10 Mile",
+   "listPosition": "5"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:04",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks",
+   "listPosition": "26"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:51",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1147,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "223"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:26:51",
+   "score": 1147,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "1:06:35",
+   "score": 1201,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Great Manchester Run, Manchester - Elite Event",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "31:17",
+   "score": 1177,
+   "competitionId": "7243517"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "date": "2026-04-12",
+   "competition": "Credit Union Cherry Blossom 10 Mile, Washington Monument Grounds, Washington, DC - USA 10 Mile Road Race Ch.",
+   "country": "USA",
+   "category": "D",
+   "race": "F",
+   "place": "4",
+   "mark": "50:46",
+   "score": 1183,
+   "competitionId": "7239460"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-15",
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:06:04",
+   "score": 1212,
+   "competitionId": "7237513"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "40",
+   "mark": "35:25",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "5:05.11",
+     "venue": "Winston Salem, NC (USA) (i)",
+     "date": "07 FEB 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "4:52.53",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "27 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:37.75",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "23 FEB 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:38.73",
+     "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+     "date": "01 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "5:05.11",
+     "venue": "Winston Salem, NC (USA) (i)",
+     "date": "07 FEB 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "4:52.53",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "27 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:37.75",
+     "venue": "Albuquerque, NM (USA) (i)",
+     "date": "23 FEB 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:38.73",
+     "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+     "date": "01 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "10:00.38",
+     "venue": "Greensboro, NC (USA)",
+     "date": "18 JUN 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "10:02.71",
+     "venue": "New York, NY (USA) (i)",
+     "date": "11 MAR 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "23:21",
+     "venue": "Manchester, CT (USA)",
+     "date": "23 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "23:14",
+     "venue": "Manchester, CT (USA)",
+     "date": "28 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "23:18",
+     "venue": "Manchester, CT (USA)",
+     "date": "27 NOV 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "4:30.16",
+     "venue": "Kapiolani Park, Honolulu, HI (USA)",
+     "date": "09 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "4:28.68",
+     "venue": "Honolulu, HI (USA)",
+     "date": "07 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "4:29.83",
+     "venue": "Honolulu, HI (USA)",
+     "date": "13 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "16:27",
+     "venue": "Trier (GER)",
+     "date": "31 DEC 2013"
+    },
+    {
+     "season": "2021",
+     "mark": "15:18",
+     "venue": "New York, NY (USA)",
+     "date": "06 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "15:04",
+     "venue": "Boston, MA (USA)",
+     "date": "16 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "15:10",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "31:18",
+     "venue": "Boston, MA (USA)",
+     "date": "16 OCT 2021"
+    },
+    {
+     "season": "2026",
+     "mark": "31:17",
+     "venue": "Manchester (GBR)",
+     "date": "31 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "50:46",
+     "venue": "Washington Monument Grounds, Washington, DC (USA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:06:25",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:06:09",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:04",
+     "venue": "Barcelona (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:26:51",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "10,000 Metres",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "30:49.98",
+     "date": "09 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:06:35",
+     "date": "20 SEP 2026"
+    },
+    {
+     "place": "7.",
+     "discipline": "5 Kilometres Road",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "15:10",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "9:12.32",
+     "date": "24 JUL 2014"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:26:51",
+     "date": "01 NOV 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "U.S. Olympic Team Trials",
+     "mark": "31:41.07",
+     "date": "29 JUN 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5 Kilometres Road",
+     "competition": "Abbott Dash to the Finish Line 5K and USATF Ch.",
+     "mark": "15:16",
+     "date": "05 NOV 2022"
+    }
+   ]
+  },
+  {
+   "category": "NCAA Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "NCAA Div. I Outdoor Championships",
+     "mark": "33:10.84",
+     "date": "06 JUN 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 21,
+   "rankingScore": 1224
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 44,
+   "rankingScore": 1186
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 97,
+   "rankingScore": 1205
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 372,
+   "rankingScore": 1238
+  }
+ ],
+ "representative": {
+  "name": "Stephen HAAS",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/united-states/weini-kelati-frezghi-14877184"
+}

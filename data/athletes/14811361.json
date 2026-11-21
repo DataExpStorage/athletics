@@ -1,0 +1,146 @@
+{
+ "id": "14811361",
+ "givenName": "Amid Fozya",
+ "familyName": "JEMAL",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-09-11",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:31.6h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "08 MAY 2019",
+   "resultScore": 1060,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:14",
+   "venue": "Meishan (CHN)",
+   "date": "25 FEB 2024",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:53",
+   "venue": "Dubai (UAE)",
+   "date": "07 JAN 2024",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:14",
+   "venue": "Wuxi (CHN)",
+   "date": "22 MAR 2026",
+   "resultScore": 1172,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wuxi Marathon",
+   "listPosition": "118"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:29:05",
+   "score": 1126,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:24:14",
+   "score": 1172,
+   "competitionId": "7235574"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:16:39",
+     "venue": "Remich (LUX)",
+     "date": "24 SEP 2017"
+    },
+    {
+     "season": "2024",
+     "mark": "1:08:14",
+     "venue": "Meishan (CHN)",
+     "date": "25 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:23:18",
+     "venue": "Toronto (CAN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:21:53",
+     "venue": "Dubai (UAE)",
+     "date": "07 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:26:14",
+     "venue": "Shenzhen (CHN)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:14",
+     "venue": "Wuxi (CHN)",
+     "date": "22 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 80,
+   "rankingScore": 1212
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 587,
+   "rankingScore": 1212
+  }
+ ],
+ "representative": {
+  "name": "Leo LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/amid-fozya-jemal-14811361"
+}

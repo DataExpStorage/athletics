@@ -1,0 +1,244 @@
+{
+ "id": "14785774",
+ "givenName": "Tadu",
+ "familyName": "ABATE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-09-11",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:08",
+   "venue": "Addis Ababa (ETH)",
+   "date": "10 JAN 2021",
+   "resultScore": 1029,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:46",
+   "venue": "Lisboa (POR)",
+   "date": "19 MAR 2017",
+   "resultScore": 1156,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:38",
+   "venue": "Tokyo (JPN)",
+   "date": "05 MAR 2023",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:16",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "167"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:07:16",
+   "score": 1180,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:08:19",
+   "score": 1161,
+   "competitionId": "7235574"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Tata Mumbai Marathon, Mumbai",
+   "country": "IND",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:09:55",
+   "score": 1132,
+   "competitionId": "7235567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "29:08",
+     "venue": "Addis Ababa (ETH)",
+     "date": "10 JAN 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:00:46",
+     "venue": "Lisboa (POR)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:01:21",
+     "venue": "Lisboa (POR)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:02:10",
+     "venue": "København (DEN)",
+     "date": "15 SEP 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:33",
+     "venue": "Guadalajara (MEX)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:45",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:06:47",
+     "venue": "Amsterdam (NED)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:06:13",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:08:54",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:06:45",
+     "venue": "Valencia (ESP)",
+     "date": "05 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:06:28",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:38",
+     "venue": "Tokyo (JPN)",
+     "date": "05 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:18",
+     "venue": "Wuxi (CHN)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:15",
+     "venue": "Wuxi (CHN)",
+     "date": "23 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:16",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:06:28",
+     "date": "25 SEP 2022"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:08:24",
+     "date": "26 SEP 2021"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:05:38",
+     "date": "05 MAR 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 119,
+   "rankingScore": 1198
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 960,
+   "rankingScore": 1198
+  }
+ ],
+ "representative": {
+  "name": "Leo LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/tadu-abate-14785774"
+}

@@ -1,0 +1,224 @@
+{
+ "id": "14763752",
+ "givenName": "Kalipus",
+ "familyName": "LOMWAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1995-10-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:01",
+   "venue": "Ziwa (KEN)",
+   "date": "09 DEC 2017",
+   "resultScore": 948,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:15",
+   "venue": "Hamburg (GER)",
+   "date": "11 SEP 2016",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:44",
+   "venue": "Praha (CZE)",
+   "date": "28 MAR 2026",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:09",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1238,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:44",
+   "venue": "Praha (CZE)",
+   "date": "28 MAR 2026",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Generali Prague Half Marathon",
+   "listPosition": "53"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:09",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1238,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "22"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:04:09",
+   "score": 1238,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "2:05:06",
+   "score": 1221,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-28",
+   "competition": "Generali Prague Half Marathon, Praha",
+   "country": "CZE",
+   "category": "C",
+   "race": "F",
+   "place": "6",
+   "mark": "59:44",
+   "score": 1197,
+   "competitionId": "7236038"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "28:15",
+     "venue": "Hamburg (GER)",
+     "date": "11 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "28:25",
+     "venue": "Oelde (GER)",
+     "date": "10 JUN 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:03:57",
+     "venue": "Remich (LUX)",
+     "date": "25 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:01:33",
+     "venue": "Venlo (NED)",
+     "date": "26 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:01:22",
+     "venue": "Hamburg (GER)",
+     "date": "01 JUL 2018"
+    },
+    {
+     "season": "2025",
+     "mark": "59:56",
+     "venue": "Roma (ITA)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:44",
+     "venue": "Praha (CZE)",
+     "date": "28 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:30:22",
+     "venue": "Beirut (LBN)",
+     "date": "12 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:13:12",
+     "venue": "Beirut (LBN)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:14:09",
+     "venue": "Kobe (JPN)",
+     "date": "17 NOV 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "2:19:04",
+     "venue": "Chon Buri (THA)",
+     "date": "03 NOV 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:09",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 34,
+   "rankingScore": 1275
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 40,
+   "rankingScore": 1192
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 285,
+   "rankingScore": 1275
+  }
+ ],
+ "representative": {
+  "name": "Hannah BIWOTT-VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/kenya/kalipus-lomwai-014763752"
+}

@@ -1,0 +1,320 @@
+{
+ "id": "14813827",
+ "givenName": "Vincent Kipkemoi",
+ "familyName": "NGETICH",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1999-01-03",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:31.70",
+   "venue": "Nobeoka (JPN)",
+   "date": "04 MAY 2019",
+   "resultScore": 1096,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:52.00",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "21 SEP 2019",
+   "resultScore": 1144,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:49",
+   "venue": "Manchester (GBR)",
+   "date": "31 MAY 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:09",
+   "venue": "København (DEN)",
+   "date": "18 SEP 2022",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:13",
+   "venue": "Berlin (GER)",
+   "date": "24 SEP 2023",
+   "resultScore": 1256,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:49",
+   "venue": "Manchester (GBR)",
+   "date": "31 MAY 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Great Manchester Run",
+   "listPosition": "96"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:29",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "111"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:21",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "58"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-24",
+   "competition": "Jakarta Running Festival - Half Marathon, Jakarta",
+   "country": "INA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:04",
+   "score": 1144,
+   "competitionId": "7236427"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:05:28",
+   "score": 1203,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Great Manchester Run, Manchester - Elite Event",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "5",
+   "mark": "27:49",
+   "score": 1149,
+   "competitionId": "7243517"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "27:53",
+   "score": 1143,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:05:21",
+   "score": 1216,
+   "competitionId": "7236397"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "10",
+   "mark": "1:00:29",
+   "score": 1167,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "30:05",
+     "venue": "Kabarak (KEN)",
+     "date": "14 JUL 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "28:17",
+     "venue": "Würzburg (GER)",
+     "date": "14 APR 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "28:11",
+     "venue": "Port Gentil (GAB)",
+     "date": "08 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "27:58",
+     "venue": "Manchester (GBR)",
+     "date": "18 MAY 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:49",
+     "venue": "Manchester (GBR)",
+     "date": "31 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "59:09",
+     "venue": "København (DEN)",
+     "date": "18 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "59:10",
+     "venue": "Lisboa (POR)",
+     "date": "12 MAR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:00",
+     "venue": "Santa Pola (ESP)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:29",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:03:13",
+     "venue": "Berlin (GER)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:04:18",
+     "venue": "Tokyo (JPN)",
+     "date": "03 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:04:00",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:21",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:03:13",
+     "date": "24 SEP 2023"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:04:00",
+     "date": "02 MAR 2025"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:04:18",
+     "date": "03 MAR 2024"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:05:16",
+     "date": "13 OCT 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 57,
+   "rankingScore": 1248
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 71,
+   "rankingScore": 1167
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 438,
+   "rankingScore": 1248
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/kenya/vincent-kipkemoi-ngetich-14813827"
+}

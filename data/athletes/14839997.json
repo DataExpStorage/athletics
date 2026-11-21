@@ -1,0 +1,201 @@
+{
+ "id": "14839997",
+ "givenName": "Alemtsehay",
+ "familyName": "ASEFA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-09-11",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:39",
+   "venue": "Paderborn (GER)",
+   "date": "20 APR 2019",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:51",
+   "venue": "København (DEN)",
+   "date": "15 SEP 2019",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:42",
+   "venue": "Enschede (NED)",
+   "date": "24 APR 2022",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:03",
+   "venue": "Rabat (MAR)",
+   "date": "10 MAY 2026",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Marathon International de Rabat",
+   "listPosition": "150"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:26:54",
+   "score": 1146,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "Mexico City Marathon Telcel, Ciudad de México",
+   "country": "MEX",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:29:30",
+   "score": 1115,
+   "competitionId": "7235589"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-10",
+   "competition": "Marathon International de Rabat, Rabat",
+   "country": "MAR",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:25:03",
+   "score": 1164,
+   "competitionId": "7232567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "32:55",
+     "venue": "El Mohmmedia (MAR)",
+     "date": "09 JUL 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "33:08",
+     "venue": "Langueux (FRA)",
+     "date": "16 JUN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "31:39",
+     "venue": "Paderborn (GER)",
+     "date": "20 APR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "31:42",
+     "venue": "Langueux (FRA)",
+     "date": "25 JUN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:12:28",
+     "venue": "København (DEN)",
+     "date": "16 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:10:51",
+     "venue": "København (DEN)",
+     "date": "15 SEP 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:14:43",
+     "venue": "Muscat (OMA)",
+     "date": "21 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "2:32:00",
+     "venue": "Taipei City (TPE)",
+     "date": "20 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:30:44",
+     "venue": "Taipei City (TPE)",
+     "date": "19 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:24:42",
+     "venue": "Enschede (NED)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:31:19",
+     "venue": "Taipei City (TPE)",
+     "date": "17 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:32:52",
+     "venue": "Riyadh (KSA)",
+     "date": "10 FEB 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:03",
+     "venue": "Rabat (MAR)",
+     "date": "10 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 132,
+   "rankingScore": 1185
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 911,
+   "rankingScore": 1185
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/alemtsehay-asefa-14839997"
+}

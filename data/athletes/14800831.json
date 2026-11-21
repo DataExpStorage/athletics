@@ -1,0 +1,253 @@
+{
+ "id": "14800831",
+ "givenName": "Andamlak",
+ "familyName": "BELIHU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-11-20",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:53.15",
+   "venue": "Hengelo (NED)",
+   "date": "17 JUL 2019",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:48",
+   "venue": "Ottawa (CAN)",
+   "date": "26 MAY 2018",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:54",
+   "venue": "New Delhi (IND)",
+   "date": "29 NOV 2020",
+   "resultScore": 1231,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:55",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:55",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "83"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:05:55",
+   "score": 1205,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-03",
+   "competition": "Vodafone Prague Marathon, Praha",
+   "country": "CZE",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7236039"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "27:48",
+     "venue": "Ottawa (CAN)",
+     "date": "26 MAY 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "27:56",
+     "venue": "Bengaluru (IND)",
+     "date": "19 MAY 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "29:22",
+     "venue": "Bengaluru (IND)",
+     "date": "15 MAY 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "59:51",
+     "venue": "New Delhi (IND)",
+     "date": "19 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "59:18",
+     "venue": "New Delhi (IND)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "59:10",
+     "venue": "New Delhi (IND)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "58:54",
+     "venue": "New Delhi (IND)",
+     "date": "29 NOV 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:01",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "18 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "59:59",
+     "venue": "Santa Pola (ESP)",
+     "date": "21 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:09:43",
+     "venue": "Valencia (ESP)",
+     "date": "05 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:06:40",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:55",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "26:56.71",
+     "date": "06 OCT 2019"
+    }
+   ]
+  },
+  {
+   "category": "World Half Marathon Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Half Marathon Championships",
+     "mark": "59:32",
+     "date": "17 OCT 2020"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "32:29",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:06:40",
+     "date": "25 SEP 2022"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:05:55",
+     "date": "27 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "28:32.4h",
+     "date": "16 MAY 2017"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/andamlak-belihu-014800831"
+}

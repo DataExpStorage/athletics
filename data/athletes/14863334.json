@@ -1,0 +1,230 @@
+{
+ "id": "14863334",
+ "givenName": "Ezra Kipketer",
+ "familyName": "TANUI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1997-08-20",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:48",
+   "venue": "Ziwa (KEN)",
+   "date": "01 DEC 2018",
+   "resultScore": 998,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:05",
+   "venue": "Cali (COL)",
+   "date": "18 AUG 2024",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:20",
+   "venue": "Praha (CZE)",
+   "date": "05 APR 2025",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:55",
+   "venue": "Osaka (JPN)",
+   "date": "22 FEB 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:35",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 972,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:55",
+   "venue": "Osaka (JPN)",
+   "date": "22 FEB 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Osaka Marathon",
+   "listPosition": "83"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "6",
+   "mark": "1:05:35",
+   "score": 972,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:10:59",
+   "score": 1112,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:05:55",
+   "score": 1205,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "29:23",
+     "venue": "Kabarnet (KEN)",
+     "date": "04 NOV 2018"
+    },
+    {
+     "season": "2023",
+     "mark": "28:52",
+     "venue": "Cali (COL)",
+     "date": "20 AUG 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "28:05",
+     "venue": "Cali (COL)",
+     "date": "18 AUG 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:00:58",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:00:57",
+     "venue": "Marugame (JPN)",
+     "date": "02 FEB 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "59:43",
+     "venue": "Madrid (ESP)",
+     "date": "14 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:01:36",
+     "venue": "Santa Pola (ESP)",
+     "date": "23 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:15",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "18 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:55",
+     "venue": "Al Khobar (KSA)",
+     "date": "14 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:20",
+     "venue": "Praha (CZE)",
+     "date": "05 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:35",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:14:50",
+     "venue": "Doha (QAT)",
+     "date": "16 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:28",
+     "venue": "Doha (QAT)",
+     "date": "17 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:55",
+     "venue": "Osaka (JPN)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 75,
+   "rankingScore": 1226
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 614,
+   "rankingScore": 1226
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/kenya/ezra-kipketer-tanui-014863334"
+}
