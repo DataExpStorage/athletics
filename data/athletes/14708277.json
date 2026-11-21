@@ -1,0 +1,687 @@
+{
+ "id": "14708277",
+ "givenName": "Emma Grace",
+ "familyName": "HURLEY",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "1997-12-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:14.49",
+   "venue": "Geroge C. Griffin Track, Atlanta, GA (USA)",
+   "date": "21 APR 2023",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:32.45",
+   "venue": "Saint Louis University High School, St. Louis, MO (USA)",
+   "date": "30 MAY 2024",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:49.03",
+   "venue": "Winston Salem, NC (USA) (i)",
+   "date": "17 FEB 2018",
+   "resultScore": 1014,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:51.34",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "28 JAN 2023",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:51.34",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "28 JAN 2023",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "10:22.58",
+   "venue": "Mobile, AL (USA)",
+   "date": "02 APR 2016",
+   "resultScore": 979,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:41.25",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "17 MAY 2024",
+   "resultScore": 1084,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "16:07.27",
+   "venue": "Winston Salem, NC (USA) (i)",
+   "date": "02 DEC 2018",
+   "resultScore": 1058,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "36:48.09",
+   "venue": "Birmingham, AL (USA)",
+   "date": "27 APR 2019",
+   "resultScore": 899,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "10:06.35",
+   "venue": "Raleigh, NC (USA)",
+   "date": "30 MAR 2018",
+   "resultScore": 1080,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "35:36",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:37.55",
+   "venue": "Des Moines, IA (USA)",
+   "date": "23 APR 2024",
+   "resultScore": 1065,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:01",
+   "venue": "Indianapolis, IN (USA)",
+   "date": "02 MAY 2026",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:00",
+   "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+   "date": "03 MAY 2025",
+   "resultScore": 1193,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:52",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "02 MAR 2024",
+   "resultScore": 1098,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:42",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:07:29",
+   "venue": "New Haven, CT (USA)",
+   "date": "02 SEP 2024",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:23",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:22:52",
+   "venue": "Downtown, Grand Rapids, MI (USA)",
+   "date": "09 MAY 2026",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:47",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x800 Metres Relay",
+   "mark": "8:50.80",
+   "venue": "Knoxville, TN (USA)",
+   "date": "13 APR 2019",
+   "resultScore": 1022,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "11:54.42",
+   "venue": "Corps Physical Training Facility, Lexington, VA (USA) (i)",
+   "date": "29 FEB 2020",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Road Race",
+   "mark": "35:36",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "ASICS Falmouth Road Race"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:01",
+   "venue": "Indianapolis, IN (USA)",
+   "date": "02 MAY 2026",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "USA 5 km Road Running Championships",
+   "listPosition": "18"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:13",
+   "venue": "New York, NY (USA)",
+   "date": "06 JUN 2026",
+   "resultScore": 1119,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Mastercard New York Mini 10K - Women's Race"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:42",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Credit Union Cherry Blossom 10 Mile",
+   "listPosition": "4"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:23",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "33"
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:22:52",
+   "venue": "Downtown, Grand Rapids, MI (USA)",
+   "date": "09 MAY 2026",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "USATF 25 km Championships"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:47",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "53"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:20:47",
+   "score": 1205,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "1:06:23",
+   "score": 1205,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Road Race",
+   "date": "2026-08-16",
+   "competition": "ASICS Falmouth Road Race, Falmouth High School, Falmouth, MA - Non-standard distance: 11,265m - 7 Miles",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "35:36",
+   "score": 0,
+   "competitionId": "7242300"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-06",
+   "competition": "Mastercard New York Mini 10K - Women's Race, New York, NY",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "11",
+   "mark": "32:13",
+   "score": 1119,
+   "competitionId": "7241746"
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "date": "2026-05-09",
+   "competition": "USATF 25 km Championships, Downtown, Grand Rapids, MI",
+   "country": "USA",
+   "category": "D",
+   "race": "F",
+   "place": "1",
+   "mark": "1:22:52",
+   "score": 1154,
+   "competitionId": "7239472"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-05-02",
+   "competition": "USA 5 km Road Running Championships, Indianapolis, IN",
+   "country": "USA",
+   "category": "D",
+   "race": "F",
+   "place": "2",
+   "mark": "15:01",
+   "score": 1161,
+   "competitionId": "7239461"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "date": "2026-04-12",
+   "competition": "Credit Union Cherry Blossom 10 Mile, Washington Monument Grounds, Washington, DC - USA 10 Mile Road Race Ch.",
+   "country": "USA",
+   "category": "D",
+   "race": "F",
+   "place": "3",
+   "mark": "50:42",
+   "score": 1185,
+   "competitionId": "7239460"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-01",
+   "competition": "Publix Atlanta Half Marathon, Home Depot Backyard, Atlanta, GA - USA Half Marathon Championships",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "12",
+   "mark": "1:11:38",
+   "score": 1096,
+   "competitionId": "7237355"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "5:05.20",
+     "venue": "Atlanta, GA (USA)",
+     "date": "24 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "4:57.58",
+     "venue": "Nashville, TN (USA) (i)",
+     "date": "21 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "4:47.52",
+     "venue": "Nashville, TN (USA) (i)",
+     "date": "20 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:56.60",
+     "venue": "Nashville, TN (USA) (i)",
+     "date": "19 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:51.70",
+     "venue": "Vanderbilt Multipurpose Facility, Nashville, TN (USA) (i)",
+     "date": "18 JAN 2020"
+    },
+    {
+     "season": "2024",
+     "mark": "4:32.45",
+     "venue": "Saint Louis University High School, St. Louis, MO (USA)",
+     "date": "30 MAY 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "4:49.03",
+     "venue": "Winston Salem, NC (USA) (i)",
+     "date": "17 FEB 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "4:58.63",
+     "venue": "Corps Physical Training Facility, Lexington, VA (USA) (i)",
+     "date": "01 MAR 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "10:37.75",
+     "venue": "Greensboro, NC (USA)",
+     "date": "20 JUN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "10:22.58",
+     "venue": "Mobile, AL (USA)",
+     "date": "02 APR 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "36:25",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "18 AUG 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "35:36",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "16 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "4:37.55",
+     "venue": "Des Moines, IA (USA)",
+     "date": "23 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "15:49",
+     "venue": "Boston, MA (USA)",
+     "date": "16 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "15:27",
+     "venue": "Boston, MA (USA)",
+     "date": "15 APR 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "15:01",
+     "venue": "Indianapolis, IN (USA)",
+     "date": "02 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "32:50",
+     "venue": "Northport, NY (USA)",
+     "date": "17 SEP 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "31:00",
+     "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+     "date": "03 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "50:04",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "04 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "49:52",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "02 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "53:24",
+     "venue": "Minneapolis, MN (USA)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "52:41",
+     "venue": "Washington Monument Grounds, Washington, DC (USA)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "51:04",
+     "venue": "Washington, DC (USA)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "50:42",
+     "venue": "Washington Monument Grounds, Washington, DC (USA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:10:07",
+     "venue": "New Haven, CT (USA)",
+     "date": "04 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:07:29",
+     "venue": "New Haven, CT (USA)",
+     "date": "02 SEP 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:08:26",
+     "venue": "Indianapolis, IN (USA)",
+     "date": "09 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:07:35",
+     "venue": "Atlanta, GA (USA)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:23",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:22:52",
+     "venue": "Downtown, Grand Rapids, MI (USA)",
+     "date": "09 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:20:47",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "1:06:23",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "25 Kilometres Road",
+     "competition": "USATF 25 km Championships",
+     "mark": "1:22:52",
+     "date": "09 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 35,
+   "rankingScore": 1209
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 57,
+   "rankingScore": 1235
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 390,
+   "rankingScore": 1235
+  }
+ ],
+ "representative": {
+  "name": "Bradley YEWER",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.flynnsports.com"
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/united-states/emma-grace-hurley-14708277"
+}

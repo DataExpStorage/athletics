@@ -1,0 +1,224 @@
+{
+ "id": "14748876",
+ "givenName": "Kuftu",
+ "familyName": "TAHIR",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1995-10-13",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:57",
+   "venue": "Langueux (FRA)",
+   "date": "17 JUN 2017",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:04",
+   "venue": "Lisboa (POR)",
+   "date": "11 OCT 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:23:32",
+   "venue": "Kolkata (IND)",
+   "date": "21 DEC 2025",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:53",
+   "venue": "Dubai (UAE)",
+   "date": "12 JAN 2025",
+   "resultScore": 1184,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:04",
+   "venue": "Lisboa (POR)",
+   "date": "11 OCT 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Hyundai Half Marathon",
+   "listPosition": "136"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:33",
+   "venue": "Ottawa (CAN)",
+   "date": "24 MAY 2026",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tartan Ottawa International Marathon",
+   "listPosition": "167"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:26:03",
+   "score": 1154,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-11",
+   "competition": "Hyundai Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "3",
+   "mark": "1:09:04",
+   "score": 1149,
+   "competitionId": "7236104"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Tartan Ottawa International Marathon, Ottawa",
+   "country": "CAN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:25:33",
+   "score": 1159,
+   "competitionId": "7236100"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Daegu Marathon, Daegu",
+   "country": "KOR",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:28:23",
+   "score": 1132,
+   "competitionId": "7235573"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "32:57",
+     "venue": "Langueux (FRA)",
+     "date": "17 JUN 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:09:04",
+     "venue": "Lisboa (POR)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:23:32",
+     "venue": "Kolkata (IND)",
+     "date": "21 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:35:21",
+     "venue": "Wuhan (CHN)",
+     "date": "10 APR 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:31:27",
+     "venue": "Amsterdam (NED)",
+     "date": "15 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:34:35",
+     "venue": "Hamburg (GER)",
+     "date": "29 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:23:14",
+     "venue": "Ljubljana (SLO)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "2:23:13",
+     "venue": "Changsha (CHN)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:53",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:33",
+     "venue": "Ottawa (CAN)",
+     "date": "24 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 117,
+   "rankingScore": 1194
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 643,
+   "rankingScore": 1207
+  }
+ ],
+ "representative": {
+  "name": "Leo LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/kuftu-tahir-14748876"
+}

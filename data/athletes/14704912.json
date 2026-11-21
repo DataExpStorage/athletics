@@ -1,0 +1,278 @@
+{
+ "id": "14704912",
+ "givenName": "Rhonzas Lokitam",
+ "familyName": "KILIMO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1996-09-05",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:17.6h",
+   "venue": "Eldoret (KEN)",
+   "date": "14 APR 2016",
+   "resultScore": 942,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:41.53",
+   "venue": "Luanda (ANG)",
+   "date": "02 JAN 2016",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:57",
+   "venue": "Casablanca (MAR)",
+   "date": "29 MAY 2016",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "34:19",
+   "venue": "Cape Town (RSA)",
+   "date": "19 MAY 2019",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "46:14",
+   "venue": "Amsterdam (NED)",
+   "date": "23 SEP 2018",
+   "resultScore": 1135,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "59:19",
+   "venue": "Marrakech (MAR)",
+   "date": "07 OCT 2018",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:49",
+   "venue": "Valencia (ESP)",
+   "date": "28 OCT 2018",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:09",
+   "venue": "Seoul (KOR)",
+   "date": "17 MAR 2024",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:46",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1040,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "4",
+   "mark": "1:03:46",
+   "score": 1040,
+   "competitionId": "7237360"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "29:51",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "27:57",
+     "venue": "Casablanca (MAR)",
+     "date": "29 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "28:22",
+     "venue": "Casablanca (MAR)",
+     "date": "07 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "28:52",
+     "venue": "Dakhla (MAR)",
+     "date": "12 AUG 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "34:19",
+     "venue": "Cape Town (RSA)",
+     "date": "19 MAY 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "47:02",
+     "venue": "Tilburg (NED)",
+     "date": "03 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "46:14",
+     "venue": "Amsterdam (NED)",
+     "date": "23 SEP 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "59:19",
+     "venue": "Marrakech (MAR)",
+     "date": "07 OCT 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:00:49",
+     "venue": "Valencia (ESP)",
+     "date": "28 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:01:01",
+     "venue": "Berlin (GER)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:02:05",
+     "venue": "Al Khobar (KSA)",
+     "date": "27 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:01:20",
+     "venue": "Guadalajara (MEX)",
+     "date": "20 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:07",
+     "venue": "Guadalajara (MEX)",
+     "date": "26 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:01",
+     "venue": "Tallinn (EST)",
+     "date": "07 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:02:06",
+     "venue": "Guadalajara (MEX)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:03:46",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:13:34",
+     "venue": "Guadalajara (MEX)",
+     "date": "12 DEC 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "2:08:08",
+     "venue": "Hamburg (GER)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:09",
+     "venue": "Seoul (KOR)",
+     "date": "17 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:09:43",
+     "venue": "Seoul (KOR)",
+     "date": "16 MAR 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 487,
+   "rankingScore": 1114
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 3450,
+   "rankingScore": 1114
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/kenya/rhonzas-lokitam-kilimo-14704912"
+}

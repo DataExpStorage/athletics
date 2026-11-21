@@ -1,0 +1,285 @@
+{
+ "id": "14719677",
+ "givenName": "Rika",
+ "familyName": "KASEDA",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1999-03-02",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:03.76",
+   "venue": "Kitami (JPN)",
+   "date": "09 JUL 2017",
+   "resultScore": 1093,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:15.03",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "16 JUL 2022",
+   "resultScore": 1134,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:39.86",
+   "venue": "Yanmar Stadium Nagai, Osaka (JPN)",
+   "date": "04 DEC 2020",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:30",
+   "venue": "Nijmegen (NED)",
+   "date": "18 NOV 2018",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:53",
+   "venue": "Marugame (JPN)",
+   "date": "02 FEB 2025",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:55",
+   "venue": "Berlin (GER)",
+   "date": "25 SEP 2022",
+   "resultScore": 1194,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:22.68",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "04 JUL 2026",
+   "resultScore": 1119,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKUREN Distance Challenge in Chitose",
+   "listPosition": "183"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:40.03",
+   "venue": "Athletic Track, Abashiri (JPN)",
+   "date": "08 JUL 2026",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKUREN Distance Challenge in ABASHIRI",
+   "listPosition": "22"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:53",
+   "venue": "Nagoya (JPN)",
+   "date": "08 MAR 2026",
+   "resultScore": 1184,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Nagoya Women's Marathon",
+   "listPosition": "86"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-08",
+   "competition": "HOKUREN Distance Challenge in ABASHIRI, Athletic Track, Abashiri",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "31:40.03",
+   "score": 1157,
+   "competitionId": "7243634"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-04",
+   "competition": "HOKUREN Distance Challenge in Chitose, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "8",
+   "mark": "15:22.68",
+   "score": 1119,
+   "competitionId": "7243628"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-08",
+   "competition": "Nagoya Women's Marathon, Nagoya",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:22:53",
+   "score": 1184,
+   "competitionId": "7236072"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "50:24",
+     "venue": "Nijmegen (NED)",
+     "date": "19 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "49:30",
+     "venue": "Nijmegen (NED)",
+     "date": "18 NOV 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:14:32",
+     "venue": "Napoli (ITA)",
+     "date": "13 JUL 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "1:08:11",
+     "venue": "Marugame (JPN)",
+     "date": "05 FEB 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:07:53",
+     "venue": "Marugame (JPN)",
+     "date": "02 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:21:55",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:25:29",
+     "venue": "Tokyo (JPN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:11",
+     "venue": "Nagoya (JPN)",
+     "date": "10 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:23:05",
+     "venue": "Nagoya (JPN)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:22:53",
+     "venue": "Nagoya (JPN)",
+     "date": "08 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "15:39.66",
+     "date": "23 JUL 2016"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:21:55",
+     "date": "25 SEP 2022"
+    }
+   ]
+  },
+  {
+   "category": "World University Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Half Marathon",
+     "competition": "Universiade",
+     "mark": "1:14:32",
+     "date": "13 JUL 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 80,
+   "rankingScore": 1158
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1442,
+   "rankingScore": 1158
+  }
+ ],
+ "representative": {
+  "name": "Wataru OGUSHI",
+  "country": "Japan",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/japan/rika-kaseda-14719677"
+}

@@ -1,0 +1,183 @@
+{
+ "id": "14748107",
+ "givenName": "Tafere",
+ "familyName": "ADISU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-09-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:57.51",
+   "venue": "Djibouti (DJI)",
+   "date": "31 MAR 2016",
+   "resultScore": 1008,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:10.2h",
+   "venue": "Addis Ababa (ETH)",
+   "date": "07 MAY 2019",
+   "resultScore": 1026,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:15",
+   "venue": "Poznan (POL)",
+   "date": "03 APR 2022",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:27",
+   "venue": "Sevilla (ESP)",
+   "date": "23 FEB 2025",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:37",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 971,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:08:28",
+   "venue": "Chongqing (CHN)",
+   "date": "18 JAN 2026",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chang'an Automobile Chongqing Marathon",
+   "listPosition": "262"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "7",
+   "mark": "1:05:37",
+   "score": 971,
+   "competitionId": "7241749"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "Taiyuan Marathon, Taiyuan",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:10:19",
+   "score": 1124,
+   "competitionId": "7235590"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:08:28",
+   "score": 1158,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:01:15",
+     "venue": "Poznan (POL)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:04:11",
+     "venue": "Changzhou (CHN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "1:05:37",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:13:14",
+     "venue": "Suzhou (CHN)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:09:21",
+     "venue": "Enschede (NED)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:27",
+     "venue": "Sevilla (ESP)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:08:28",
+     "venue": "Chongqing (CHN)",
+     "date": "18 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 124,
+   "rankingScore": 1196
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 992,
+   "rankingScore": 1196
+  }
+ ],
+ "representative": {
+  "name": "Haile Belachew BIZUNEH",
+  "country": "Ethiopia",
+  "website": null
+ },
+ "fetched": "2026-11-21",
+ "source": "https://worldathletics.org/athletes/ethiopia/tafere-adisu-14748107"
+}
