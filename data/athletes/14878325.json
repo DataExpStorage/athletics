@@ -1,0 +1,193 @@
+{
+ "id": "14878325",
+ "givenName": "Meseret",
+ "familyName": "DINKE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2001-09-22",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:14",
+   "venue": "Okpekpe (NGR)",
+   "date": "27 MAY 2023",
+   "resultScore": 1075,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:53",
+   "venue": "Istanbul (TUR)",
+   "date": "28 APR 2024",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:52",
+   "venue": "Abu Dhabi (UAE)",
+   "date": "17 DEC 2022",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:37:36",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1048,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Access Bank Lagos City Marathon",
+   "listPosition": "714"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "BTN Jakarta International Marathon, Jakarta",
+   "country": "INA",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:37:50",
+   "score": 1045,
+   "competitionId": "7236425"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-14",
+   "competition": "Access Bank Lagos City Marathon, Lagos",
+   "country": "NGR",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:37:36",
+   "score": 1048,
+   "competitionId": "7235572"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "33:14",
+     "venue": "Okpekpe (NGR)",
+     "date": "27 MAY 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:14:27",
+     "venue": "Pizhou (CHN)",
+     "date": "06 NOV 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "1:10:55",
+     "venue": "Laayoune (MAR)",
+     "date": "04 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:10:39",
+     "venue": "Milano (ITA)",
+     "date": "24 MAR 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:53",
+     "venue": "Istanbul (TUR)",
+     "date": "28 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:36:48",
+     "venue": "Rabat (MAR)",
+     "date": "21 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:32:46",
+     "venue": "Lagos (NGR)",
+     "date": "08 FEB 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:25:12",
+     "venue": "Valencia (ESP)",
+     "date": "05 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:22:52",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "17 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:29:28",
+     "venue": "New Taipei City (TPE)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:58",
+     "venue": "Barcelona (ESP)",
+     "date": "10 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:32:27",
+     "venue": "Porto (POR)",
+     "date": "02 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:37:36",
+     "venue": "Lagos (NGR)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 470,
+   "rankingScore": 1098
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 3370,
+   "rankingScore": 1098
+  }
+ ],
+ "representative": {
+  "name": "Yonas MEKONNON",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/meseret-dinke-14878325"
+}

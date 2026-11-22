@@ -1,0 +1,718 @@
+{
+ "id": "14919315",
+ "givenName": "Habtom",
+ "familyName": "SAMUEL",
+ "country": "ERI",
+ "countryName": "Eritrea",
+ "birthDate": "2003-11-30",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:38.60",
+   "venue": "Cougar Athletic Stadium, Azusa, CA (USA)",
+   "date": "18 APR 2025",
+   "resultScore": 1125,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:57.09",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "15 FEB 2025",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "3:59.59",
+   "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+   "date": "25 JAN 2025",
+   "resultScore": 1135,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:37.44",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "13 FEB 2026",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:39.62",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:11.47",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "8:11.47",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:57.22",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1220,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:04.92",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "01 FEB 2025",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:51.06",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "29 MAR 2025",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:59.56",
+   "venue": "Asmara (ERI)",
+   "date": "14 MAR 2021",
+   "resultScore": 996,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "30:53",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:31",
+   "venue": "New York, NY (USA)",
+   "date": "31 OCT 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:40",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:01",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "9:28.79",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "16 FEB 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:37.44",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "13 FEB 2026",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Husky Classic",
+   "listPosition": "60"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:39.62",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Millrose Games",
+   "listPosition": "39"
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:11.47",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Millrose Games",
+   "listPosition": "12"
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "8:11.47",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "01 FEB 2026",
+   "resultScore": 1244,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Millrose Games",
+   "listPosition": "9"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:57.22",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1220,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "LA Track Festival",
+   "listPosition": "18"
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:30.40",
+   "venue": "Reno Livestock Events Center, Reno, NV (USA) (i)",
+   "date": "26 FEB 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Mountain West Indoor Track and Field Championships",
+   "listPosition": "31"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:30.51",
+   "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+   "date": "03 APR 2026",
+   "resultScore": 1178,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Stanford Invitational",
+   "listPosition": "17"
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "30:53",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "16 AUG 2026",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "ASICS Falmouth Road Race"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:31",
+   "venue": "New York, NY (USA)",
+   "date": "31 OCT 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Abbott Dash to the Finish Line 5K",
+   "listPosition": "57"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:40",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TD Beach to Beacon 10K Road Race",
+   "listPosition": "47"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:01",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "21"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-08",
+   "competition": "Boston Half, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "59:49",
+   "score": 1194,
+   "competitionId": "7245289"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-10-31",
+   "competition": "Abbott Dash to the Finish Line 5K, New York, NY",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "13:31",
+   "score": 1099,
+   "competitionId": "7246090"
+  },
+  {
+   "discipline": "Road Race",
+   "date": "2026-08-16",
+   "competition": "ASICS Falmouth Road Race, Falmouth High School, Falmouth, MA - Non-standard distance: 11,265m - 7 Miles",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "30:53",
+   "score": 0,
+   "competitionId": "7242300"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-01",
+   "competition": "TD Beach to Beacon 10K Road Race, 1000 Shore Road, Cape Elizabeth, ME",
+   "country": "USA",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "27:40",
+   "score": 1163,
+   "competitionId": "7240792"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-12",
+   "competition": "NCAA Division I Outdoor Track and Field Championships, Hayward Field, Eugene, OR",
+   "country": "USA",
+   "category": "B",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:38.93",
+   "score": 1071,
+   "competitionId": "7236235"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-10",
+   "competition": "NCAA Division I Outdoor Track and Field Championships, Hayward Field, Eugene, OR",
+   "country": "USA",
+   "category": "B",
+   "race": "F1",
+   "place": "1",
+   "mark": "27:51.31",
+   "score": 1145,
+   "competitionId": "7236235"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-27",
+   "competition": "NCAA Division I West First Rounds, John McDonnell Field, Fayetteville, AR",
+   "country": "USA",
+   "category": "F",
+   "race": "H1",
+   "place": "1",
+   "mark": "28:42.53",
+   "score": 1067,
+   "competitionId": "7236231"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "LA Track Festival, Drake Stadium, Los Angeles, CA",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "12:57.22",
+   "score": 1220,
+   "competitionId": "7236537"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-16",
+   "competition": "Mountain West Outdoor Track and Field Championships, Veterans Memorial Stadium, Clovis, CA",
+   "country": "USA",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:25.96",
+   "score": 1116,
+   "competitionId": "7232962"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-17",
+   "competition": "Bryan Clay Invitational, Cougar Athletic Stadium, Azusa, CA",
+   "country": "USA",
+   "category": "D",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:03.47",
+   "score": 1197,
+   "competitionId": "7237976"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-03",
+   "competition": "Stanford Invitational, Cobb Track and Angell Field, Palo Alto, CA - Section 1",
+   "country": "USA",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "27:30.51",
+   "score": 1178,
+   "competitionId": "7237049"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "date": "2026-03-14",
+   "competition": "NCAA Division I Indoor Track and Field Championships, Randal Tyson Indoor Center, Fayetteville, AR (i)",
+   "country": "USA",
+   "category": "C",
+   "race": "F1",
+   "place": "",
+   "mark": "DQ",
+   "score": 0,
+   "competitionId": "7236234"
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "date": "2026-03-13",
+   "competition": "NCAA Division I Indoor Track and Field Championships, Randal Tyson Indoor Center, Fayetteville, AR (i)",
+   "country": "USA",
+   "category": "C",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:36.58",
+   "score": 1127,
+   "competitionId": "7236234"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "date": "2026-02-28",
+   "competition": "Mountain West Indoor Track and Field Championships, Reno Livestock Events Center, Reno, NV (i)",
+   "country": "USA",
+   "category": "F",
+   "race": "F2",
+   "place": "1",
+   "mark": "7:48.35",
+   "score": 1149,
+   "competitionId": "7232959"
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "date": "2026-02-26",
+   "competition": "Mountain West Indoor Track and Field Championships, Reno Livestock Events Center, Reno, NV (i)",
+   "country": "USA",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:30.40",
+   "score": 1149,
+   "competitionId": "7232959"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-02-13",
+   "competition": "Husky Classic, Dempsey Indoor, Seattle, WA (i)",
+   "country": "USA",
+   "category": "F",
+   "race": "F6",
+   "place": "1",
+   "mark": "7:37.44",
+   "score": 1192,
+   "competitionId": "7235425"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "date": "2026-02-01",
+   "competition": "Millrose Games, Armory Track&Field Center, New York, NY (i) - Split times",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "7:39.62",
+   "score": 1204,
+   "competitionId": "7229596"
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "date": "2026-02-01",
+   "competition": "Millrose Games, Armory Track&Field Center, New York, NY (i) - World Athletics Indoor Tour",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "9",
+   "mark": "8:11.47",
+   "score": 1244,
+   "competitionId": "7229596"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "59:01",
+   "score": 1226,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "3:57.09",
+     "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+     "date": "15 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "3:59.59",
+     "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+     "date": "25 JAN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "8:11.47",
+     "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+     "date": "01 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "8:11.47",
+     "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+     "date": "01 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "30:53",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "16 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:31",
+     "venue": "New York, NY (USA)",
+     "date": "31 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "27:51",
+     "venue": "Cannes (FRA)",
+     "date": "06 MAR 2022"
+    },
+    {
+     "season": "2026",
+     "mark": "27:40",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "01 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "59:01",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "14:03.67",
+     "date": "01 AUG 2022"
+    },
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "7:52.69",
+     "date": "18 AUG 2021"
+    },
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "13:45.65",
+     "date": "19 AUG 2021"
+    },
+    {
+     "place": "8.",
+     "discipline": "3000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "8:03.98",
+     "date": "05 AUG 2022"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Eritrean Championships",
+     "mark": "14:23.7h",
+     "date": "02 APR 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Eritrean Championships",
+     "mark": "30:01.1h",
+     "date": "01 APR 2022"
+    }
+   ]
+  },
+  {
+   "category": "NCAA Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "NCAA Division I Outdoor Track and Field Championships",
+     "mark": "13:38.93",
+     "date": "12 JUN 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "NCAA Division I Outdoor Track and Field Championships",
+     "mark": "27:51.31",
+     "date": "10 JUN 2026"
+    }
+   ]
+  },
+  {
+   "category": "NCAA Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres Short Track",
+     "competition": "NCAA Division I Indoor Track and Field Championships",
+     "mark": "13:36.58",
+     "date": "13 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 18,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 22,
+   "rankingScore": 1253
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 30,
+   "rankingScore": 1186
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 320,
+   "rankingScore": 1268
+  }
+ ],
+ "representative": {
+  "name": "Kimberly N HOLLAND",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/eritrea/habtom-samuel-14919315"
+}

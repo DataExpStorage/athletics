@@ -1,0 +1,184 @@
+{
+ "id": "14920350",
+ "givenName": "Philimon Kiptoo",
+ "familyName": "KIPCHUMBA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1998-10-16",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:29.38",
+   "venue": "Am Sportpark, Hillesheim (GER)",
+   "date": "24 MAY 2021",
+   "resultScore": 904,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:04",
+   "venue": "Berlin (GER)",
+   "date": "07 MAR 2021",
+   "resultScore": 1126,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:47",
+   "venue": "Dresden (GER)",
+   "date": "21 MAR 2021",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:35",
+   "venue": "Shanghai (CHN)",
+   "date": "26 NOV 2023",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:53",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1187,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Marató de Barcelona",
+   "listPosition": "140"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:08:45",
+   "score": 1153,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-07-12",
+   "competition": "New Balance 42k Porto Alegre, Porto Alegre",
+   "country": "BRA",
+   "category": "B",
+   "race": "F",
+   "place": "9",
+   "mark": "2:13:38",
+   "score": 1065,
+   "competitionId": "7236019"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Zurich Marató de Barcelona, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "8",
+   "mark": "2:06:53",
+   "score": 1187,
+   "competitionId": "7236009"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "28:04",
+     "venue": "Berlin (GER)",
+     "date": "07 MAR 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:06:29",
+     "venue": "Nairobi (KEN)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:47",
+     "venue": "Dresden (GER)",
+     "date": "21 MAR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:02:02",
+     "venue": "Istanbul (TUR)",
+     "date": "27 MAR 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:07:28",
+     "venue": "München (GER)",
+     "date": "09 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:35",
+     "venue": "Shanghai (CHN)",
+     "date": "26 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:38",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:06:53",
+     "venue": "Barcelona (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 120,
+   "rankingScore": 1198
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 961,
+   "rankingScore": 1198
+  }
+ ],
+ "representative": {
+  "name": "Karen LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/kenya/philimon-kiptoo-kipchumba-14920350"
+}

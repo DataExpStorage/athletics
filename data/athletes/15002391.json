@@ -1,0 +1,168 @@
+{
+ "id": "15002391",
+ "givenName": "Gerba",
+ "familyName": "DIBABA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-10-14",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:35",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "01 FEB 2025",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:42",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:42",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "125"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "13",
+   "mark": "2:06:42",
+   "score": 1191,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:11:52",
+   "score": 1097,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Daegu Marathon, Daegu",
+   "country": "KOR",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:10:06",
+   "score": 1128,
+   "competitionId": "7235573"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "59:39",
+     "venue": "Lisboa (POR)",
+     "date": "21 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:00:29",
+     "venue": "Buenos Aires (ARG)",
+     "date": "21 AUG 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:10",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "59:38",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "24 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:35",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "01 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:08:25",
+     "venue": "Milano (ITA)",
+     "date": "07 APR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "2:06:42",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "South American Half Marathon Championships ",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Buenos Aires Half Marathon - South American Half Marathon Championships",
+     "mark": "1:00:29",
+     "date": "21 AUG 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 201,
+   "rankingScore": 1170
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1528,
+   "rankingScore": 1170
+  }
+ ],
+ "representative": {
+  "name": "Federico ROSA",
+  "country": "Italy",
+  "website": "http://www.rosassociati.it"
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/gerba-dibaba-15002391"
+}

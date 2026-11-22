@@ -1,0 +1,184 @@
+{
+ "id": "14889023",
+ "givenName": "Kebebush",
+ "familyName": "YISMA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-10-31",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "34:25",
+   "venue": "Cuiaba (BRA)",
+   "date": "15 JAN 2023",
+   "resultScore": 977,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "52:57",
+   "venue": "São Paulo (BRA)",
+   "date": "31 DEC 2022",
+   "resultScore": 1006,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:42",
+   "venue": "Shenzhen (CHN)",
+   "date": "14 DEC 2025",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:04",
+   "venue": "Dubai (UAE)",
+   "date": "12 JAN 2025",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:48",
+   "venue": "Chongqing (CHN)",
+   "date": "18 JAN 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chang'an Automobile Chongqing Marathon",
+   "listPosition": "138"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235569"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:24:48",
+   "score": 1166,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "52:57",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:09:42",
+     "venue": "Shenzhen (CHN)",
+     "date": "14 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:42:10",
+     "venue": "Stockholm (SWE)",
+     "date": "09 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:34:33",
+     "venue": "Rio de Janeiro (BRA)",
+     "date": "19 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:28:35",
+     "venue": "Mersin (TUR)",
+     "date": "10 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:26:36",
+     "venue": "Nanchang (CHN)",
+     "date": "10 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:24:04",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:48",
+     "venue": "Chongqing (CHN)",
+     "date": "18 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 84,
+   "rankingScore": 1211
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 602,
+   "rankingScore": 1211
+  }
+ ],
+ "representative": {
+  "name": "Pan FENG",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/kebebush-yisma-14889023"
+}

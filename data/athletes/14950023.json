@@ -1,0 +1,312 @@
+{
+ "id": "14950023",
+ "givenName": "Ryota",
+ "familyName": "KONDO",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1999-10-05",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:12.42",
+   "venue": "Juntendo University Stadium, Inzai (JPN)",
+   "date": "03 APR 2021",
+   "resultScore": 984,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:40.84",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "04 JUL 2026",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:51.83",
+   "venue": "Juntendo University Stadium, Inzai (JPN)",
+   "date": "16 OCT 2021",
+   "resultScore": 1053,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:05",
+   "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+   "date": "04 MAY 2026",
+   "resultScore": 983,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:28",
+   "venue": "Praha (CZE)",
+   "date": "02 SEP 2023",
+   "resultScore": 1000,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "47:42",
+   "venue": "Kosa (JPN)",
+   "date": "04 DEC 2022",
+   "resultScore": 1056,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:32",
+   "venue": "Ishin Me-Life Stadium, Yamaguchi (JPN)",
+   "date": "12 FEB 2023",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:39",
+   "venue": "Osaka (JPN)",
+   "date": "24 FEB 2025",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:40.84",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "04 JUL 2026",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKUREN Distance Challenge in Chitose",
+   "listPosition": "532"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:02.18",
+   "venue": "Honjo Athletic Stadium, Kitakyushu (JPN)",
+   "date": "23 MAY 2026",
+   "resultScore": 1038,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "69th Kyushu Corporate Athletics Championships",
+   "listPosition": "522"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:05",
+   "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+   "date": "04 MAY 2026",
+   "resultScore": 983,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo : Speed : Race",
+   "listPosition": "286"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:06",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "157"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "2:07:08",
+   "score": 1183,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-04",
+   "competition": "HOKUREN Distance Challenge in Chitose, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F3",
+   "place": "2",
+   "mark": "13:40.84",
+   "score": 1064,
+   "competitionId": "7243628"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-23",
+   "competition": "69th Kyushu Corporate Athletics Championships, Honjo Athletic Stadium, Kitakyushu",
+   "country": "JPN",
+   "category": "F",
+   "race": "F3",
+   "place": "14",
+   "mark": "29:02.18",
+   "score": 1038,
+   "competitionId": "7239798"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-05-04",
+   "competition": "Tokyo : Speed : Race, Meijijingu Gaien area, Tokyo",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "15",
+   "mark": "14:05",
+   "score": 983,
+   "competitionId": "7239703"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "17",
+   "mark": "2:07:06",
+   "score": 1183,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "14:24",
+     "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+     "date": "03 MAY 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "14:05",
+     "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+     "date": "04 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "29:28",
+     "venue": "Praha (CZE)",
+     "date": "02 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "47:42",
+     "venue": "Kosa (JPN)",
+     "date": "04 DEC 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "1:02:35",
+     "venue": "Tachikawa (JPN)",
+     "date": "17 OCT 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:32",
+     "venue": "Ishin Me-Life Stadium, Yamaguchi (JPN)",
+     "date": "12 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:08",
+     "venue": "Ishin Me-Life Stadium, Yamaguchi (JPN)",
+     "date": "11 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:03:25",
+     "venue": "Hakodate (JPN)",
+     "date": "29 JUN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:05:39",
+     "venue": "Osaka (JPN)",
+     "date": "24 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:06",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:07:08",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 104,
+   "rankingScore": 1206
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 834,
+   "rankingScore": 1206
+  }
+ ],
+ "representative": {
+  "name": "Wataru OGUSHI",
+  "country": "Japan",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/japan/ryota-kondo-14950023"
+}

@@ -1,0 +1,172 @@
+{
+ "id": "14896244",
+ "givenName": "Tigist",
+ "familyName": "GEZAHAGN",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-03-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:06.89",
+   "venue": "Stadion Śląski, Chorzów (POL)",
+   "date": "16 JUL 2023",
+   "resultScore": 1083,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:08",
+   "venue": "Lille (FRA)",
+   "date": "18 NOV 2023",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:20",
+   "venue": "Valencia (ESP)",
+   "date": "22 OCT 2023",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:04",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:04",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "45"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:20:04",
+   "score": 1212,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-19",
+   "competition": "Vienna City Marathon, Wien",
+   "country": "AUT",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:20:06",
+   "score": 1211,
+   "competitionId": "7236128"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:21:14",
+   "score": 1200,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "31:08",
+     "venue": "Lille (FRA)",
+     "date": "18 NOV 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:14:34",
+     "venue": "Shanghai (CHN)",
+     "date": "21 APR 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:20",
+     "venue": "Valencia (ESP)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:14",
+     "venue": "Lisboa (POR)",
+     "date": "17 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:22:47",
+     "venue": "Ljubljana (SLO)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:04",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 40,
+   "rankingScore": 1248
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 313,
+   "rankingScore": 1248
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/tigist-gezahagn-14896244"
+}

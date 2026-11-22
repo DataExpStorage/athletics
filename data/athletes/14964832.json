@@ -1,0 +1,205 @@
+{
+ "id": "14964832",
+ "givenName": "Enock",
+ "familyName": "ONCHARI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1999-01-16",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:47.97",
+   "venue": "Stadium Municipal, Albi (FRA)",
+   "date": "23 MAY 2021",
+   "resultScore": 1002,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:43.14",
+   "venue": "Stade Du Moulin Boisseau, Carquefou (FRA)",
+   "date": "11 JUN 2021",
+   "resultScore": 1057,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:21",
+   "venue": "Chemnitz (GER)",
+   "date": "15 MAY 2021",
+   "resultScore": 1100,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:58",
+   "venue": "Chon Buri (THA)",
+   "date": "17 DEC 2023",
+   "resultScore": 958,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:55",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1224,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:55",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1224,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "39"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:04:55",
+   "score": 1224,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "The 36th Dalian Marathon, Dalian",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "2:12:37",
+   "score": 1083,
+   "competitionId": "7236080"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:12:46",
+   "score": 1081,
+   "competitionId": "7235571"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:14:25",
+   "score": 1052,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "28:55",
+     "venue": "Albi (FRA)",
+     "date": "11 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "28:21",
+     "venue": "Chemnitz (GER)",
+     "date": "15 MAY 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:05:58",
+     "venue": "Chon Buri (THA)",
+     "date": "17 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:07:52",
+     "venue": "Enschede (NED)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:47",
+     "venue": "Sevilla (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:05:53",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:05:20",
+     "venue": "Barcelona (ESP)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:55",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 80,
+   "rankingScore": 1219
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 668,
+   "rankingScore": 1219
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/kenya/enock-onchari-14964832"
+}

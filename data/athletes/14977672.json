@@ -1,0 +1,392 @@
+{
+ "id": "14977672",
+ "givenName": "Fentaye",
+ "familyName": "BELAYNEH",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-09-11",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:13.59",
+   "venue": "Estádio José Vieira de Carvalho, Maia (POR)",
+   "date": "23 JUN 2021",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:26.98",
+   "venue": "Olympic Stadium, London (GBR)",
+   "date": "18 JUL 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:45.56",
+   "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+   "date": "19 FEB 2026",
+   "resultScore": 1178,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:23.44",
+   "venue": "Stadio Olimpico, Roma (ITA)",
+   "date": "04 JUN 2026",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "14:43.25",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "27 JAN 2024",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "36:10",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "18 AUG 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:00",
+   "venue": "Valencia (ESP)",
+   "date": "12 JAN 2025",
+   "resultScore": 1248,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:49",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:26.98",
+   "venue": "Olympic Stadium, London (GBR)",
+   "date": "18 JUL 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Novuna London Athletics Meet",
+   "listPosition": "13"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:45.56",
+   "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+   "date": "19 FEB 2026",
+   "resultScore": 1178,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meeting Hauts-de-France Pas-de-Calais Trophée EDF",
+   "listPosition": "48"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:23.44",
+   "venue": "Stadio Olimpico, Roma (ITA)",
+   "date": "04 JUN 2026",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Golden Gala Pietro Mennea",
+   "listPosition": "7"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:49",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "9"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-08",
+   "competition": "Boston Half, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:09:14",
+   "score": 1145,
+   "competitionId": "7245289"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-09-13",
+   "competition": "World Athletics Ultimate Championship, Nemzeti Atlétikai Központ, Budapest",
+   "country": "HUN",
+   "category": "OW",
+   "race": "F",
+   "place": "3",
+   "mark": "14:32.62",
+   "score": 1217,
+   "competitionId": "7212925"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-23",
+   "competition": "Silesia Kamila Skolimowska Memorial, Stadion Śląski, Chorzów - Diamond Discipline",
+   "country": "POL",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "14:55.97",
+   "score": 1171,
+   "competitionId": "7214026"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-07-18",
+   "competition": "Novuna London Athletics Meet, Olympic Stadium, London - Diamond Discipline",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "8:26.98",
+   "score": 1219,
+   "competitionId": "7214025"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-19",
+   "competition": "Doha Meeting, Suhaim bin Hamad Stadium, Doha - Diamond Discipline",
+   "country": "QAT",
+   "category": "GW",
+   "race": "F",
+   "place": "12",
+   "mark": "15:25.31",
+   "score": 1114,
+   "competitionId": "7214015"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-04",
+   "competition": "Golden Gala Pietro Mennea, Stadio Olimpico, Roma - Diamond Discipline",
+   "country": "ITA",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "14:23.44",
+   "score": 1235,
+   "competitionId": "7214019"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "United Airlines NYC Half, New York, NY - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "1:08:22",
+   "score": 1163,
+   "competitionId": "7237506"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "date": "2026-02-19",
+   "competition": "Meeting Hauts-de-France Pas-de-Calais Trophée EDF, Arena Stade Couvert, Liévin (i) - Indoor Meeting",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "13",
+   "mark": "8:45.56",
+   "score": 1178,
+   "competitionId": "7229137"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:04:49",
+   "score": 1239,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "36:10",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "18 AUG 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "30:24",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "31:16",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "30:00",
+     "venue": "Valencia (ESP)",
+     "date": "12 JAN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:09:49",
+     "venue": "New Delhi (IND)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:10:38",
+     "venue": "Boston, MA (USA)",
+     "date": "12 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:10:26",
+     "venue": "Boston, MA (USA)",
+     "date": "10 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:07:31",
+     "venue": "Lisboa (POR)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:04:49",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Diamond League Final",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Weltklasse Zürich",
+     "mark": "8:40.56",
+     "date": "28 AUG 2025"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "15:30.10",
+     "date": "21 JUN 2024"
+    },
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "15:01.89",
+     "date": "09 JUN 2022"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Weltklasse Zürich",
+     "mark": "8:40.56",
+     "date": "28 AUG 2025"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "15:41.1h",
+     "date": "02 APR 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 6,
+   "rankingScore": 1322
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 45,
+   "rankingScore": 1198
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 108,
+   "rankingScore": 1322
+  }
+ ],
+ "representative": {
+  "name": "Matthew TURNBULL",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.globalathletics.com/"
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/fentaye-belayneh-14977672"
+}
