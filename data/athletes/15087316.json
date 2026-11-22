@@ -1,0 +1,184 @@
+{
+ "id": "15087316",
+ "givenName": "Charles Mbatha",
+ "familyName": "MATATA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1997-07-27",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:44",
+   "venue": "Cali (COL)",
+   "date": "17 AUG 2025",
+   "resultScore": 1065,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:52",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1232,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:57",
+   "venue": "Cali (COL)",
+   "date": "09 AUG 2026",
+   "resultScore": 1046,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "La Carrera del Pacifico Cali 10K",
+   "listPosition": "487"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:52",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1232,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon",
+   "listPosition": "18"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "58:52",
+   "score": 1232,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-09",
+   "competition": "La Carrera del Pacifico Cali 10K, Cali",
+   "country": "COL",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "28:57",
+   "score": 1046,
+   "competitionId": "7240155"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-07-26",
+   "competition": "Media Maraton de Bogota, Bogotá",
+   "country": "COL",
+   "category": "C",
+   "race": "F",
+   "place": "6",
+   "mark": "1:05:05",
+   "score": 991,
+   "competitionId": "7238738"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-05-17",
+   "competition": "Rimi Riga Half Marathon, Riga - Elite Event",
+   "country": "LAT",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "59:15",
+   "score": 1217,
+   "competitionId": "7238050"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Istanbul Half Marathon, Istanbul",
+   "country": "TUR",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:00:01",
+   "score": 1186,
+   "competitionId": "7236079"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "28:44",
+     "venue": "Cali (COL)",
+     "date": "17 AUG 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "28:57",
+     "venue": "Cali (COL)",
+     "date": "09 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:00:05",
+     "venue": "New Delhi (IND)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:39",
+     "venue": "Venlo (NED)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:25",
+     "venue": "Beijing (CHN)",
+     "date": "20 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "58:52",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 11,
+   "rankingScore": 1233
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 541,
+   "rankingScore": 1233
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/kenya/charles-mbatha-matata-15087316"
+}

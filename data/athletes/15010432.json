@@ -1,0 +1,177 @@
+{
+ "id": "15010432",
+ "givenName": "Anchinalu",
+ "familyName": "DESSIE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2003-01-09",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:01",
+   "venue": "Valencia (ESP)",
+   "date": "09 JAN 2022",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:30",
+   "venue": "Milano (ITA)",
+   "date": "19 MAR 2023",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:23:18",
+   "venue": "Kolkata (IND)",
+   "date": "17 DEC 2023",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:31",
+   "venue": "Dubai (UAE)",
+   "date": "01 FEB 2026",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:31",
+   "venue": "Dubai (UAE)",
+   "date": "01 FEB 2026",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Dubai Marathon",
+   "listPosition": "18"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:20:36",
+   "score": 1206,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-01",
+   "competition": "Dubai Marathon, Dubai",
+   "country": "UAE",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "2:18:31",
+   "score": 1227,
+   "competitionId": "7237510"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "31:01",
+     "venue": "Valencia (ESP)",
+     "date": "09 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:42",
+     "venue": "Langueux (FRA)",
+     "date": "17 JUN 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:08:53",
+     "venue": "Azpeitia (ESP)",
+     "date": "26 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:07:30",
+     "venue": "Milano (ITA)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:07:55",
+     "venue": "Milano (ITA)",
+     "date": "24 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:23:18",
+     "venue": "Kolkata (IND)",
+     "date": "17 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:22:17",
+     "venue": "Sevilla (ESP)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:18:31",
+     "venue": "Dubai (UAE)",
+     "date": "01 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 46,
+   "rankingScore": 1245
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 332,
+   "rankingScore": 1245
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/anchinalu-dessie-15010432"
+}

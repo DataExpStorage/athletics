@@ -1,0 +1,190 @@
+{
+ "id": "15036075",
+ "givenName": "Catherine",
+ "familyName": "CHEROTICH",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1994-10-17",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:35.7h",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "11 JUN 2025",
+   "resultScore": 985,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "34:07.13",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "26 MAY 2023",
+   "resultScore": 1030,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:09",
+   "venue": "Zwolle (NED)",
+   "date": "08 JUN 2024",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:40",
+   "venue": "Frankfurt (GER)",
+   "date": "26 OCT 2025",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "35:12.01",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "12 JUN 2026",
+   "resultScore": 976,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenya Defence Forces Track and Field Championships",
+   "listPosition": "735"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:40",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1187,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "80"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:22:40",
+   "score": 1187,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-12",
+   "competition": "Kenya Defence Forces Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "14",
+   "mark": "35:12.01",
+   "score": 976,
+   "competitionId": "7241946"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-07",
+   "competition": "Maratona da Cidade do Rio de Janeiro, Rio de Janeiro - Elite Event",
+   "country": "BRA",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "2:28:56",
+   "score": 1127,
+   "competitionId": "7239891"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:32:32",
+   "score": 1094,
+   "competitionId": "7235571"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:08:09",
+     "venue": "Zwolle (NED)",
+     "date": "08 JUN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:38:41",
+     "venue": "Skopje (MKD)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:42:36",
+     "venue": "Lagos (NGR)",
+     "date": "04 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:42",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:21:40",
+     "venue": "Frankfurt (GER)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:22:40",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 98,
+   "rankingScore": 1205
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 663,
+   "rankingScore": 1205
+  }
+ ],
+ "representative": {
+  "name": "Hannah BIWOTT-VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/kenya/catherine-cherotich-15036075"
+}

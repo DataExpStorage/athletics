@@ -1,0 +1,225 @@
+{
+ "id": "15049168",
+ "givenName": "Kasanesh",
+ "familyName": "BAZE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-10-23",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Road Race",
+   "mark": "23:29",
+   "venue": "Genève (SUI)",
+   "date": "03 DEC 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:10",
+   "venue": "Chon Buri (THA)",
+   "date": "17 SEP 2023",
+   "resultScore": 1078,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "50:10",
+   "venue": "Utica, NY (USA)",
+   "date": "14 JUL 2024",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "51:38",
+   "venue": "Washington, DC (USA)",
+   "date": "07 APR 2024",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:07:05",
+   "venue": "Paris (FRA)",
+   "date": "09 OCT 2022",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:40",
+   "venue": "Gent (BEL)",
+   "date": "12 MAR 2023",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:39",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:39",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "40. Haspa Marathon Hamburg",
+   "listPosition": "38"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:24:41",
+   "score": 1167,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "40. Haspa Marathon Hamburg, Hamburg",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "2:19:39",
+   "score": 1216,
+   "competitionId": "7241782"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "23:29",
+     "venue": "Genève (SUI)",
+     "date": "03 DEC 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "33:10",
+     "venue": "Chon Buri (THA)",
+     "date": "17 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "50:10",
+     "venue": "Utica, NY (USA)",
+     "date": "14 JUL 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "51:38",
+     "venue": "Washington, DC (USA)",
+     "date": "07 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:07:05",
+     "venue": "Paris (FRA)",
+     "date": "09 OCT 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:08:40",
+     "venue": "Gent (BEL)",
+     "date": "12 MAR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:27:47",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:06",
+     "venue": "Košice (SVK)",
+     "date": "05 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:39",
+     "venue": "Hamburg (GER)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 73,
+   "rankingScore": 1217
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 539,
+   "rankingScore": 1217
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/kasanesh-baze-15049168"
+}

@@ -1,0 +1,129 @@
+{
+ "id": "15156763",
+ "givenName": "Mekides",
+ "familyName": "SHIMELES",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-12-26",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:00",
+   "venue": "Addis Ababa (ETH)",
+   "date": "17 NOV 2024",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:18",
+   "venue": "Den Haag (NED)",
+   "date": "09 MAR 2025",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:56",
+   "venue": "Rotterdam (NED)",
+   "date": "12 APR 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:56",
+   "venue": "Rotterdam (NED)",
+   "date": "12 APR 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NN Marathon Rotterdam",
+   "listPosition": "24"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "NN Marathon Rotterdam, Rotterdam",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:18:56",
+   "score": 1223,
+   "competitionId": "7235576"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "33:00",
+     "venue": "Addis Ababa (ETH)",
+     "date": "17 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:12:29",
+     "venue": "Lisboa (POR)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:18",
+     "venue": "Den Haag (NED)",
+     "date": "09 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:19:56",
+     "venue": "Amsterdam (NED)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:18:56",
+     "venue": "Rotterdam (NED)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 21,
+   "rankingScore": 1283
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 189,
+   "rankingScore": 1283
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/ethiopia/mekides-shimeles-15156763"
+}

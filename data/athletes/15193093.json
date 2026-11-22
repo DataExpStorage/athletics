@@ -1,0 +1,150 @@
+{
+ "id": "15193093",
+ "givenName": "Ablelom",
+ "familyName": "MARYO",
+ "country": "ERI",
+ "countryName": "Eritrea",
+ "birthDate": "1997-01-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:00",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:21",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:00",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "210"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:21",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1216,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "40. Haspa Marathon Hamburg",
+   "listPosition": "58"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "Taiyuan Marathon, Taiyuan",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "2:10:11",
+   "score": 1127,
+   "competitionId": "7235590"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "17",
+   "mark": "1:01:00",
+   "score": 1146,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "40. Haspa Marathon Hamburg, Hamburg",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "2:05:21",
+   "score": 1216,
+   "competitionId": "7241782"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:09:39",
+   "score": 1136,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:01:00",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:07:05",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:21",
+     "venue": "Hamburg (GER)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 97,
+   "rankingScore": 1211
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 774,
+   "rankingScore": 1211
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-22",
+ "source": "https://worldathletics.org/athletes/eritrea/ablelom-maryo-15193093"
+}
