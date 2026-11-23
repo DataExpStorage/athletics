@@ -1,0 +1,772 @@
+{
+ "id": "14193865",
+ "givenName": "Richard",
+ "familyName": "RINGER",
+ "country": "GER",
+ "countryName": "Germany",
+ "birthDate": "1989-02-27",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:50.11",
+   "venue": "Fischbach (GER)",
+   "date": "02 AUG 2013",
+   "resultScore": 1023,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "1:52.21",
+   "venue": "Sindelfingen (GER) (i)",
+   "date": "15 JAN 2011",
+   "resultScore": 1017,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:25.55",
+   "venue": "Pliezhausen (GER)",
+   "date": "17 MAY 2009",
+   "resultScore": 949,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:38.83",
+   "venue": "Montbéliard (FRA)",
+   "date": "01 JUN 2016",
+   "resultScore": 1122,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "3:43.84",
+   "venue": "Val-de-Reuil (FRA) (i)",
+   "date": "27 JAN 2018",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:46.18",
+   "venue": "Messehalle, Karlsruhe (GER) (i)",
+   "date": "31 JAN 2015",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:46.18=",
+   "venue": "Dortmund (GER) (i)",
+   "date": "17 FEB 2018",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:46.18",
+   "venue": "Messehalle, Karlsruhe (GER) (i)",
+   "date": "31 JAN 2015",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:46.18=",
+   "venue": "Dortmund (GER) (i)",
+   "date": "17 FEB 2018",
+   "resultScore": 1162,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:10.94",
+   "venue": "Heusden-Zolder (BEL)",
+   "date": "18 JUL 2015",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:36.52",
+   "venue": "London (GBR)",
+   "date": "19 MAY 2018",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "36:20",
+   "venue": "Castelbuono (ITA)",
+   "date": "26 JUL 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "21:19",
+   "venue": "Genève (SUI)",
+   "date": "04 DEC 2022",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:32",
+   "venue": "Monaco (MON)",
+   "date": "12 FEB 2023",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "8 Kilometres Road",
+   "mark": "23:08",
+   "venue": "Trier (GER)",
+   "date": "31 DEC 2018",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:39",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:24",
+   "venue": "Nijmegen (NED)",
+   "date": "20 NOV 2022",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:51",
+   "venue": "Berlin (GER)",
+   "date": "06 APR 2025",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:46",
+   "venue": "Valencia (ESP)",
+   "date": "01 DEC 2024",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:47",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:39",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "44"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:07",
+   "venue": "Dubai (UAE)",
+   "date": "08 FEB 2026",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Burj2Burj Half Marathon",
+   "listPosition": "231"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:07",
+   "venue": "Frankfurt (GER)",
+   "date": "25 OCT 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Mainova Frankfurt Marathon",
+   "listPosition": "159"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:47",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-25",
+   "competition": "Mainova Frankfurt Marathon, Frankfurt",
+   "country": "GER",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "2:07:07",
+   "score": 1183,
+   "competitionId": "7246125"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-04",
+   "competition": "Generali Köln Half Marathon, Köln",
+   "country": "GER",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:50",
+   "score": 1114,
+   "competitionId": "7236088"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-16",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "10",
+   "mark": "2:10:05",
+   "score": 1129,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:04:47",
+   "score": 1207,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-22",
+   "competition": "Frankfurter Mainova Half Marathon, Frankfurt - German Half Marathon Ch.",
+   "country": "GER",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:03:26",
+   "score": 1052,
+   "competitionId": "7238034"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-08",
+   "competition": "Burj2Burj Half Marathon, Dubai",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "1:01:07",
+   "score": 1142,
+   "competitionId": "7237869"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "14",
+   "mark": "27:39",
+   "score": 1164,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "36:20",
+     "venue": "Castelbuono (ITA)",
+     "date": "26 JUL 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "13:32",
+     "venue": "Monaco (MON)",
+     "date": "12 FEB 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "8 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "23:08",
+     "venue": "Trier (GER)",
+     "date": "31 DEC 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "29:52",
+     "venue": "Tilburg (NED)",
+     "date": "28 NOV 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "31:10",
+     "venue": "Oelde (GER)",
+     "date": "10 SEP 2011"
+    },
+    {
+     "season": "2016",
+     "mark": "29:51",
+     "venue": "Tübingen (GER)",
+     "date": "18 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "29:13",
+     "venue": "Berlin (GER)",
+     "date": "08 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "29:11",
+     "venue": "Korschenbroich (GER)",
+     "date": "15 APR 2018"
+    },
+    {
+     "season": "2021",
+     "mark": "28:54",
+     "venue": "Uelzen (GER)",
+     "date": "31 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "28:42",
+     "venue": "Málaga (ESP)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "29:24",
+     "venue": "Bad Liebenzell (GER)",
+     "date": "10 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "28:33",
+     "venue": "Leverkusen (GER)",
+     "date": "03 MAR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "27:39",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "43:40",
+     "venue": "Nijmegen (NED)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "43:24",
+     "venue": "Nijmegen (NED)",
+     "date": "20 NOV 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:02:10",
+     "venue": "Berlin (GER)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:02:27",
+     "venue": "Dresden (GER)",
+     "date": "08 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:33",
+     "venue": "Dresden (GER)",
+     "date": "21 MAR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:02:55",
+     "venue": "New York, NY (USA)",
+     "date": "20 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:09",
+     "venue": "Barcelona (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:01",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:51",
+     "venue": "Berlin (GER)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:01:07",
+     "venue": "Dubai (UAE)",
+     "date": "08 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "2:10:59",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:08:49",
+     "venue": "Siena (ITA)",
+     "date": "11 APR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:10:21",
+     "venue": "Odeonplatz, München (GER)",
+     "date": "15 AUG 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:05",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:05:46",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:23",
+     "venue": "Hamburg (GER)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:07",
+     "venue": "Frankfurt (GER)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World (Continental) Cup",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF Continental Cup",
+     "mark": "8:02.87",
+     "date": "14 SEP 2014"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "European Athletics Championships",
+     "mark": "2:10:21",
+     "date": "15 AUG 2022"
+    },
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "13:40.85",
+     "date": "10 JUL 2016"
+    },
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "Zürich European Championships",
+     "mark": "14:10.92",
+     "date": "17 AUG 2014"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:04:47",
+     "date": "20 APR 2026"
+    }
+   ]
+  },
+  {
+   "category": "European Indoor Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "8:01.01",
+     "date": "05 MAR 2017"
+    },
+    {
+     "place": "5.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "European Indoor Championships",
+     "mark": "7:48.44",
+     "date": "07 MAR 2015"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "European Team Championships",
+     "mark": "8:34.35",
+     "date": "21 JUN 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "European Team Championships",
+     "mark": "7:50.99",
+     "date": "22 JUN 2014"
+    }
+   ]
+  },
+  {
+   "category": "European Cup 10,000m",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "European 10,000m Cup",
+     "mark": "27:36.52",
+     "date": "19 MAY 2018"
+    }
+   ]
+  },
+  {
+   "category": "World University Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "Universiade",
+     "mark": "13:37.18",
+     "date": "12 JUL 2013"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Frankfurter Mainova Half Marathon",
+     "mark": "1:03:26",
+     "date": "22 MAR 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "10 Kilometres Road",
+     "competition": "German 10km Road Running Championships",
+     "mark": "29:24",
+     "date": "10 SEP 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "German Half Marathon Championships",
+     "mark": "1:01:44",
+     "date": "26 MAR 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "German Championships",
+     "mark": "14:01.69",
+     "date": "04 AUG 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "German 10,000m Championships",
+     "mark": "28:28.89",
+     "date": "08 JUN 2019"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "German Championships",
+     "mark": "14:15.90",
+     "date": "09 JUL 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "German Championships",
+     "mark": "13:51.88",
+     "date": "19 JUN 2016"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "German Championships",
+     "mark": "14:04.05",
+     "date": "26 JUL 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "German Championships",
+     "mark": "13:43.45",
+     "date": "27 JUL 2014"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "German Indoor Championships",
+     "mark": "7:46.18",
+     "date": "17 FEB 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "German Indoor Championships",
+     "mark": "7:59.68",
+     "date": "18 FEB 2017"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "German Indoor Championships",
+     "mark": "8:29.57",
+     "date": "21 FEB 2015"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 79,
+   "rankingScore": 1221
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 106,
+   "rankingScore": 1145
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 663,
+   "rankingScore": 1221
+  }
+ ],
+ "representative": {
+  "name": "Joerg ULLMAN",
+  "country": "Germany",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/germany/richard-ringer-14193865"
+}

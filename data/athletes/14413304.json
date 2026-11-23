@@ -1,0 +1,156 @@
+{
+ "id": "14413304",
+ "givenName": "Esther",
+ "familyName": "CHEMTAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1993-11-02",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:36.1h",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "11 JUN 2025",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:42.06",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "27 JUN 2013",
+   "resultScore": 1155,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:09",
+   "venue": "Cardiff (GBR)",
+   "date": "05 OCT 2025",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:24",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:24",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "35"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:19:24",
+   "score": 1218,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:22:04",
+   "score": 1192,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:19:27",
+     "venue": "Chemususu (KEN)",
+     "date": "17 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:13:31",
+     "venue": "Paris (FRA)",
+     "date": "05 MAR 2017"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:09",
+     "venue": "Cardiff (GBR)",
+     "date": "05 OCT 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:19:24",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "38th IAAF World Cross Country Championships",
+     "mark": "18:55",
+     "date": "28 MAR 2010"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 41,
+   "rankingScore": 1247
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 317,
+   "rankingScore": 1247
+  }
+ ],
+ "representative": {
+  "name": "Rihana SHEMSU MOHAMMED",
+  "country": "Sweden",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/esther-chemtai-14413304"
+}

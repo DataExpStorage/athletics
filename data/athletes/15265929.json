@@ -1,0 +1,184 @@
+{
+ "id": "15265929",
+ "givenName": "Owen",
+ "familyName": "KORIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2006-11-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:16",
+   "venue": "Praha (CZE)",
+   "date": "05 SEP 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:42",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:16",
+   "venue": "Praha (CZE)",
+   "date": "05 SEP 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Prague 10K Night Race",
+   "listPosition": "15"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:42",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1239,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "16"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "58:42",
+   "score": 1239,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-13",
+   "competition": "Hyundai Porto Half Marathon, Porto",
+   "country": "POR",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:58",
+   "score": 1108,
+   "competitionId": "7236402"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-05",
+   "competition": "Prague 10K Night Race, Praha",
+   "country": "CZE",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "27:16",
+   "score": 1201,
+   "competitionId": "7236035"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-28",
+   "competition": "10KM Port Gentil, Port Gentil",
+   "country": "GAB",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "27:49",
+   "score": 1149,
+   "competitionId": "7239719"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-28",
+   "competition": "Generali Prague Half Marathon, Praha",
+   "country": "CZE",
+   "category": "C",
+   "race": "F",
+   "place": "3",
+   "mark": "58:58",
+   "score": 1228,
+   "competitionId": "7236038"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "Coelmo Napoli City Half Marathon, Napoli",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "59:42",
+   "score": 1198,
+   "competitionId": "7235982"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-25",
+   "competition": "Medio Maraton Sevilla, Sevilla",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "1:00:25",
+   "score": 1170,
+   "competitionId": "7235993"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "27:16",
+     "venue": "Praha (CZE)",
+     "date": "05 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "58:42",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 12,
+   "rankingScore": 1233
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 518,
+   "rankingScore": 1236
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/owen-korir-15265929"
+}

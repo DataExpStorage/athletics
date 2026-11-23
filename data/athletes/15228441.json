@@ -1,0 +1,99 @@
+{
+ "id": "15228441",
+ "givenName": "Tiringo",
+ "familyName": "MULU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-02-23",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:36",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:36",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "49"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "4",
+   "mark": "2:20:36",
+   "score": 1206,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-01",
+   "competition": "Dubai Marathon, Dubai",
+   "country": "UAE",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "2:21:12",
+   "score": 1201,
+   "competitionId": "7237510"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:29:48",
+     "venue": "Porto Alegre (BRA)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:36",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 51,
+   "rankingScore": 1240
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 360,
+   "rankingScore": 1240
+  }
+ ],
+ "representative": {
+  "name": "Daan VAN DEN BERG",
+  "country": "Netherlands",
+  "website": "https://www.globalsportscommunication.nl"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/ethiopia/tiringo-mulu-15228441"
+}

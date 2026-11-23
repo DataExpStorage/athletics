@@ -1,0 +1,107 @@
+{
+ "id": "15260968",
+ "givenName": "Wudinesh",
+ "familyName": "ALEMU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2007-01-23",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:26.45",
+   "venue": "Addis Ababa (ETH)",
+   "date": "27 APR 2026",
+   "resultScore": 1001,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:35",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:26.45",
+   "venue": "Addis Ababa (ETH)",
+   "date": "27 APR 2026",
+   "resultScore": 1001,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ethiopian U20 Championships"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:35",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon",
+   "listPosition": "40"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "1:06:35",
+   "score": 1201,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-27",
+   "competition": "Ethiopian U20 Championships, Addis Ababa",
+   "country": "ETH",
+   "category": "F",
+   "race": "H1",
+   "place": "2",
+   "mark": "16:26.45",
+   "score": 1001,
+   "competitionId": "7234050"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:08:08",
+     "venue": "Cardiff (GBR)",
+     "date": "05 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:35",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/ethiopia/wudinesh-alemu-15260968"
+}

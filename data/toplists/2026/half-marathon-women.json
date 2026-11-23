@@ -2,7 +2,7 @@
  "distance": "half-marathon",
  "gender": "women",
  "season": 2026,
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "source": "https://worldathletics.org/records/toplists/road-running/half-marathon/outdoor/women/senior/2026",
  "rows": [
   {
@@ -1202,7 +1202,20 @@
    "score": ""
   },
   {
-   "rank": "93",
+   "rank": "92",
+   "mark": "1:08:04",
+   "seconds": 4084.0,
+   "name": "Samiya HASSAN NOUR",
+   "athleteId": "14786622",
+   "birthDate": "05 DEC 1999",
+   "nat": "DJI",
+   "pos": "1",
+   "venue": "Milano (ITA)",
+   "date": "2026-11-22",
+   "score": ""
+  },
+  {
+   "rank": "94",
    "mark": "1:08:06",
    "seconds": 4086.0,
    "name": "Blanka DÖRFEL",
@@ -1215,7 +1228,7 @@
    "score": ""
   },
   {
-   "rank": "94",
+   "rank": "95",
    "mark": "1:08:08",
    "seconds": 4088.0,
    "name": "Domenika MAYER",
@@ -1228,7 +1241,7 @@
    "score": ""
   },
   {
-   "rank": "95",
+   "rank": "96",
    "mark": "1:08:09",
    "seconds": 4089.0,
    "name": "Margaret Chelimo KIPKEMBOI",
@@ -1241,7 +1254,7 @@
    "score": ""
   },
   {
-   "rank": "96",
+   "rank": "97",
    "mark": "1:08:11",
    "seconds": 4091.0,
    "name": "Ednah KURGAT",
@@ -1254,7 +1267,7 @@
    "score": ""
   },
   {
-   "rank": "97",
+   "rank": "98",
    "mark": "1:08:12",
    "seconds": 4092.0,
    "name": "Christine Njoki NALIMO",
@@ -1267,7 +1280,7 @@
    "score": ""
   },
   {
-   "rank": "98",
+   "rank": "99",
    "mark": "1:08:13",
    "seconds": 4093.0,
    "name": "Sharon JEROTICH",
@@ -1280,7 +1293,7 @@
    "score": ""
   },
   {
-   "rank": "99",
+   "rank": "100",
    "mark": "1:08:14",
    "seconds": 4094.0,
    "name": "Margret Gati CHACHA",
@@ -1290,19 +1303,6 @@
    "pos": "2",
    "venue": "Lisboa (POR)",
    "date": "2026-10-11",
-   "score": ""
-  },
-  {
-   "rank": "100",
-   "mark": "1:08:15",
-   "seconds": 4095.0,
-   "name": "Stella CHESANG",
-   "athleteId": "14464203",
-   "birthDate": "01 DEC 1996",
-   "nat": "UGA",
-   "pos": "3",
-   "venue": "Riga (LAT)",
-   "date": "2026-05-17",
    "score": ""
   }
  ]

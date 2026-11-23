@@ -1,0 +1,386 @@
+{
+ "id": "14288983",
+ "givenName": "Philomena",
+ "familyName": "CHEYECH",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1982-07-05",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:16.21",
+   "venue": "Abashiri (JPN)",
+   "date": "10 JUN 2007",
+   "resultScore": 1052,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:19.47",
+   "venue": "Miyoshi (JPN)",
+   "date": "09 MAY 2009",
+   "resultScore": 1126,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:58.50",
+   "venue": "Kobe (JPN)",
+   "date": "11 OCT 2008",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:48",
+   "venue": "Lisboa (POR)",
+   "date": "24 MAY 2015",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:23",
+   "venue": "Luanda (ANG)",
+   "date": "31 DEC 2013",
+   "resultScore": 1119,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "49:15",
+   "venue": "São Paulo (BRA)",
+   "date": "31 DEC 2016",
+   "resultScore": 1117,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:13",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2014",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:39",
+   "venue": "Ostia (ITA)",
+   "date": "03 MAR 2013",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:22",
+   "venue": "Paris (FRA)",
+   "date": "09 APR 2017",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:37:43",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1046,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Access Bank Lagos City Marathon",
+   "listPosition": "719"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-14",
+   "competition": "Access Bank Lagos City Marathon, Lagos",
+   "country": "NGR",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:37:43",
+   "score": 1046,
+   "competitionId": "7235572"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "16:22",
+     "venue": "Lisboa (POR)",
+     "date": "18 MAY 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "15:48",
+     "venue": "Lisboa (POR)",
+     "date": "24 MAY 2015"
+    },
+    {
+     "season": "2017",
+     "mark": "15:57",
+     "venue": "Lisboa (POR)",
+     "date": "21 MAY 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2003",
+     "mark": "36:22",
+     "venue": "Nairobi (KEN)",
+     "date": "02 NOV 2003"
+    },
+    {
+     "season": "2012",
+     "mark": "32:25",
+     "venue": "Fortaleza (BRA)",
+     "date": "05 AUG 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "32:23",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2013"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "49:15",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "50:17",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2008",
+     "mark": "1:09:06",
+     "venue": "Yamaguchi (JPN)",
+     "date": "16 MAR 2008"
+    },
+    {
+     "season": "2009",
+     "mark": "1:08:44",
+     "venue": "Yamaguchi (JPN)",
+     "date": "15 MAR 2009"
+    },
+    {
+     "season": "2010",
+     "mark": "1:09:01",
+     "venue": "Yamaguchi (JPN)",
+     "date": "21 MAR 2010"
+    },
+    {
+     "season": "2012",
+     "mark": "1:10:01",
+     "venue": "Foz do Iguacu (BRA)",
+     "date": "08 JUL 2012"
+    },
+    {
+     "season": "2014",
+     "mark": "1:08:13",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:08:18",
+     "venue": "Luanda (ANG)",
+     "date": "06 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:10:05",
+     "venue": "Cardiff (GBR)",
+     "date": "02 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:10:17",
+     "venue": "Glasgow (GBR)",
+     "date": "01 OCT 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2006",
+     "mark": "2:42:31",
+     "venue": "Nairobi (KEN)",
+     "date": "29 OCT 2006"
+    },
+    {
+     "season": "2012",
+     "mark": "2:34:15",
+     "venue": "Porto Alegre (BRA)",
+     "date": "03 JUN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "2:24:34",
+     "venue": "Wien (AUT)",
+     "date": "14 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "2:22:44",
+     "venue": "Paris (FRA)",
+     "date": "06 APR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:24:38",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:23:18",
+     "venue": "Saitama (JPN)",
+     "date": "13 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:21:22",
+     "venue": "Paris (FRA)",
+     "date": "09 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:33:01",
+     "venue": "Nagoya (JPN)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "2:23:53",
+     "venue": "Enschede (NED)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "2:45:48",
+     "venue": "Linz (AUT)",
+     "date": "13 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:37:43",
+     "venue": "Lagos (NGR)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "2:27:21",
+     "date": "06 AUG 2017"
+    }
+   ]
+  },
+  {
+   "category": "World Half Marathon Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Half Marathon",
+     "competition": "Birmingham IAAF World Half Marathon Championships",
+     "mark": "1:09:44",
+     "date": "11 OCT 2009"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "10.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "27th IAAF World Cross Country Championships",
+     "mark": "22:07",
+     "date": "27 MAR 1999"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Boston Marathon",
+     "mark": "2:33:40",
+     "date": "18 APR 2016"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:26:54",
+     "date": "22 FEB 2015"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Glasgow Commonwealth Games",
+     "mark": "2:26:45",
+     "date": "27 JUL 2014"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [],
+ "representative": {
+  "name": "Antonio NANNONI",
+  "country": "Italy",
+  "website": "http://www.olympia.atl.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/philomena-cheyech-14288983"
+}
