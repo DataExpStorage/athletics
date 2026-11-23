@@ -1,0 +1,254 @@
+{
+ "id": "14577962",
+ "givenName": "Yihunilign",
+ "familyName": "ADANE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-02-29",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:38.13",
+   "venue": "Carquefou (FRA)",
+   "date": "20 JUN 2014",
+   "resultScore": 1074,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:54.84",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "22 JUL 2014",
+   "resultScore": 1049,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:35",
+   "venue": "Luanda (ANG)",
+   "date": "31 DEC 2012",
+   "resultScore": 990,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:34",
+   "venue": "Boulogne-Billancourt (FRA)",
+   "date": "16 NOV 2014",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:59",
+   "venue": "Green Point Stadium, Cape Town (RSA)",
+   "date": "24 MAY 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:59",
+   "venue": "Green Point Stadium, Cape Town (RSA)",
+   "date": "24 MAY 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Cape Town City Marathon",
+   "listPosition": "46"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:05:16",
+   "score": 1217,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:04:59",
+   "score": 1223,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:05:33",
+   "score": 1212,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "29:35",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "29:40",
+     "venue": "Luanda (ANG)",
+     "date": "31 DEC 2013"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:01:34",
+     "venue": "Boulogne-Billancourt (FRA)",
+     "date": "16 NOV 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:09:48",
+     "venue": "Dubai (UAE)",
+     "date": "22 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:10:50",
+     "venue": "Beirut (LBN)",
+     "date": "12 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:13:11",
+     "venue": "Beirut (LBN)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:09:11",
+     "venue": "Oita (JPN)",
+     "date": "03 FEB 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:06:22",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:07:54",
+     "venue": "Lisboa (POR)",
+     "date": "17 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:05:53",
+     "venue": "Barcelona (ESP)",
+     "date": "08 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:42",
+     "venue": "Beijing (CHN)",
+     "date": "29 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:55",
+     "venue": "Chengdu (CHN)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:05:37",
+     "venue": "Osaka (JPN)",
+     "date": "24 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:59",
+     "venue": "Green Point Stadium, Cape Town (RSA)",
+     "date": "24 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "41st IAAF World Cross Country Championships",
+     "mark": "24:05",
+     "date": "28 MAR 2015"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "10,000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "28:54.84",
+     "date": "22 JUL 2014"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 55,
+   "rankingScore": 1251
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 425,
+   "rankingScore": 1251
+  }
+ ],
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/ethiopia/yihunilign-adane-14577962"
+}

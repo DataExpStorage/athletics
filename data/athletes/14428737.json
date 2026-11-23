@@ -1,0 +1,213 @@
+{
+ "id": "14428737",
+ "givenName": "Afewerk",
+ "familyName": "MESFIN",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1992-10-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:42.97",
+   "venue": "Hérouville (FRA)",
+   "date": "31 MAY 2012",
+   "resultScore": 1066,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:50",
+   "venue": "Boulogne-Billancourt (FRA)",
+   "date": "18 NOV 2012",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:08",
+   "venue": "Xiamen (CHN)",
+   "date": "05 JAN 2025",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:57",
+   "venue": "Ottawa (CAN)",
+   "date": "24 MAY 2026",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tartan Ottawa International Marathon",
+   "listPosition": "411"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:11:01",
+   "score": 1112,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Tartan Ottawa International Marathon, Ottawa",
+   "country": "CAN",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "2:09:57",
+   "score": 1131,
+   "competitionId": "7236100"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "1:01:50",
+     "venue": "Boulogne-Billancourt (FRA)",
+     "date": "18 NOV 2012"
+    },
+    {
+     "season": "2017",
+     "mark": "1:02:01",
+     "venue": "Ústí nad Labem (CZE)",
+     "date": "16 SEP 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "2:09:49",
+     "venue": "Dubai (UAE)",
+     "date": "25 JAN 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "2:11:39",
+     "venue": "Košice (SVK)",
+     "date": "05 OCT 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:18:48",
+     "venue": "Valencia (ESP)",
+     "date": "15 NOV 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:10:05",
+     "venue": "Dubai (UAE)",
+     "date": "22 JAN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:09:49",
+     "venue": "Chongqing (CHN)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:13:28",
+     "venue": "Košice (SVK)",
+     "date": "07 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:09:28",
+     "venue": "Xiamen (CHN)",
+     "date": "06 JAN 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "2:10:31",
+     "venue": "Lanzhou (CHN)",
+     "date": "11 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:10:23",
+     "venue": "Lanzhou (CHN)",
+     "date": "26 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:08",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:09:57",
+     "venue": "Ottawa (CAN)",
+     "date": "24 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "IAAF World Junior Championships",
+     "mark": "8:54.84",
+     "date": "25 JUL 2010"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 293,
+   "rankingScore": 1151
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 2042,
+   "rankingScore": 1151
+  }
+ ],
+ "representative": {
+  "name": "Zhonghao PIAO",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/ethiopia/afewerk-mesfin-14428737"
+}

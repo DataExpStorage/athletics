@@ -1,0 +1,465 @@
+{
+ "id": "14504791",
+ "givenName": "Alisa",
+ "familyName": "VAINIO",
+ "country": "FIN",
+ "countryName": "Finland",
+ "birthDate": "1997-11-16",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:16.65",
+   "venue": "Lappeenranta (FIN)",
+   "date": "04 JUN 2014",
+   "resultScore": 883,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:39.49",
+   "venue": "Kouvola (FIN)",
+   "date": "10 JUL 2014",
+   "resultScore": 909,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:49.70",
+   "venue": "Helsinki (FIN) (i)",
+   "date": "16 FEB 2014",
+   "resultScore": 855,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "6:51.27",
+   "venue": "Varkaus (FIN)",
+   "date": "14 AUG 2011",
+   "resultScore": 776,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:23.81",
+   "venue": "Vantaa (FIN)",
+   "date": "11 JUL 2018",
+   "resultScore": 1027,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:51.94",
+   "venue": "Laitila (FIN)",
+   "date": "05 AUG 2018",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:30.71",
+   "venue": "Olympiastadion, Helsinki (FIN)",
+   "date": "29 AUG 2026",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:57.51",
+   "venue": "Helsinki (FIN)",
+   "date": "30 AUG 2014",
+   "resultScore": 962,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "10:02.45",
+   "venue": "Espoo (FIN)",
+   "date": "30 AUG 2015",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:32",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "22 AUG 2025",
+   "resultScore": 1111,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:30",
+   "venue": "Copenhagen (DEN)",
+   "date": "15 SEP 2024",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:39",
+   "venue": "Sevilla (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:30.71",
+   "venue": "Olympiastadion, Helsinki (FIN)",
+   "date": "29 AUG 2026",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Finnkampen",
+   "listPosition": "119"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:42",
+   "venue": "Olympiastadion, Helsinki (FIN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Helsinki City Run",
+   "listPosition": "185"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:39",
+   "venue": "Sevilla (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Maratón Sevilla",
+   "listPosition": "51"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-12",
+   "competition": "Finlandia Maraton, Rantaraitti, Jyväskylä - Finnish Marathon Ch.",
+   "country": "FIN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:27:47",
+   "score": 1138,
+   "competitionId": "7237753"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-29",
+   "competition": "Finnkampen, Olympiastadion, Helsinki",
+   "country": "FIN",
+   "category": "D",
+   "race": "F1",
+   "place": "1",
+   "mark": "32:30.71",
+   "score": 1112,
+   "competitionId": "7237754"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-16",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "1",
+   "mark": "2:22:26",
+   "score": 1189,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-05-16",
+   "competition": "Helsinki City Run, Olympiastadion, Helsinki",
+   "country": "FIN",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "1:09:42",
+   "score": 1136,
+   "competitionId": "7238775"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:21:35",
+   "score": 1197,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-15",
+   "competition": "Zurich Maratón Sevilla, Sevilla",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:20:39",
+   "score": 1206,
+   "competitionId": "7236004"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "32:32",
+     "venue": "Olympiastadion, Stockholm (SWE)",
+     "date": "22 AUG 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:17:28",
+     "venue": "Helsinki (FIN)",
+     "date": "09 JUN 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "1:12:22",
+     "venue": "Rauma (FIN)",
+     "date": "17 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:10:20",
+     "venue": "Sevilla (ESP)",
+     "date": "29 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:30",
+     "venue": "Copenhagen (DEN)",
+     "date": "15 SEP 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:42",
+     "venue": "Olympiastadion, Helsinki (FIN)",
+     "date": "16 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:33:24",
+     "venue": "Lappeenranta (FIN)",
+     "date": "19 SEP 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "2:34:49",
+     "venue": "Joutseno (FIN)",
+     "date": "22 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:56:30",
+     "venue": "Corniche, Doha (QAT)",
+     "date": "27 SEP 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:28:41",
+     "venue": "Málaga (ESP)",
+     "date": "11 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:27:26",
+     "venue": "Sevilla (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:36",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:20:48",
+     "venue": "Valencia (ESP)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:39",
+     "venue": "Sevilla (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:28:32",
+     "date": "14 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "European Athletics Championships",
+     "mark": "2:22:26",
+     "date": "16 AUG 2026"
+    }
+   ]
+  },
+  {
+   "category": "European U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "European Junior Championships",
+     "mark": "10:30.83",
+     "date": "18 JUL 2015"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Finnish Marathon Championships",
+     "mark": "2:23:06",
+     "date": "04 OCT 2025"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Finnish Championships",
+     "mark": "33:40.54",
+     "date": "28 JUN 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Finnish Half Marathon Championships",
+     "mark": "1:14:00",
+     "date": "13 APR 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "Finnish Half Marathon Championships",
+     "mark": "1:11:31",
+     "date": "15 APR 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Finnish Championships",
+     "mark": "33:32.77",
+     "date": "20 JUL 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Finnish Championships",
+     "mark": "32:58.17",
+     "date": "02 AUG 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Finnish Championships",
+     "mark": "16:11.87",
+     "date": "31 JUL 2015"
+    },
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Finlandia Maraton",
+     "mark": "2:27:47",
+     "date": "12 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 22,
+   "rankingScore": 1282
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 149,
+   "rankingScore": 1122
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 177,
+   "rankingScore": 1289
+  }
+ ],
+ "representative": {
+  "name": "Jasper BUITINK",
+  "country": "Norway",
+  "website": "http://www.arcticapproachmanagement.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/finland/alisa-vainio-14504791"
+}

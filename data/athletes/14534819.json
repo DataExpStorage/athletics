@@ -1,0 +1,543 @@
+{
+ "id": "14534819",
+ "givenName": "Axumawit",
+ "familyName": "EMBAYE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1994-10-18",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:02.77",
+   "venue": "Varberg (SWE)",
+   "date": "15 JUL 2019",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "2:03.27",
+   "venue": "Metz (FRA) (i)",
+   "date": "25 FEB 2015",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:37.43",
+   "venue": "Göteborg (SWE)",
+   "date": "05 SEP 2015",
+   "resultScore": 1137,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres Short Track",
+   "mark": "2:38.55",
+   "venue": "Madrid (ESP) (i)",
+   "date": "24 FEB 2017",
+   "resultScore": 1148,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:58.80",
+   "venue": "Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",
+   "date": "05 JUN 2022",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:02.12",
+   "venue": "Messehalle, Karlsruhe (GER) (i)",
+   "date": "28 JAN 2022",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:18.58",
+   "venue": "Stade Louis II, Monaco (MON)",
+   "date": "12 JUL 2019",
+   "resultScore": 1203,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:23.50",
+   "venue": "Barclaycard Arena, Birmingham (GBR) (i)",
+   "date": "21 FEB 2015",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:34.99",
+   "venue": "Stade Louis II, Monaco (MON)",
+   "date": "12 JUL 2024",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:40.20",
+   "venue": "Stadion Śląski, Chorzów (POL)",
+   "date": "16 AUG 2025",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:40.38",
+   "venue": "Europahalle, Karlsruhe (GER) (i)",
+   "date": "08 FEB 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:04.41",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "02 JUL 2023",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:07",
+   "venue": "Lille (FRA)",
+   "date": "16 NOV 2024",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:22",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:43",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:14.28",
+   "venue": "Atletska dvorana, Beograd (SRB) (i)",
+   "date": "11 FEB 2026",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Belgrade Indoor Meeting",
+   "listPosition": "415"
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:14.28",
+   "venue": "Atletska dvorana, Beograd (SRB) (i)",
+   "date": "11 FEB 2026",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Belgrade Indoor Meeting",
+   "listPosition": "127"
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:40.38",
+   "venue": "Europahalle, Karlsruhe (GER) (i)",
+   "date": "08 FEB 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "INIT Indoor Meeting Karlsruhe",
+   "listPosition": "58"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:40.38",
+   "venue": "Europahalle, Karlsruhe (GER) (i)",
+   "date": "08 FEB 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "INIT Indoor Meeting Karlsruhe",
+   "listPosition": "28"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:22",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Urban Trail de Lille - 5 et 10km",
+   "listPosition": "26"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:43",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "41"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "15",
+   "mark": "1:06:43",
+   "score": 1198,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "8",
+   "mark": "31:05",
+   "score": 1188,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-05",
+   "competition": "Prague 10K Night Race, Praha",
+   "country": "CZE",
+   "category": "E",
+   "race": "F",
+   "place": "7",
+   "mark": "31:47",
+   "score": 1151,
+   "competitionId": "7236035"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-28",
+   "competition": "10KM Port Gentil, Port Gentil",
+   "country": "GAB",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "31:25",
+   "score": 1170,
+   "competitionId": "7239719"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-25",
+   "competition": "BOLDERBoulder, Boulder, CO - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "33:08",
+   "score": 1080,
+   "competitionId": "7238420"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-12",
+   "competition": "Les Foulées Valenciennoises, Valenciennes",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "30:31",
+   "score": 1219,
+   "competitionId": "7236173"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Urban Trail de Lille - 5 et 10km, Lille",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "5",
+   "mark": "30:22",
+   "score": 1227,
+   "competitionId": "7236174"
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "date": "2026-02-11",
+   "competition": "Belgrade Indoor Meeting, Atletska dvorana, Beograd (i) - World Athletics Indoor Tour",
+   "country": "SRB",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "4:14.28",
+   "score": 1114,
+   "competitionId": "7228107"
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "date": "2026-02-08",
+   "competition": "INIT Indoor Meeting Karlsruhe, Europahalle, Karlsruhe (i) - Indoor Meeting",
+   "country": "GER",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "8:40.38",
+   "score": 1196,
+   "competitionId": "7230001"
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "date": "2026-02-03",
+   "competition": "Czech Indoor Gala, Atletická hala, Ostrava (i) - World Athletics Indoor Tour",
+   "country": "CZE",
+   "category": "A",
+   "race": "F",
+   "place": "12",
+   "mark": "4:15.79",
+   "score": 1102,
+   "competitionId": "7228062"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "4:23.50",
+     "venue": "Barclaycard Arena, Birmingham (GBR) (i)",
+     "date": "21 FEB 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "4:27.75",
+     "venue": "Globe Arena, Stockholm (SWE) (i)",
+     "date": "17 FEB 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "4:28.14",
+     "venue": "Stade Olympique de la Pontaise, Lausanne (SUI)",
+     "date": "06 JUL 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "4:18.58",
+     "venue": "Stade Louis II, Monaco (MON)",
+     "date": "12 JUL 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "4:21.08",
+     "venue": "Boudewijnstadion, Bruxelles (BEL)",
+     "date": "03 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "4:25.30",
+     "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+     "date": "17 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "4:24.01",
+     "venue": "Bislett Stadion, Oslo (NOR)",
+     "date": "15 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "4:25.42",
+     "venue": "Track & Field complex QAZAQSTAN, Astana (KAZ) (i)",
+     "date": "27 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "4:23.50",
+     "venue": "Barclaycard Arena, Birmingham (GBR) (i)",
+     "date": "21 FEB 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "4:27.75",
+     "venue": "Globe Arena, Stockholm (SWE) (i)",
+     "date": "17 FEB 2016"
+    },
+    {
+     "season": "2022",
+     "mark": "4:25.30",
+     "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+     "date": "17 FEB 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "4:25.42",
+     "venue": "Track & Field complex QAZAQSTAN, Astana (KAZ) (i)",
+     "date": "27 JAN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "15:30",
+     "venue": "Al Khobar (KSA)",
+     "date": "09 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "15:07",
+     "venue": "Lille (FRA)",
+     "date": "16 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "30:22",
+     "venue": "Lille (FRA)",
+     "date": "04 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:06:43",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Indoor Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "1500 Metres Short Track",
+     "competition": "World Athletics Indoor Championships",
+     "mark": "4:02.29",
+     "date": "19 MAR 2022"
+    },
+    {
+     "place": "2.",
+     "discipline": "1500 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "4:07.12",
+     "date": "08 MAR 2014"
+    },
+    {
+     "place": "4.",
+     "discipline": "1500 Metres Short Track",
+     "competition": "IAAF World Indoor Championships",
+     "mark": "4:09.37",
+     "date": "19 MAR 2016"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "1500 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "4:12.92",
+     "date": "15 JUL 2012"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "1500 Metres",
+     "competition": "Marrakesh African Championships",
+     "mark": "4:13.27",
+     "date": "12 AUG 2014"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "4:13.7h",
+     "date": "13 MAY 2012"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 30,
+   "rankingScore": 1216
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 422,
+   "rankingScore": 1230
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/ethiopia/axumawit-embaye-14534819"
+}

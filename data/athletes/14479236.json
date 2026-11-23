@@ -1,0 +1,454 @@
+{
+ "id": "14479236",
+ "givenName": "Selah",
+ "familyName": "BUSIENEI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1991-12-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:01.17",
+   "venue": "Nairobi (KEN)",
+   "date": "11 MAY 2013",
+   "resultScore": 1141,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:05.20",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "13 SEP 2019",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:11.57",
+   "venue": "Pista Coberta de Catalunya, Sabadell (ESP) (i)",
+   "date": "08 FEB 2022",
+   "resultScore": 1135,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:36.78",
+   "venue": "Melbourne (AUS)",
+   "date": "11 FEB 2017",
+   "resultScore": 1071,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:48.08",
+   "venue": "Montreuil (FRA)",
+   "date": "19 JUN 2018",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:36.91",
+   "venue": "Egret Stadium, Xiamen (CHN)",
+   "date": "02 SEP 2023",
+   "resultScore": 1184,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:52.40",
+   "venue": "Stade couvert Jesse Owens, Val-de-Reuil (FRA) (i)",
+   "date": "14 FEB 2022",
+   "resultScore": 1154,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:48.24",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "07 AUG 2022",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:26.40",
+   "venue": "FBK Stadium, Hengelo (NED)",
+   "date": "03 JUN 2023",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:15",
+   "venue": "Monaco (MON)",
+   "date": "11 FEB 2024",
+   "resultScore": 1134,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:33",
+   "venue": "La Coruña (ESP)",
+   "date": "03 OCT 2021",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:56",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "48:31",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:01",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley",
+   "mark": "10:43.35",
+   "venue": "T. Robinson Stadium, Nassau (BAH)",
+   "date": "02 MAY 2015",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x1500 Metres Relay",
+   "mark": "17:47.75",
+   "venue": "Nairobi (KEN)",
+   "date": "26 APR 2014",
+   "resultScore": 1103,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:36.15",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "10 JUN 2026",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenya Defence Forces Track and Field Championships",
+   "listPosition": "293"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:01.85",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "19 JUN 2026",
+   "resultScore": 1137,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games",
+   "listPosition": "51"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:56",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Northside Hospital Peachtree Road Race"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "48:31",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Boilermaker Road Race",
+   "listPosition": "12"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:01",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon",
+   "listPosition": "50"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:01",
+   "score": 1192,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "Boilermaker Road Race, Utica, NY",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "5",
+   "mark": "48:31",
+   "score": 1140,
+   "competitionId": "7244046"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "7",
+   "mark": "31:56",
+   "score": 1130,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-19",
+   "competition": "Kenyan Championships Cum Trials for Commonwealth Games, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "B",
+   "race": "F1",
+   "place": "3",
+   "mark": "32:01.85",
+   "score": 1137,
+   "competitionId": "7241942"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-12",
+   "competition": "Kenya Defence Forces Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "32:50.45",
+   "score": 1095,
+   "competitionId": "7241946"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-10",
+   "competition": "Kenya Defence Forces Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "15:36.15",
+   "score": 1094,
+   "competitionId": "7241946"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "EDP Lisbon Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "8",
+   "mark": "1:09:54",
+   "score": 1132,
+   "competitionId": "7236103"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "4:36.78",
+     "venue": "Melbourne (AUS)",
+     "date": "11 FEB 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "4:37.62",
+     "venue": "Bregyó Athletic Center, Székesfehérvár (HUN)",
+     "date": "02 JUL 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "15:15",
+     "venue": "Monaco (MON)",
+     "date": "11 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "32:33",
+     "venue": "La Coruña (ESP)",
+     "date": "03 OCT 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "48:31",
+     "venue": "Utica, NY (USA)",
+     "date": "12 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:13:19",
+     "venue": "Lisboa (POR)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:09:58",
+     "venue": "Beijing (CHN)",
+     "date": "20 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:01",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Athletics Relays",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Distance Medley",
+     "competition": "IAAF World Relays",
+     "mark": "10:43.35",
+     "date": "02 MAY 2015"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "1500 Metres",
+     "competition": "Marrakesh African Championships",
+     "mark": "4:19.24",
+     "date": "12 AUG 2014"
+    },
+    {
+     "place": "8.",
+     "discipline": "1500 Metres",
+     "competition": "Durban African Championships",
+     "mark": "4:09.14",
+     "date": "24 JUN 2016"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "XXII Commonwealth Games",
+     "mark": "14:48.24",
+     "date": "07 AUG 2022"
+    }
+   ]
+  },
+  {
+   "category": "World Military Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "1500 Metres",
+     "competition": "Mungyeong CISM World Games",
+     "mark": "4:07.58",
+     "date": "08 OCT 2015"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 87,
+   "rankingScore": 1164
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 91,
+   "rankingScore": 1149
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1171,
+   "rankingScore": 1170
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/selah-busienei-14479236"
+}

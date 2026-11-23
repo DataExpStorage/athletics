@@ -1,0 +1,319 @@
+{
+ "id": "14524534",
+ "givenName": "Victor",
+ "familyName": "KIPCHIRCHIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1987-12-05",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:32.9h",
+   "venue": "Kamariny (KEN)",
+   "date": "27 MAY 2011",
+   "resultScore": 909,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:15",
+   "venue": "Bengaluru (IND)",
+   "date": "27 MAY 2012",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:19",
+   "venue": "Padova (ITA)",
+   "date": "26 SEP 2021",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:40",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:10",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1025,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:40",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "72"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "11",
+   "mark": "2:05:40",
+   "score": 1210,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-07",
+   "competition": "Maratona da Cidade do Rio de Janeiro, Rio de Janeiro - Elite Event",
+   "country": "BRA",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "2:11:02",
+   "score": 1112,
+   "competitionId": "7239891"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-03",
+   "competition": "Vodafone Prague Marathon, Praha",
+   "country": "CZE",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7236039"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:07:58",
+   "score": 1167,
+   "competitionId": "7235574"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "1:04:10",
+   "score": 1025,
+   "competitionId": "7237360"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "28:15",
+     "venue": "Bengaluru (IND)",
+     "date": "27 MAY 2012"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "1:03:18",
+     "venue": "Baringo (KEN)",
+     "date": "07 NOV 2010"
+    },
+    {
+     "season": "2011",
+     "mark": "1:01:21",
+     "venue": "New Delhi (IND)",
+     "date": "27 NOV 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "59:31",
+     "venue": "Den Haag (NED)",
+     "date": "11 MAR 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "1:00:27",
+     "venue": "Berlin (GER)",
+     "date": "07 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:00:48",
+     "venue": "Warszawa (POL)",
+     "date": "30 MAR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:02:35",
+     "venue": "Warszawa (POL)",
+     "date": "29 MAR 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:03:52",
+     "venue": "Göteborg (SWE)",
+     "date": "21 MAY 2016"
+    },
+    {
+     "season": "2021",
+     "mark": "59:19",
+     "venue": "Padova (ITA)",
+     "date": "26 SEP 2021"
+    },
+    {
+     "season": "2025",
+     "mark": "1:02:01",
+     "venue": "Tokyo (JPN)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:04:10",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2011",
+     "mark": "2:10:19",
+     "venue": "Reims (FRA)",
+     "date": "16 OCT 2011"
+    },
+    {
+     "season": "2012",
+     "mark": "2:09:16",
+     "venue": "Frankfurt (GER)",
+     "date": "28 OCT 2012"
+    },
+    {
+     "season": "2014",
+     "mark": "2:09:59",
+     "venue": "Warszawa (POL)",
+     "date": "28 SEP 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:10:45",
+     "venue": "Warszawa (POL)",
+     "date": "27 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:07:39",
+     "venue": "Valencia (ESP)",
+     "date": "20 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:08:52",
+     "venue": "Seoul (KOR)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:17:24",
+     "venue": "Eindhoven (NED)",
+     "date": "14 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:17:03",
+     "venue": "Salzburg (AUT)",
+     "date": "19 MAY 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:07:05",
+     "venue": "Buenos Aires (ARG)",
+     "date": "18 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:06:54",
+     "venue": "Doha (QAT)",
+     "date": "20 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:13:47",
+     "venue": "Hong Kong (HKG)",
+     "date": "21 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:05:43",
+     "venue": "Barcelona (ESP)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:40",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 87,
+   "rankingScore": 1215
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 504,
+   "rankingScore": 1055
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 717,
+   "rankingScore": 1215
+  }
+ ],
+ "representative": {
+  "name": "Philip RAMACHANDRAN",
+  "country": "Singapore",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/victor-kipchirchir-14524534"
+}
