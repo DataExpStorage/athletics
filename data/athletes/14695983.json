@@ -1,0 +1,591 @@
+{
+ "id": "14695983",
+ "givenName": "Birhanu",
+ "familyName": "BALEW",
+ "country": "BRN",
+ "countryName": "Bahrain",
+ "birthDate": "1996-02-27",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:00.34",
+   "venue": "Liévin (FRA) (i)",
+   "date": "10 FEB 2019",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Short Track",
+   "mark": "5:00.34",
+   "venue": "Liévin (FRA) (i)",
+   "date": "10 FEB 2019",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:29.60",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:31.77",
+   "venue": "Arena Stade Couvert, Liévin (FRA) (i)",
+   "date": "17 FEB 2022",
+   "resultScore": 1254,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "8:20.56",
+   "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+   "date": "30 JUN 2019",
+   "resultScore": 1148,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:45.70",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "05 SEP 2026",
+   "resultScore": 1263,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:07.49",
+   "venue": "Mestský Stadion, Ostrava (CZE)",
+   "date": "19 MAY 2021",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:02",
+   "venue": "Sechseläutenplatz, Zürich (SUI)",
+   "date": "08 SEP 2021",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "26:54",
+   "venue": "Herzogenaurach (GER)",
+   "date": "26 APR 2025",
+   "resultScore": 1236,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:19",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2016",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:23",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:29.60",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wanda Diamond League",
+   "listPosition": "21"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "12:45.70",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "05 SEP 2026",
+   "resultScore": 1263,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Allianz Memorial van Damme",
+   "listPosition": "1"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:27.51",
+   "venue": "Municipal Mizuho Stadium, Nagoya (JPN)",
+   "date": "25 SEP 2026",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "20th Asian Games",
+   "listPosition": "213"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:23",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1252,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ras Al Khaimah Half Marathon",
+   "listPosition": "10"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-09-29",
+   "competition": "20th Asian Games, Municipal Mizuho Stadium, Nagoya",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "13:30.79",
+   "score": 1099,
+   "competitionId": "7176091"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-09-25",
+   "competition": "20th Asian Games, Municipal Mizuho Stadium, Nagoya",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "1",
+   "mark": "28:27.51",
+   "score": 1090,
+   "competitionId": "7176091"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-09-05",
+   "competition": "Allianz Memorial van Damme, Boudewijnstadion, Bruxelles - Diamond Discipline",
+   "country": "BEL",
+   "category": "DF",
+   "race": "F",
+   "place": "1",
+   "mark": "12:45.70",
+   "score": 1263,
+   "competitionId": "7214029"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-21",
+   "competition": "Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne - Diamond Discipline",
+   "country": "SUI",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "12:57.55",
+   "score": 1219,
+   "competitionId": "7214027"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-10",
+   "competition": "Meeting International d’Athlétisme Herculis EBS, Stade Louis II, Monaco - Diamond Discipline",
+   "country": "MON",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "12:52.91",
+   "score": 1236,
+   "competitionId": "7214023"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-28",
+   "competition": "Meeting de Paris, Stade Charléty, Paris - Diamond Discipline",
+   "country": "FRA",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "12:56.66",
+   "score": 1222,
+   "competitionId": "7214022"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-10",
+   "competition": "Oslo Bislett Games, Bislett Stadion, Oslo - Diamond Discipline",
+   "country": "NOR",
+   "category": "GW",
+   "race": "F",
+   "place": "2",
+   "mark": "12:47.73",
+   "score": 1255,
+   "competitionId": "7214020"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-23",
+   "competition": "Wanda Diamond League Xiamen, Egret Stadium, Xiamen - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "13:07.75",
+   "score": 1181,
+   "competitionId": "7214017"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-16",
+   "competition": "Wanda Diamond League, China Textile City Sports Centre, Shaoxing/Keqiao - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "12",
+   "mark": "7:29.60",
+   "score": 1242,
+   "competitionId": "7214016"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "58:23",
+   "score": 1252,
+   "competitionId": "7237781"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "8:21.54",
+     "venue": "Hayward Field, Eugene, OR (USA)",
+     "date": "25 MAY 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "8:20.56",
+     "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+     "date": "30 JUN 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "13:02",
+     "venue": "Sechseläutenplatz, Zürich (SUI)",
+     "date": "08 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "13:07",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "13:05",
+     "venue": "Al Khobar (KSA)",
+     "date": "09 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "13:08",
+     "venue": "Lille (FRA)",
+     "date": "17 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "30:13",
+     "venue": "Dubai (UAE)",
+     "date": "20 JAN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "29:01",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "24 MAR 2018"
+    },
+    {
+     "season": "2021",
+     "mark": "28:20",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "28:44",
+     "venue": "Houilles (FRA)",
+     "date": "18 DEC 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "26:57",
+     "venue": "Valencia (ESP)",
+     "date": "14 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "26:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "43:19",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "45:06",
+     "venue": "São Paulo (BRA)",
+     "date": "31 DEC 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:04:54",
+     "venue": "Casablanca (MAR)",
+     "date": "15 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:01:45",
+     "venue": "Kuwait (KUW)",
+     "date": "14 JAN 2017"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:44",
+     "venue": "Manama (BRN)",
+     "date": "12 DEC 2021"
+    },
+    {
+     "season": "2024",
+     "mark": "59:41",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "58:23",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "The XXXII Olympic Games",
+     "mark": "13:03.20",
+     "date": "06 AUG 2021"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "13:00.55",
+     "date": "21 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League Final",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Allianz Memorial van Damme",
+     "mark": "12:45.70",
+     "date": "05 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "Asian Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Asian Athletics Championships",
+     "mark": "13:37.42",
+     "date": "24 APR 2019"
+    }
+   ]
+  },
+  {
+   "category": "Asian Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "20th Asian Games",
+     "mark": "13:30.79",
+     "date": "29 SEP 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "20th Asian Games",
+     "mark": "28:27.51",
+     "date": "25 SEP 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "19th Asian Games",
+     "mark": "13:17.40",
+     "date": "04 OCT 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "19th Asian Games",
+     "mark": "28:13.62",
+     "date": "30 SEP 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Jakarta Asian Games",
+     "mark": "13:43.17",
+     "date": "30 AUG 2018"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Allianz Memorial van Damme",
+     "mark": "12:45.70",
+     "date": "05 SEP 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Athletissima Lausanne",
+     "mark": "12:57.55",
+     "date": "21 AUG 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Athletissima Lausanne",
+     "mark": "13:01.09",
+     "date": "05 JUL 2018"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Shanghai IAAF Diamond League",
+     "mark": "13:09.64",
+     "date": "12 MAY 2018"
+    }
+   ]
+  },
+  {
+   "category": "Pan-Arab Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Arab Games Algiers 2023",
+     "mark": "14:21.89",
+     "date": "07 JUL 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Military Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "CISM Military World Games",
+     "mark": "14:08.99",
+     "date": "26 OCT 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 2,
+   "rankingScore": 1359
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 47,
+   "rankingScore": 1374
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 225,
+   "rankingScore": 1099
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/bahrain/birhanu-balew-14695983"
+}

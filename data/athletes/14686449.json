@@ -1,0 +1,437 @@
+{
+ "id": "14686449",
+ "givenName": "Mao",
+ "familyName": "UESUGI",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1995-08-16",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:30.96",
+   "venue": "Kumamoto (JPN)",
+   "date": "05 APR 2014",
+   "resultScore": 969,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:11.13",
+   "venue": "Municipal Stadium, Kitami (JPN)",
+   "date": "09 JUL 2022",
+   "resultScore": 1069,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:41.01",
+   "venue": "Athletic Track, Abashiri (JPN)",
+   "date": "13 JUL 2022",
+   "resultScore": 1085,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:42.87",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "05 JUL 2026",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:11",
+   "venue": "Fukuoka (JPN)",
+   "date": "14 MAR 2026",
+   "resultScore": 1029,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:38",
+   "venue": "Prefectural Stadium, Okayama (JPN)",
+   "date": "21 DEC 2025",
+   "resultScore": 1106,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:24",
+   "venue": "Marugame (JPN)",
+   "date": "04 FEB 2024",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:11",
+   "venue": "Nagoya (JPN)",
+   "date": "09 MAR 2025",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:49.15",
+   "venue": "Athletic Track, Abashiri (JPN)",
+   "date": "08 JUL 2026",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKUREN Distance Challenge in ABASHIRI",
+   "listPosition": "412"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:42.87",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "05 JUL 2026",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "74th Japan Corporate Teams Athletics Championships 10000m",
+   "listPosition": "148"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:11",
+   "venue": "Fukuoka (JPN)",
+   "date": "14 MAR 2026",
+   "resultScore": 1029,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Fukuoka Ohori Road Runnig",
+   "listPosition": "193"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:07",
+   "venue": "Osaka (JPN)",
+   "date": "25 JAN 2026",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Osaka Women's Marathon",
+   "listPosition": "91"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "15",
+   "mark": "2:27:26",
+   "score": 1141,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-11",
+   "competition": "HOKUREN Distance Challenge in KITAMI, Municipal Stadium, Kitami",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "10",
+   "mark": "15:54.76",
+   "score": 1059,
+   "competitionId": "7243630"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-08",
+   "competition": "HOKUREN Distance Challenge in ABASHIRI, Athletic Track, Abashiri",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "5",
+   "mark": "15:49.15",
+   "score": 1070,
+   "competitionId": "7243634"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-05",
+   "competition": "74th Japan Corporate Teams Athletics Championships 10000m, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "2",
+   "mark": "32:42.87",
+   "score": 1102,
+   "competitionId": "7243923"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-17",
+   "competition": "68th East Japan Corporate Athletics Championships, ND Soft Stadium, Tendo",
+   "country": "JPN",
+   "category": "E",
+   "race": "F2",
+   "place": "11",
+   "mark": "16:00.80",
+   "score": 1048,
+   "competitionId": "7239747"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "26",
+   "mark": "2:34:38",
+   "score": 1055,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-11",
+   "competition": "34rd Kanakuri Memorial Middle and Long Distance Invitational Meet, Egao Kenko Stadium, Kumamoto",
+   "country": "JPN",
+   "category": "F",
+   "race": "F3",
+   "place": "19",
+   "mark": "16:05.84",
+   "score": 1039,
+   "competitionId": "7238868"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-03-14",
+   "competition": "Fukuoka Ohori Road Runnig, Fukuoka",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "4",
+   "mark": "16:11",
+   "score": 1029,
+   "competitionId": "7237466"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-25",
+   "competition": "Osaka Women's Marathon, Osaka",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:23:07",
+   "score": 1182,
+   "competitionId": "7235936"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "16:20",
+     "venue": "Yamaguchi (JPN)",
+     "date": "10 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "16:12",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2026",
+     "mark": "16:11",
+     "venue": "Fukuoka (JPN)",
+     "date": "14 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "34:41",
+     "venue": "Yamaguchi (JPN)",
+     "date": "15 FEB 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "34:01",
+     "venue": "Yamaguchi (JPN)",
+     "date": "11 FEB 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "32:41",
+     "venue": "Okayama (JPN)",
+     "date": "20 DEC 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "33:21",
+     "venue": "Okayama (JPN)",
+     "date": "18 DEC 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "32:38",
+     "venue": "Prefectural Stadium, Okayama (JPN)",
+     "date": "21 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:13:00",
+     "venue": "Okayama (JPN)",
+     "date": "23 DEC 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "1:11:27",
+     "venue": "Yamaguchi (JPN)",
+     "date": "10 FEB 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:10:17",
+     "venue": "Yamaguchi (JPN)",
+     "date": "09 FEB 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:58",
+     "venue": "Lisboa (POR)",
+     "date": "08 MAY 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:24",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:31:49",
+     "venue": "Tokyo (JPN)",
+     "date": "25 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:28:02",
+     "venue": "Nagoya (JPN)",
+     "date": "10 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:30:00",
+     "venue": "Nagoya (JPN)",
+     "date": "08 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:24:52",
+     "venue": "Osaka (JPN)",
+     "date": "31 JAN 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:22:29",
+     "venue": "Osaka (JPN)",
+     "date": "30 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:24:16",
+     "venue": "Nagoya (JPN)",
+     "date": "12 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:32:48",
+     "venue": "Hofu (JPN)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:11",
+     "venue": "Nagoya (JPN)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:23:07",
+     "venue": "Osaka (JPN)",
+     "date": "25 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Asian Marathon Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Asian Marathon Championships",
+     "mark": "2:31:57",
+     "date": "22 DEC 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 121,
+   "rankingScore": 1191
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 214,
+   "rankingScore": 1104
+  },
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 280,
+   "rankingScore": 1070
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 818,
+   "rankingScore": 1191
+  }
+ ],
+ "representative": {
+  "name": "Wataru OGUSHI",
+  "country": "Japan",
+  "website": null
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/japan/mao-uesugi-14686449"
+}

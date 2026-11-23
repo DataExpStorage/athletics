@@ -1,0 +1,537 @@
+{
+ "id": "14643341",
+ "givenName": "Ahmed",
+ "familyName": "MUHUMED",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "1998-01-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:37.36",
+   "venue": "Sportcentrum Wembley, Kortrijk (BEL)",
+   "date": "13 JUL 2024",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:57.32",
+   "venue": "Saint Louis University High School, St. Louis, MO (USA)",
+   "date": "30 MAY 2024",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:13.01",
+   "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+   "date": "29 FEB 2020",
+   "resultScore": 968,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:39.39",
+   "venue": "Stadion Allmend, Luzern (SUI)",
+   "date": "16 JUL 2024",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:51.15",
+   "venue": "Rector Fieldhouse, Blacksburg, VA (USA) (i)",
+   "date": "26 FEB 2022",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:07.49",
+   "venue": "Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",
+   "date": "24 MAY 2025",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:16.99",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "10 FEB 2024",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:03.19",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "29 MAR 2025",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "32:19",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "20 AUG 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:27",
+   "venue": "Boston, MA (USA)",
+   "date": "15 APR 2023",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:20",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:07",
+   "venue": "Mesa, AZ (USA)",
+   "date": "08 FEB 2025",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "47:24",
+   "venue": "Minneapolis, MN (USA)",
+   "date": "02 OCT 2022",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:15",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:09",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:46.88",
+   "venue": "Drake Stadium, Los Angeles, CA (USA)",
+   "date": "23 MAY 2026",
+   "resultScore": 1016,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "LA Track Festival"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:26.95",
+   "venue": "USC Allyson Felix at Loker Track Stadium, Los Angeles, CA (USA)",
+   "date": "13 JUN 2026",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "USATF LA Grand Prix",
+   "listPosition": "216"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:22.93",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "28 MAR 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "The TEN",
+   "listPosition": "9"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:20",
+   "venue": "Boston, MA (USA)",
+   "date": "21 JUN 2026",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "B.A.A. 10K",
+   "listPosition": "227"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:15",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "94"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:09",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "162"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:07:09",
+   "score": 1182,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "13",
+   "mark": "1:00:15",
+   "score": 1176,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "28:20",
+   "score": 1101,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-13",
+   "competition": "USATF LA Grand Prix, USC Allyson Felix at Loker Track Stadium, Los Angeles, CA",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "11",
+   "mark": "13:26.95",
+   "score": 1113,
+   "competitionId": "7233063"
+  },
+  {
+   "discipline": "4 Miles Road",
+   "date": "2026-06-06",
+   "competition": "USA 4 Mile Road Running Championships, Peoria, IL",
+   "country": "USA",
+   "category": "D",
+   "race": "F",
+   "place": "1",
+   "mark": "17:57",
+   "score": 0,
+   "competitionId": "7241810"
+  },
+  {
+   "discipline": "1500 Metres",
+   "date": "2026-05-23",
+   "competition": "LA Track Festival, Drake Stadium, Los Angeles, CA - National Events",
+   "country": "USA",
+   "category": "F",
+   "race": "F3",
+   "place": "10",
+   "mark": "3:46.88",
+   "score": 1016,
+   "competitionId": "7236537"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-28",
+   "competition": "The TEN, JSerra Catholic HS, San Juan Capistrano, CA",
+   "country": "USA",
+   "category": "B",
+   "race": "F2",
+   "place": "5",
+   "mark": "27:22.93",
+   "score": 1190,
+   "competitionId": "7233290"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-01",
+   "competition": "Publix Atlanta Half Marathon, Home Depot Backyard, Atlanta, GA - USA Half Marathon Championships",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:01:51",
+   "score": 1113,
+   "competitionId": "7237355"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "46",
+   "mark": "30:53",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "4:18.46",
+     "venue": "Portland, OR (USA)",
+     "date": "29 APR 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "4:21.65",
+     "venue": "Boise, ID (USA) (i)",
+     "date": "13 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:13.38",
+     "venue": "Nampa, ID (USA) (i)",
+     "date": "19 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:04.25",
+     "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+     "date": "15 FEB 2020"
+    },
+    {
+     "season": "2024",
+     "mark": "3:57.32",
+     "venue": "Saint Louis University High School, St. Louis, MO (USA)",
+     "date": "30 MAY 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "4:21.65",
+     "venue": "Boise, ID (USA) (i)",
+     "date": "13 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "4:13.38",
+     "venue": "Nampa, ID (USA) (i)",
+     "date": "19 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "4:13.01",
+     "venue": "Convention Center, Albuquerque, NM (USA) (i)",
+     "date": "29 FEB 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "32:19",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "20 AUG 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "13:27",
+     "venue": "Boston, MA (USA)",
+     "date": "15 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "13:37",
+     "venue": "Indianapolis, IN (USA)",
+     "date": "03 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "28:20",
+     "venue": "Boston, MA (USA)",
+     "date": "21 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "47:24",
+     "venue": "Minneapolis, MN (USA)",
+     "date": "02 OCT 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:03:15",
+     "venue": "Benjamin Franklin Parkway, Philadelphia, PA (USA)",
+     "date": "23 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:03",
+     "venue": "Atlanta, GA (USA)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:15",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:07:09",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:07:09",
+     "date": "01 NOV 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "4 Miles Road",
+     "competition": "USA 4 Mile Road Running Championships",
+     "mark": "17:57",
+     "date": "06 JUN 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "8 Kilometres Road",
+     "competition": "Crazy 8s 8K Run & USA 8Km Road Running Championships",
+     "mark": "22:26",
+     "date": "20 JUL 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5 Kilometres Road",
+     "competition": "Abbot Dash to the FInish Line 5K",
+     "mark": "13:38",
+     "date": "02 NOV 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 65,
+   "rankingScore": 1157
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 101,
+   "rankingScore": 1146
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 117,
+   "rankingScore": 1198
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 955,
+   "rankingScore": 1198
+  }
+ ],
+ "representative": {
+  "name": "Bradley YEWER",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.flynnsports.com"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/united-states/ahmed-muhumed-14643341"
+}

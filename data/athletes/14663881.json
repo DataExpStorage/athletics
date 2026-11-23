@@ -1,0 +1,372 @@
+{
+ "id": "14663881",
+ "givenName": "Cuomu",
+ "familyName": "CIREN",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "1997-08-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "5:05.33",
+   "venue": "Hefei (CHN)",
+   "date": "08 MAY 2022",
+   "resultScore": 737,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:24.96",
+   "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+   "date": "18 NOV 2025",
+   "resultScore": 1115,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:25.63",
+   "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+   "date": "20 NOV 2025",
+   "resultScore": 1117,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:37",
+   "venue": "Meishan (CHN)",
+   "date": "25 FEB 2024",
+   "resultScore": 1138,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:48",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:29.80",
+   "venue": "Kuishan Sports Center, Rizhao (CHN)",
+   "date": "26 JUN 2026",
+   "resultScore": 1106,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chinese Athletics Meet",
+   "listPosition": "239"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:38.41",
+   "venue": "Taian sports center stadium, Taian (CHN)",
+   "date": "29 APR 2026",
+   "resultScore": 1105,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "National Middle and Long Distance Running Meeting 2",
+   "listPosition": "137"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:10",
+   "venue": "Yangzhou (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 1126,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Yangzhou Half Marathon",
+   "listPosition": "216"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:48",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Beijing Marathon",
+   "listPosition": "107"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:23:48",
+   "score": 1176,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-26",
+   "competition": "20th Asian Games, Municipal Mizuho Stadium, Nagoya",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:27:43",
+   "score": 1139,
+   "competitionId": "7176091"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-06-28",
+   "competition": "Chinese Athletics Meet, Kuishan Sports Center, Rizhao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "33:53.22",
+   "score": 1041,
+   "competitionId": "7244577"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-26",
+   "competition": "Chinese Athletics Meet, Kuishan Sports Center, Rizhao",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "15:29.80",
+   "score": 1106,
+   "competitionId": "7244577"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:29:59",
+   "score": 1117,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-29",
+   "competition": "National Middle and Long Distance Running Meeting 2, Taian sports center stadium, Taian",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "32:38.41",
+   "score": 1105,
+   "competitionId": "7241008"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-28",
+   "competition": "National Middle and Long Distance Running Meeting 2, Taian sports center stadium, Taian",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "16:10.82",
+   "score": 1030,
+   "competitionId": "7241008"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-19",
+   "competition": "National Middle and Long Distance Running Meeting, Henan Provincial Stadium, Zhengzhou",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "32:45.60",
+   "score": 1099,
+   "competitionId": "7240947"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-18",
+   "competition": "National Middle and Long Distance Running Meeting, Henan Provincial Stadium, Zhengzhou",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "16:03.05",
+   "score": 1044,
+   "competitionId": "7240947"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Yangzhou Half Marathon, Yangzhou",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "7",
+   "mark": "1:10:10",
+   "score": 1126,
+   "competitionId": "7235575"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "C&D Xiamen Marathon, Xiamen",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:34:01",
+   "score": 1080,
+   "competitionId": "7235565"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:14:37",
+     "venue": "Cardiff (GBR)",
+     "date": "26 MAR 2016"
+    },
+    {
+     "season": "2024",
+     "mark": "1:09:37",
+     "venue": "Meishan (CHN)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:10:10",
+     "venue": "Yangzhou (CHN)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:36:22",
+     "venue": "Hengshui (CHN)",
+     "date": "29 SEP 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:31:42",
+     "venue": "Xuzhou (CHN)",
+     "date": "24 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:33:36",
+     "venue": "Nanjing (CHN)",
+     "date": "29 NOV 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:32:57",
+     "venue": "Xi'an (CHN)",
+     "date": "26 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:37:48",
+     "venue": "Hangzhou (CHN)",
+     "date": "17 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:39:43",
+     "venue": "Beijing (CHN)",
+     "date": "29 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:26:47",
+     "venue": "Hengshui (CHN)",
+     "date": "22 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:26:52",
+     "venue": "Nagoya (JPN)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:23:48",
+     "venue": "Beijing (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Asian Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "20th Asian Games",
+     "mark": "2:27:43",
+     "date": "26 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "15:38.72",
+     "date": "28 JUN 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 109,
+   "rankingScore": 1199
+  },
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 178,
+   "rankingScore": 1114
+  },
+  {
+   "eventGroup": "Women's 5000m",
+   "place": 204,
+   "rankingScore": 1090
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 628,
+   "rankingScore": 1208
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/pr-of-china/cuomu-ciren-14663881"
+}

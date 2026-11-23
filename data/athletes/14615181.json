@@ -1,0 +1,113 @@
+{
+ "id": "14615181",
+ "givenName": "Asbel",
+ "familyName": "KIPLIMO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2003",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:39",
+   "venue": "Tallinn (EST)",
+   "date": "13 SEP 2025",
+   "resultScore": 1121,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:31:11",
+   "venue": "Eldoret (KEN)",
+   "date": "17 NOV 2013",
+   "resultScore": 779,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:34",
+   "venue": "Hong Kong (HKG)",
+   "date": "15 NOV 2026",
+   "resultScore": 1047,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-15",
+   "competition": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "1:03:34",
+   "score": 1047,
+   "competitionId": "7241749"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:04:29",
+     "venue": "Kigali (RWA)",
+     "date": "11 JUN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:03:07",
+     "venue": "Lille (FRA)",
+     "date": "17 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:39",
+     "venue": "Tallinn (EST)",
+     "date": "13 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:03:34",
+     "venue": "Hong Kong (HKG)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "2:31:11",
+     "venue": "Eldoret (KEN)",
+     "date": "17 NOV 2013"
+    },
+    {
+     "season": "2024",
+     "mark": "2:33:00",
+     "venue": "Torino (ITA)",
+     "date": "01 DEC 2024"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": {
+  "name": "Michael Kraus ",
+  "country": "Germany",
+  "website": "http://www.professional-coach.net/"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/kenya/asbel-kiplimo-14615181"
+}

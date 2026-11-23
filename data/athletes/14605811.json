@@ -1,0 +1,711 @@
+{
+ "id": "14605811",
+ "givenName": "Klara",
+ "familyName": "LUKAN",
+ "country": "SLO",
+ "countryName": "Slovenia",
+ "birthDate": "2000-09-08",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "400 Metres",
+   "mark": "59.06",
+   "venue": "Stadion Portoval, Novo Mesto (SLO)",
+   "date": "02 SEP 2020",
+   "resultScore": 869,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "400 Metres Short Track",
+   "mark": "60.37",
+   "venue": "Bratislava (SVK) (i)",
+   "date": "28 JAN 2018",
+   "resultScore": 859,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "600 Metres",
+   "mark": "1:36.30",
+   "venue": "Breclav (CZE)",
+   "date": "26 SEP 2015",
+   "resultScore": 903,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres",
+   "mark": "2:05.40",
+   "venue": "Atletski stadion Poljane, Maribor (SLO)",
+   "date": "05 SEP 2021",
+   "resultScore": 1068,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres Short Track",
+   "mark": "2:12.09",
+   "venue": "Wien (AUT) (i)",
+   "date": "27 JAN 2018",
+   "resultScore": 995,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1000 Metres",
+   "mark": "2:49.12",
+   "venue": "Maribor (SLO)",
+   "date": "16 MAY 2018",
+   "resultScore": 988,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:11.05",
+   "venue": "Sports Park Mladost, Zagreb (CRO)",
+   "date": "10 SEP 2023",
+   "resultScore": 1118,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:15.51",
+   "venue": "Olimpijski center, Novo Mesto (SLO) (i)",
+   "date": "06 FEB 2021",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:40.02",
+   "venue": "Stadion Park Šiška, Ljubljana (SLO)",
+   "date": "16 JUL 2020",
+   "resultScore": 1048,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres",
+   "mark": "5:40.91",
+   "venue": "Sports Park Mladost, Zagreb (CRO)",
+   "date": "14 SEP 2021",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:44.80",
+   "venue": "Utilita Arena Birmingham, Birmingham (GBR) (i)",
+   "date": "25 FEB 2023",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:44.80",
+   "venue": "Utilita Arena Birmingham, Birmingham (GBR) (i)",
+   "date": "25 FEB 2023",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:50.40",
+   "venue": "Province Naimette Arena, Liège (BEL)",
+   "date": "16 JUL 2025",
+   "resultScore": 1182,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:13.18",
+   "venue": "Parliament Hill Fields Athletics Track, London (GBR)",
+   "date": "18 MAY 2024",
+   "resultScore": 1181,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:40.73",
+   "venue": "Ljubljana (SLO)",
+   "date": "05 JUN 2019",
+   "resultScore": 1026,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "10:33.55",
+   "venue": "Stadion ŠC Sloboda, Varaždin (CRO)",
+   "date": "10 AUG 2019",
+   "resultScore": 1016,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:45",
+   "venue": "Monaco (MON)",
+   "date": "09 FEB 2025",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:51",
+   "venue": "Laredo (ESP)",
+   "date": "18 APR 2026",
+   "resultScore": 1256,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:43",
+   "venue": "Málaga (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:57.80",
+   "venue": "Atletski stadion Poljane, Maribor (SLO)",
+   "date": "17 MAY 2026",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "International Meeting Maribor and the Iztok Ciglarič Memorial",
+   "listPosition": "172"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:18.16",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "14 AUG 2026",
+   "resultScore": 1123,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "European Athletics Championships",
+   "listPosition": "82"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:04",
+   "venue": "Quai Albert 1er, Monaco (MON)",
+   "date": "15 FEB 2026",
+   "resultScore": 1155,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "MONACO RUN",
+   "listPosition": "20"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:51",
+   "venue": "Laredo (ESP)",
+   "date": "18 APR 2026",
+   "resultScore": 1256,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10 km en Ruta Villa de Laredo",
+   "listPosition": "8"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:43",
+   "venue": "Málaga (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1198,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TotalEnergies Medio Maratón de Málaga",
+   "listPosition": "41"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-17",
+   "competition": "Ljubljana Generali Halfmarathon & Garmin 10 km, Ljubljana",
+   "country": "SLO",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:23",
+   "score": 1172,
+   "competitionId": "7241434"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-03",
+   "competition": "XX Mediterranean Games, Stadio Giuseppe Valente, Taranto",
+   "country": "ITA",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "1:11:22",
+   "score": 1102,
+   "competitionId": "7233421"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-14",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "13",
+   "mark": "32:18.16",
+   "score": 1123,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-15",
+   "competition": "Meeting International d'Athlétisme de la Province de Liège, Province Naimette Arena, Liège",
+   "country": "BEL",
+   "category": "C",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235004"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-06",
+   "competition": "Mastercard New York Mini 10K - Women's Race, New York, NY",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "31:38",
+   "score": 1150,
+   "competitionId": "7241746"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Great Manchester Run, Manchester - Elite Event",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "30:58",
+   "score": 1195,
+   "competitionId": "7243517"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-17",
+   "competition": "International Meeting Maribor and the Iztok Ciglarič Memorial, Atletski stadion Poljane, Maribor",
+   "country": "SLO",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "8:57.80",
+   "score": 1113,
+   "competitionId": "7239144"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-18",
+   "competition": "10 km en Ruta Villa de Laredo, Laredo",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "29:51",
+   "score": 1256,
+   "competitionId": "7236423"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "TotalEnergies Medio Maratón de Málaga, Málaga",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "1:06:43",
+   "score": 1198,
+   "competitionId": "7236008"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-01",
+   "competition": "10km de Payerne, Stade municipal de Payerne, Payerne",
+   "country": "SUI",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "31:22",
+   "score": 1173,
+   "competitionId": "7233094"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-02-15",
+   "competition": "MONACO RUN, Quai Albert 1er, Monaco",
+   "country": "MON",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "15:04",
+   "score": 1155,
+   "competitionId": "7233654"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "4:40.02",
+     "venue": "Stadion Park Šiška, Ljubljana (SLO)",
+     "date": "16 JUL 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "15:25",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "15:41",
+     "venue": "Kranj (SLO)",
+     "date": "05 OCT 2024"
+    },
+    {
+     "season": "2024",
+     "mark": "15:41",
+     "venue": "Oderzo (ITA)",
+     "date": "01 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "14:45",
+     "venue": "Monaco (MON)",
+     "date": "09 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "15:04",
+     "venue": "Quai Albert 1er, Monaco (MON)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "33:23",
+     "venue": "Ljubljana (SLO)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "32:32",
+     "venue": "Ljubljana (SLO)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "33:03",
+     "venue": "Ljubljana (SLO)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "31:04",
+     "venue": "Milano (ITA)",
+     "date": "24 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "30:26",
+     "venue": "Castellón (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "29:51",
+     "venue": "Laredo (ESP)",
+     "date": "18 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:08:04",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:43",
+     "venue": "Málaga (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "10.",
+     "discipline": "5 Kilometres Road",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "15:25",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "10,000 Metres",
+     "competition": "European Athletics Championships",
+     "mark": "31:34.90",
+     "date": "11 JUN 2024"
+    }
+   ]
+  },
+  {
+   "category": "European Running Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10 Kilometres Road",
+     "competition": "European Running Championships",
+     "mark": "31:26",
+     "date": "13 APR 2025"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships 1st League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics Team Championships Second Division",
+     "mark": "15:09.56",
+     "date": "29 JUN 2025"
+    }
+   ]
+  },
+  {
+   "category": "European Team Championships 2nd League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "European Athletics Team Championships Second League",
+     "mark": "8:48.80",
+     "date": "19 JUN 2021"
+    }
+   ]
+  },
+  {
+   "category": "World University Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "FISU World University Games",
+     "mark": "31:25.84",
+     "date": "21 JUL 2025"
+    }
+   ]
+  },
+  {
+   "category": "European U23 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "European Athletics U23 Championships",
+     "mark": "15:44.0h",
+     "date": "11 JUL 2021"
+    }
+   ]
+  },
+  {
+   "category": "European U20 Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "European U20 Championships",
+     "mark": "16:03.62",
+     "date": "21 JUL 2019"
+    }
+   ]
+  },
+  {
+   "category": "Balkan Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Balkan Championships",
+     "mark": "15:37.11",
+     "date": "27 JUN 2021"
+    }
+   ]
+  },
+  {
+   "category": "Balkan Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Balkan Indoor Championships",
+     "mark": "8:58.73",
+     "date": "20 FEB 2021"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Slovenian Championships",
+     "mark": "15:20.34",
+     "date": "29 JUN 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Slovenian Championships",
+     "mark": "17:05.51",
+     "date": "08 JUL 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres",
+     "competition": "Slovenian Championships",
+     "mark": "9:00.10",
+     "date": "05 JUN 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Slovenian Championships",
+     "mark": "15:37.67",
+     "date": "05 JUN 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "5 Kilometres Road",
+     "competition": "Slovenian 5km Road Running Championships",
+     "mark": "15:41",
+     "date": "05 OCT 2024"
+    }
+   ]
+  },
+  {
+   "category": "National Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Slovenian Indoor Championships",
+     "mark": "8:47.25",
+     "date": "18 FEB 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Slovenian Indoor Championships",
+     "mark": "8:55.80",
+     "date": "18 FEB 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Slovenian Indoor Championships",
+     "mark": "9:08.74",
+     "date": "14 FEB 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Short Track",
+     "competition": "Slovenian Indoor Championships",
+     "mark": "9:17.42",
+     "date": "09 FEB 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 10,
+   "rankingScore": 1233
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 17,
+   "rankingScore": 1228
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 405,
+   "rankingScore": 1233
+  }
+ ],
+ "representative": {
+  "name": "Marcello MAGNANI",
+  "country": "Italy",
+  "website": "https://magnanisport.it/"
+ },
+ "fetched": "2026-11-23",
+ "source": "https://worldathletics.org/athletes/slovenia/klara-lukan-14605811"
+}
