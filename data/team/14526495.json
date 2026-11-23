@@ -1,20 +1,14 @@
 {
  "athleteId": "14526495",
  "name": "Kidsan ALEMA",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "coach": {
-  "value": "Nigatu Worku",
-  "reliability": "reported",
-  "source": "https://www.moyo-sports.com/?p=802210",
-  "note": "From a Moyo Sports athlete profile.",
-  "verified": false
+  "value": null,
+  "note": "Earlier entry (Nigatu Worku) rested on a Moyo Sports profile page that returned 404 when opened on 2026-11-23, so it could not be verified. Only a search summary mentioned it."
  },
  "shoe": {
-  "value": "ASICS",
-  "reliability": "reported",
-  "source": "https://www.moyo-sports.com/?p=802210",
-  "note": "From a Moyo Sports athlete profile.",
-  "verified": false
+  "value": null,
+  "note": "Earlier entry (ASICS) rested on a Moyo Sports profile page that returned 404 when opened on 2026-11-23, so it could not be verified. Only a search summary mentioned it."
  },
- "manager_note": "Moyo Sports has an athlete profile for her, but World Athletics lists Monica Pont Chafer as her representative; one of the two is probably out of date."
+ "manager_note": "Moyo Sports was said to have an athlete profile for her, but World Athletics lists Monica Pont Chafer as her representative; the Moyo page could not be opened to check."
 }

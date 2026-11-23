@@ -1,0 +1,44 @@
+{
+ "raceId": 7235936,
+ "title": "Chesang takes commanding win in Osaka",
+ "source": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/osaka-womens-marathon-2026-chesang",
+ "published": "2026-01-25",
+ "written": "2026-11-23",
+ "weather": null,
+ "story": {
+  "W": "A big group went through 5 km in 16:44 and halfway in 1:10:13, with Japanese runners Izawa and Matsuda dropping off early. Four women led at 25 km: Yada, Edesa, Chesang and Hirpa. The pacemakers left at 30 km and the pack split after about 38 km. Chesang took the lead by 40 km, held off a late pass by Yada, and pulled clear in the last two kilometres to win by 23 seconds."
+ },
+ "performances": [
+  {
+   "name": "Stella CHESANG",
+   "gender": "W",
+   "note": "Won in 2:19:31 with a break in the final two kilometres. First Ugandan woman to win a Platinum Label marathon; national record-holder."
+  },
+  {
+   "name": "Bedatu HIRPA",
+   "gender": "W",
+   "note": "Second in 2:19:54. Was in the leading four at 25 km and the leading three at 41 km."
+  },
+  {
+   "name": "Workenesh EDESA",
+   "gender": "W",
+   "note": "The defending champion finished third in 2:19:56 after running in the front group throughout and being passed by Yada late on."
+  },
+  {
+   "name": "Mikuni YADA",
+   "gender": "W",
+   "note": "Marathon debut: fourth in 2:19:57, the fastest debut by a Japanese woman. Helped lift the pace after 30 km and went past Hirpa and Edesa after 40 km."
+  },
+  {
+   "name": "Mao UESUGI",
+   "gender": "W",
+   "note": "Fifth in 2:23:07. Briefly lost contact near halfway, regained the group, then was chasing at 25 km."
+  },
+  {
+   "name": "Nanaka IZAWA",
+   "gender": "W",
+   "note": "Was in the early lead group but drifted off before 15 km and lost touch for good before 25 km."
+  }
+ ],
+ "dnf": []
+}

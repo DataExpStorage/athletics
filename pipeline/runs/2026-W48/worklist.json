@@ -1,0 +1,388 @@
+{
+ "today": "2026-11-23",
+ "week": "2026-W48",
+ "seasons": [
+  2026
+ ],
+ "races_last_7_days": [],
+ "races_next_10_days": [],
+ "reports": {
+  "this_week": [],
+  "backlog": [
+   {
+    "id": 7237360,
+    "name": "XL Medio Maratón Internacional Guadalajara Electrolit",
+    "date": "2026-02-22",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Guadalajara (MEX)"
+   },
+   {
+    "id": 7235936,
+    "name": "Osaka Women's Marathon",
+    "date": "2026-01-25",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Osaka (JPN)"
+   },
+   {
+    "id": 7235565,
+    "name": "C&D Xiamen Marathon",
+    "date": "2026-01-11",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Xiamen (CHN)"
+   },
+   {
+    "id": 7235594,
+    "name": "Hangzhou Marathon",
+    "date": "2026-11-01",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Hangzhou (CHN)"
+   },
+   {
+    "id": 7235596,
+    "name": "Istanbul Marathon",
+    "date": "2026-11-01",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Istanbul (TUR)"
+   }
+  ]
+ },
+ "prize-money": {
+  "this_week": [],
+  "backlog": [
+   {
+    "id": 7235579,
+    "name": "TCS Sydney Marathon Presented by ASICS",
+    "date": "2026-08-30",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "Sydney (AUS)"
+   },
+   {
+    "id": 7241749,
+    "name": "Bank of China Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+    "date": "2026-11-15",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Hong Kong (HKG)"
+   },
+   {
+    "id": 7235581,
+    "name": "TCS Amsterdam Marathon",
+    "date": "2026-10-18",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Amsterdam (NED)"
+   },
+   {
+    "id": 7204187,
+    "name": "World Athletics Road Running Championships",
+    "date": "2026-09-19",
+    "tier": "Championship",
+    "major": false,
+    "distance": "multi",
+    "venue": "Copenhagen (DEN)"
+   },
+   {
+    "id": 7235575,
+    "name": "Yangzhou Half Marathon",
+    "date": "2026-03-29",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Yangzhou (CHN)"
+   }
+  ]
+ },
+ "entries": {
+  "upcoming": [
+   {
+    "id": 7235595,
+    "name": "BYD Singapore International Marathon presented by Adidas",
+    "date": "2026-12-06",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Singapore (SGP)",
+    "has_file": true
+   },
+   {
+    "id": 7235578,
+    "name": "Maratón Valencia Trinidad Alfonso Zurich",
+    "date": "2026-12-06",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Valencia (ESP)",
+    "has_file": true
+   },
+   {
+    "id": 7235577,
+    "name": "Shanghai Marathon",
+    "date": "2026-12-06",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Shanghai (CHN)",
+    "has_file": true
+   },
+   {
+    "id": 7235585,
+    "name": "Shenzhen Marathon",
+    "date": "2026-12-06",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Shenzhen (CHN)",
+    "has_file": true
+   },
+   {
+    "id": 7235587,
+    "name": "ADNOC Abu Dhabi Marathon",
+    "date": "2026-12-12",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Abu Dhabi (UAE)",
+    "has_file": true
+   },
+   {
+    "id": 7244308,
+    "name": "Sharqiyah International Race - 5km",
+    "date": "2026-12-12",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "5km",
+    "venue": "Al Khobar (KSA)",
+    "has_file": true
+   },
+   {
+    "id": 7243579,
+    "name": "Sharqiyah International Race - Half Marathon",
+    "date": "2026-12-12",
+    "tier": "Gold",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Al Khobar (KSA)",
+    "has_file": true
+   },
+   {
+    "id": 7238772,
+    "name": "Bangsaen21",
+    "date": "2026-12-20",
+    "tier": "Platinum",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Chon Buri (THA)",
+    "has_file": true
+   },
+   {
+    "id": 7235586,
+    "name": "Guangzhou Marathon",
+    "date": "2026-12-20",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Guangzhou (CHN)",
+    "has_file": true
+   },
+   {
+    "id": 7235584,
+    "name": "Taipei Marathon",
+    "date": "2026-12-20",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Taipei City (TPE)",
+    "has_file": true
+   },
+   {
+    "id": 7238774,
+    "name": "Tata Steel World 25K Kolkata",
+    "date": "2026-12-20",
+    "tier": "Gold",
+    "major": false,
+    "distance": "25km",
+    "venue": "Kolkata (IND)",
+    "has_file": true
+   },
+   {
+    "id": 7236801,
+    "name": "Shanghai Elite 10K Race",
+    "date": "2026-12-27",
+    "tier": "Gold",
+    "major": false,
+    "distance": "10km",
+    "venue": "Shanghai (CHN)",
+    "has_file": true
+   }
+  ],
+  "just_run": [],
+  "backlog": [
+   {
+    "id": 7235564,
+    "name": "TCS New York City Marathon",
+    "date": "2026-11-01",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "New York, NY (USA)"
+   },
+   {
+    "id": 7235563,
+    "name": "Bank of America Chicago Marathon",
+    "date": "2026-10-11",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "Chicago, IL (USA)"
+   },
+   {
+    "id": 7235580,
+    "name": "BMW Berlin Marathon",
+    "date": "2026-09-27",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "Berlin (GER)"
+   },
+   {
+    "id": 7235579,
+    "name": "TCS Sydney Marathon Presented by ASICS",
+    "date": "2026-08-30",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "Sydney (AUS)"
+   },
+   {
+    "id": 7235562,
+    "name": "TCS London Marathon",
+    "date": "2026-04-26",
+    "tier": "Platinum",
+    "major": true,
+    "distance": "marathon",
+    "venue": "London (GBR)"
+   }
+  ]
+ },
+ "team": {
+  "new_profiles": [
+   {
+    "athleteId": "14275729",
+    "name": "Eilish MCCOLGAN",
+    "country": "GBR"
+   },
+   {
+    "athleteId": "14276523",
+    "name": "Calli HAUGER-THACKERY",
+    "country": "GBR"
+   },
+   {
+    "athleteId": "14289351",
+    "name": "Priscah Jepleting CHERONO",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14326294",
+    "name": "Mare DIBABA",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14375882",
+    "name": "Margaret Chelimo KIPKEMBOI",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14383158",
+    "name": "Shitaye ESHETE",
+    "country": "BRN"
+   },
+   {
+    "athleteId": "14413330",
+    "name": "Othmane EL GOUMRI",
+    "country": "MAR"
+   },
+   {
+    "athleteId": "14423680",
+    "name": "Geoffrey KAMWOROR",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14423913",
+    "name": "Eunice Chebichii CHUMBA",
+    "country": "BRN"
+   },
+   {
+    "athleteId": "14464221",
+    "name": "Muktar EDRIS",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14477333",
+    "name": "Tigist GASHAW",
+    "country": "BRN"
+   },
+   {
+    "athleteId": "14477373",
+    "name": "Haftamnesh TESFAYE",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14477377",
+    "name": "Roman GIDEY",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14485673",
+    "name": "Carrie ELLWOOD",
+    "country": "USA"
+   },
+   {
+    "athleteId": "14515907",
+    "name": "Glenrose XABA",
+    "country": "RSA"
+   }
+  ],
+  "to_verify": [
+   {
+    "athleteId": "14390193",
+    "name": "Fabienne KÖNIGSTEIN",
+    "checked": "2026-11-16"
+   },
+   {
+    "athleteId": "14460738",
+    "name": "Andreas ALMGREN",
+    "checked": "2026-11-16"
+   },
+   {
+    "athleteId": "14526495",
+    "name": "Kidsan ALEMA",
+    "checked": "2026-11-16"
+   },
+   {
+    "athleteId": "14593938",
+    "name": "Peres JEPCHIRCHIR",
+    "checked": "2026-11-16"
+   },
+   {
+    "athleteId": "14594967",
+    "name": "Yomif KEJELCHA",
+    "checked": "2026-11-16"
+   }
+  ],
+  "waiting": 130
+ }
+}

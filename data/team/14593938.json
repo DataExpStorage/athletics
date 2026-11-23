@@ -1,19 +1,19 @@
 {
  "athleteId": "14593938",
  "name": "Peres JEPCHIRCHIR",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "coach": {
   "value": null,
   "reliability": "reported",
-  "source": "https://www.pulsesports.co.ke/story/i-believe-in-myself-why-peres-jepchirchir-intentionally-trains-without-a-coach-2025102810152104754",
-  "note": "Self-coached: she has said she trains without a coach (October 2025).",
-  "verified": false
+  "source": "https://www.pulse.co.ke/story/i-believe-in-myself-why-peres-jepchirchir-intentionally-trains-without-a-coach-2025102810152104754",
+  "note": "Self-coached: article of 28 October 2025 quotes her saying she has no coach and trains herself.",
+  "verified": true
  },
  "shoe": {
   "value": "adidas",
   "reliability": "reported",
   "source": "https://www.runnersworld.co.za/gear/adidas-tokyo-gold-medalist-wins-nyc-marathon/",
-  "note": "Sources date from 2021-2023.",
-  "verified": false
+  "note": "Source is an adidas-credited sponsored article of 12 November 2021 calling her an adidas athlete; older than two years. No newer page stating the sponsorship was found.",
+  "verified": true
  }
 }

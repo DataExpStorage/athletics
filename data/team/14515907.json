@@ -1,0 +1,19 @@
+{
+ "athleteId": "14515907",
+ "name": "Glenrose XABA",
+ "checked": "2026-11-23",
+ "coach": {
+  "value": "Violet Semenya",
+  "reliability": "reported",
+  "source": "https://gsport.co.za/tag/valencia-marathon/",
+  "note": "Headline of a December 2025 article names Violet Semenya as her coach; only the headline was readable. A 2021 City Press interview refers to Caster Semenya as her coach.",
+  "verified": true
+ },
+ "shoe": {
+  "value": "PUMA",
+  "reliability": "official",
+  "source": "https://www.puma-catchup.com/?p=62722",
+  "note": "PUMA's own page of 29 October 2024 calls her a PUMA running athlete; source is a little over two years old.",
+  "verified": true
+ }
+}

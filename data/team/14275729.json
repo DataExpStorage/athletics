@@ -1,0 +1,19 @@
+{
+ "athleteId": "14275729",
+ "name": "Eilish MCCOLGAN",
+ "checked": "2026-11-23",
+ "coach": {
+  "value": "Michael Rimmer",
+  "reliability": "reported",
+  "source": "https://www.irishnews.com/life/eilish-mccolgan-id-like-to-think-im-breaking-the-ceiling-of-whats-possible-for-female-endurance-runners-QYKA56PSCBPJPCB6UKEOZGDLQY/",
+  "note": "Article of 29 July 2026 quotes her saying her partner is her coach as well now. Earlier (Athletics Weekly, December 2022) her mother Liz McColgan led the coaching set-up; the date of the change was not found.",
+  "verified": true
+ },
+ "shoe": {
+  "value": "ASICS",
+  "reliability": "reported",
+  "source": "https://fashionunited.com/press/fashion/asics-launches-gel-nimbus-tm-27-model-in-collaboration-with-eilish-mccolgan/2025032065073",
+  "note": "ASICS press release (page undated; the address suggests March 2025) calls her an ASICS athlete since 2019. Source is over a year old.",
+  "verified": true
+ }
+}

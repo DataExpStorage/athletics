@@ -1,0 +1,50 @@
+{
+ "raceId": 7237360,
+ "title": "Mekashu and Dida claim Ethiopian double in Guadalajara (short item inside the Castellon 10km report)",
+ "source": "https://worldathletics.org/news/report/castellon-10km-kibet-gitonga-schrub-keith",
+ "published": "2026-02-22",
+ "written": "2026-11-23",
+ "weather": null,
+ "story": {
+  "W": "Kolole Mekashu and Mercy Jerop Kwambai broke away with Anahi Alvarez. Mekashu and Kwambai waited to kick and ran together briefly before Mekashu moved ahead and won by four seconds.",
+  "M": "A large pack reached 10 km in 30:36 and a break of six passed 15 km in 45:17, leaving Dida, Lasoi, Kibet and Kilimo for the finish. Gemechu Dida had the strongest sprint and held off Isaia Kipkoech Lasoi, both given 1:03:38."
+ },
+ "performances": [
+  {
+   "name": "Kolole MEKASHU",
+   "gender": "W",
+   "note": "Won in a personal best of 1:12:49 with a late move."
+  },
+  {
+   "name": "Mercy Jerop KWAMBAI",
+   "gender": "W",
+   "note": "Second in 1:12:53, beaten in the final kick after running with Mekashu."
+  },
+  {
+   "name": "Anahi ALVAREZ",
+   "gender": "W",
+   "note": "Third in 1:12:54. Her move in the breakaway set the pace and she gained on Kwambai but ran out of road."
+  },
+  {
+   "name": "Gemechu DIDA",
+   "gender": "M",
+   "note": "Won in 1:03:38 with the strongest finish."
+  },
+  {
+   "name": "Isaia Kipkoech LASOI",
+   "gender": "M",
+   "note": "Second in the same time of 1:03:38 after running with Dida in the pack; held off in the sprint."
+  },
+  {
+   "name": "Moses KIBET",
+   "gender": "M",
+   "note": "Third in 1:03:43, five seconds behind the winners."
+  },
+  {
+   "name": "Rhonzas Lokitam KILIMO",
+   "gender": "M",
+   "note": "Fourth in 1:03:46, one of the final four in contention."
+  }
+ ],
+ "dnf": []
+}

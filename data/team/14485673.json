@@ -1,0 +1,16 @@
+{
+ "athleteId": "14485673",
+ "name": "Carrie ELLWOOD",
+ "checked": "2026-11-23",
+ "coach": {
+  "value": "Andrew Kastor",
+  "reliability": "reported",
+  "source": "https://fastwomen.substack.com/p/fast-women-carrie-ellwood-wins-her",
+  "note": "Newsletter of 13 January 2025 says Andrew Kastor of Mammoth Track Club has coached her since August 2024; she is not an official team member. Source is nearly two years old.",
+  "verified": true
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found stating a shoe sponsor. Her Mammoth Track Club page lists an ASICS shoe as her favourite and she is linked to the ASICS Mammoth Track Club, but the page does not call ASICS her sponsor; the January 2025 newsletter said she was unsponsored."
+ }
+}

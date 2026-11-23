@@ -1,7 +1,7 @@
 {
  "athleteId": "14594967",
  "name": "Yomif KEJELCHA",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "coach": {
   "value": null,
   "note": "No current coach found. Trained with the Nike Oregon Project under Tim Rowberry in 2018-2019."
@@ -10,7 +10,7 @@
   "value": "adidas",
   "reliability": "reported",
   "source": "https://marathonhandbook.com/who-is-yomif-kejelcha/",
-  "note": "Raced London 2026 in the Adizero Adios Pro Evo 3.",
-  "verified": false
+  "note": "Page lists adidas as his sponsor and says he wore the Adizero Adios Pro Evo 3 at London 2026.",
+  "verified": true
  }
 }

@@ -1,19 +1,19 @@
 {
  "athleteId": "14460738",
  "name": "Andreas ALMGREN",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "coach": {
   "value": "Urban Aruhn",
   "reliability": "reported",
-  "source": "https://www.svt.se/sport/friidrott/nils-van-der-poel-effekt-bakom-andreas-almgrens-rekordform",
-  "note": "His coach since 2012.",
-  "verified": false
+  "source": "https://stockholm.diamondleague.com/en/?p=2240",
+  "note": "Diamond League Stockholm article of 17 March 2025 calls Urban Aruhn his coach. The earlier SVT source did not name a coach and the start year (2012) was not confirmed on an opened page.",
+  "verified": true
  },
  "shoe": {
   "value": "Nike",
-  "reliability": "unconfirmed",
+  "reliability": "reported",
   "source": "https://blog.therunningcollective.fr/qui-est-andreas-almgren-le-coureur-suedois-qui-bat-tous-les-records-deurope-depuis-1-an/",
-  "note": "One source only.",
-  "verified": false
+  "note": "Article of 12 January 2026 calls Nike his equipment partner and says he has been supported by Nike for several years. Specialist blog, one source.",
+  "verified": true
  }
 }

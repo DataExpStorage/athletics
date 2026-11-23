@@ -1,0 +1,16 @@
+{
+ "athleteId": "14276523",
+ "name": "Calli HAUGER-THACKERY",
+ "checked": "2026-11-23",
+ "coach": {
+  "value": "Nick Hauger",
+  "reliability": "unconfirmed",
+  "source": "https://livingnorth.com/article/meet-first-time-olympic-hopeful-and-marathon-runner-calli-hauger-thackery",
+  "note": "Living North profile of June 2024 quotes her calling her husband her coach; the article as read does not give his name. The name Nick Hauger comes only from a search summary of a podcast description, so treat it as unconfirmed.",
+  "verified": false
+ },
+ "shoe": {
+  "value": null,
+  "note": "No source found naming a shoe sponsor."
+ }
+}

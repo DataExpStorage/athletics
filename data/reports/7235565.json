@@ -1,0 +1,56 @@
+{
+ "raceId": 7235565,
+ "title": "Aga and Wolde retain Xiamen Marathon titles",
+ "source": "https://worldathletics.org/news/report/xiamen-marathon-2026-aga-wolde",
+ "published": "2026-01-11",
+ "written": "2026-11-23",
+ "weather": null,
+ "story": {
+  "W": "Ruti Aga defended her title in 2:22:45, running more patiently than last year and staying in a bigger group with pacemakers and some men instead of pushing from the start. Ethiopians took the first three places, with Aga well clear of the next two by roughly two and a half minutes.",
+  "M": "Dawit Wolde won a tight finish in 2:09:18, with the top three Ethiopians separated by four seconds. The leaders stayed bunched deep into the final kilometres. Wolde said he aimed to keep his title, not chase the course record, and welcomed the removal of a late U-turn."
+ },
+ "performances": [
+  {
+   "name": "Ruti AGA",
+   "gender": "W",
+   "note": "Defending champion; won in 2:22:45, slower than her 2:18:46 here in 2025, with a more patient race."
+  },
+  {
+   "name": "Meseret ABEBAYAHAU",
+   "gender": "W",
+   "note": "Called Meseret Abebayehu in the report. Second in 2:25:15.",
+   "athleteId": "14699428"
+  },
+  {
+   "name": "Fikrte WERETA",
+   "gender": "W",
+   "note": "Third in 2:25:31."
+  },
+  {
+   "name": "Meizhen LI",
+   "gender": "W",
+   "note": "Fifth in a personal best of 2:27:24, the top Chinese woman."
+  },
+  {
+   "name": "Dawit WOLDE",
+   "gender": "M",
+   "note": "Defending champion; won in 2:09:18 with a measured race, far off his 2:06:06 course record from a year earlier."
+  },
+  {
+   "name": "Hailemaryam KIROS",
+   "gender": "M",
+   "note": "Second in 2:09:20, two seconds behind Wolde."
+  },
+  {
+   "name": "Addisu GOBENA",
+   "gender": "M",
+   "note": "Third in 2:09:22."
+  },
+  {
+   "name": "Shaohui YANG",
+   "gender": "M",
+   "note": "Sixth in 2:11:14 as the top Chinese man and national record-holder; stayed with the front group for more than 30 km."
+  }
+ ],
+ "dnf": []
+}
