@@ -1,0 +1,314 @@
+{
+ "id": "14849583",
+ "givenName": "Janeth Nyiva",
+ "familyName": "MUTUNGI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2003-08-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:11.58",
+   "venue": "Naruto Sports Park, Tokushima (JPN)",
+   "date": "04 AUG 2022",
+   "resultScore": 1114,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:40.92",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "13 JUN 2026",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:50.57",
+   "venue": "Egao Kenko Stadium, Kumamoto (JPN)",
+   "date": "11 APR 2026",
+   "resultScore": 1181,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:29.16",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "05 JUL 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:53",
+   "venue": "Durban (RSA)",
+   "date": "13 JUL 2025",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:08",
+   "venue": "Amsterdam (NED)",
+   "date": "20 SEP 2026",
+   "resultScore": 1202,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:06",
+   "venue": "Gifu (JPN)",
+   "date": "26 APR 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:40.92",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "13 JUN 2026",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "23rd Nittaidai Challenge Games",
+   "listPosition": "61"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:50.57",
+   "venue": "Egao Kenko Stadium, Kumamoto (JPN)",
+   "date": "11 APR 2026",
+   "resultScore": 1181,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "34rd Kanakuri Memorial Middle and Long Distance Invitational Meet",
+   "listPosition": "42"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:29.16",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "05 JUL 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "74th Japan Corporate Teams Athletics Championships 10000m",
+   "listPosition": "1"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "50:08",
+   "venue": "Amsterdam (NED)",
+   "date": "20 SEP 2026",
+   "resultScore": 1202,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Dam tot Damloop",
+   "listPosition": "2"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:06",
+   "venue": "Gifu (JPN)",
+   "date": "26 APR 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Gifu Half Marathon",
+   "listPosition": "54"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Miles Road",
+   "date": "2026-09-20",
+   "competition": "Dam tot Damloop, Amsterdam",
+   "country": "NED",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "50:08",
+   "score": 1202,
+   "competitionId": "7238027"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-12",
+   "competition": "Summer Distance Challenge, Athletic Track, Abashiri",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7243566"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-05",
+   "competition": "74th Japan Corporate Teams Athletics Championships 10000m, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "1",
+   "mark": "30:29.16",
+   "score": 1221,
+   "competitionId": "7243923"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-06-13",
+   "competition": "23rd Nittaidai Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "8:40.92",
+   "score": 1170,
+   "competitionId": "7241341"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-15",
+   "competition": "68th East Japan Corporate Athletics Championships, ND Soft Stadium, Tendo",
+   "country": "JPN",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "31:04.03",
+   "score": 1189,
+   "competitionId": "7239747"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-26",
+   "competition": "Gifu Half Marathon, Gifu",
+   "country": "JPN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:06",
+   "score": 1190,
+   "competitionId": "7236081"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-11",
+   "competition": "34rd Kanakuri Memorial Middle and Long Distance Invitational Meet, Egao Kenko Stadium, Kumamoto",
+   "country": "JPN",
+   "category": "F",
+   "race": "F3",
+   "place": "2",
+   "mark": "14:50.57",
+   "score": 1181,
+   "competitionId": "7238868"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-01",
+   "competition": "Eurospin RomaOstia Half Marathon, Roma",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:08:11",
+   "score": 1158,
+   "competitionId": "7238425"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "31:21",
+     "venue": "Okayama (JPN)",
+     "date": "19 DEC 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "32:00",
+     "venue": "Okayama (JPN)",
+     "date": "18 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:57",
+     "venue": "Okayama (JPN)",
+     "date": "17 DEC 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "30:53",
+     "venue": "Durban (RSA)",
+     "date": "13 JUL 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "50:08",
+     "venue": "Amsterdam (NED)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:07:37",
+     "venue": "Gifu (JPN)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:06",
+     "venue": "Gifu (JPN)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 22,
+   "rankingScore": 1215
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 40,
+   "rankingScore": 1206
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 540,
+   "rankingScore": 1216
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/kenya/janeth-nyiva-mutungi-14849583"
+}

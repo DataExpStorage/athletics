@@ -1,0 +1,157 @@
+{
+ "id": "14843618",
+ "givenName": "Jirata",
+ "familyName": "DINKI",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2002",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:21.04",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "13 MAY 2023",
+   "resultScore": 931,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:57",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:26",
+   "venue": "Frankfurt (GER)",
+   "date": "25 OCT 2026",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:57",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ras Al Khaimah Half Marathon",
+   "listPosition": "68"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:26",
+   "venue": "Frankfurt (GER)",
+   "date": "25 OCT 2026",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Mainova Frankfurt Marathon",
+   "listPosition": "64"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-25",
+   "competition": "Mainova Frankfurt Marathon, Frankfurt",
+   "country": "GER",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:05:26",
+   "score": 1214,
+   "competitionId": "7246125"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "NN Marathon Rotterdam, Rotterdam",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "9",
+   "mark": "2:08:18",
+   "score": 1161,
+   "competitionId": "7235576"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "6",
+   "mark": "59:57",
+   "score": 1188,
+   "competitionId": "7237781"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:02:48",
+     "venue": "Trento (ITA)",
+     "date": "03 OCT 2021"
+    },
+    {
+     "season": "2026",
+     "mark": "59:57",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:11:08",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:26",
+     "venue": "Frankfurt (GER)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 81,
+   "rankingScore": 1217
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 689,
+   "rankingScore": 1217
+  }
+ ],
+ "representative": {
+  "name": "Eabisa NEGESE",
+  "country": "Ethiopia",
+  "website": null
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/jirata-dinki-14843618"
+}

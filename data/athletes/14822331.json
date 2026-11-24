@@ -1,0 +1,163 @@
+{
+ "id": "14822331",
+ "givenName": "Chernet",
+ "familyName": "MISGANAW",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1995-09-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:37",
+   "venue": "Shanghai (CHN)",
+   "date": "15 OCT 2023",
+   "resultScore": 1107,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:39",
+   "venue": "Shanghai (CHN)",
+   "date": "21 APR 2024",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:20",
+   "venue": "Guangzhou (CHN)",
+   "date": "08 DEC 2024",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:27:37",
+   "venue": "Taiyuan (CHN)",
+   "date": "27 SEP 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Taiyuan Marathon",
+   "listPosition": "257"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-22",
+   "competition": "Nanjing Marathon, Nanjing",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7238737"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "Taiyuan Marathon, Taiyuan",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:27:37",
+   "score": 1139,
+   "competitionId": "7235590"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "Miyun Marathon, Beijing",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "2:31:15",
+   "score": 1106,
+   "competitionId": "7238052"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "32:37",
+     "venue": "Shanghai (CHN)",
+     "date": "15 OCT 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:10:39",
+     "venue": "Shanghai (CHN)",
+     "date": "21 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:26:16",
+     "venue": "Shanghai (CHN)",
+     "date": "26 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:20",
+     "venue": "Guangzhou (CHN)",
+     "date": "08 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:43",
+     "venue": "Chongqing (CHN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:27:37",
+     "venue": "Taiyuan (CHN)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 153,
+   "rankingScore": 1179
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1026,
+   "rankingScore": 1179
+  }
+ ],
+ "representative": {
+  "name": "Haile Belachew BIZUNEH",
+  "country": "Ethiopia",
+  "website": null
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/chernet-misganaw-14822331"
+}

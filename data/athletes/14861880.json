@@ -1,0 +1,240 @@
+{
+ "id": "14861880",
+ "givenName": "Aberu",
+ "familyName": "AYANA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-09-17",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "34:45.37",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "21 MAR 2024",
+   "resultScore": 998,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:46",
+   "venue": "Langreo (ESP)",
+   "date": "13 APR 2019",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:51",
+   "venue": "Guadalajara (MEX)",
+   "date": "25 FEB 2024",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:20",
+   "venue": "Berlin (GER)",
+   "date": "29 SEP 2024",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:30",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "48"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "TCS Sydney Marathon Presented by ASICS, Sydney",
+   "country": "AUS",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:28:30",
+   "score": 1120,
+   "competitionId": "7235579"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:20:30",
+   "score": 1207,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "32:46",
+     "venue": "Langreo (ESP)",
+     "date": "13 APR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "33:08",
+     "venue": "Addis Ababa (ETH)",
+     "date": "20 NOV 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:12:15",
+     "venue": "Madrid (ESP)",
+     "date": "07 APR 2019"
+    },
+    {
+     "season": "2024",
+     "mark": "1:08:51",
+     "venue": "Guadalajara (MEX)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:11:23",
+     "venue": "Yangzhou (CHN)",
+     "date": "30 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:36:32",
+     "venue": "Ravenna (ITA)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:28:49",
+     "venue": "Sevilla (ESP)",
+     "date": "17 FEB 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:43:20",
+     "venue": "Lagos (NGR)",
+     "date": "08 FEB 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:28:02",
+     "venue": "Praha (CZE)",
+     "date": "30 MAY 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:28:26",
+     "venue": "Madrid (ESP)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:21:54",
+     "venue": "Sevilla (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:20:20",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:57",
+     "venue": "Nanjing (CHN)",
+     "date": "16 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:20:30",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "10,000 Metres",
+     "competition": "African Games",
+     "mark": "34:45.37",
+     "date": "21 MAR 2024"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:20:20",
+     "date": "29 SEP 2024"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:20:30",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 75,
+   "rankingScore": 1214
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 561,
+   "rankingScore": 1214
+  }
+ ],
+ "representative": {
+  "name": "Obrad TODOROVIC",
+  "country": "Serbia",
+  "website": "http://www.todorovic.co.rs"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/aberu-ayana-14861880"
+}

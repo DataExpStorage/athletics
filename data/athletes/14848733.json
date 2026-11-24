@@ -1,0 +1,316 @@
+{
+ "id": "14848733",
+ "givenName": "Girmawit",
+ "familyName": "GEBRZIHAIR",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2001-11-21",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:41.88",
+   "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+   "date": "13 MAY 2022",
+   "resultScore": 1167,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:46.12",
+   "venue": "Stade Naimette-Xhovémont, Liège (BEL)",
+   "date": "12 JUL 2023",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:23.69",
+   "venue": "Estadio Enrique Lopez Cuenca, Nerja (ESP)",
+   "date": "23 JUN 2023",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:48",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "29 APR 2023",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:34",
+   "venue": "Valencia (ESP)",
+   "date": "12 JAN 2025",
+   "resultScore": 1272,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:14",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "19 FEB 2022",
+   "resultScore": 1251,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:28",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:02",
+   "venue": "Valencia (ESP)",
+   "date": "11 JAN 2026",
+   "resultScore": 1246,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Valencia Ibercaja by Kiprun",
+   "listPosition": "12"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:12",
+   "venue": "Larne (GBR)",
+   "date": "23 AUG 2026",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Antrim Coast Half Marathon",
+   "listPosition": "29"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:28",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "77"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "2:22:28",
+   "score": 1188,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Antrim Coast Half Marathon, Larne",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "1:06:12",
+   "score": 1209,
+   "competitionId": "7238724"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "2:24:20",
+   "score": 1171,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "EDP Lisbon Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "5",
+   "mark": "1:07:30",
+   "score": 1182,
+   "competitionId": "7236103"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-01-11",
+   "competition": "10K Valencia Ibercaja by Kiprun, Valencia",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "30:02",
+   "score": 1246,
+   "competitionId": "7235984"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "14:48",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "32:33",
+     "venue": "Addis Ababa (ETH)",
+     "date": "26 NOV 2017"
+    },
+    {
+     "season": "2022",
+     "mark": "31:29",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 JAN 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "30:56",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "29:34",
+     "venue": "Valencia (ESP)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "30:02",
+     "venue": "Valencia (ESP)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:04:14",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "19 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:28",
+     "venue": "Lisboa (POR)",
+     "date": "12 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:07:40",
+     "venue": "Al Khobar (KSA)",
+     "date": "14 DEC 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:06:12",
+     "venue": "Larne (GBR)",
+     "date": "23 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:26:22",
+     "venue": "Berlin (GER)",
+     "date": "21 SEP 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:22:28",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "20:53",
+     "date": "30 MAR 2019"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "15:34.01",
+     "date": "10 JUL 2018"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 22,
+   "rankingScore": 1223
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 65,
+   "rankingScore": 1227
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 361,
+   "rankingScore": 1240
+  }
+ ],
+ "representative": {
+  "name": "Jeroen BAKKER",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/girmawit-gebrzihair-14848733"
+}

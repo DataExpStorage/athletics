@@ -1,0 +1,171 @@
+{
+ "id": "14848747",
+ "givenName": "Asefu",
+ "familyName": "ABREHA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2006-05-31",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:11.14",
+   "venue": "Assela (ETH)",
+   "date": "25 MAY 2018",
+   "resultScore": 1029,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:45.91",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:16",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:45.91",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "15 MAY 2026",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "African Athletics Championships",
+   "listPosition": "31"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:16",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1233,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "tRUNsylvania International 10K Brasov",
+   "listPosition": "22"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Cross Country",
+   "date": "2026-11-22",
+   "competition": "Cross Internacional de Atapuerca, Centro de Arqueologia Experimental, Atapuerca",
+   "country": "ESP",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "25:56",
+   "score": 0,
+   "competitionId": "7239532"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "30:16",
+   "score": 1233,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-15",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "3",
+   "mark": "31:45.91",
+   "score": 1152,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "31:32",
+   "score": 1164,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-24",
+   "competition": "Ethiopian Championships, Ethiopian Sport Academy, Addis Ababa",
+   "country": "ETH",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "33:25.14",
+   "score": 1065,
+   "competitionId": "7234052"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "30:16",
+     "venue": "Brasov (ROU)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "31:45.91",
+     "date": "15 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 10,000m",
+   "place": 16,
+   "rankingScore": 1223
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 481,
+   "rankingScore": 1223
+  }
+ ],
+ "representative": {
+  "name": "Hussein MAKKÉ",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/asefu-abreha-14848747"
+}
