@@ -10,6 +10,7 @@ stage, and records the decision in a handoff file, pipeline/runs/<week>/<stage>.
   python scripts/check_stage.py skip <stage> <reason> record that a stage had nothing to do
   python scripts/check_stage.py can-start <stage>     have the stages it needs passed?
   python scripts/check_stage.py summary               the state of every stage in this run
+  python scripts/check_stage.py fresh                 was the data fetched today (UTC)?
   Add --week 2026-W47 to act on a run other than the current week's.
 
 How a stage's work is judged:
@@ -20,7 +21,9 @@ How a stage's work is judged:
 
 Work that passes is staged in git (`git add`): the index is the set of accepted files.
 Work that fails is discarded: changed files are restored from the index, new files the
-stage created are removed. Nothing here commits or pushes; the publish stage does that.
+stage created are removed. When only some of a stage's files fail the format checks,
+only those are discarded (listed as "rejected") and the rest go on; a scope problem, a
+reviewer's "failed" or a problem not tied to one of its files still discards everything. Nothing here commits or pushes; the publish stage does that.
 Exit codes: 0 passed / may start, 1 failed, 2 usage or run problem.
 """
 import datetime
@@ -180,20 +183,35 @@ def cmd_gate(cfg, week, stage):
     problems = ["changed a file outside its scope: " + p for p in outside]
     problems += validate.check(spec["checks"])
     problems += shrunk_calendars(inside)
+    # A format problem confined to some of the stage's files costs only those files.
+    # Anything else (scope, a shrunk calendar, a problem not tied to one of its files,
+    # every file bad) still discards the whole stage.
+    rejected, rejected_problems = [], []
+    if problems and not outside and not shrunk_calendars(inside):
+        bad = sorted(p for p in inside if any(e.startswith(p + ":") for e in problems))
+        if bad and len(bad) < len(inside) and all(any(e.startswith(p + ":") for p in bad) for e in problems):
+            discard(bad)
+            inside = [p for p in inside if p not in bad]
+            if not validate.check(spec["checks"]):
+                rejected, rejected_problems, problems = bad, problems, []
     if problems:
-        restored, removed = discard(changed)
+        restored, removed = discard(pending_changes())
         write_record(week, stage, {"status": "failed", "problems": problems, "files": [],
-                                   "discarded": restored + removed})
+                                   "discarded": sorted(set(restored + removed + rejected))})
         out("%s FAILED the gate (%d problem(s)); its changes were discarded:\n  %s" % (stage, len(problems), "\n  ".join(problems[:40])))
         return 1
+    partial = {"rejected": rejected, "problems": rejected_problems} if rejected else {"problems": []}
+    if rejected:
+        out("%s: %d file(s) failed the format checks and were discarded; the rest go on:\n  %s"
+            % (stage, len(rejected), "\n  ".join(rejected_problems[:40])))
     if spec.get("review") and inside:
-        write_record(week, stage, {"status": "awaiting-review", "problems": [], "files": inside})
+        write_record(week, stage, dict(partial, status="awaiting-review", files=inside))
         out("%s passed the gate; %d file(s) await review:\n  %s" % (stage, len(inside), "\n  ".join(inside)))
         return 0
     if inside:
         git("add", "--", *inside)
-    write_record(week, stage, {"status": "passed", "problems": [], "files": inside,
-                               "note": "nothing changed" if not inside else None})
+    write_record(week, stage, dict(partial, status="passed", files=inside,
+                                   note="nothing changed" if not inside else None))
     out("%s PASSED (%d file(s) accepted)." % (stage, len(inside)))
     return 0
 
@@ -216,17 +234,41 @@ def cmd_review(cfg, week, stage, verdict, notes):
     problems = validate.check(spec["checks"])
     if drift:
         problems.append("files changed after the gate: " + ", ".join(drift))
+    rejected = rec.get("rejected") or []
     if verdict == "passed" and not problems:
         git("add", "--", *rec["files"])
-        write_record(week, stage, {"status": "passed", "problems": [], "files": rec["files"], "review": notes or "passed"})
-        out("%s PASSED review (%d file(s) accepted)." % (stage, len(rec["files"])))
+        record = {"status": "passed", "problems": rec.get("problems") or [], "files": rec["files"], "review": notes or "passed"}
+        if rejected:
+            record["rejected"] = rejected
+        write_record(week, stage, record)
+        out("%s PASSED review (%d file(s) accepted%s)." % (stage, len(rec["files"]),
+                                                          ", %d rejected at the gate" % len(rejected) if rejected else ""))
         return 0
     restored, removed = discard(changed)
     if verdict != "passed":
         problems.append("reviewer: " + (notes or "failed, no notes given"))
-    write_record(week, stage, {"status": "failed", "problems": problems, "files": [], "discarded": restored + removed,
-                               "review": notes})
+    write_record(week, stage, {"status": "failed", "problems": problems + (rec.get("problems") or []), "files": [],
+                               "discarded": sorted(set(restored + removed + rejected)), "review": notes})
     out("%s FAILED review; its changes were discarded:\n  %s" % (stage, "\n  ".join(problems)))
+    return 1
+
+
+def cmd_fresh(cfg, week):
+    """For runs that rely on GitHub Actions having fetched the data: the current season's
+    calendar must carry today's date. If not, record the fetch stage as failed."""
+    today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    path = os.path.join(ROOT, "data", "calendar", "%s.json" % today[:4])
+    try:
+        with open(path, encoding="utf-8") as f:
+            updated = json.load(f).get("updated")
+    except (OSError, ValueError):
+        updated = None
+    if updated == today:
+        out("The data was fetched today (%s)." % today)
+        return 0
+    problem = "data not fetched today: calendar updated %s, today is %s (UTC)" % (updated, today)
+    write_record(week, "fetch", {"status": "failed", "problems": [problem], "files": []})
+    out("fetch FAILED: " + problem)
     return 1
 
 
@@ -249,6 +291,8 @@ def cmd_summary(cfg, week):
         extra = ""
         if rec and rec.get("files"):
             extra = "  %d file(s)" % len(rec["files"])
+        if rec and rec.get("rejected"):
+            extra += "  %d file(s) rejected" % len(rec["rejected"])
         if rec and rec.get("note"):
             extra += "  (%s)" % rec["note"]
         out("  %-12s %s%s" % (stage, status, extra))
@@ -280,6 +324,8 @@ def main():
             return cmd_start(cfg, week)
         if command == "summary":
             return cmd_summary(cfg, week)
+        if command == "fresh":
+            return cmd_fresh(cfg, week)
         if command == "can-start":
             return cmd_can_start(cfg, week, stage)
         if command == "gate":

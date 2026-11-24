@@ -34,7 +34,10 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
    has to commit or discard them first.
 
 2. **Fetch.** If the arguments contain `no-fetch` (the weekly cloud routine: GitHub
-   Actions has already fetched the World Athletics data shortly before), record
+   Actions fetches the World Athletics data earlier the same morning), first run
+   `python scripts/check_stage.py fresh`. If it fails, the data has not been fetched
+   today: run `python scripts/check_stage.py summary` and stop, reporting that the
+   GitHub Actions fetch has not run yet. If it passes, record
    `python scripts/check_stage.py skip fetch fetched by GitHub Actions` and go to step 3.
    Otherwise run the `athletics-fetch` skill, then
    `python scripts/check_stage.py gate fetch`.
@@ -56,7 +59,8 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
    d. `python scripts/check_stage.py gate <stage>`
       - "PASSED" (nothing changed): go to the next stage.
       - "FAILED": its changes are already discarded. Go to the next stage.
-      - "await review": continue with e.
+      - "await review": continue with e. If the gate also says some files failed the
+        format checks, those are already discarded; the rest still go to review.
    e. Run the `athletics-check` skill with `<stage> <week>`. It answers with
       `VERDICT: passed` or `VERDICT: failed` and a list of problems.
    f. Record the verdict:
@@ -75,7 +79,8 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
 
 7. **Report** to the person, briefly:
    - the output of `python scripts/check_stage.py summary`;
-   - for each failed stage, one line on why (from the checker's output);
+   - for each failed stage, one line on why (from the checker's output), and the same
+     for each stage that had files rejected;
    - whether a newsletter was written and whether the work was pushed;
    - anything a stage reported as suspicious.
 

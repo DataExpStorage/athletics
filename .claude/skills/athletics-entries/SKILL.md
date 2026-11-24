@@ -28,8 +28,8 @@ Arguments: `$ARGUMENTS`
 4. For each race in `just_run`: compare the announced list with
    `data/results/<raceId>.json` (it holds the top 20 only). For an announced athlete who
    is missing and has no withdrawal recorded, search once for the reason and append a
-   `withdrawn` event, or add to the file's `note` that they did not appear in the top 20,
-   reason unknown.
+   `withdrawn` event, or put "not in the top 20, reason unknown" in the `note` of that
+   athlete's latest history event. Do not list missing athletes in the file's `note`.
 5. For each race in `backlog`: reconstruct the field after the event. Find the elite
    field announcements from before the race (organiser's site and press releases, World
    Athletics preview, press) and record each athlete with the date of the source that
@@ -39,6 +39,9 @@ Arguments: `$ARGUMENTS`
    `"searched": "<today>"` in the file, even if no announced field was found (then
    create the file with an empty `entries` list and say so in `note`), so the race
    leaves the backlog.
+
+The file's `note` says in a few sentences what is still missing; like every text field it
+must stay under 2,000 characters, or the checker throws the file away.
 
 ## The file
 

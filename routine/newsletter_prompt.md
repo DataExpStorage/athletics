@@ -1,8 +1,9 @@
 # Weekly update
 
 Run the `athletics-weekly` skill in this repository with the argument `no-fetch`, and
-follow it exactly. (GitHub Actions fetched the World Athletics data shortly before this
-run; do not fetch it again.)
+follow it exactly. (GitHub Actions fetches the World Athletics data earlier the same
+morning; do not fetch it again. The skill checks that this fetch has happened and stops
+if it has not.)
 
 That skill coordinates the weekly work as a pipeline of stages, each with its own skill
 in `.claude/skills/` and its own checker (`scripts/check_stage.py` and the

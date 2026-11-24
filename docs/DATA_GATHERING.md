@@ -174,7 +174,9 @@ shown for a starter is the best grade among the events since their last withdraw
 - After the race, compare the list with `data/results/<raceId>.json`. For an announced
   athlete not in the results with no withdrawal recorded, search once for the reason and
   record it, or note that they did not start, reason unknown. Bear in mind the results
-  hold only the top 20.
+  hold only the top 20. That note goes on the athlete's latest history event, not in the
+  file's `note`, which stays a few sentences long (every text field is limited to 2,000
+  characters by `scripts/validate.py`).
 - **Every race of the season is covered, not only upcoming ones.** Races already run
   whose field was never tracked form a backlog (`entries.backlog` in the work list, five
   per weekly run, Majors and Platinum first, most recent first). For these the field is

@@ -20,7 +20,9 @@ issue stays available. It should read in about three minutes.
    the next 10 days.
 2. The handoff records `pipeline/runs/<week>/<stage>.json` for `reports`, `prize-money`,
    `entries`, `team` and `news`. Read each one's `status`:
-   - `passed` or `skipped`: you may use that kind of data;
+   - `passed` or `skipped`: you may use that kind of data. If a `passed` record has a
+     `rejected` list, the files named there lost this week's update: for those races or
+     athletes use what was already in the repository and say it is last week's record;
    - `failed` or missing: that stage's new work was thrown away this week. Do not look for
      it; use only what was already in the repository, and say in your final report which
      section is thinner for it.
