@@ -1,0 +1,287 @@
+{
+ "id": "14786830",
+ "givenName": "Bayelign",
+ "familyName": "TESHAGER",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-02-09",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:31.03",
+   "venue": "Hengelo (NED)",
+   "date": "17 JUL 2019",
+   "resultScore": 1085,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:24",
+   "venue": "Herzogenaurach (GER)",
+   "date": "12 SEP 2021",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:22",
+   "venue": "New Delhi (IND)",
+   "date": "12 OCT 2025",
+   "resultScore": 1172,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "mark": "1:13:36",
+   "venue": "Kolkata (IND)",
+   "date": "15 DEC 2019",
+   "resultScore": 1138,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:23",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:31",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ras Al Khaimah Half Marathon",
+   "listPosition": "114"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:23",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Schneider Electric Marathon de Paris",
+   "listPosition": "61"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "24",
+   "mark": "2:09:26",
+   "score": 1140,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "39",
+   "mark": "1:01:52",
+   "score": 1112,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:05:23",
+   "score": 1215,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "11",
+   "mark": "1:00:31",
+   "score": 1166,
+   "competitionId": "7237781"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "30:00",
+     "venue": "Trieste (ITA)",
+     "date": "18 OCT 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "27:24",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:01:43",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:00:31",
+     "venue": "Azpeitia (ESP)",
+     "date": "30 MAR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "1:01:18",
+     "venue": "New Delhi (IND)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "1:04:31",
+     "venue": "Matosinhos (POR)",
+     "date": "05 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:22",
+     "venue": "New Delhi (IND)",
+     "date": "12 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:31",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "25 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:15:49",
+     "venue": "Kolkata (IND)",
+     "date": "16 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:13:36",
+     "venue": "Kolkata (IND)",
+     "date": "15 DEC 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:09:02",
+     "venue": "Osaka (JPN)",
+     "date": "26 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:56",
+     "venue": "Dubai (UAE)",
+     "date": "07 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:51",
+     "venue": "Fukuoka (JPN)",
+     "date": "07 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:23",
+     "venue": "Paris (FRA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "12.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "23:35",
+     "date": "26 MAR 2017"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "B.A.A. Boston Marathon",
+     "mark": "2:11:16",
+     "date": "11 OCT 2021"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 70,
+   "rankingScore": 1229
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 83,
+   "rankingScore": 1158
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 575,
+   "rankingScore": 1229
+  }
+ ],
+ "representative": {
+  "name": "Matthew TURNBULL",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.globalathletics.com/"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/bayelign-teshager-14786830"
+}

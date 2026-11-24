@@ -1,0 +1,154 @@
+{
+ "id": "14739729",
+ "givenName": "Tigist",
+ "familyName": "GIRMA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1993-07-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:52",
+   "venue": "Valencia (ESP)",
+   "date": "04 DEC 2022",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:33",
+   "venue": "Doha (QAT)",
+   "date": "16 JAN 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Doha Marathon by Ooredoo",
+   "listPosition": "80"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "2:29:16",
+   "score": 1124,
+   "competitionId": "7235574"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:22:33",
+   "score": 1188,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:32:48",
+     "venue": "Beirut (LBN)",
+     "date": "13 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:29:00",
+     "venue": "Beirut (LBN)",
+     "date": "12 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:26:44",
+     "venue": "Guangzhou (CHN)",
+     "date": "09 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:19:52",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:19:56",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:22:45",
+     "venue": "London (GBR)",
+     "date": "03 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:18:52",
+     "venue": "Valencia (ESP)",
+     "date": "04 DEC 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "2:20:47",
+     "venue": "Dubai (UAE)",
+     "date": "12 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:22:33",
+     "venue": "Doha (QAT)",
+     "date": "16 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:21:56",
+     "date": "01 MAR 2020"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 134,
+   "rankingScore": 1184
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 918,
+   "rankingScore": 1184
+  }
+ ],
+ "representative": {
+  "name": "Leo LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/tigist-girma-14739729"
+}

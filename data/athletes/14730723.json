@@ -1,0 +1,320 @@
+{
+ "id": "14730723",
+ "givenName": "Shura",
+ "familyName": "KITATA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-06-09",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:47",
+   "venue": "Houston, TX (USA)",
+   "date": "19 JAN 2020",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:59",
+   "venue": "Sevilla (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:20",
+   "venue": "Istanbul (TUR)",
+   "date": "19 APR 2026",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Half Marathon",
+   "listPosition": "285"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:03:59",
+   "venue": "Sevilla (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1242,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Maratón Sevilla",
+   "listPosition": "17"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:06:04",
+   "score": 1202,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Tartan Ottawa International Marathon, Ottawa",
+   "country": "CAN",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "2:11:12",
+   "score": 1109,
+   "competitionId": "7236100"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Istanbul Half Marathon, Istanbul",
+   "country": "TUR",
+   "category": "B",
+   "race": "F",
+   "place": "10",
+   "mark": "1:01:20",
+   "score": 1133,
+   "competitionId": "7236079"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-15",
+   "competition": "Zurich Maratón Sevilla, Sevilla",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:03:59",
+   "score": 1242,
+   "competitionId": "7236004"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:00:10",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:20",
+     "venue": "Houston, TX (USA)",
+     "date": "14 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:00:11",
+     "venue": "Houston, TX (USA)",
+     "date": "20 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "59:47",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2020"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:16",
+     "venue": "Houston, TX (USA)",
+     "date": "15 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:21",
+     "venue": "Meishan (CHN)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:01:20",
+     "venue": "Istanbul (TUR)",
+     "date": "19 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "2:08:53",
+     "venue": "Shanghai (CHN)",
+     "date": "08 NOV 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:10:04",
+     "venue": "Ottawa (CAN)",
+     "date": "29 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:05:50",
+     "venue": "Frankfurt (GER)",
+     "date": "29 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:04:49",
+     "venue": "London (GBR)",
+     "date": "22 APR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:05:01",
+     "venue": "London (GBR)",
+     "date": "28 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:05:41",
+     "venue": "London (GBR)",
+     "date": "04 OCT 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:07:51",
+     "venue": "London (GBR)",
+     "date": "03 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:06:12",
+     "venue": "Tokyo (JPN)",
+     "date": "06 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:11",
+     "venue": "New York, NY (USA)",
+     "date": "05 NOV 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:02",
+     "venue": "Frankfurt (GER)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:03:59",
+     "venue": "Sevilla (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "Virgin Money London Marathon",
+     "mark": "2:05:41",
+     "date": "04 OCT 2020"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:08:54",
+     "date": "06 NOV 2022"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "New York Marathon",
+     "mark": "2:06:01",
+     "date": "04 NOV 2018"
+    },
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "London Marathon",
+     "mark": "2:04:49",
+     "date": "22 APR 2018"
+    },
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "TCS New York Marathon",
+     "mark": "2:07:11",
+     "date": "05 NOV 2023"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:06:12",
+     "date": "06 MAR 2022"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Virgin Money London Marathon",
+     "mark": "2:07:51",
+     "date": "03 OCT 2021"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:06:04",
+     "date": "27 SEP 2026"
+    },
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Virgin Money London Marathon",
+     "mark": "2:05:01",
+     "date": "28 APR 2019"
+    },
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:10:39",
+     "date": "03 NOV 2019"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 47,
+   "rankingScore": 1257
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 376,
+   "rankingScore": 1257
+  }
+ ],
+ "representative": {
+  "name": "Dawit Hiluf DESTA",
+  "country": "Ethiopia",
+  "website": null
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/shura-kitata-14730723"
+}

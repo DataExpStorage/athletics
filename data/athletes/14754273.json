@@ -1,0 +1,151 @@
+{
+ "id": "14754273",
+ "givenName": "Azmera",
+ "familyName": "ABREHA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-01-31",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:08:20",
+   "venue": "Cardiff (GBR)",
+   "date": "06 OCT 2019",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:33",
+   "venue": "Valencia (ESP)",
+   "date": "01 DEC 2019",
+   "resultScore": 1226,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:48",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Marathon",
+   "listPosition": "139"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:24:48",
+   "score": 1166,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-06",
+   "competition": "Shenyang Marathon, Shenyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:30:22",
+   "score": 1114,
+   "competitionId": "7238739"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-07",
+   "competition": "Maratona da Cidade do Rio de Janeiro, Rio de Janeiro - Elite Event",
+   "country": "BRA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "2:26:20",
+   "score": 1152,
+   "competitionId": "7239891"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:09:55",
+     "venue": "Rabat (MAR)",
+     "date": "13 MAR 2016"
+    },
+    {
+     "season": "2019",
+     "mark": "1:08:20",
+     "venue": "Cardiff (GBR)",
+     "date": "06 OCT 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:25:23",
+     "venue": "Amsterdam (NED)",
+     "date": "15 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:21:51",
+     "venue": "Shanghai (CHN)",
+     "date": "18 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:18:33",
+     "venue": "Valencia (ESP)",
+     "date": "01 DEC 2019"
+    },
+    {
+     "season": "2025",
+     "mark": "2:27:50",
+     "venue": "Abu Dhabi (UAE)",
+     "date": "13 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:48",
+     "venue": "Istanbul (TUR)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 122,
+   "rankingScore": 1190
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 841,
+   "rankingScore": 1190
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/ethiopia/azmera-abreha-14754273"
+}

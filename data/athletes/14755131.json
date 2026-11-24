@@ -1,0 +1,397 @@
+{
+ "id": "14755131",
+ "givenName": "Julia",
+ "familyName": "PATERNAIN",
+ "country": "URU",
+ "countryName": "Uruguay",
+ "birthDate": "1999-09-29",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:18.0h",
+   "venue": "Ipswich (GBR)",
+   "date": "20 MAY 2017",
+   "resultScore": 863,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:29.12",
+   "venue": "Watford (GBR)",
+   "date": "26 MAY 2018",
+   "resultScore": 983,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "5:09.37",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "14 JAN 2022",
+   "resultScore": 879,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "5:09.37",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "14 JAN 2022",
+   "resultScore": 879,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:23.07",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "23 JUN 2018",
+   "resultScore": 1030,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:36.01",
+   "venue": "University Park, PA (USA) (i)",
+   "date": "16 FEB 2019",
+   "resultScore": 1008,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:36.01=",
+   "venue": "Ashenfelter Indoor Track, State College, PA (USA) (i)",
+   "date": "14 DEC 2019",
+   "resultScore": 1008,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:00.10",
+   "venue": "Charlottesville, VA (USA)",
+   "date": "20 APR 2019",
+   "resultScore": 1049,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:22.91",
+   "venue": "Iowa City, IA (USA)",
+   "date": "10 MAY 2019",
+   "resultScore": 1067,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Road",
+   "mark": "4:56.0h",
+   "venue": "London (GBR)",
+   "date": "28 MAY 2017",
+   "resultScore": 939,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:43",
+   "venue": "Oderzo (ITA)",
+   "date": "01 MAY 2018",
+   "resultScore": 972,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:57",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "53:26",
+   "venue": "St. Paul, Minneapolis, MN (USA)",
+   "date": "06 OCT 2024",
+   "resultScore": 1096,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:16",
+   "venue": "Indianapolis, IN (USA)",
+   "date": "09 NOV 2024",
+   "resultScore": 1124,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:47",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:57",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TD Beach to Beacon 10K Road Race",
+   "listPosition": "304"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:42",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1115,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "272"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:47",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "174"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "12",
+   "mark": "2:29:09",
+   "score": 1125,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "36",
+   "mark": "1:10:42",
+   "score": 1115,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-01",
+   "competition": "TD Beach to Beacon 10K Road Race, 1000 Shore Road, Cape Elizabeth, ME",
+   "country": "USA",
+   "category": "C",
+   "race": "F",
+   "place": "10",
+   "mark": "32:57",
+   "score": 1089,
+   "competitionId": "7240792"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "8",
+   "mark": "2:25:47",
+   "score": 1157,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-02-15",
+   "competition": "Mesa Marathon - 10K, Mesa, AZ",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "4",
+   "mark": "33:04",
+   "score": 1074,
+   "competitionId": "7238797"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "5:09.37",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "14 JAN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "5:09.37",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "14 JAN 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "5:07.0h",
+     "venue": "London (GBR)",
+     "date": "29 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "4:56.0h",
+     "venue": "London (GBR)",
+     "date": "28 MAY 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "16:43",
+     "venue": "Oderzo (ITA)",
+     "date": "01 MAY 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "32:57",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "01 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:10:16",
+     "venue": "Indianapolis, IN (USA)",
+     "date": "09 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:12:01",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:10:42",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:27:09",
+     "venue": "Rockland Lake State Park, Congers, NY (USA)",
+     "date": "30 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:25:47",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:27:23",
+     "date": "14 SEP 2025"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:25:47",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 48,
+   "rankingScore": 1241
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 333,
+   "rankingScore": 1092
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 353,
+   "rankingScore": 1241
+  }
+ ],
+ "representative": {
+  "name": "James MC KIRDY",
+  "country": "United States",
+  "website": "https://www.mckirdytrained.com"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/uruguay/julia-paternain-14755131"
+}

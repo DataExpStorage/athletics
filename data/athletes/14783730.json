@@ -1,0 +1,225 @@
+{
+ "id": "14783730",
+ "givenName": "Ivyne",
+ "familyName": "JERUTO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1993-02-28",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "16:05",
+   "venue": "Arezzo (ITA)",
+   "date": "25 MAY 2019",
+   "resultScore": 1040,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:16",
+   "venue": "Roma (ITA)",
+   "date": "01 NOV 2019",
+   "resultScore": 1073,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:11:59",
+   "venue": "Fiesso d'Artico (ITA)",
+   "date": "09 APR 2017",
+   "resultScore": 1089,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:21",
+   "venue": "Amsterdam (NED)",
+   "date": "20 OCT 2024",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:31",
+   "venue": "Málaga (ESP)",
+   "date": "08 NOV 2026",
+   "resultScore": 1188,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Generali Maratón de Málaga",
+   "listPosition": "78"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-08",
+   "competition": "Generali Maratón de Málaga, Málaga",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "2:22:31",
+   "score": 1188,
+   "competitionId": "7244448"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Kigali International Peace Marathon, Kigali",
+   "country": "RWA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:35:35",
+   "score": 1066,
+   "competitionId": "7239888"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:33:12",
+   "score": 1088,
+   "competitionId": "7235571"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "16:05",
+     "venue": "Arezzo (ITA)",
+     "date": "25 MAY 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "33:36",
+     "venue": "Valenciennes (FRA)",
+     "date": "12 APR 2015"
+    },
+    {
+     "season": "2018",
+     "mark": "33:34",
+     "venue": "Roma (ITA)",
+     "date": "01 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "33:16",
+     "venue": "Roma (ITA)",
+     "date": "01 NOV 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:11:59",
+     "venue": "Fiesso d'Artico (ITA)",
+     "date": "09 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:15:19",
+     "venue": "Telese Terme (ITA)",
+     "date": "07 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:12:41",
+     "venue": "Banja Luka (BIH)",
+     "date": "20 APR 2019"
+    },
+    {
+     "season": "2019",
+     "mark": "1:12:41",
+     "venue": "Vinovo (ITA)",
+     "date": "22 SEP 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "1:14:00",
+     "venue": "Izmir (TUR)",
+     "date": "10 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:41:54",
+     "venue": "Sofia (BUL)",
+     "date": "13 OCT 2019"
+    },
+    {
+     "season": "2023",
+     "mark": "2:42:24",
+     "venue": "Beograd (SRB)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:21",
+     "venue": "Amsterdam (NED)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:29:45",
+     "venue": "Paris (FRA)",
+     "date": "13 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:22:31",
+     "venue": "Málaga (ESP)",
+     "date": "08 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 184,
+   "rankingScore": 1166
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1256,
+   "rankingScore": 1166
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-24",
+ "source": "https://worldathletics.org/athletes/kenya/ivyne-jeruto-14783730"
+}
