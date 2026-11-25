@@ -51,41 +51,76 @@
     return m[1].split(':').reduce(function (t, p) { return t * 60 + parseInt(p, 10); }, 0) + parseFloat(m[2] || 0);
   }
   var RUN_WINDOW_DAYS = 30;
+  function addDays(iso, n) { return new Date(Date.parse(iso) + n * 86400000).toISOString().slice(0, 10); }
+  function listRank(list, mark) {
+    var s = secs(mark);
+    if (s === null) return undefined;
+    var rank = 1 + list.rows.filter(function (x) { var t = secs(x.mark); return t !== null && t < s; }).length;
+    return rank <= list.rows.length ? rank : null;
+  }
+  // Priority-race top 20s plus, from the season top lists, marks set at other races
+  // (the lists hold each athlete's season best only). The window is the 30 days up to
+  // the latest of either.
+  // season-list marks of one gender ('women'/'men') that were not set at a followed race
+  function otherMarks(run, g) {
+    var others = [];
+    Object.keys(D.toplists).forEach(function (key) {
+      if (key.slice(-g.length - 1) !== '-' + g) return;
+      var dist = key.slice(0, -g.length - 1);
+      D.toplists[key].rows.forEach(function (x) {
+        if (!x.date || x.date > TODAY) return;
+        var atPriority = run.some(function (r) {
+          return x.date >= r.startDate && x.date <= r.endDate && (r.venue === x.venue ||
+            r.events.some(function (ev) { return ev.results.some(function (y) { return y.id && y.id === x.id; }); }));
+        });
+        if (!atPriority) others.push({ dist: dist, x: x });
+      });
+    });
+    return others;
+  }
   function latestRuns(gender) {
     var run = D.races.filter(isRun);
-    if (!run.length) return { from: null, rows: [] };
-    var last = run[run.length - 1].startDate;
-    var from = new Date(Date.parse(last) - RUN_WINDOW_DAYS * 86400000).toISOString().slice(0, 10);
+    var g = gender === 'W' ? 'women' : 'men';
+    var others = otherMarks(run, g);
+    // one window for both genders
+    var dates = run.map(function (r) { return r.startDate; })
+      .concat(others.concat(otherMarks(run, gender === 'W' ? 'men' : 'women')).map(function (o) { return o.x.date; }));
+    if (!dates.length) return { from: null, rows: [] };
+    var last = dates.reduce(function (a, b) { return a > b ? a : b; });
+    var from = addDays(last, -RUN_WINDOW_DAYS);
     var rows = [];
     run.filter(function (r) { return r.startDate >= from; }).forEach(function (r) {
       r.events.filter(function (ev) { return ev.gender === gender; }).forEach(function (ev) {
-        var list = D.toplists[ev.distance + '-' + (gender === 'W' ? 'women' : 'men')];
+        var list = D.toplists[ev.distance + '-' + g];
         if (!list) return;
-        var times = list.rows.map(function (x) { return secs(x.mark); });
         ev.results.forEach(function (x) {
-          var s = secs(x.mark);
-          if (s === null) return;
-          var rank = 1 + times.filter(function (t) { return t < s; }).length;
-          rows.push({ r: r, ev: ev, x: x, rank: rank <= times.length ? rank : null });
+          var rank = listRank(list, x.mark);
+          if (rank !== undefined) rows.push({ r: r, dist: ev.distance, date: r.startDate, x: x, place: x.place, rank: rank });
         });
       });
     });
-    rows.sort(function (a, b) { return (a.rank || 999) - (b.rank || 999) || parseInt(a.x.place, 10) - parseInt(b.x.place, 10); });
+    others.filter(function (o) { return o.x.date >= from; }).forEach(function (o) {
+      var rank = listRank(D.toplists[o.dist + '-' + g], o.x.mark);
+      if (rank !== undefined) rows.push({ r: null, dist: o.dist, date: o.x.date, x: o.x, place: o.x.pos, rank: rank });
+    });
+    rows.sort(function (a, b) { return (a.rank || 999) - (b.rank || 999) || (parseInt(a.place, 10) || 99) - (parseInt(b.place, 10) || 99); });
     return { from: from, to: last, rows: rows };
   }
   function runsTable(gender, limit) {
     var rows = latestRuns(gender).rows.slice(0, limit);
     if (!rows.length) return '<p class="muted">No results in this period.</p>';
     return simpleTable([['Time'], ['Athlete'], ['Race'], ['Place', 1], [D.season + ' list', 1]], rows.map(function (p) {
-      return '<tr><td class="mark">' + esc(p.x.mark) + records(p.x.records) + '</td><td>' + athleteLink(p.x.id, p.x.name) + ' <span class="muted">' + esc(p.x.nat) + '</span></td><td>' +
-        raceLink(p.r) + '<div class="muted">' + distName(p.ev.distance) + ' · ' + fmtDate(p.r.startDate) + '</div></td><td class="num">' + esc(p.x.place) +
+      var race = p.r ? raceLink(p.r) : esc(p.x.venue) + ' <span class="badge" title="Not one of the followed races; mark from the World Athletics season list">other race</span>';
+      return '<tr><td class="mark">' + esc(p.x.mark) + (p.r ? records(p.x.records) : '') + '</td><td>' + athleteLink(p.x.id, p.x.name) + ' <span class="muted">' + esc(p.x.nat) + '</span></td><td>' +
+        race + '<div class="muted">' + distName(p.dist) + ' · ' + fmtDate(p.date) + '</div></td><td class="num">' + esc(p.place) +
         '</td><td class="num">' + (p.rank ? '#' + p.rank : '<span class="muted">–</span>') + '</td></tr>';
     }));
   }
   function runsNote() {
     var w = latestRuns('W');
-    return 'Top-20 finishes in priority races from ' + fmtDate(w.from) + ' to ' + fmtDate(w.to) + ', ordered by where the time sits among the fastest athletes of ' + D.season +
-      ' at that distance (– = outside the top 100).';
+    if (!w.from) return 'No results yet this season.';
+    return 'Top-20 finishes in priority races, plus top-100 marks set at other races (from the World Athletics season lists, which keep each athlete\'s best only), from ' +
+      fmtDate(w.from) + ' to ' + fmtDate(w.to) + ', ordered by where the time sits among the fastest athletes of ' + D.season + ' at that distance (– = outside the top 100).';
   }
   function viewRuns() {
     return '<h1>Latest runs</h1><p class="sub">' + runsNote() + '</p><div class="grid2"><div class="card"><h2>Women</h2>' + runsTable('W', 25) +
@@ -115,8 +150,9 @@
         '<div class="win">' + esc(e.reason || 'No reason given.') + (h.note ? ' <span>' + esc(h.note) + '</span>' : '') + '</div></li>';
     }).join('') + '</ul>';
   }
-  function entriesBody(r, compact) {
+  function entriesBody(r, compact, show) {
     var d = raceEntries(r);
+    show = show || 6;
     if (!d || !d.entries.length) return '<p class="muted" style="margin:0">No announced entries recorded yet for this race.</p>';
     var html = '';
     [['W', 'Women'], ['M', 'Men']].forEach(function (g) {
@@ -126,11 +162,11 @@
       if (!all.length) return;
       html += '<div><h3 style="margin-top:0">' + g[1] + '</h3>';
       if (inn.length) {
-        html += simpleTable(compact ? [['Athlete'], ['Best'], ['Source']] : [['Athlete'], ['Best'], ['Source'], ['First named'], ['Last confirmed']], (compact ? inn.slice(0, 6) : inn).map(function (e) {
+        html += simpleTable(compact ? [['Athlete'], ['Best'], ['Source']] : [['Athlete'], ['Best'], ['Source'], ['First named'], ['Last confirmed']], (compact ? inn.slice(0, show) : inn).map(function (e) {
           return '<tr><td>' + entryName(e) + '</td><td class="mark">' + esc(e.pb || '') + '</td><td class="nowrap">' + relTag(e.reliability) + '</td>' +
             (compact ? '' : '<td class="nowrap">' + fmtDate(e.firstDate, true) + '</td><td class="nowrap">' + fmtDate(e.lastDate, true) + '</td>') + '</tr>';
         }));
-        if (compact && inn.length > 6) html += '<p class="muted" style="margin:6px 0 0">and ' + (inn.length - 6) + ' more</p>';
+        if (compact && inn.length > show) html += '<p class="muted" style="margin:6px 0 0">and ' + (inn.length - show) + ' more</p>';
       }
       html += withdrawalsHtml(out) + '</div>';
     });
@@ -157,8 +193,19 @@
       (d ? changeLog(r) + '<p class="muted" style="margin:10px 0 0">' + (d.note ? esc(d.note) + ' ' : '') + 'Last checked ' + fmtDate(d.checked, true) +
         '. ● Official = organiser or athlete; ◐ Reported = news outlet; ○ Unconfirmed = single secondary source.</p>' : '') + '</div>';
   }
-  // upcoming races come from every season, so December shows January's races too
-  function upcoming() { return ALL.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }); }
+  // Priority of a race: Major / Platinum / Championship / Gold / others, then marathon / half / 10 km / others.
+  function priority(r) {
+    var tier = r.major ? 0 : ({ Platinum: 1, Championship: 2, Gold: 3 }[r.tier] || 4);
+    var dist = { 'marathon': 0, 'half-marathon': 1, '10km': 2 }[r.distance];
+    return tier * 10 + (dist === undefined ? 3 : dist);
+  }
+  // upcoming races come from every season, so December shows January's races too;
+  // in date order, and by priority within the same day
+  function upcoming() {
+    return ALL.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }).sort(function (a, b) {
+      return a.startDate < b.startDate ? -1 : a.startDate > b.startDate ? 1 : priority(a) - priority(b);
+    });
+  }
   function viewNext() {
     var next = upcoming();
     return '<h1>Running next</h1><p class="sub">Athletes announced for the upcoming priority races, with how reliable each announcement is, and everyone who has withdrawn.</p>' +
@@ -460,6 +507,22 @@
     }
     return html + '</li>';
   }
+  // Overview card: the races of the next 7 days; if none, those of the next 14 days;
+  // if none either, the top race of the next race day.
+  function nextRaceBlock(r, show) {
+    return '<div class="next-race"><h3 style="margin-top:0">' + raceLink(r) + '</h3><div class="racelist"><div class="meta" style="margin-bottom:8px"><span>' +
+      fmtDate(r.startDate, true) + '</span><span>' + esc(r.venue) + '</span>' + tierBadge(r) + '<span>' + distName(r.distance) + '</span></div></div>' +
+      entriesBody(r, true, show) + '</div>';
+  }
+  function runningNextBody(next) {
+    if (!next.length) return '<p class="muted" style="margin:0">No more priority races this season.</p>';
+    var within = function (days) { var to = addDays(TODAY, days); return next.filter(function (r) { return r.startDate <= to; }); };
+    var week = within(7), fortnight = within(14);
+    var list = function (races) { return races.map(function (r) { return nextRaceBlock(r, races.length > 1 ? 3 : 6); }).join(''); };
+    if (week.length) return list(week);
+    if (fortnight.length) return '<p class="muted" style="margin:0 0 10px">No races in the next 7 days. Coming up in the next 14 days:</p>' + list(fortnight);
+    return '<p class="muted" style="margin:0 0 10px">No races in the next 14 days.</p><p style="margin:0 0 10px"><b>Next major race:</b></p>' + list([next[0]]);
+  }
   function viewOverview() {
     var run = D.races.filter(isRun), next = upcoming();
     var left = D.races.filter(function (r) { return !isRun(r) && r.endDate >= TODAY; }).length;
@@ -485,9 +548,7 @@
       (next.length ? next.slice(0, 6).map(raceItem).join('') : '<li class="muted">No more priority races this season.</li>') + '</ul></div></div>';
     html += '<div class="card"><h2><a href="#/runs">Latest runs</a></h2><div class="grid2" style="margin-bottom:0"><div><h3 style="margin-top:0">Women</h3>' + runsTable('W', 5) +
       '</div><div><h3 style="margin-top:0">Men</h3>' + runsTable('M', 5) + '</div></div><p class="muted" style="margin:10px 0 0">' + runsNote() + ' <a href="#/runs">See all</a></p></div>';
-    var nextWith = next.filter(function (r) { return raceEntries(r); })[0];
-    html += '<div class="card"><h2><a href="#/next">Running next</a>' + (nextWith ? ': ' + esc(nextWith.name) + ', ' + fmtDate(nextWith.startDate) : '') + '</h2>' +
-      (nextWith ? entriesBody(nextWith, true) : '<p class="muted" style="margin:0">No announced entries recorded yet for the upcoming races.</p>') +
+    html += '<div class="card"><h2><a href="#/next">Running next</a></h2>' + runningNextBody(next) +
       '<p class="muted" style="margin:10px 0 0"><a href="#/next">All upcoming races and announced athletes</a></p></div>';
     var earners = Object.keys(prizeTotals).map(function (id) { return { id: id, t: prizeTotals[id] }; }).sort(function (a, b) { return b.t.usd - a.t.usd; });
     if (earners.length) {
