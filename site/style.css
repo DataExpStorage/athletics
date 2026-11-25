@@ -59,7 +59,6 @@ h3 { font-size: 14px; margin: 14px 0 6px; color: var(--ink-2); }
 .sub { color: var(--ink-2); margin: 0 0 18px; }
 .muted { color: var(--muted); }
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
-.next-race + .next-race { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border); }
 .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .grid2 > .card, .grid3 > .card { margin-bottom: 0; min-width: 0; }

@@ -150,9 +150,8 @@
         '<div class="win">' + esc(e.reason || 'No reason given.') + (h.note ? ' <span>' + esc(h.note) + '</span>' : '') + '</div></li>';
     }).join('') + '</ul>';
   }
-  function entriesBody(r, compact, show) {
-    var d = raceEntries(r);
-    show = show || 6;
+  function entriesBody(r, compact) {
+    var d = raceEntries(r), show = 6;
     if (!d || !d.entries.length) return '<p class="muted" style="margin:0">No announced entries recorded yet for this race.</p>';
     var html = '';
     [['W', 'Women'], ['M', 'Men']].forEach(function (g) {
@@ -507,21 +506,16 @@
     }
     return html + '</li>';
   }
-  // Overview card: the races of the next 7 days; if none, those of the next 14 days;
+  // Overview "Coming up": the races of the next 7 days; if none, those of the next 14 days;
   // if none either, the top race of the next race day.
-  function nextRaceBlock(r, show) {
-    return '<div class="next-race"><h3 style="margin-top:0">' + raceLink(r) + '</h3><div class="racelist"><div class="meta" style="margin-bottom:8px"><span>' +
-      fmtDate(r.startDate, true) + '</span><span>' + esc(r.venue) + '</span>' + tierBadge(r) + '<span>' + distName(r.distance) + '</span></div></div>' +
-      entriesBody(r, true, show) + '</div>';
-  }
-  function runningNextBody(next) {
-    if (!next.length) return '<p class="muted" style="margin:0">No more priority races this season.</p>';
+  function comingUpBody(next) {
+    if (!next.length) return '<ul class="racelist"><li class="muted">No more priority races this season.</li></ul>';
     var within = function (days) { var to = addDays(TODAY, days); return next.filter(function (r) { return r.startDate <= to; }); };
     var week = within(7), fortnight = within(14);
-    var list = function (races) { return races.map(function (r) { return nextRaceBlock(r, races.length > 1 ? 3 : 6); }).join(''); };
+    var list = function (races) { return '<ul class="racelist">' + races.map(raceItem).join('') + '</ul>'; };
     if (week.length) return list(week);
-    if (fortnight.length) return '<p class="muted" style="margin:0 0 10px">No races in the next 7 days. Coming up in the next 14 days:</p>' + list(fortnight);
-    return '<p class="muted" style="margin:0 0 10px">No races in the next 14 days.</p><p style="margin:0 0 10px"><b>Next major race:</b></p>' + list([next[0]]);
+    if (fortnight.length) return '<p class="muted" style="margin:0 0 6px">No races in the next 7 days. Coming up in the next 14 days:</p>' + list(fortnight);
+    return '<p class="muted" style="margin:0 0 6px">No races in the next 14 days.</p><p style="margin:0 0 6px"><b>Next major race:</b></p>' + list([next[0]]);
   }
   function viewOverview() {
     var run = D.races.filter(isRun), next = upcoming();
@@ -544,11 +538,12 @@
     html += '<div class="card"><h2>Season at a glance</h2>' + timeline() + '</div>';
     html += '<div class="grid2"><div class="card"><h2>Latest results</h2><ul class="racelist">' +
       run.slice(-6).reverse().map(raceItem).join('') + '</ul></div>' +
-      '<div class="card"><h2>Coming up</h2><ul class="racelist">' +
-      (next.length ? next.slice(0, 6).map(raceItem).join('') : '<li class="muted">No more priority races this season.</li>') + '</ul></div></div>';
+      '<div class="card"><h2>Coming up</h2>' + comingUpBody(next) + '</div></div>';
     html += '<div class="card"><h2><a href="#/runs">Latest runs</a></h2><div class="grid2" style="margin-bottom:0"><div><h3 style="margin-top:0">Women</h3>' + runsTable('W', 5) +
       '</div><div><h3 style="margin-top:0">Men</h3>' + runsTable('M', 5) + '</div></div><p class="muted" style="margin:10px 0 0">' + runsNote() + ' <a href="#/runs">See all</a></p></div>';
-    html += '<div class="card"><h2><a href="#/next">Running next</a></h2>' + runningNextBody(next) +
+    var nextWith = next.filter(function (r) { return raceEntries(r); })[0];
+    html += '<div class="card"><h2><a href="#/next">Running next</a>' + (nextWith ? ': ' + esc(nextWith.name) + ', ' + fmtDate(nextWith.startDate) : '') + '</h2>' +
+      (nextWith ? entriesBody(nextWith, true) : '<p class="muted" style="margin:0">No announced entries recorded yet for the upcoming races.</p>') +
       '<p class="muted" style="margin:10px 0 0"><a href="#/next">All upcoming races and announced athletes</a></p></div>';
     var earners = Object.keys(prizeTotals).map(function (id) { return { id: id, t: prizeTotals[id] }; }).sort(function (a, b) { return b.t.usd - a.t.usd; });
     if (earners.length) {
