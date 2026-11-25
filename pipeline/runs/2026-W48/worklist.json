@@ -1,5 +1,5 @@
 {
- "today": "2026-11-23",
+ "today": "2026-11-25",
  "week": "2026-W48",
  "seasons": [
   2026
@@ -9,33 +9,6 @@
  "reports": {
   "this_week": [],
   "backlog": [
-   {
-    "id": 7237360,
-    "name": "XL Medio Maratón Internacional Guadalajara Electrolit",
-    "date": "2026-02-22",
-    "tier": "Platinum",
-    "major": false,
-    "distance": "half-marathon",
-    "venue": "Guadalajara (MEX)"
-   },
-   {
-    "id": 7235936,
-    "name": "Osaka Women's Marathon",
-    "date": "2026-01-25",
-    "tier": "Platinum",
-    "major": false,
-    "distance": "marathon",
-    "venue": "Osaka (JPN)"
-   },
-   {
-    "id": 7235565,
-    "name": "C&D Xiamen Marathon",
-    "date": "2026-01-11",
-    "tier": "Platinum",
-    "major": false,
-    "distance": "marathon",
-    "venue": "Xiamen (CHN)"
-   },
    {
     "id": 7235594,
     "name": "Hangzhou Marathon",
@@ -53,6 +26,33 @@
     "major": false,
     "distance": "marathon",
     "venue": "Istanbul (TUR)"
+   },
+   {
+    "id": 7246125,
+    "name": "Mainova Frankfurt Marathon",
+    "date": "2026-10-25",
+    "tier": "Extra",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Frankfurt (GER)"
+   },
+   {
+    "id": 7236427,
+    "name": "Jakarta Running Festival - Half Marathon",
+    "date": "2026-10-24",
+    "tier": "Gold",
+    "major": false,
+    "distance": "half-marathon",
+    "venue": "Jakarta (INA)"
+   },
+   {
+    "id": 7235592,
+    "name": "Yellow River Estuary Dongying Marathon",
+    "date": "2026-10-18",
+    "tier": "Gold",
+    "major": false,
+    "distance": "marathon",
+    "venue": "Dongying (CHN)"
    }
   ]
  },
@@ -281,108 +281,108 @@
  "team": {
   "new_profiles": [
    {
-    "athleteId": "14275729",
-    "name": "Eilish MCCOLGAN",
-    "country": "GBR"
+    "athleteId": "14193865",
+    "name": "Richard RINGER",
+    "country": "GER"
    },
    {
-    "athleteId": "14276523",
-    "name": "Calli HAUGER-THACKERY",
-    "country": "GBR"
+    "athleteId": "14269741",
+    "name": "Volha MAZURONAK",
+    "country": "BLR"
    },
    {
-    "athleteId": "14289351",
-    "name": "Priscah Jepleting CHERONO",
+    "athleteId": "14288983",
+    "name": "Philomena CHEYECH",
     "country": "KEN"
    },
    {
-    "athleteId": "14326294",
-    "name": "Mare DIBABA",
-    "country": "ETH"
-   },
-   {
-    "athleteId": "14375882",
-    "name": "Margaret Chelimo KIPKEMBOI",
-    "country": "KEN"
-   },
-   {
-    "athleteId": "14383158",
-    "name": "Shitaye ESHETE",
-    "country": "BRN"
-   },
-   {
-    "athleteId": "14413330",
-    "name": "Othmane EL GOUMRI",
-    "country": "MAR"
-   },
-   {
-    "athleteId": "14423680",
-    "name": "Geoffrey KAMWOROR",
-    "country": "KEN"
-   },
-   {
-    "athleteId": "14423913",
-    "name": "Eunice Chebichii CHUMBA",
-    "country": "BRN"
-   },
-   {
-    "athleteId": "14464221",
-    "name": "Muktar EDRIS",
-    "country": "ETH"
-   },
-   {
-    "athleteId": "14477333",
-    "name": "Tigist GASHAW",
-    "country": "BRN"
-   },
-   {
-    "athleteId": "14477373",
-    "name": "Haftamnesh TESFAYE",
-    "country": "ETH"
-   },
-   {
-    "athleteId": "14477377",
-    "name": "Roman GIDEY",
-    "country": "ETH"
-   },
-   {
-    "athleteId": "14485673",
-    "name": "Carrie ELLWOOD",
+    "athleteId": "14305595",
+    "name": "Sara HALL",
     "country": "USA"
    },
    {
-    "athleteId": "14515907",
-    "name": "Glenrose XABA",
-    "country": "RSA"
+    "athleteId": "14413304",
+    "name": "Esther CHEMTAI",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14428737",
+    "name": "Afewerk MESFIN",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14438913",
+    "name": "Asefa MENGSTU",
+    "country": "ETH"
+   },
+   {
+    "athleteId": "14441541",
+    "name": "Mustapha HOUDADI",
+    "country": "MAR"
+   },
+   {
+    "athleteId": "14441904",
+    "name": "Natsuki OMORI",
+    "country": "JPN"
+   },
+   {
+    "athleteId": "14464195",
+    "name": "Brillian Jepkorir KIPKOECH",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14479236",
+    "name": "Selah BUSIENEI",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14504791",
+    "name": "Alisa VAINIO",
+    "country": "FIN"
+   },
+   {
+    "athleteId": "14519260",
+    "name": "Isobel BATT-DOYLE",
+    "country": "AUS"
+   },
+   {
+    "athleteId": "14524534",
+    "name": "Victor KIPCHIRCHIR",
+    "country": "KEN"
+   },
+   {
+    "athleteId": "14530653",
+    "name": "Gladys CHEPKURUI",
+    "country": "KEN"
    }
   ],
   "to_verify": [
    {
-    "athleteId": "14390193",
-    "name": "Fabienne KÖNIGSTEIN",
+    "athleteId": "14598253",
+    "name": "Sanjivani JADHAV",
     "checked": "2026-11-16"
    },
    {
-    "athleteId": "14460738",
-    "name": "Andreas ALMGREN",
+    "athleteId": "14602693",
+    "name": "Sichala KUMESHI",
     "checked": "2026-11-16"
    },
    {
-    "athleteId": "14526495",
-    "name": "Kidsan ALEMA",
+    "athleteId": "14629097",
+    "name": "Guye Idemo ADOLA",
     "checked": "2026-11-16"
    },
    {
-    "athleteId": "14593938",
-    "name": "Peres JEPCHIRCHIR",
+    "athleteId": "14679812",
+    "name": "Fotyen TESFAY",
     "checked": "2026-11-16"
    },
    {
-    "athleteId": "14594967",
-    "name": "Yomif KEJELCHA",
+    "athleteId": "14684778",
+    "name": "Sharon LOKEDI",
     "checked": "2026-11-16"
    }
   ],
-  "waiting": 130
+  "waiting": 170
  }
 }

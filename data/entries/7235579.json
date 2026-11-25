@@ -1,0 +1,172 @@
+{
+ "raceId": 7235579,
+ "race": "TCS Sydney Marathon Presented by ASICS",
+ "checked": "2026-11-25",
+ "searched": "2026-11-25",
+ "note": "Field reconstructed from the organisers' release of 29 Jun 2026 and the World Athletics preview of 27 Aug 2026. No withdrawal announcements were found; Ruti Aga, named in June, is not in the August list. Best times missing from the June release are taken from the World Athletics preview.",
+ "entries": [
+  {"name": "Alphonce Felix SIMBU", "nat": "TAN", "gender": "M", "pb": "2:02:47", "athleteId": "14487535", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Listed as Alphonce Simbu.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Sisay LEMMA", "nat": "ETH", "gender": "M", "pb": "2:01:48", "athleteId": "14547527", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Timothy KIPLAGAT", "nat": "KEN", "gender": "M", "pb": "2:02:55", "athleteId": "14825076", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Vincent Kipkemoi NGETICH", "nat": "KEN", "gender": "M", "pb": "2:03:13", "athleteId": "14813827", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Listed as Vincent Ngetich.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Hailemaryam KIROS", "nat": "ETH", "gender": "M", "pb": "2:04:35", "athleteId": "14921809", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Addisu GOBENA", "nat": "ETH", "gender": "M", "pb": "2:05:01", "athleteId": "15113613", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Tebello RAMAKONGOANA", "nat": "LES", "gender": "M", "pb": "2:04:18", "athleteId": "14794838", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Hagos GEBRHIWET", "nat": "ETH", "gender": "M", "pb": "debut", "athleteId": "14477352", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Marathon debut.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Andrew BUCHANAN", "nat": "AUS", "gender": "M", "pb": "2:06:22", "athleteId": "14446838", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Listed as Andy Buchanan, making his Sydney debut.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Tim VINCENT", "nat": "AUS", "gender": "M", "pb": "", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "No best given.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "note": "Named in the preview text. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Liam BOUDIN", "nat": "AUS", "gender": "M", "pb": "", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "No best given.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "note": "Named in the preview text. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Tom DO CANTO", "nat": "AUS", "gender": "M", "pb": "", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "No best given. Not in the top 20, reason unknown.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"}
+  ]},
+  {"name": "Dawit WOLDE", "nat": "ETH", "gender": "M", "pb": "2:03:48", "athleteId": "14181700", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Leul GEBRESILASE", "nat": "ETH", "gender": "M", "pb": "2:04:02", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Seifu TURA", "nat": "ETH", "gender": "M", "pb": "2:04:29", "athleteId": "14679817", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Gilbert KIBET", "nat": "KEN", "gender": "M", "pb": "2:04:31", "athleteId": "14920360", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Chimdessa DEBELE", "nat": "ETH", "gender": "M", "pb": "2:04:44", "athleteId": "14923869", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Listed as Chimdesa Debele.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Enock KINYAMAL", "nat": "KEN", "gender": "M", "pb": "2:04:46", "athleteId": "15051043", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Chalu DESO", "nat": "ETH", "gender": "M", "pb": "2:04:53", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Kennedy KIMUTAI", "nat": "KEN", "gender": "M", "pb": "2:04:56", "athleteId": "14847931", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Chala REGASA", "nat": "ETH", "gender": "M", "pb": "2:05:06", "athleteId": "14650107", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Listed as Chala Regassa.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Ibrahim HASSAN", "nat": "DJI", "gender": "M", "pb": "2:05:20", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Jemal MEKONEN", "nat": "ETH", "gender": "M", "pb": "2:05:48", "athleteId": "14757695", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Listed as Jemal Yimmer; the World Athletics race report calls him both Jemal Yimmer and Jemal Mekonnen.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Melaku BELACHEW", "nat": "ETH", "gender": "M", "pb": "2:06:30", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Ethan SHULEY", "nat": "USA", "gender": "M", "pb": "2:07:14", "athleteId": "14706279", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Kosei SHIRAISHI", "nat": "JPN", "gender": "M", "pb": "2:08:42", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Peres JEPCHIRCHIR", "nat": "KEN", "gender": "W", "pb": "2:14:43", "athleteId": "14593938", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Irine Chepet CHEPTAI", "nat": "KEN", "gender": "W", "pb": "2:17:51", "athleteId": "14288936", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Listed as Irine Cheptai.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Magdalena SHAURI", "nat": "TAN", "gender": "W", "pb": "2:18:03", "athleteId": "14731840", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown; the World Athletics race report has her in the chase in the first half.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Stella CHESANG", "nat": "UGA", "gender": "W", "pb": "2:18:26", "athleteId": "14464203", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Ruti AGA", "nat": "ETH", "gender": "W", "pb": "", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "No best given in the release. Not in the 27 Aug World Athletics list; not in the top 20, reason unknown.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"}
+  ]},
+  {"name": "Haven Hailu DESSE", "nat": "ETH", "gender": "W", "pb": "2:19:09", "athleteId": "14816253", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "Listed as Haven Hailu.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Vivian CHERUIYOT", "nat": "KEN", "gender": "W", "pb": "2:18:31", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"},
+   {"date": "2026-08-28", "type": "confirmed", "reliability": "official", "note": "World Athletics feature saying she had travelled to Sydney to race. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/vivian-cheruiyot-kenya-sydney-marathon"}
+  ]},
+  {"name": "Ellie PASHLEY", "nat": "AUS", "gender": "W", "pb": "2:26:21", "athleteId": "14448453", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"},
+   {"date": "2026-08-27", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Caitlin SCOTT", "nat": "AUS", "gender": "W", "pb": "", "athleteId": "14554526", "history": [
+   {"date": "2026-06-29", "type": "announced", "reliability": "official", "note": "No best given.", "source": "https://www.tcssydneymarathon.com/post/reigning-world-champions-lead-a-landmark-marathon-field-for-tcs-sydney-marathon"}
+  ]},
+  {"name": "Shure DEMISE", "nat": "ETH", "gender": "W", "pb": "2:18:34", "athleteId": "14581927", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Sharon CHELIMO", "nat": "KEN", "gender": "W", "pb": "2:19:33", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Joyce TELE", "nat": "KEN", "gender": "W", "pb": "2:19:50", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Meseret ABEBAYAHAU", "nat": "ETH", "gender": "W", "pb": "2:19:50", "athleteId": "14699428", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Listed as Meseret Abebaayahu.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Aberu AYANA", "nat": "ETH", "gender": "W", "pb": "2:20:20", "athleteId": "14861880", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Waganesh MEKASHA", "nat": "ETH", "gender": "W", "pb": "2:20:26", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Azmera GEBRU", "nat": "ETH", "gender": "W", "pb": "2:20:48", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Jackline CHERONO", "nat": "KEN", "gender": "W", "pb": "2:21:14", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Fikrte WERETA", "nat": "ETH", "gender": "W", "pb": "2:21:32", "athleteId": "15028742", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Biruktayit DEGEFA", "nat": "USA", "gender": "W", "pb": "2:21:34", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Kaoutar FARKOUSSI", "nat": "MAR", "gender": "W", "pb": "2:25:12", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Priscah Jepleting CHERONO", "nat": "KEN", "gender": "W", "pb": "2:25:17", "athleteId": "14289351", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "note": "Listed as Priscah Cherono.", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]},
+  {"name": "Mizuki NISHIMURA", "nat": "JPN", "gender": "W", "pb": "2:25:54", "athleteId": "14962365", "history": [
+   {"date": "2026-08-27", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/jepchirchir-simbu-2026-sydney-marathon"}
+  ]}
+ ]
+}

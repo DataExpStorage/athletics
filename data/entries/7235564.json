@@ -1,0 +1,207 @@
+{
+ "raceId": 7235564,
+ "race": "TCS New York City Marathon",
+ "checked": "2026-11-25",
+ "searched": "2026-11-25",
+ "note": "Field reconstructed from the World Athletics articles of 22 Aug and 29 Oct 2026. The organisers' own release of 19 Aug could not be opened (the site redirected to a queue page), so first announcements carry the 22 Aug date. The final start list was not found.",
+ "entries": [
+  {"name": "Benson KIPRUTO", "nat": "KEN", "gender": "M", "pb": "2:02:16", "athleteId": "14758213", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Deresa GELETA", "nat": "ETH", "gender": "M", "pb": "2:02:38", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Cybrian KOTUT", "nat": "KEN", "gender": "M", "pb": "2:03:22", "athleteId": "14425928", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Written CyBrian Kotut by World Athletics news.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Abdi NAGEEYE", "nat": "NED", "gender": "M", "pb": "2:04:20", "athleteId": "14214214", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Geoffrey KAMWOROR", "nat": "KEN", "gender": "M", "pb": "2:04:23", "athleteId": "14423680", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Iliass AOUANI", "nat": "ITA", "gender": "M", "pb": "2:04:26", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Not in the 29 Oct preview list; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"}
+  ]},
+  {"name": "Mohamed ESA", "nat": "ETH", "gender": "M", "pb": "2:04:39", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Not in the 29 Oct preview list; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"}
+  ]},
+  {"name": "Conner MANTZ", "nat": "USA", "gender": "M", "pb": "2:04:43", "athleteId": "14628442", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Kengo SUZUKI", "nat": "JPN", "gender": "M", "pb": "2:04:56", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Yemaneberhan CRIPPA", "nat": "ITA", "gender": "M", "pb": "2:05:18", "athleteId": "14513998", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Edward CHESEREK", "nat": "KEN", "gender": "M", "pb": "2:05:24", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Ryota KONDO", "nat": "JPN", "gender": "M", "pb": "2:05:39", "athleteId": "14950023", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Zouhair TALBI", "nat": "USA", "gender": "M", "pb": "2:03:45", "athleteId": "14577963", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed with 2:05:45 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:03:45 from Boston, a course not eligible for records.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Peter LYNCH", "nat": "IRL", "gender": "M", "pb": "2:06:08", "athleteId": "14701622", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Patrick DEVER", "nat": "GBR", "gender": "M", "pb": "2:06:18", "athleteId": "14523465", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Haftu STRINTZOS", "nat": "AUS", "gender": "M", "pb": "2:06:20", "athleteId": "14745128", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Jack ROWE", "nat": "GBR", "gender": "M", "pb": "2:07:47", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Andreas ALMGREN", "nat": "SWE", "gender": "M", "pb": "debut", "athleteId": "14460738", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Patrick Kiptoo KIPROP", "nat": "KEN", "gender": "M", "pb": "debut", "athleteId": "14975463", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed as Patrick Kiprop.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Ahmed MUHUMED", "nat": "USA", "gender": "M", "pb": "debut", "athleteId": "14643341", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Spelled Ahmed Muhamed in this list.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Ryan FORD", "nat": "USA", "gender": "M", "pb": "2:05:46", "athleteId": "14776630", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Joe KLECKER", "nat": "USA", "gender": "M", "pb": "2:05:56", "athleteId": "14576389", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Kamohelo MOFOLO", "nat": "LES", "gender": "M", "pb": "2:08:50", "athleteId": "15155359", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Sam CHELANGA", "nat": "USA", "gender": "M", "pb": "2:08:50", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "JP FLAVIN", "nat": "USA", "gender": "M", "pb": "2:09:17", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Turner WILEY", "nat": "USA", "gender": "M", "pb": "2:09:27", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Andrew COLLEY", "nat": "USA", "gender": "M", "pb": "2:09:33", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Robert MIRANDA", "nat": "USA", "gender": "M", "pb": "2:09:40", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Joel REICHOW", "nat": "USA", "gender": "M", "pb": "2:09:56", "athleteId": "14569854", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Sifan HASSAN", "nat": "NED", "gender": "W", "pb": "2:13:44", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-14", "type": "withdrawn", "reliability": "reported", "reason": "Illness; she said a sickness had slowed her training and she was not where she wanted to be.", "note": "She explained it on Instagram; the article dates the news to Wednesday 14 Oct.", "source": "https://marathonhandbook.com/sifan-hassan-fiona-okeeffe-withdraw-nyc-marathon/"}
+  ]},
+  {"name": "Hellen OBIRI", "nat": "KEN", "gender": "W", "pb": "2:15:53", "athleteId": "14424921", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Sheila CHEPKIRUI", "nat": "KEN", "gender": "W", "pb": "2:17:29", "athleteId": "14289156", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Gotytom GEBRESLASE", "nat": "ETH", "gender": "W", "pb": "2:18:11", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Not in the 29 Oct preview list; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"}
+  ]},
+  {"name": "Violah CHEPTOO", "nat": "KEN", "gender": "W", "pb": "2:19:05", "athleteId": "14372181", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Written Viola Cheptoo in this preview.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Edna Ngeringwony KIPLAGAT", "nat": "KEN", "gender": "W", "pb": "2:19:50", "athleteId": "14289137", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed as Edna Kiplagat.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Fiona O'KEEFFE", "nat": "USA", "gender": "W", "pb": "2:22:10", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-14", "type": "withdrawn", "reliability": "reported", "reason": "Left hamstring surgery: a proximal hamstring repair the week before, after an earlier partial tear became a fully retracted tendon tear.", "note": "She announced it on Instagram, as reported in the linked article.", "source": "https://www.nbcsports.com/olympics/news/fiona-okeeffe-injury-marathon-new-york-city"}
+  ]},
+  {"name": "Fabienne KÖNIGSTEIN", "nat": "GER", "gender": "W", "pb": "2:22:17", "athleteId": "14390193", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Erika KEMP", "nat": "USA", "gender": "W", "pb": "2:22:56", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Not in the 29 Oct preview list; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"}
+  ]},
+  {"name": "Giovanna EPIS", "nat": "ITA", "gender": "W", "pb": "2:23:46", "athleteId": "14284281", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Mercy CHELANGAT", "nat": "KEN", "gender": "W", "pb": "2:20:30", "athleteId": "14874368", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed with 2:23:33 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:20:30.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Annie FRISBIE", "nat": "USA", "gender": "W", "pb": "2:22:00", "athleteId": "14736859", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed with 2:24:12 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:22:00.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Rie KAWAUCHI", "nat": "JPN", "gender": "W", "pb": "2:24:16", "athleteId": "14524089", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Amanda VESTRI", "nat": "USA", "gender": "W", "pb": "2:24:49", "athleteId": "14718893", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed with 2:25:40 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:24:49.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Jessica MCCLAIN", "nat": "USA", "gender": "W", "pb": "2:20:49", "athleteId": "14335825", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed with 2:25:46 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:20:49.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Philippa BOWDEN", "nat": "GBR", "gender": "W", "pb": "2:25:57", "athleteId": "14586863", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed as Phily Bowden with 2:25:47 in August.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Listed with 2:25:57; the two articles disagree on her best.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Lauren HAGANS", "nat": "USA", "gender": "W", "pb": "2:25:47", "athleteId": "14311688", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Julia PATERNAIN", "nat": "URU", "gender": "W", "pb": "2:25:47", "athleteId": "14755131", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Cailie HUGHES", "nat": "USA", "gender": "W", "pb": "debut", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Weini KELATI FREZGHI", "nat": "USA", "gender": "W", "pb": "debut", "athleteId": "14877184", "history": [
+   {"date": "2026-08-22", "type": "announced", "reliability": "official", "note": "Listed as Weini Kelati.", "source": "https://worldathletics.org/news/news/new-york-city-marathon-2026-obiri-kipruto"},
+   {"date": "2026-10-29", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Carrie ELLWOOD", "nat": "USA", "gender": "W", "pb": "2:22:53", "athleteId": "14485673", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Paige WOOD", "nat": "USA", "gender": "W", "pb": "2:26:02", "athleteId": "14590877", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview; not in the 22 Aug list.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Steph BRUCE", "nat": "USA", "gender": "W", "pb": "2:27:47", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Roberta GRONER", "nat": "USA", "gender": "W", "pb": "2:29:09", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "First seen in the 29 Oct preview. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]},
+  {"name": "Micaela RIVERA WOOD", "nat": "PER", "gender": "W", "pb": "2:29:13", "athleteId": "14839128", "history": [
+   {"date": "2026-10-29", "type": "announced", "reliability": "official", "note": "Listed as Mica Rivera Wood; first seen in the 29 Oct preview.", "source": "https://worldathletics.org/news/preview/new-york-city-marathon-2026-preview-obiri-kipruto"}
+  ]}
+ ]
+}

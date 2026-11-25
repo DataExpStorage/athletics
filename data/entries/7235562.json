@@ -1,0 +1,174 @@
+{
+ "raceId": 7235562,
+ "race": "TCS London Marathon",
+ "checked": "2026-11-25",
+ "searched": "2026-11-25",
+ "note": "Field reconstructed from the World Athletics articles of 28 and 29 Jan 2026 and the preview of 23 Apr 2026, plus the organisers' withdrawal notices. The organisers' notices show only the month. The stored results hold 20 men and 13 women.",
+ "entries": [
+  {"name": "Sabastian Kimaru SAWE", "nat": "KEN", "gender": "M", "pb": "2:02:05", "athleteId": "14833335", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Jacob KIPLIMO", "nat": "UGA", "gender": "M", "pb": "2:02:23", "athleteId": "14735365", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Deresa GELETA", "nat": "ETH", "gender": "M", "pb": "2:02:38", "athleteId": "14816982", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Amos KIPRUTO", "nat": "KEN", "gender": "M", "pb": "2:03:13", "athleteId": "14694013", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Tamirat TOLA", "nat": "ETH", "gender": "M", "pb": "2:03:39", "athleteId": "14589459", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Amanal PETROS", "nat": "GER", "gender": "M", "pb": "2:04:03", "athleteId": "14572523", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Geoffrey KAMWOROR", "nat": "KEN", "gender": "M", "pb": "2:04:23", "athleteId": "14423680", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Joshua CHEPTEGEI", "nat": "UGA", "gender": "M", "pb": "2:04:52", "athleteId": "14645612", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Shunya KIKUCHI", "nat": "JPN", "gender": "M", "pb": "2:06:06", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Emile CAIRESS", "nat": "GBR", "gender": "M", "pb": "2:06:46", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04", "type": "withdrawn", "reliability": "official", "reason": "A calf issue that hampered his training throughout March.", "note": "Organisers' notice, dated April 2026 without a day.", "source": "https://www.londonmarathonevents.co.uk/london-marathon/article/emile-cairess-withdraws-2026-tcs-london-marathon"}
+  ]},
+  {"name": "Mahamed MAHAMED", "nat": "GBR", "gender": "M", "pb": "2:07:05", "athleteId": "14642902", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Philip SESEMANN", "nat": "GBR", "gender": "M", "pb": "2:07:10", "athleteId": "14423383", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Hassan CHAHDI", "nat": "FRA", "gender": "M", "pb": "2:07:30", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Adam LIPSCHITZ", "nat": "RSA", "gender": "M", "pb": "2:08:54", "athleteId": "14520934", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Patrick DEVER", "nat": "GBR", "gender": "M", "pb": "2:08:58", "athleteId": "14523465", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Peter LYNCH", "nat": "IRL", "gender": "M", "pb": "2:09:36", "athleteId": "14701622", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Tim VINCENT", "nat": "AUS", "gender": "M", "pb": "2:09:40", "athleteId": "14810435", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Weynay GHEBRESILASIE", "nat": "GBR", "gender": "M", "pb": "2:09:50", "athleteId": "14433434", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Tewelde MENGES", "nat": "GBR", "gender": "M", "pb": "2:09:58", "athleteId": "14839402", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "George JAMES", "nat": "GBR", "gender": "M", "pb": "2:10:10", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Liam BOUDIN", "nat": "AUS", "gender": "M", "pb": "2:10:28", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Jake SMITH", "nat": "GBR", "gender": "M", "pb": "2:11:00", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Marc SCOTT", "nat": "GBR", "gender": "M", "pb": "2:11:19", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Hagos GEBRHIWET", "nat": "ETH", "gender": "M", "pb": "debut", "athleteId": "14477352", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"}
+  ]},
+  {"name": "Yomif KEJELCHA", "nat": "ETH", "gender": "M", "pb": "debut", "athleteId": "14594967", "history": [
+   {"date": "2026-01-29", "type": "announced", "reliability": "official", "note": "Marathon debut.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-men-sawe-kiplimo-cheptegei-tola-kejelcha"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Tigst ASSEFA", "nat": "ETH", "gender": "W", "pb": "2:11:53", "athleteId": "14388506", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Sifan HASSAN", "nat": "NED", "gender": "W", "pb": "2:13:44", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-03", "type": "withdrawn", "reliability": "official", "reason": "An Achilles injury that had affected her training; she withdrew to avoid aggravating it.", "note": "Organisers' notice, dated March 2026 without a day.", "source": "https://www.londonmarathonevents.co.uk/london-marathon/article/sifan-hassan-out-2026-tcs-london-marathon"}
+  ]},
+  {"name": "Joyciline JEPKOSGEI", "nat": "KEN", "gender": "W", "pb": "2:14:00", "athleteId": "14704913", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Peres JEPCHIRCHIR", "nat": "KEN", "gender": "W", "pb": "2:14:43", "athleteId": "14593938", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04", "type": "withdrawn", "reliability": "official", "reason": "Lack of training after a stress fracture picked up at the Valencia Marathon delayed her 2026 build-up.", "note": "Organisers' notice, dated April 2026 without a day.", "source": "https://www.londonmarathonevents.co.uk/london-marathon/article/peres-jepchirchir-withdraws-2026-tcs-london-marathon-following-stress"}
+  ]},
+  {"name": "Hellen OBIRI", "nat": "KEN", "gender": "W", "pb": "2:17:41", "athleteId": "14424921", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Degitu AZIMERAW", "nat": "ETH", "gender": "W", "pb": "2:17:58", "athleteId": "14785042", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Catherine Reline AMANANG'OLE", "nat": "KEN", "gender": "W", "pb": "2:20:34", "athleteId": "14798255", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Listed as Catherine Reline Amanangole.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Balemelay SHUMET", "nat": "ETH", "gender": "W", "pb": "2:21:59", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "note": "Not in the results list, reason unknown.", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Charlotte PURDUE", "nat": "GBR", "gender": "W", "pb": "2:22:17", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Laura LUENGO", "nat": "ESP", "gender": "W", "pb": "2:22:31", "athleteId": "14705909", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Rose HARVEY", "nat": "GBR", "gender": "W", "pb": "2:23:21", "athleteId": "14750322", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Abbie DONNELLY", "nat": "GBR", "gender": "W", "pb": "2:24:11", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Florencia BORELLI", "nat": "ARG", "gender": "W", "pb": "2:24:18", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Eilish MCCOLGAN", "nat": "GBR", "gender": "W", "pb": "2:24:25", "athleteId": "14275729", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Jessica WARNER-JUDD", "nat": "GBR", "gender": "W", "pb": "2:24:45", "athleteId": "14336301", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Fadouwa LEDHEM", "nat": "FRA", "gender": "W", "pb": "2:25:50", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Marta GALIMANY", "nat": "ESP", "gender": "W", "pb": "2:26:14", "athleteId": "14329379", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Lucy REID", "nat": "GBR", "gender": "W", "pb": "2:26:35", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "note": "Not in the 23 Apr leading entries; not in the results list, reason unknown.", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Julia PATERNAIN", "nat": "URU", "gender": "W", "pb": "2:27:09", "athleteId": "14755131", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"},
+   {"date": "2026-04-23", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]},
+  {"name": "Louise SMALL", "nat": "GBR", "gender": "W", "pb": "2:27:48", "athleteId": "14276371", "history": [
+   {"date": "2026-01-28", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/news/london-marathon-2026-elite-women-assefa-hassan-jepchirchir-obiri"}
+  ]},
+  {"name": "Eunice Chebichii CHUMBA", "nat": "BRN", "gender": "W", "pb": "2:20:02", "athleteId": "14423913", "history": [
+   {"date": "2026-04-23", "type": "announced", "reliability": "official", "note": "Listed as Eunice Chumba; first seen in the 23 Apr preview.", "source": "https://worldathletics.org/news/preview/sawe-kiplimo-assefa-2026-london-marathon"}
+  ]}
+ ]
+}

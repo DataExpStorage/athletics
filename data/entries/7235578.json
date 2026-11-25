@@ -1,8 +1,8 @@
 {
  "raceId": 7235578,
  "race": "Maratón Valencia Trinidad Alfonso Zurich",
- "checked": "2026-11-17",
- "note": "The organisers promised a complete line-up in October; no final start list has been found yet.",
+ "checked": "2026-11-25",
+ "note": "The organisers published a fuller line-up on 17 Nov 2026; the race-week start list is not out yet. Awet Kibrab, Emily Sisson, Alisa Vainio and Ejgayehu Taye, named in July, are not in the 17 Nov list and no withdrawal was found for them. The date of the organisers' own notice of Korir's withdrawal is not shown on their page.",
  "entries": [
   {
    "name": "Yomif KEJELCHA",
@@ -24,6 +24,14 @@
      "reason": "Injury during his build-up; the type of injury and a return date were not given.",
      "note": "Announced by Kejelcha on Instagram and confirmed by the organisers the same day, as reported by the linked article: \"I have to stop now, recover properly and work hard to be back on the start line soon.\" Graded reported (17 Nov 2026) because the link is not the athlete's or the organisers' own; a confirmation with the primary source can be appended.",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "withdrawn",
+     "reliability": "official",
+     "reason": "Due to an injury.",
+     "note": "The organisers' own notice of the same withdrawal, appended as the primary source for the event above.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/yomif-kejelcha-will-not-be-able-compete-in-2026-valencia-marathon/"
     }
    ]
   },
@@ -45,6 +53,14 @@
      "reliability": "reported",
      "note": "Named as the leading man after Kejelcha's withdrawal.",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-23",
+     "type": "withdrawn",
+     "reliability": "reported",
+     "reason": "Injured; neither Korir nor the race said what the injury is.",
+     "note": "The article says the organisers announced it on Monday 23 Nov. The organisers' 17 Nov line-up article now carries an undated update saying he was forced to withdraw due to injury.",
+     "source": "https://marathonhandbook.com/john-korir-withdraws-valencia-marathon/"
     }
    ]
   },
@@ -65,6 +81,13 @@
      "type": "confirmed",
      "reliability": "reported",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "note": "In the organisers' fuller line-up.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ],
    "athleteId": "14590685"
@@ -86,6 +109,12 @@
      "type": "confirmed",
      "reliability": "reported",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -106,6 +135,12 @@
      "type": "confirmed",
      "reliability": "reported",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -126,6 +161,12 @@
      "type": "confirmed",
      "reliability": "reported",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -167,6 +208,19 @@
      "type": "confirmed",
      "reliability": "reported",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "official",
+     "note": "World Athletics preview.",
+     "source": "https://worldathletics.org/news/news/valencia-marathon-ngetich-tesfay-jepkosgei-kejelcha"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -182,6 +236,20 @@
      "reliability": "reported",
      "note": "Marathon debut. Not in the July list; first seen in press coverage, date of the original announcement not found.",
      "source": "https://www.marathons.com/en/marathon/yomif-kejelcha-pulls-out-of-valencia-agnes-jebet-ngetich-gets-set-for-her-marathon-debut_m433"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "official",
+     "note": "World Athletics preview announcing her marathon debut in Valencia.",
+     "source": "https://worldathletics.org/news/news/valencia-marathon-ngetich-tesfay-jepkosgei-kejelcha"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "note": "Listed as a debutant in the organisers' line-up.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -203,6 +271,19 @@
      "reliability": "reported",
      "note": "Defending champion and course record holder.",
      "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+    },
+    {
+     "date": "2026-11-13",
+     "type": "confirmed",
+     "reliability": "official",
+     "note": "World Athletics preview.",
+     "source": "https://worldathletics.org/news/news/valencia-marathon-ngetich-tesfay-jepkosgei-kejelcha"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -231,6 +312,12 @@
      "type": "announced",
      "reliability": "official",
      "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -245,6 +332,12 @@
      "type": "announced",
      "reliability": "official",
      "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   },
@@ -288,6 +381,411 @@
      "type": "announced",
      "reliability": "official",
      "source": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/"
+    },
+    {
+     "date": "2026-11-17",
+     "type": "confirmed",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Kenenisa BEKELE",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:01:41",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Birhanu LEGESE",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:02:48",
+   "athleteId": "14554061",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Vincent Kipkemoi NGETICH",
+   "nat": "KEN",
+   "gender": "M",
+   "pb": "2:03:13",
+   "athleteId": "14813827",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Vincent Ngetich by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Geoffrey TOROITICH",
+   "nat": "KEN",
+   "gender": "M",
+   "pb": "2:03:30",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Spelled Geoffry Toirotich in the organisers' table and Geoffrey Toroitich in their text; his World Athletics name was not confirmed.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Tesfaye DERIBA",
+   "nat": "ETH",
+   "gender": "M",
+   "pb": "2:04:13",
+   "athleteId": "14774179",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Samwel Nyamai MAILU",
+   "nat": "KEN",
+   "gender": "M",
+   "pb": "2:05:08",
+   "athleteId": "15018129",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Samwel Mailu by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Cameron LEVINS",
+   "nat": "CAN",
+   "gender": "M",
+   "pb": "2:05:36",
+   "athleteId": "14326707",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Cam Levins by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Mohamed ISMAIL",
+   "nat": "DJI",
+   "gender": "M",
+   "pb": "2:05:38",
+   "athleteId": "14661612",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Suldan HASSAN",
+   "nat": "SWE",
+   "gender": "M",
+   "pb": "2:05:57",
+   "athleteId": "14653713",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Emmanuel ROUDOLFF LEVISSE",
+   "nat": "FRA",
+   "gender": "M",
+   "pb": "2:05:58",
+   "athleteId": "14473176",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Emmanuel Roudolff by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Etienne DAGUINOS",
+   "nat": "FRA",
+   "gender": "M",
+   "pb": "debut",
+   "athleteId": "14756540",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Marathon debut; the organisers give his half marathon best as 59:27.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Yaseen ABDALLA",
+   "nat": "SUD",
+   "gender": "M",
+   "pb": "2:11:41",
+   "athleteId": "14969014",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Named in the organisers' text with a 59:12 half marathon and no marathon best; the 2:11:41 marathon best is from Marathon Handbook's 18 Nov field table.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Felix BOUR",
+   "nat": "FRA",
+   "gender": "M",
+   "pb": "2:06:41",
+   "athleteId": "14467653",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Named in the organisers' text without a time; the marathon best is from Marathon Handbook's 18 Nov field table.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Filmon TESFU",
+   "nat": "NED",
+   "gender": "M",
+   "pb": "2:06:40",
+   "athleteId": "14844367",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Named in the organisers' text without a time; the marathon best is from Marathon Handbook's 18 Nov field table.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Hendrik PFEIFFER",
+   "nat": "GER",
+   "gender": "M",
+   "pb": "2:06:45",
+   "athleteId": "14429726",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Named in the organisers' text without a time; the marathon best is from Marathon Handbook's 18 Nov field table.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Sutume Asefa KEBEDE",
+   "nat": "ETH",
+   "gender": "W",
+   "pb": "2:15:55",
+   "athleteId": "14585818",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Sutume Kebede by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Magdalena SHAURI",
+   "nat": "TAN",
+   "gender": "W",
+   "pb": "2:18:03",
+   "athleteId": "14731840",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Laura LUENGO",
+   "nat": "ESP",
+   "gender": "W",
+   "pb": "2:22:31",
+   "athleteId": "14705909",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Named in the organisers' text without a time; the marathon best is from Marathon Handbook's 18 Nov field table.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Mekdes WOLDU",
+   "nat": "FRA",
+   "gender": "W",
+   "pb": "2:23:13",
+   "athleteId": "14419455",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Rose HARVEY",
+   "nat": "GBR",
+   "gender": "W",
+   "pb": "2:23:21",
+   "athleteId": "14750322",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Méline ROLLIN",
+   "nat": "FRA",
+   "gender": "W",
+   "pb": "2:24:12",
+   "athleteId": "14646117",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Florencia BORELLI",
+   "nat": "ARG",
+   "gender": "W",
+   "pb": "2:24:18",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Fabienne SCHLUMPF",
+   "nat": "SUI",
+   "gender": "W",
+   "pb": "2:24:30",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Carolina WIKSTRÖM",
+   "nat": "SWE",
+   "gender": "W",
+   "pb": "2:24:30",
+   "athleteId": "14857083",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "note": "Listed as Carolina Wikstrom by the organisers.",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Gladys KWAMBOKA",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "debut",
+   "athleteId": "15071402",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
+    }
+   ]
+  },
+  {
+   "name": "Jesca CHELANGAT",
+   "nat": "KEN",
+   "gender": "W",
+   "pb": "debut",
+   "athleteId": "14708966",
+   "history": [
+    {
+     "date": "2026-11-17",
+     "type": "announced",
+     "reliability": "official",
+     "source": "https://www.valenciaciudaddelrunning.com/en/most-ambitious-valencia-marathon-history/"
     }
    ]
   }

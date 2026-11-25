@@ -1,11 +1,127 @@
 {
  "raceId": 7235580,
  "race": "BMW Berlin Marathon",
- "checked": "2026-11-16",
- "note": "Only this withdrawal has been recorded; the full announced field was not tracked for this race.",
+ "checked": "2026-11-25",
+ "searched": "2026-11-25",
+ "note": "Field reconstructed from the organisers' women's field release of 16 Jun, the World Athletics preview of 24 Sep and the organisers' preview of 25 Sep 2026. Sawe's earlier entry announcement (May) is not added because his history already ends in a withdrawal. The organisers' men's field releases were not found.",
  "entries": [
   {"name": "Sabastian Kimaru SAWE", "nat": "KEN", "gender": "M", "pb": "1:59:30", "history": [
    {"date": "2026-08", "type": "withdrawn", "reliability": "reported", "reason": "Tibial stress fracture.", "note": "Withdrew in late August; not expected to race another marathon in 2026.", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
+  ]},
+  {"name": "Kenenisa BEKELE", "nat": "ETH", "gender": "M", "pb": "2:01:41", "history": [
+   {"date": "2026-09-17", "type": "announced", "reliability": "reported", "note": "The organisers announced his entry on Thursday 17 Sep, as reported in the linked article.", "source": "https://marathonhandbook.com/kenenisa-bekele-berlin-marathon-return/"},
+   {"date": "2026-09-24", "type": "withdrawn", "reliability": "reported", "reason": "Injured his left Achilles tendon in training.", "note": "Announced by the organisers on 24 Sep, as reported in the linked article; the organisers' 25 Sep preview also says he could not run due to an injury.", "source": "https://marathonhandbook.com/kenenisa-bekele-withdraws-berlin-marathon/"}
+  ]},
+  {"name": "Gabriel Gerald GEAY", "nat": "TAN", "gender": "M", "pb": "2:03:00", "athleteId": "14677692", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Getaneh MOLLA", "nat": "ETH", "gender": "M", "pb": "2:03:34", "athleteId": "14635616", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Guye Idemo ADOLA", "nat": "ETH", "gender": "M", "pb": "2:03:46", "athleteId": "14629097", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Shura KITATA", "nat": "ETH", "gender": "M", "pb": "2:03:59", "athleteId": "14730723", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Dejene HAILU", "nat": "ETH", "gender": "M", "pb": "2:04:15", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Erick SANG", "nat": "KEN", "gender": "M", "pb": "2:04:30", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Selemon BAREGA", "nat": "ETH", "gender": "M", "pb": "2:05:00", "athleteId": "14751317", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Taresa TOLOSA", "nat": "ETH", "gender": "M", "pb": "2:05:17", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Tadu ABATE", "nat": "ETH", "gender": "M", "pb": "2:05:38", "athleteId": "14785774", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Asefa BOKI", "nat": "ETH", "gender": "M", "pb": "2:05:40", "athleteId": "15122982", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Kenya SONOTA", "nat": "JPN", "gender": "M", "pb": "2:05:59", "athleteId": "14483455", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Tsubasa ICHIYAMA", "nat": "JPN", "gender": "M", "pb": "2:06:00", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Kiyoto HIRABAYASHI", "nat": "JPN", "gender": "M", "pb": "2:06:14", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Yuhei URANO", "nat": "JPN", "gender": "M", "pb": "2:06:23", "athleteId": "14754378", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Hidekazu HIJIKATA", "nat": "JPN", "gender": "M", "pb": "2:06:26", "athleteId": "14765558", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Davor Aaron BIENENFELD", "nat": "GER", "gender": "M", "pb": "2:08:47", "athleteId": "14716024", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Named as Aaron Bienenfeld in the preview text, with his 2:08:47 debut in Hamburg.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"},
+   {"date": "2026-09-25", "type": "confirmed", "reliability": "official", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Sebastian HENDEL", "nat": "GER", "gender": "M", "pb": "2:07:33", "history": [
+   {"date": "2026-09-25", "type": "announced", "reliability": "official", "note": "Named in the organisers' race preview. Not in the top 20, reason unknown.", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Haftom WELDAY", "nat": "GER", "gender": "M", "pb": "2:08:13", "athleteId": "14767712", "history": [
+   {"date": "2026-09-25", "type": "announced", "reliability": "official", "note": "Named in the organisers' race preview with 2:08:13 from Barcelona in March.", "source": "https://www.generali-berlin-marathon.com/en/news-media/news/detail/bmw-berlin-marathon-2026-exciting-races-expected-on-sunday"}
+  ]},
+  {"name": "Tigst ASSEFA", "nat": "ETH", "gender": "W", "pb": "2:11:53", "athleteId": "14388506", "history": [
+   {"date": "2026-06-16", "type": "announced", "reliability": "official", "note": "Headline name in the organisers' women's field release.", "source": "https://www.generali-berliner-halbmarathon.de/en/news-media/news/detail/bmw-berlin-marathon-presents-a-world-class-womens-elite-field"},
+   {"date": "2026-09-24", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Amane BERISO", "nat": "ETH", "gender": "W", "pb": "", "history": [
+   {"date": "2026-06-16", "type": "announced", "reliability": "official", "note": "The release cites her 2:14:58 from Valencia 2022 without calling it her best. Not in the 24 Sep World Athletics list; Marathons.com wrote on 1 Sep that she was not on the August start list, without giving a reason. Not in the top 20, reason unknown.", "source": "https://www.generali-berliner-halbmarathon.de/en/news-media/news/detail/bmw-berlin-marathon-presents-a-world-class-womens-elite-field"}
+  ]},
+  {"name": "Rosemary WANJIRU", "nat": "KEN", "gender": "W", "pb": "2:16:14", "athleteId": "14483460", "history": [
+   {"date": "2026-06-16", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://www.generali-berliner-halbmarathon.de/en/news-media/news/detail/bmw-berlin-marathon-presents-a-world-class-womens-elite-field"},
+   {"date": "2026-09-24", "type": "confirmed", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Esther PFEIFFER", "nat": "GER", "gender": "W", "pb": "", "history": [
+   {"date": "2026-06-16", "type": "announced", "reliability": "official", "note": "The release gives only her 2:37:00 debut from 2023 and a 67:25 half marathon; no current marathon best.", "source": "https://www.generali-berliner-halbmarathon.de/en/news-media/news/detail/bmw-berlin-marathon-presents-a-world-class-womens-elite-field"},
+   {"date": "2026-09-24", "type": "confirmed", "reliability": "official", "note": "Named in the preview text as targeting the German record. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Bedatu HIRPA", "nat": "ETH", "gender": "W", "pb": "2:18:27", "athleteId": "14714493", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Dera DIDA", "nat": "ETH", "gender": "W", "pb": "2:18:32", "athleteId": "14672196", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Zeineba YIMER", "nat": "ETH", "gender": "W", "pb": "2:18:47", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Misgane ALEMAYEHU", "nat": "ETH", "gender": "W", "pb": "2:19:08", "athleteId": "15190907", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Bekelech GUDETA", "nat": "ETH", "gender": "W", "pb": "2:19:39", "athleteId": "14765899", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Evaline CHIRCHIR", "nat": "KEN", "gender": "W", "pb": "2:20:33", "athleteId": "14817923", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Alisa VAINIO", "nat": "FIN", "gender": "W", "pb": "2:20:39", "athleteId": "14504791", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "A late addition to the field. Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Deshun ZHANG", "nat": "CHN", "gender": "W", "pb": "2:20:53", "athleteId": "14693572", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Listed as Zhang Deshun.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Gadise MULU", "nat": "ETH", "gender": "W", "pb": "2:20:59", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Eebbisee ADDUNYAA", "nat": "ETH", "gender": "W", "pb": "2:21:13", "athleteId": "14968513", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Aminet AHMED", "nat": "ETH", "gender": "W", "pb": "2:21:24", "athleteId": "14884936", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
+  ]},
+  {"name": "Rika KASEDA", "nat": "JPN", "gender": "W", "pb": "2:21:55", "history": [
+   {"date": "2026-09-24", "type": "announced", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://worldathletics.org/news/preview/berlin-marathon-2026-assefa-wanjiru-adola-geay"}
   ]}
  ]
 }

@@ -1,0 +1,374 @@
+{
+ "raceId": 7235563,
+ "race": "Bank of America Chicago Marathon",
+ "checked": "2026-11-25",
+ "searched": "2026-11-25",
+ "note": "Field reconstructed from the organisers' release of 23 Jul, their field update of 22 Sep and their roster updated 5 Oct 2026. Wheelchair athletes are not tracked. Ryota Yoshida (JPN), added on 22 Sep and withdrawn by 5 Oct, is left out because his division is not stated.",
+ "entries": [
+  {"name": "Jacob KIPLIMO", "nat": "UGA", "gender": "M", "pb": "2:00:28", "athleteId": "14735365", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Amos KIPRUTO", "nat": "KEN", "gender": "M", "pb": "2:01:39", "athleteId": "14694013", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "The release text gives 2:01:29, its list 2:01:39.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Milkesa MENGESHA", "nat": "ETH", "gender": "M", "pb": "2:03:17", "athleteId": "14805798", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Tadese TAKELE", "nat": "ETH", "gender": "M", "pb": "2:03:23", "athleteId": "14894746", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed by the organisers as Tadese Takele Bikila.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Daniel MATEIKO", "nat": "KEN", "gender": "M", "pb": "2:03:44", "athleteId": "14916367", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Asrar HIYRDEN", "nat": "ETH", "gender": "M", "pb": "2:03:59", "athleteId": "14943206", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Charles HICKS", "nat": "USA", "gender": "M", "pb": "2:04:35", "athleteId": "14884801", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Alex Chesiro MASAI", "nat": "KEN", "gender": "M", "pb": "2:04:37", "athleteId": "14829139", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Alex Masai.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-09-22", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among previously announced athletes who have withdrawn, in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"}
+  ]},
+  {"name": "Suguru OSAKO", "nat": "JPN", "gender": "M", "pb": "2:04:55", "athleteId": "14335060", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Mohamed Reda EL AARABY", "nat": "MAR", "gender": "M", "pb": "2:05:18", "athleteId": "14420179", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Country written MOR by the organisers.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Clayton YOUNG", "nat": "USA", "gender": "M", "pb": "2:05:41", "athleteId": "14693199", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Vincent MAURI", "nat": "USA", "gender": "M", "pb": "2:05:54", "athleteId": "14833909", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Yemane HAILESELASSIE", "nat": "ERI", "gender": "M", "pb": "2:06:06", "athleteId": "14693560", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Galen RUPP", "nat": "USA", "gender": "M", "pb": "2:06:07", "athleteId": "14250207", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Akira AKASAKI", "nat": "JPN", "gender": "M", "pb": "2:06:15", "athleteId": "14765559", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Boki DIRIBA", "nat": "ETH", "gender": "M", "pb": "2:06:26", "athleteId": "15008615", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Hendrik PFEIFFER", "nat": "GER", "gender": "M", "pb": "2:06:34", "athleteId": "14429726", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Abbabiya SIMBASSA", "nat": "USA", "gender": "M", "pb": "2:06:53", "athleteId": "14550395", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Tuemay Weldlibanos TSEGAY", "nat": "ERI", "gender": "M", "pb": "2:07:35", "athleteId": "14464228", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Tsegay Weldibanos.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Listed as Tsegay Weldlibanos.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Haftu KNIGHT", "nat": "USA", "gender": "M", "pb": "2:07:38", "athleteId": "14886993", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Patrick TIERNAN", "nat": "AUS", "gender": "M", "pb": "2:07:45", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Kiyoshi KOGA", "nat": "JPN", "gender": "M", "pb": "2:07:46", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named as withdrawn at the foot of the organisers' roster updated 5 Oct; not in their 22 Sep list of withdrawals.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "CJ ALBERTSON", "nat": "USA", "gender": "M", "pb": "2:08:17", "athleteId": "14631054", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Daniel MESFUN", "nat": "USA", "gender": "M", "pb": "2:08:24", "athleteId": "14706461", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Alex MAIER", "nat": "USA", "gender": "M", "pb": "2:08:33", "athleteId": "14873842", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Murphy SMITH", "nat": "USA", "gender": "M", "pb": "2:08:58", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Zach PANNING", "nat": "USA", "gender": "M", "pb": "2:09:16", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-09-22", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among previously announced athletes who have withdrawn, in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"}
+  ]},
+  {"name": "Jorge CASTELBLANCO", "nat": "PAN", "gender": "M", "pb": "2:09:24", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Thomas NOBBS", "nat": "CAN", "gender": "M", "pb": "2:09:25", "athleteId": "14717408", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Nadeel WILDSCHUTT", "nat": "RSA", "gender": "M", "pb": "2:09:40", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Jorge Luis CRUZ", "nat": "MEX", "gender": "M", "pb": "2:09:43", "athleteId": "14885219", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Reed FISCHER", "nat": "USA", "gender": "M", "pb": "2:09:47", "athleteId": "14237773", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Jacob THOMSON", "nat": "USA", "gender": "M", "pb": "2:09:51", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-09-22", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among previously announced athletes who have withdrawn, in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "Listed again (bib 38) in the organisers' roster updated 5 Oct, which does not name him among the withdrawals; no explanation found. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Ryan JOHNSON", "nat": "USA", "gender": "M", "pb": "2:10:20", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Tesfu TEWELDE", "nat": "ERI", "gender": "M", "pb": "2:10:21", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Thomas FAFARD", "nat": "CAN", "gender": "M", "pb": "2:10:29", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Chris MAXON", "nat": "USA", "gender": "M", "pb": "2:10:55", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Benjamin FLANAGAN", "nat": "CAN", "gender": "M", "pb": "2:15:39", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Brian KIBOR", "nat": "KEN", "gender": "M", "pb": "debut", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Tomoki OTA", "nat": "JPN", "gender": "M", "pb": "debut", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Kieran TUNTIVATE", "nat": "THA", "gender": "M", "pb": "debut", "athleteId": "14647807", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Adriaan WILDSCHUTT", "nat": "RSA", "gender": "M", "pb": "debut", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Bashir ABDI", "nat": "BEL", "gender": "M", "pb": "2:03:36", "athleteId": "14375137", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update; no time given there. The 2:03:36 best is from Marathon Handbook.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "reported", "reason": "A small calf tear during his final training in Flagstaff.", "note": "Announced by Abdi on X on Monday 5 Oct, as reported in the linked article; the organisers' roster updated 5 Oct also lists him as withdrawn.", "source": "https://marathonhandbook.com/bashir-abdi-withdraws-chicago-marathon/"}
+  ]},
+  {"name": "Sondre Nordstad MOEN", "nat": "NOR", "gender": "M", "pb": "2:05:48", "athleteId": "14215417", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update; listed as Sondre Moen.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Matt RICHTMAN", "nat": "USA", "gender": "M", "pb": "", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update; no best given.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named (as Matthew Richtman) among withdrawals at the foot of the organisers' roster updated 5 Oct.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Cole SPROUT", "nat": "USA", "gender": "M", "pb": "debut", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update. Marathon Handbook says Chicago was to be his first marathon.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among withdrawals at the foot of the organisers' roster updated 5 Oct.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Ben ROSA", "nat": "USA", "gender": "M", "pb": "", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update; no best given.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among withdrawals at the foot of the organisers' roster updated 5 Oct.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Brian SHRADER", "nat": "USA", "gender": "M", "pb": "2:09:46", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Frank LARA", "nat": "USA", "gender": "M", "pb": "2:09:53", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Nathan MARTIN", "nat": "USA", "gender": "M", "pb": "2:10:45", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Rory LINKLETTER", "nat": "CAN", "gender": "M", "pb": "2:06:49", "athleteId": "14617088", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Patrick CULLEN", "nat": "USA", "gender": "M", "pb": "2:12:15", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Max MILARVIE", "nat": "GBR", "gender": "M", "pb": "2:12:51", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Afeworki ZERU", "nat": "USA", "gender": "M", "pb": "2:13:22", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Ethan GREGG", "nat": "USA", "gender": "M", "pb": "2:13:32", "athleteId": "14971662", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Awet BERAKI", "nat": "USA", "gender": "M", "pb": "2:14:13", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct, which gives USA; another World Athletics result lists an Awet Beraki for ERI. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Caleb KERR", "nat": "USA", "gender": "M", "pb": "2:14:50", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Anthony Apori EKAI", "nat": "KEN", "gender": "M", "pb": "2:15:21", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Riley COCKS", "nat": "AUS", "gender": "M", "pb": "2:16:56", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Fredrick JUMA", "nat": "KEN", "gender": "M", "pb": "2:22:03", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Shuaib ALJABALY", "nat": "USA", "gender": "M", "pb": "debut", "athleteId": "14801872", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Rob WARNER-JUDD", "nat": "GBR", "gender": "M", "pb": "debut", "history": [
+   {"date": "2026-10-05", "type": "announced", "reliability": "official", "note": "First seen in the organisers' roster updated 5 Oct. Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Brigid KOSGEI", "nat": "KEN", "gender": "W", "pb": "2:14:04", "athleteId": "14730790", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Hawi FEYSA", "nat": "ETH", "gender": "W", "pb": "2:14:57", "athleteId": "14786742", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Defending champion.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Sutume Asefa KEBEDE", "nat": "ETH", "gender": "W", "pb": "2:15:55", "athleteId": "14585818", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Sutume Kebede.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Megertu ALEMU", "nat": "ETH", "gender": "W", "pb": "2:16:34", "athleteId": "14815683", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Brillian Jepkorir KIPKOECH", "nat": "KEN", "gender": "W", "pb": "2:17:05", "athleteId": "14464195", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Brillian Kipkoech.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Sharon LOKEDI", "nat": "KEN", "gender": "W", "pb": "2:17:22", "athleteId": "14684778", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Degitu AZIMERAW", "nat": "ETH", "gender": "W", "pb": "2:17:58", "athleteId": "14785042", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Loice CHEMNUNG", "nat": "KEN", "gender": "W", "pb": "2:18:24", "athleteId": "14590680", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Joan KILIMO", "nat": "KEN", "gender": "W", "pb": "2:18:40", "athleteId": "14808803", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Magdalyne MASAI", "nat": "KEN", "gender": "W", "pb": "2:18:58", "athleteId": "14472843", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Fantu WORKU", "nat": "ETH", "gender": "W", "pb": "2:19:08", "athleteId": "14751322", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Mary NGUGI-COOPER", "nat": "KEN", "gender": "W", "pb": "2:19:26", "athleteId": "14289475", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Mary Ngugi Cooper.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Sara HALL", "nat": "USA", "gender": "W", "pb": "2:20:32", "athleteId": "14305595", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Yuka AKASAKI", "nat": "JPN", "gender": "W", "pb": "2:21:33", "athleteId": "14728060", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Susanna SULLIVAN", "nat": "USA", "gender": "W", "pb": "2:21:56", "athleteId": "14385840", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Des LINDEN", "nat": "USA", "gender": "W", "pb": "2:22:38", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Isobel BATT-DOYLE", "nat": "AUS", "gender": "W", "pb": "2:22:59", "athleteId": "14519260", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Natosha ROGERS", "nat": "USA", "gender": "W", "pb": "2:23:28", "athleteId": "14413831", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Molly BORN", "nat": "USA", "gender": "W", "pb": "2:24:10", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Dakotah POPEHN", "nat": "USA", "gender": "W", "pb": "2:24:20", "athleteId": "14644196", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Gabriella ROOKER", "nat": "USA", "gender": "W", "pb": "2:24:29", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Elena HAYDAY", "nat": "USA", "gender": "W", "pb": "2:24:45", "athleteId": "14726754", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Jessica WARNER-JUDD", "nat": "GBR", "gender": "W", "pb": "2:24:45", "athleteId": "14336301", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Jess Warner-Judd.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Kristine Eikrem ENGESET", "nat": "NOR", "gender": "W", "pb": "2:28:57", "athleteId": "14292604", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Amanda MOSBORG", "nat": "USA", "gender": "W", "pb": "2:32:01", "athleteId": "14718624", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Felicia PASADYN", "nat": "USA", "gender": "W", "pb": "2:35:17", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-09-22", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among previously announced athletes who have withdrawn, in the organisers' field update. Marathon Handbook (22 Sep), citing CITIUS Mag, linked it to her recovery from a collision with a car.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"}
+  ]},
+  {"name": "Alexandra ALDANA", "nat": "COL", "gender": "W", "pb": "2:40:41", "athleteId": "14979541", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Laura GALVÁN", "nat": "MEX", "gender": "W", "pb": "debut", "athleteId": "14329560", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "note": "Listed as Laura Galvan.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Emma Grace HURLEY", "nat": "USA", "gender": "W", "pb": "debut", "athleteId": "14708277", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Amy-Eloise NEALE", "nat": "GBR", "gender": "W", "pb": "debut", "history": [
+   {"date": "2026-07-23", "type": "announced", "reliability": "official", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/07/24120151/2026_BACM_Professional-Athlete-Field-Announcement_072326_APPROVED.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Sara VAUGHN", "nat": "USA", "gender": "W", "pb": "2:23:24", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update; the 2:23:24 best is from Marathon Handbook.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "withdrawn", "reliability": "official", "reason": "No reason given.", "note": "Named among withdrawals at the foot of the organisers' roster updated 5 Oct.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]},
+  {"name": "Lexie THOMPSON", "nat": "USA", "gender": "W", "pb": "2:30:37", "athleteId": "14820008", "history": [
+   {"date": "2026-09-22", "type": "announced", "reliability": "official", "note": "Added in the organisers' field update.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/09/22085346/092226_2026-BACM_Press-Release_Event-Updates.pdf"},
+   {"date": "2026-10-05", "type": "confirmed", "reliability": "official", "note": "Not in the top 20, reason unknown.", "source": "https://cdn.chicagomarathon.com/app/uploads/2026/10/05100057/2026-Bank-of-America-Chicago-Marathon-Professional-Field_100526-1.pdf"}
+  ]}
+ ]
+}
