@@ -1,0 +1,298 @@
+{
+ "id": "15058748",
+ "givenName": "Nibret",
+ "familyName": "KINDE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2006-01-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:34.61",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:18.68",
+   "venue": "Putbosstadion, Oordegem (BEL)",
+   "date": "01 AUG 2026",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:39.49",
+   "venue": "Ethiopian Sport Academy, Addis Ababa (ETH)",
+   "date": "25 MAR 2026",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:16",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:02",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:34.61",
+   "venue": "China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",
+   "date": "16 MAY 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wanda Diamond League",
+   "listPosition": "41"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:18.68",
+   "venue": "Putbosstadion, Oordegem (BEL)",
+   "date": "01 AUG 2026",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "IFAM Oordegem",
+   "listPosition": "114"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:39.49",
+   "venue": "Ethiopian Sport Academy, Addis Ababa (ETH)",
+   "date": "25 MAR 2026",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ethiopian Championships",
+   "listPosition": "376"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:16",
+   "venue": "Lille (FRA)",
+   "date": "04 APR 2026",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Urban Trail de Lille - 5 et 10km",
+   "listPosition": "23"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:02",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1223,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "tRUNsylvania International 10K Brasov",
+   "listPosition": "8"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "27:02",
+   "score": 1223,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-01",
+   "competition": "IFAM Oordegem, Putbosstadion, Oordegem",
+   "country": "BEL",
+   "category": "C",
+   "race": "F1",
+   "place": "18",
+   "mark": "13:18.68",
+   "score": 1142,
+   "competitionId": "7235002"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-21",
+   "competition": "FBK Games, FBK Stadium, Hengelo",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "13:28.35",
+   "score": 1108,
+   "competitionId": "7231211"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-16",
+   "competition": "Wanda Diamond League, China Textile City Sports Centre, Shaoxing/Keqiao - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "18",
+   "mark": "7:34.61",
+   "score": 1210,
+   "competitionId": "7214016"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-18",
+   "competition": "Addis Ababa Grand Prix, Addis Ababa Stadium, Addis Ababa",
+   "country": "ETH",
+   "category": "C",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7239468"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Urban Trail de Lille - 5 et 10km, Lille",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "9",
+   "mark": "13:16",
+   "score": 1152,
+   "competitionId": "7236174"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-25",
+   "competition": "Ethiopian Championships, Ethiopian Sport Academy, Addis Ababa",
+   "country": "ETH",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "28:39.49",
+   "score": 1072,
+   "competitionId": "7234052"
+  },
+  {
+   "discipline": "Cross Country Senior Race",
+   "date": "2026-01-10",
+   "competition": "46th World Athletics Cross Country Championships, Tallahassee, FL",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "18",
+   "mark": "29:40",
+   "score": 0,
+   "competitionId": "7206650"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:16",
+     "venue": "Lille (FRA)",
+     "date": "04 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "28:34",
+     "venue": "Addis Ababa (ETH)",
+     "date": "17 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "28:02",
+     "venue": "Lille (FRA)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:02",
+     "venue": "Brasov (ROU)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "13:44.67",
+     "date": "27 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "Ethiopian Championships",
+     "mark": "28:39.49",
+     "date": "25 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 45,
+   "rankingScore": 1170
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 72,
+   "rankingScore": 1163
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1208,
+   "rankingScore": 1183
+  }
+ ],
+ "representative": {
+  "name": "Jeroen BAKKER",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/nibret-kinde-15058748"
+}

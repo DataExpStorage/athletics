@@ -1,0 +1,288 @@
+{
+ "id": "15182754",
+ "givenName": "Brian Kibor",
+ "familyName": "AKOTIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2001-10-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:23.24",
+   "venue": "Kenan Onuk Atletizm Pisti, Istanbul (TUR)",
+   "date": "29 JUL 2026",
+   "resultScore": 924,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:21.76",
+   "venue": "Kenan Onuk Atletizm Pisti, Istanbul (TUR)",
+   "date": "28 JUL 2026",
+   "resultScore": 928,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:29.38",
+   "venue": "Sportcomplex De Leidse Hout, Leiden (NED)",
+   "date": "14 JUN 2025",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:00",
+   "venue": "Lille (FRA)",
+   "date": "06 NOV 2021",
+   "resultScore": 1000,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:05",
+   "venue": "Castellón (ESP)",
+   "date": "16 FEB 2025",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:39",
+   "venue": "Valencia (ESP)",
+   "date": "26 OCT 2025",
+   "resultScore": 1241,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Relay",
+   "mark": "1:58:05",
+   "venue": "Paris (FRA)",
+   "date": "02 NOV 2025",
+   "resultScore": 1234,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:23.24",
+   "venue": "Kenan Onuk Atletizm Pisti, Istanbul (TUR)",
+   "date": "29 JUL 2026",
+   "resultScore": 924,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Nuri Turan 1. Lig Kulüpler Final Yarışması"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:21.76",
+   "venue": "Kenan Onuk Atletizm Pisti, Istanbul (TUR)",
+   "date": "28 JUL 2026",
+   "resultScore": 928,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Nuri Turan 1. Lig Kulüpler Final Yarışması"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:56",
+   "venue": "Port Gentil (GAB)",
+   "date": "28 JUN 2026",
+   "resultScore": 1138,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10KM Port Gentil",
+   "listPosition": "119"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:09",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ras Al Khaimah Half Marathon",
+   "listPosition": "85"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-07-29",
+   "competition": "Nuri Turan 1. Lig Kulüpler Final Yarışması, Kenan Onuk Atletizm Pisti, Istanbul",
+   "country": "TUR",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "8:23.24",
+   "score": 924,
+   "competitionId": "7244775"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-28",
+   "competition": "Nuri Turan 1. Lig Kulüpler Final Yarışması, Kenan Onuk Atletizm Pisti, Istanbul",
+   "country": "TUR",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "14:21.76",
+   "score": 928,
+   "competitionId": "7244775"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-28",
+   "competition": "10KM Port Gentil, Port Gentil",
+   "country": "GAB",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "27:56",
+   "score": 1138,
+   "competitionId": "7239719"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Scalata Al Castello, Arezzo",
+   "country": "ITA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "28:14",
+   "score": 1110,
+   "competitionId": "7242463"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "9",
+   "mark": "1:00:09",
+   "score": 1180,
+   "competitionId": "7237781"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-18",
+   "competition": "34ª Mitja Marató Internacional Vila de Santa Pola, Santa Pola",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:00:49",
+   "score": 1154,
+   "competitionId": "7236718"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "14:00",
+     "venue": "Lille (FRA)",
+     "date": "06 NOV 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "27:31",
+     "venue": "Lille (FRA)",
+     "date": "16 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "27:05",
+     "venue": "Castellón (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:56",
+     "venue": "Port Gentil (GAB)",
+     "date": "28 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:07:01",
+     "venue": "Valencia (ESP)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "58:39",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:09",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Relay",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:58:05",
+     "venue": "Paris (FRA)",
+     "date": "02 NOV 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 22,
+   "rankingScore": 1209
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 42,
+   "rankingScore": 1174
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 784,
+   "rankingScore": 1209
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/brian-kibor-akotir-15182754"
+}

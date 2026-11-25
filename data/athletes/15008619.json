@@ -1,0 +1,160 @@
+{
+ "id": "15008619",
+ "givenName": "Aamelmal",
+ "familyName": "TAGEL",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-10-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:42",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:38",
+   "venue": "Lanzhou (CHN)",
+   "date": "25 MAY 2025",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:42",
+   "venue": "Meishan (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Meishan Renshou Half Marathon",
+   "listPosition": "187"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:36",
+   "venue": "Doha (QAT)",
+   "date": "16 JAN 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Doha Marathon by Ooredoo",
+   "listPosition": "212"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-04",
+   "competition": "Generali Köln Marathon, Köln",
+   "country": "GER",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "2:27:07",
+   "score": 1144,
+   "competitionId": "7236087"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Meishan Renshou Half Marathon, Meishan",
+   "country": "CHN",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "1:09:42",
+   "score": 1136,
+   "competitionId": "7235697"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "2:26:36",
+   "score": 1149,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:17:05",
+     "venue": "Manama (BRN)",
+     "date": "12 DEC 2021"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:42",
+     "venue": "Meishan (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:28:09",
+     "venue": "Buenos Aires (ARG)",
+     "date": "24 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:26:31",
+     "venue": "Nanchang (CHN)",
+     "date": "10 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:24:38",
+     "venue": "Lanzhou (CHN)",
+     "date": "25 MAY 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:26:36",
+     "venue": "Doha (QAT)",
+     "date": "16 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 141,
+   "rankingScore": 1183
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 934,
+   "rankingScore": 1183
+  }
+ ],
+ "representative": {
+  "name": "Federico ROSA",
+  "country": "Italy",
+  "website": "http://www.rosassociati.it"
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/aamelmal-tagel-15008619"
+}

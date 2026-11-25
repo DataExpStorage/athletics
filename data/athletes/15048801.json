@@ -1,0 +1,153 @@
+{
+ "id": "15048801",
+ "givenName": "Benard",
+ "familyName": "KIPKORIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1990-10-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:08:12",
+   "venue": "Chongqing (CHN)",
+   "date": "02 MAR 2025",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:13",
+   "venue": "Taiyuan (CHN)",
+   "date": "27 SEP 2026",
+   "resultScore": 1126,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Taiyuan Marathon",
+   "listPosition": "447"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "Taiyuan Marathon, Taiyuan",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:10:13",
+   "score": 1126,
+   "competitionId": "7235590"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Kigali International Peace Marathon, Kigali",
+   "country": "RWA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "2:16:22",
+   "score": 1018,
+   "competitionId": "7239888"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-29",
+   "competition": "Stara Zagora Marathon, Stara Zagora",
+   "country": "BUL",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "2:24:50",
+   "score": 878,
+   "competitionId": "7241235"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:10:26",
+   "score": 1122,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:09:26",
+     "venue": "Bregenz (AUT)",
+     "date": "09 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:09:33",
+     "venue": "Mersin (TUR)",
+     "date": "10 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:09:45",
+     "venue": "Chongqing (CHN)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:12",
+     "venue": "Chongqing (CHN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:10:13",
+     "venue": "Taiyuan (CHN)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 242,
+   "rankingScore": 1162
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1724,
+   "rankingScore": 1162
+  }
+ ],
+ "representative": {
+  "name": "Christian Calanni",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/benard-kipkorir-15048801"
+}

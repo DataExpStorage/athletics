@@ -1,0 +1,143 @@
+{
+ "id": "15146580",
+ "givenName": "Benard Kibet",
+ "familyName": "MURKOMEN",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2000-12-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:51",
+   "venue": "Shanghai (CHN)",
+   "date": "26 OCT 2025",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:01",
+   "venue": "Barcelona (ESP)",
+   "date": "16 FEB 2025",
+   "resultScore": 1186,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:21",
+   "venue": "Istanbul (TUR)",
+   "date": "19 APR 2026",
+   "resultScore": 1172,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Half Marathon",
+   "listPosition": "100"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Lima Half Marathon, Lima - Elite Event",
+   "country": "PER",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:10",
+   "score": 1140,
+   "competitionId": "7238055"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-19",
+   "competition": "Istanbul Half Marathon, Istanbul",
+   "country": "TUR",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "1:00:21",
+   "score": 1172,
+   "competitionId": "7236079"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Shanghai Half Marathon, Shanghai",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:02:15",
+   "score": 1097,
+   "competitionId": "7236073"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "28:45",
+     "venue": "Shanghai (CHN)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "27:51",
+     "venue": "Shanghai (CHN)",
+     "date": "26 OCT 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:00:21",
+     "venue": "Yangzhou (CHN)",
+     "date": "31 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:01",
+     "venue": "Barcelona (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:00:21",
+     "venue": "Istanbul (TUR)",
+     "date": "19 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 56,
+   "rankingScore": 1177
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1361,
+   "rankingScore": 1177
+  }
+ ],
+ "representative": {
+  "name": "Karen LIN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/benard-kibet-murkomen-15146580"
+}

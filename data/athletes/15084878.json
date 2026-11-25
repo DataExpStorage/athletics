@@ -1,0 +1,183 @@
+{
+ "id": "15084878",
+ "givenName": "Derartu",
+ "familyName": "HAILU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-05-08",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:40",
+   "venue": "Yangzhou (CHN)",
+   "date": "31 MAR 2024",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:18",
+   "venue": "Sevilla (ESP)",
+   "date": "18 FEB 2024",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:16:06",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1008,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:53",
+   "venue": "Chongqing (CHN)",
+   "date": "18 JAN 2026",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chang'an Automobile Chongqing Marathon",
+   "listPosition": "144"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-22",
+   "competition": "Nanjing Marathon, Nanjing",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "2:30:27",
+   "score": 1113,
+   "competitionId": "7238737"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "8",
+   "mark": "2:31:22",
+   "score": 1104,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "Mexico City Marathon Telcel, Ciudad de México",
+   "country": "MEX",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:36:05",
+   "score": 1054,
+   "competitionId": "7235589"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "8",
+   "mark": "1:16:06",
+   "score": 1008,
+   "competitionId": "7237360"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:24:53",
+   "score": 1165,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:10:40",
+     "venue": "Yangzhou (CHN)",
+     "date": "31 MAR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "1:16:06",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:27:47",
+     "venue": "Xuzhou (CHN)",
+     "date": "05 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:23:18",
+     "venue": "Sevilla (ESP)",
+     "date": "18 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:28:46",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:24:53",
+     "venue": "Chongqing (CHN)",
+     "date": "18 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 156,
+   "rankingScore": 1178
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1031,
+   "rankingScore": 1178
+  }
+ ],
+ "representative": {
+  "name": "Natnael MEKONNEN",
+  "country": "Australia",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/derartu-hailu-15084878"
+}

@@ -1,0 +1,291 @@
+{
+ "id": "15019944",
+ "givenName": "Richard",
+ "familyName": "LODUNG",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2003-12-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:00.17",
+   "venue": "Nishishina Athletic Stadium, Nobeoka (JPN)",
+   "date": "04 MAY 2023",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:06.88",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "22 APR 2023",
+   "resultScore": 1215,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:46.84",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "05 MAR 2022",
+   "resultScore": 1049,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:58",
+   "venue": "Tokyo (JPN)",
+   "date": "23 FEB 2024",
+   "resultScore": 1006,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:47",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "27 APR 2024",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:07",
+   "venue": "Marugame (JPN)",
+   "date": "01 FEB 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:08.44",
+   "venue": "Aoba Park Athletic Field, Chitose (JPN)",
+   "date": "04 JUL 2026",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "HOKUREN Distance Challenge in Chitose",
+   "listPosition": "48"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:26.01",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "21 NOV 2026",
+   "resultScore": 1185,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "27th NITTAIDAI Challenge Games",
+   "listPosition": "16"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:07",
+   "venue": "Marugame (JPN)",
+   "date": "01 FEB 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "78th Kagawa Marugame International Half Marathon",
+   "listPosition": "24"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-11-21",
+   "competition": "27th NITTAIDAI Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F5",
+   "place": "2",
+   "mark": "27:26.01",
+   "score": 1185,
+   "competitionId": "7245694"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-17",
+   "competition": "The 103rd Hakone Ekiden Qualifying Meet, Showa Kinen Park, Tachikawa",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "1:00:59",
+   "score": 1147,
+   "competitionId": "7245404"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-04",
+   "competition": "HOKUREN Distance Challenge in Chitose, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "13:08.44",
+   "score": 1179,
+   "competitionId": "7243628"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-24",
+   "competition": "The 105th Kanto Inter-University Track＆Field Championships, Kanseki Stadium, Utsunomiya - 2nd Tier",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "13:24.76",
+   "score": 1121,
+   "competitionId": "7239443"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-21",
+   "competition": "The 105th Kanto Inter-University Track＆Field Championships, Kanseki Stadium, Utsunomiya - 2nd Tier",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "27:43.53",
+   "score": 1157,
+   "competitionId": "7239443"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-05-17",
+   "competition": "SEIKO Golden Grand Prix, National Stadium, Tokyo",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7233064"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-04",
+   "competition": "Selection Meeting for 58th All Japan Inter-University Ekiden, Lemon Gas Stadium, Hiratsuka",
+   "country": "JPN",
+   "category": "F",
+   "race": "F4",
+   "place": "1",
+   "mark": "27:37.50",
+   "score": 1167,
+   "competitionId": "7239330"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235570"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-01",
+   "competition": "78th Kagawa Marugame International Half Marathon, Marugame",
+   "country": "JPN",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "59:07",
+   "score": 1222,
+   "competitionId": "7236069"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "13:58",
+     "venue": "Tokyo (JPN)",
+     "date": "23 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "28:26",
+     "venue": "Tokyo (JPN)",
+     "date": "26 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "27:47",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:02:11",
+     "venue": "Showa Kinen Park, Tachikawa (JPN)",
+     "date": "14 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "59:32",
+     "venue": "Marugame (JPN)",
+     "date": "04 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:30",
+     "venue": "Berlin (GER)",
+     "date": "06 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:07",
+     "venue": "Marugame (JPN)",
+     "date": "01 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 22,
+   "rankingScore": 1191
+  },
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 49,
+   "rankingScore": 1180
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 945,
+   "rankingScore": 1198
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/richard-lodung-15019944"
+}

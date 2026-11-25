@@ -1,0 +1,148 @@
+{
+ "id": "15184154",
+ "givenName": "Abel",
+ "familyName": "CHELANGAT",
+ "country": "UGA",
+ "countryName": "Uganda",
+ "birthDate": "1993-07-07",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:55",
+   "venue": "Ciudad de México (MEX)",
+   "date": "12 JUL 2026",
+   "resultScore": 960,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:56",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1224,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:55",
+   "venue": "Ciudad de México (MEX)",
+   "date": "12 JUL 2026",
+   "resultScore": 960,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Mexico City Half Marathon BBVA"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:56",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1224,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Marató de Barcelona",
+   "listPosition": "42"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-07-12",
+   "competition": "Mexico City Half Marathon BBVA, Ciudad de México",
+   "country": "MEX",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "1:05:55",
+   "score": 960,
+   "competitionId": "7242468"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Zurich Marató de Barcelona, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:04:56",
+   "score": 1224,
+   "competitionId": "7236009"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:05:55",
+     "venue": "Ciudad de México (MEX)",
+     "date": "12 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:10:01",
+     "venue": "Porto (POR)",
+     "date": "03 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:49",
+     "venue": "Riyadh (KSA)",
+     "date": "08 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:56",
+     "venue": "Barcelona (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "World Athletics Championships, Tokyo 2025",
+     "mark": "2:10:11",
+     "date": "15 SEP 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 56,
+   "rankingScore": 1249
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 428,
+   "rankingScore": 1249
+  }
+ ],
+ "representative": {
+  "name": "Monica PONT CHAFER",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/uganda/abel-chelangat-15184154"
+}

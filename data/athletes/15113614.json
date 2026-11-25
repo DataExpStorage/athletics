@@ -1,0 +1,132 @@
+{
+ "id": "15113614",
+ "givenName": "Gideon",
+ "familyName": "KIPROTICH",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2001-10-03",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:34",
+   "venue": "Cardiff (GBR)",
+   "date": "04 OCT 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "58:49",
+   "venue": "Roma (ITA)",
+   "date": "02 MAR 2025",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": true
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:34",
+   "venue": "Cardiff (GBR)",
+   "date": "04 OCT 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Cardiff Half Marathon",
+   "listPosition": "46"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-24",
+   "competition": "Jakarta Running Festival - Half Marathon, Jakarta",
+   "country": "INA",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:02:30",
+   "score": 1088,
+   "competitionId": "7236427"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-04",
+   "competition": "Cardiff Half Marathon, Cardiff",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "59:34",
+   "score": 1204,
+   "competitionId": "7240793"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Generali Berliner Halbmarathon, Berlin",
+   "country": "GER",
+   "category": "C",
+   "race": "F",
+   "place": "13",
+   "mark": "1:01:06",
+   "score": 1142,
+   "competitionId": "7237042"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:03:51",
+     "venue": "New Delhi (IND)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:28",
+     "venue": "Napoli (ITA)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:00:03",
+     "venue": "Valencia (ESP)",
+     "date": "26 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:34",
+     "venue": "Cardiff (GBR)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 42,
+   "rankingScore": 1186
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1162,
+   "rankingScore": 1186
+  }
+ ],
+ "representative": {
+  "name": "Rihana SHEMSU MOHAMMED",
+  "country": "Sweden",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/gideon-kiprotich-15113614"
+}

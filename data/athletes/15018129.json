@@ -1,0 +1,256 @@
+{
+ "id": "15018129",
+ "givenName": "Samwel Nyamai",
+ "familyName": "MAILU",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1993-02-07",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:54.86",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "05 MAR 2022",
+   "resultScore": 916,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:24.50",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "04 MAR 2022",
+   "resultScore": 920,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:58.33",
+   "venue": "Moi International Sports Centre, Kasarani, Nairobi (KEN)",
+   "date": "27 APR 2022",
+   "resultScore": 957,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:11",
+   "venue": "Al Khobar (KSA)",
+   "date": "09 DEC 2023",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:11=",
+   "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+   "date": "03 MAY 2025",
+   "resultScore": 1170,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:43",
+   "venue": "Langueux (FRA)",
+   "date": "21 JUN 2025",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:19",
+   "venue": "Riga (LAT)",
+   "date": "01 OCT 2023",
+   "resultScore": 1214,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:08",
+   "venue": "Wien (AUT)",
+   "date": "23 APR 2023",
+   "resultScore": 1220,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:24",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon",
+   "listPosition": "39"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "59:24",
+   "score": 1211,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-15",
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "59:42",
+   "score": 1198,
+   "competitionId": "7237513"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "13:11",
+     "venue": "Al Khobar (KSA)",
+     "date": "09 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "13:38",
+     "venue": "Oelde (GER)",
+     "date": "08 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "13:11",
+     "venue": "Meijijingu Gaien area, Tokyo (JPN)",
+     "date": "03 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "27:52",
+     "venue": "Langueux (FRA)",
+     "date": "15 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "27:43",
+     "venue": "Langueux (FRA)",
+     "date": "21 JUN 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:00:50",
+     "venue": "Jeddah (KSA)",
+     "date": "10 DEC 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "59:19",
+     "venue": "Riga (LAT)",
+     "date": "01 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:00:21",
+     "venue": "Riga (LAT)",
+     "date": "19 MAY 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "59:40",
+     "venue": "Barcelona (ESP)",
+     "date": "16 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:24",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:07:19",
+     "venue": "Frankfurt (GER)",
+     "date": "30 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:08",
+     "venue": "Wien (AUT)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:47",
+     "venue": "Barcelona (ESP)",
+     "date": "16 MAR 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "59:19",
+     "date": "01 OCT 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 30,
+   "rankingScore": 1204
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 857,
+   "rankingScore": 1204
+  }
+ ],
+ "representative": {
+  "name": "Philipp Kopp",
+  "country": "Germany",
+  "website": "https:// www.issberlin.de"
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/samwel-nyamai-mailu-15018129"
+}
