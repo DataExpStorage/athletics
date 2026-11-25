@@ -3,10 +3,11 @@
  "race": "BMW Berlin Marathon",
  "checked": "2026-11-25",
  "searched": "2026-11-25",
- "note": "Field reconstructed from the organisers' women's field release of 16 Jun, the World Athletics preview of 24 Sep and the organisers' preview of 25 Sep 2026. Sawe's earlier entry announcement (May) is not added because his history already ends in a withdrawal. The organisers' men's field releases were not found.",
+ "note": "Field reconstructed from the organisers' women's field release of 16 Jun, the World Athletics preview of 24 Sep and the organisers' preview of 25 Sep 2026. The organisers' men's field releases were not found.",
  "entries": [
   {"name": "Sabastian Kimaru SAWE", "nat": "KEN", "gender": "M", "pb": "1:59:30", "history": [
-   {"date": "2026-08", "type": "withdrawn", "reliability": "reported", "reason": "Tibial stress fracture.", "note": "Withdrew in late August; not expected to race another marathon in 2026.", "source": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
+   {"date": "2026-05-13", "type": "announced", "reliability": "official", "note": "World Athletics reported that Sawe confirmed he would return to defend his title, quoting what he told the organisers.", "source": "https://worldathletics.org/news/news/sabastian-sawe-berlin-marathon-2026"},
+   {"date": "2026-08-27", "type": "withdrawn", "reliability": "official", "reason": "Injury; the type of injury was not given.", "note": "The organisers announced the withdrawal with a statement from Sawe; race director Mark Milde said they would have liked to see him back in Berlin.", "source": "https://www.generali-berliner-halbmarathon.de/en/news-media/news/detail/sabastian-sawe-withdraws-from-the-bmw-berlin-marathon"}
   ]},
   {"name": "Kenenisa BEKELE", "nat": "ETH", "gender": "M", "pb": "2:01:41", "history": [
    {"date": "2026-09-17", "type": "announced", "reliability": "reported", "note": "The organisers announced his entry on Thursday 17 Sep, as reported in the linked article.", "source": "https://marathonhandbook.com/kenenisa-bekele-berlin-marathon-return/"},
