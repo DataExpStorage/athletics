@@ -77,6 +77,9 @@ example `/athletics-reports 7235563`. See section 9 of `docs/SPECIFICATION.md`.
 3. Schedule a weekly Claude run that follows `routine/newsletter_prompt.md`. Give it
    access to this one repository only, with permission to write contents but **not** to
    change workflows.
+   Schedule it well after the Monday 06:00 UTC data fetch (it runs at 09:00 UTC):
+   GitHub can start scheduled workflows an hour or more late, and the run stops if the
+   data was not fetched that day.
 
 ## Safety of the automation
 

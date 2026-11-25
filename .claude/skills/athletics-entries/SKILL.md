@@ -64,14 +64,29 @@ must stay under 2,000 characters, or the checker throws the file away.
 
 ## Rules that matter most
 
-- **History is append-only.** Never delete, reorder or rewrite an existing event. Record
-  every change by appending: `announced` (first time named), `confirmed` (named again in a
-  newer source), `withdrawn`. If an athlete re-enters after withdrawing, append a new
-  `announced` event; the withdrawal stays.
+- **History is append-only.** Never delete, reorder or rewrite an existing event, and
+  never rename an athlete already in a file (some names were set by the owner, e.g.
+  "Alexander MUTISO MUNYAO", which joins the organiser's and World Athletics' names).
+  Record every change by appending: `announced` (first time named), `confirmed` (named
+  again in a newer source), `withdrawn`. If an athlete re-enters after withdrawing, append
+  a new `announced` event; the withdrawal stays. Add new events at the end of the list
+  with their real dates, even an older one found late: the site sorts each history by
+  date and takes the status from the latest date, not from the position in the file.
+- **If an existing event or name looks wrong** (wrong source, contradicted reason,
+  misspelt name), do not fix it. List it in your final report under "Corrections for the
+  owner" with what you would change and the source. The owner decides, and a run for
+  that race alone makes the change.
 - `date` is when the announcement or withdrawal was made, not when you found it. If only
   the month is known, write `2026-08`.
 - Every `withdrawn` event has a `reason` in the source's own terms (which injury, illness,
   visa, switched to another race). If none was given, write "No reason given." Never guess.
+- A withdrawal's `source` is a page that reports that athlete's withdrawal, not a preview
+  of another race that mentions it in passing. An athlete never gets two `withdrawn`
+  events for the same withdrawal that disagree; if sources give different reasons, keep
+  the better-graded one and mention the other in its `note`.
+- `official` means the page is the organiser's, World Athletics', a federation's or the
+  athlete's own. A news site or running site that reprints an organiser's release is
+  `reported`; to grade it official, cite the organiser's own page.
 - When a better source confirms an entry, append a `confirmed` event with the better
   grade; do not edit the old event.
 - `pb` is the athlete's best at the race distance, or "debut".

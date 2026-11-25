@@ -82,7 +82,9 @@ what each may write and what each needs are defined in `pipeline/stages.json`.
    - for each failed stage, one line on why (from the checker's output), and the same
      for each stage that had files rejected;
    - whether a newsletter was written and whether the work was pushed;
-   - anything a stage reported as suspicious.
+   - anything a stage reported as suspicious;
+   - any "Corrections for the owner" a stage listed (in your own words, one line each);
+     these are decisions for the owner, not work for this run.
 
 ## Running one stage by itself
 

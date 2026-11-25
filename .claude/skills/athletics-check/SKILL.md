@@ -26,7 +26,11 @@ Arguments: `$ARGUMENTS` (the stage name, then the ISO week)
      any change to `usd_rates`, is a failure.
    - `entries`: every `withdrawn` event has a concrete reason or "No reason given.";
      event dates are not in the future; an `official` grade has a source that could be
-     official (organiser, federation, World Athletics, or the athlete).
+     official (organiser, federation, World Athletics, or the athlete; a site reprinting
+     an organiser's release is not); a withdrawal's source is about that athlete's
+     withdrawal; no athlete has two `withdrawn` events for the same withdrawal that
+     disagree. Events are sorted by date when the site is built, so their order in the
+     file is not a problem.
    - `team`: `verified: true` with a source that is plainly unrelated to the athlete is a
      failure; a coach or brand value must be a name, not a sentence.
    - `news`: every item is about athletics and dated within about a week of the file's

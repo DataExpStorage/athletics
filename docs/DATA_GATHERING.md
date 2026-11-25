@@ -162,10 +162,21 @@ shown for a starter is the best grade among the events since their last withdraw
 
 - `date` is when the announcement or withdrawal was made, not when it was found. If only
   the month is known, write `2026-08`.
-- Never delete or rewrite an event. If an athlete re-enters after withdrawing, append a
-  new `announced` event.
+- Never delete or rewrite an event, and never rename an athlete already in a file. If an
+  athlete re-enters after withdrawing, append a new `announced` event. New events go at
+  the end of the list with their real dates; the site sorts each history by date, so an
+  older event found late is still placed correctly.
+- An existing event or name changes only when the owner decides it: the researcher lists
+  suspected errors as "Corrections for the owner", and an approved correction is made in
+  a run for that race alone. Example: on 25 Nov 2026 the owner had Sawe's Berlin
+  withdrawal re-sourced to the organisers' notice, and named the Valencia entrant
+  "Alexander MUTISO MUNYAO" (organiser's and World Athletics' names together).
 - A `withdrawn` event must have a `reason` in the source's terms: the injury and which,
   illness, visa, switched to another race. If none was given, write "No reason given."
+  Its source reports that athlete's withdrawal (not a preview of another race that
+  mentions it). Two `withdrawn` events for the same withdrawal must not disagree.
+- A site that reprints an organiser's release is graded Reported; Official needs the
+  organiser's own page.
 - When a better source confirms an entry, append a `confirmed` event with the better
   grade rather than changing the old one.
 - Set `checked` to today's date on every review, even when nothing changed.

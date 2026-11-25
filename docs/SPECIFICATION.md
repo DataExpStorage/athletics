@@ -326,7 +326,16 @@ records to know which data it may use.
 
 Accepted files are staged in git; the git index is the set of accepted work. A failed
 stage's changes are discarded (changed files restored, new files removed) and the run
-continues, except that a failed fetch or newsletter stops it. Nothing is committed until
+continues, except that a failed fetch or newsletter stops it. When only some of a stage's
+files fail the format checks, only those are discarded and recorded as `rejected`; the
+rest go on to review (this came in after the 23 Nov 2026 run lost all 14 entries files to
+one over-long note). A scope problem, a problem not tied to one file, or a "failed"
+review still discards the whole stage. Every text field is limited to 2,000 characters.
+
+The weekly cloud run does not fetch: it relies on GitHub Actions having fetched the data
+the same morning. Its first step, `python scripts/check_stage.py fresh`, checks that the
+season calendar carries today's date (UTC) and stops the run if it does not, so a
+newsletter is never written from last week's data. Nothing is committed until
 the publish stage, which re-validates everything, rebuilds the site data and makes one
 commit.
 
@@ -345,14 +354,22 @@ settings file and fetch support for its pages, not new stages.
 
 | Job | Where | When | Does |
 |---|---|---|---|
-| Data update | GitHub Actions `update.yml` | Mondays 06:00 UTC, on demand, and on pushes to site, scripts, config, newsletters, entries or reports | Fetches (scheduled and manual runs only), commits `data/`, builds `site/data/`, publishes to GitHub Pages |
-| Research and newsletter | Claude run that invokes the `athletics-weekly` skill (`routine/newsletter_prompt.md`) | Weekly | The pipeline above: fetch, research, newsletter, publish |
+| Data update | GitHub Actions `update.yml` | Mondays 06:00 UTC, on demand, and on pushes to site, scripts, config, newsletters, entries, reports, team or news | Fetches (scheduled and manual runs only), commits `data/`, builds `site/data/`, publishes to GitHub Pages |
+| Athlete profiles | GitHub Actions `profiles.yml` | Daily 07:00 and 19:00 UTC | Fetches a batch of athlete profiles and commits them (does not republish the site) |
+| Research and newsletter | Claude routine "Athletics weekly update", which invokes the `athletics-weekly` skill with `no-fetch` (`routine/newsletter_prompt.md`) | Mondays 09:00 UTC | Checks the data was fetched today, then the pipeline above: research, newsletter, publish |
+
+GitHub starts scheduled workflows late when it is busy: the 06:00 run of 23 Nov 2026
+started at 07:08, after the routine (then at 06:30) had already run on the previous
+week's data. The routine therefore runs at 09:00 and checks the fetch date before
+working. If a deploy fails with "No artifacts named github-pages were found", it is a
+GitHub-side fault: re-run the workflow later (`gh run rerun <id>`), since pushes of
+athlete profiles do not republish the site.
 
 Fallback if the cloud jobs cannot reach World Athletics or cannot push: run
 `python scripts/update_all.py` and the research on the owner's PC (Windows Task
 Scheduler) and push from there.
 
-## 10. Current status (16 November 2026)
+## 10. Current status (16 November 2026, publishing rows updated 25 November)
 
 Built and working on the owner's PC:
 
@@ -368,8 +385,8 @@ Not done yet:
 
 | Item | Blocked on |
 |---|---|
-| GitHub repository, Pages, scheduled update | Owner: create a free GitHub account, install the GitHub CLI, run `gh auth login` |
-| Weekly Claude routine | The GitHub repository, and GitHub connected to the owner's Claude account |
+| ~~GitHub repository, Pages, scheduled update~~ | Done 17 Nov 2026 (repository `DataExpStorage/athletics`, site on GitHub Pages) |
+| ~~Weekly Claude routine~~ | Done 17 Nov 2026; first scheduled run 23 Nov 2026 (entries stage failed, fixed and re-run by hand 25 Nov) |
 | Athlete profiles | 34 of 332 in focus fetched; two batches of 12 a day on trial |
 | 2027 calendar | World Athletics has not published it yet |
 | Researched data backlog | See DATA_GATHERING.md |

@@ -45,4 +45,5 @@ and if the content is wrong the whole stage is, so precision matters more than v
 ## Final report
 
 End with a short plain report: which files you wrote or changed, which items you found
-nothing for, and anything suspicious you saw. No file contents.
+nothing for, anything suspicious you saw, and under "Corrections for the owner" any
+existing record you believe is wrong but were not allowed to change. No file contents.
