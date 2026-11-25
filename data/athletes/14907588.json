@@ -1,0 +1,227 @@
+{
+ "id": "14907588",
+ "givenName": "Nigsti",
+ "familyName": "HAFTU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1999-07-08",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:54",
+   "venue": "Herzogenaurach (GER)",
+   "date": "12 SEP 2021",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "30:52",
+   "venue": "Houilles (FRA)",
+   "date": "29 DEC 2019",
+   "resultScore": 1200,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:17",
+   "venue": "Valencia (ESP)",
+   "date": "24 OCT 2021",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:33",
+   "venue": "Toronto (CAN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:33",
+   "venue": "Toronto (CAN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Toronto Waterfront Marathon",
+   "listPosition": "66"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Toronto Waterfront Marathon, Toronto",
+   "country": "CAN",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:21:33",
+   "score": 1197,
+   "competitionId": "7238226"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:33:50",
+   "score": 1082,
+   "competitionId": "7235571"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Standard Chartered Hong Kong Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:29:13",
+   "score": 1124,
+   "competitionId": "7235568"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "15:41",
+     "venue": "Addis Ababa (ETH)",
+     "date": "15 MAR 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "14:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "15:12",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "30:52",
+     "venue": "Houilles (FRA)",
+     "date": "29 DEC 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "32:19",
+     "venue": "Bengaluru (IND)",
+     "date": "15 MAY 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:10:17",
+     "venue": "Montbéliard (FRA)",
+     "date": "29 SEP 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:06:17",
+     "venue": "Valencia (ESP)",
+     "date": "24 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:07:37",
+     "venue": "Paris (FRA)",
+     "date": "06 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:07:44",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:08:19",
+     "venue": "Buenos Aires (ARG)",
+     "date": "25 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:13:07",
+     "venue": "Tallinn (EST)",
+     "date": "13 SEP 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:28:38",
+     "venue": "Berlin (GER)",
+     "date": "25 SEP 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "2:25:37",
+     "venue": "Košice (SVK)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:28:29",
+     "venue": "Mumbai (IND)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:21:33",
+     "venue": "Toronto (CAN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 116,
+   "rankingScore": 1194
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 788,
+   "rankingScore": 1194
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/nigsti-haftu-014907588"
+}

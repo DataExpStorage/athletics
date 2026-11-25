@@ -1,0 +1,75 @@
+{
+ "id": "14976253",
+ "givenName": "Marcela",
+ "familyName": "ALVAREZ",
+ "country": "MEX",
+ "countryName": "Mexico",
+ "birthDate": "",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:36.41",
+   "venue": "Puerto Vallarta (MEX)",
+   "date": "13 MAR 2021",
+   "resultScore": 931,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:13:42",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1055,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:13:42",
+   "venue": "Guadalajara (MEX)",
+   "date": "22 FEB 2026",
+   "resultScore": 1055,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit",
+   "listPosition": "650"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "XL Medio Maratón Internacional Guadalajara Electrolit, Guadalajara",
+   "country": "MEX",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "1:13:42",
+   "score": 1055,
+   "competitionId": "7237360"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:13:42",
+     "venue": "Guadalajara (MEX)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": null,
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/mexico/marcela-alvarez-14976253"
+}

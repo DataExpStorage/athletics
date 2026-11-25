@@ -1,0 +1,183 @@
+{
+ "id": "14914204",
+ "givenName": "Sila",
+ "familyName": "KIPTOO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1998-05-05",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:57.31",
+   "venue": "Nairobi (KEN)",
+   "date": "12 JUL 2019",
+   "resultScore": 1009,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:03",
+   "venue": "Warszawa (POL)",
+   "date": "31 MAR 2019",
+   "resultScore": 1105,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:56",
+   "venue": "Roma (ITA)",
+   "date": "06 MAR 2022",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:13",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:15.66",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "20 MAY 2026",
+   "resultScore": 948,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Athletics Kenya National Police Service Track and Field Championships"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:13",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1237,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "23"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:04:13",
+   "score": 1237,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-20",
+   "competition": "Athletics Kenya National Police Service Track and Field Championships, Ulinzi Sports Complex, Langata, Nairobi",
+   "country": "KEN",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "14:15.66",
+   "score": 948,
+   "competitionId": "7241948"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:05:28",
+   "score": 1214,
+   "competitionId": "7235597"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:02:03",
+     "venue": "Warszawa (POL)",
+     "date": "31 MAR 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:13:16",
+     "venue": "Porto (POR)",
+     "date": "07 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:11:32",
+     "venue": "Genève (SUI)",
+     "date": "15 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:10:31",
+     "venue": "Madrid (ESP)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:09",
+     "venue": "Roma (ITA)",
+     "date": "17 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:21",
+     "venue": "Paris (FRA)",
+     "date": "13 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:13",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 37,
+   "rankingScore": 1273
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 297,
+   "rankingScore": 1273
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/sila-kiptoo-014914204"
+}

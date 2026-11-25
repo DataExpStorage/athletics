@@ -1,0 +1,435 @@
+{
+ "id": "14923882",
+ "givenName": "Melknat",
+ "familyName": "WUDU",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-01-03",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:11.29",
+   "venue": "Lakeside Stadium, Melbourne (AUS)",
+   "date": "23 FEB 2023",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:32.02",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "11 FEB 2024",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:32.02",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "11 FEB 2024",
+   "resultScore": 1225,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "9:07.12",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "11 FEB 2024",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "9:07.12",
+   "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+   "date": "11 FEB 2024",
+   "resultScore": 1235,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:36.65",
+   "venue": "Boudewijnstadion, Bruxelles (BEL)",
+   "date": "14 SEP 2024",
+   "resultScore": 1209,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "36:11",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "18 AUG 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:40",
+   "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+   "date": "27 APR 2024",
+   "resultScore": 1202,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:15",
+   "venue": "Boston, MA (USA)",
+   "date": "23 JUN 2024",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:03",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:46",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:27",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:38.21",
+   "venue": "Sollentunavallen, Sollentuna (SWE)",
+   "date": "14 JUN 2026",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Folksam Grand Prix Sollentuna",
+   "listPosition": "46"
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:02.13",
+   "venue": "Suhaim bin Hamad Stadium, Doha (QAT)",
+   "date": "19 JUN 2026",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Doha Meeting",
+   "listPosition": "70"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:03",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Northside Hospital Peachtree Road Race"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:46",
+   "venue": "Utica, NY (USA)",
+   "date": "12 JUL 2026",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Boilermaker Road Race",
+   "listPosition": "7"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:27",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "14 FEB 2026",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ras Al Khaimah Half Marathon",
+   "listPosition": "69"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "Boilermaker Road Race, Utica, NY",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "47:46",
+   "score": 1163,
+   "competitionId": "7244046"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "31:03",
+   "score": 1177,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-06-19",
+   "competition": "Doha Meeting, Suhaim bin Hamad Stadium, Doha - Diamond Discipline",
+   "country": "QAT",
+   "category": "GW",
+   "race": "F",
+   "place": "7",
+   "mark": "15:02.13",
+   "score": 1159,
+   "competitionId": "7214015"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-06-14",
+   "competition": "Folksam Grand Prix Sollentuna, Sollentunavallen, Sollentuna",
+   "country": "SWE",
+   "category": "C",
+   "race": "F1",
+   "place": "2",
+   "mark": "8:38.21",
+   "score": 1180,
+   "competitionId": "7234831"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-14",
+   "competition": "Ras Al Khaimah Half Marathon, Ras Al Khaimah",
+   "country": "UAE",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "1:07:27",
+   "score": 1183,
+   "competitionId": "7237781"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "9:07.12",
+     "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+     "date": "11 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "9:07.12",
+     "venue": "Armory Track&Field Center, New York, NY (USA) (i)",
+     "date": "11 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "36:11",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "18 AUG 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "14:54",
+     "venue": "Herzogenaurach (GER)",
+     "date": "12 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "15:11",
+     "venue": "Herzogenaurach (GER)",
+     "date": "30 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "15:04",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "29 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "14:40",
+     "venue": "Adi-Dassler-Straße 1, Herzogenaurach (GER)",
+     "date": "27 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "32:55",
+     "venue": "Addis Ababa (ETH)",
+     "date": "10 JAN 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "31:45",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 JAN 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "31:15",
+     "venue": "Boston, MA (USA)",
+     "date": "23 JUN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "32:11",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 NOV 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "49:22",
+     "venue": "Heerenberg (NED)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "47:46",
+     "venue": "Utica, NY (USA)",
+     "date": "12 JUL 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:10:30",
+     "venue": "Boston, MA (USA)",
+     "date": "10 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:08:53",
+     "venue": "Boston, MA (USA)",
+     "date": "09 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:27",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "16:13.16",
+     "date": "22 AUG 2021"
+    },
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "World Athletics U20 Championships",
+     "mark": "9:00.12",
+     "date": "19 AUG 2021"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "5000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "15:08.65",
+     "date": "09 JUN 2022"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "5000 Metres",
+     "competition": "African Games",
+     "mark": "15:07.04",
+     "date": "18 MAR 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 59,
+   "rankingScore": 1185
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 605,
+   "rankingScore": 1210
+  }
+ ],
+ "representative": {
+  "name": "Matthew TURNBULL",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.globalathletics.com/"
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/melknat-wudu-14923882"
+}

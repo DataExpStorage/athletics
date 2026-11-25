@@ -1,0 +1,99 @@
+{
+ "id": "14895741",
+ "givenName": "Samuel",
+ "familyName": "LOMOI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1991",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:49",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:49",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Marathon",
+   "listPosition": "397"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:09:49",
+   "score": 1133,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-14",
+   "competition": "Access Bank Lagos City Marathon, Lagos",
+   "country": "NGR",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:11:59",
+   "score": 1095,
+   "competitionId": "7235572"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:12:20",
+     "venue": "Padova (ITA)",
+     "date": "28 APR 2019"
+    },
+    {
+     "season": "2026",
+     "mark": "2:09:49",
+     "venue": "Istanbul (TUR)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 333,
+   "rankingScore": 1143
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 2322,
+   "rankingScore": 1143
+  }
+ ],
+ "representative": {
+  "name": "Jia hui SUN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/samuel-lomoi-14895741"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "14932836",
+ "givenName": "Adane",
+ "familyName": "KEBEDE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1996-09-11",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:48",
+   "venue": "Shanghai (CHN)",
+   "date": "21 APR 2024",
+   "resultScore": 1115,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:10",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:10",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Beijing Marathon",
+   "listPosition": "51"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:05:10",
+   "score": 1219,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "Chevron Houston Marathon, Houston, TX",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:06:16",
+   "score": 1199,
+   "competitionId": "7235560"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:01:48",
+     "venue": "Shanghai (CHN)",
+     "date": "21 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "2:14:30",
+     "venue": "Castellón (ESP)",
+     "date": "16 FEB 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "2:07:21",
+     "venue": "Košice (SVK)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:06:54",
+     "venue": "Doha (QAT)",
+     "date": "20 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:32",
+     "venue": "Cape Town (RSA)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:28",
+     "venue": "Seoul (KOR)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:10",
+     "venue": "Beijing (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 59,
+   "rankingScore": 1247
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 447,
+   "rankingScore": 1247
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/ethiopia/adane-kebede-14932836"
+}

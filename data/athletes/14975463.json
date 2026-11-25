@@ -1,0 +1,496 @@
+{
+ "id": "14975463",
+ "givenName": "Patrick Kiptoo",
+ "familyName": "KIPROP",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2000-04-30",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:03.64",
+   "venue": "Westmont Track/Thorrington Field, Santa Barbara, CA (USA)",
+   "date": "27 MAR 2021",
+   "resultScore": 812,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:01.96",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "15 FEB 2025",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:01.96",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "15 FEB 2025",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:43.29",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "14 FEB 2025",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:43.29",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "14 FEB 2025",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:11.67",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "01 FEB 2025",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:11.67",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "01 FEB 2025",
+   "resultScore": 1218,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:00.58",
+   "venue": "Cobb Track and Angell Field, Palo Alto, CA (USA)",
+   "date": "31 MAR 2023",
+   "resultScore": 1131,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "9:08.56",
+   "venue": "Fresno Pacific University Track, Fresno, CA (USA)",
+   "date": "30 APR 2021",
+   "resultScore": 959,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:26",
+   "venue": "Boston, MA (USA)",
+   "date": "18 APR 2026",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:36",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "02 AUG 2025",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:35",
+   "venue": "Atlanta Track Club Indoor Facility, Atlanta, GA (USA)",
+   "date": "04 JUL 2025",
+   "resultScore": 1158,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "34:08",
+   "venue": "Spokane, WA (USA)",
+   "date": "04 MAY 2025",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:37",
+   "venue": "Utica, NY (USA)",
+   "date": "13 JUL 2025",
+   "resultScore": 1095,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:14",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:01",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:57.62",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "30 JAN 2026",
+   "resultScore": 1070,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "UW Invite/Mile City",
+   "listPosition": "419"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:26",
+   "venue": "Boston, MA (USA)",
+   "date": "18 APR 2026",
+   "resultScore": 1116,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Boston 5K",
+   "listPosition": "42"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:48",
+   "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+   "date": "01 AUG 2026",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TD Beach to Beacon 10K Road Race",
+   "listPosition": "91"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:37",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2026",
+   "resultScore": 1155,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Northside Hospital Peachtree Road Race"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:14",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1217,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "30"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:01",
+   "venue": "New York, NY (USA)",
+   "date": "01 NOV 2026",
+   "resultScore": 1130,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS New York City Marathon",
+   "listPosition": "418"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "TCS New York City Marathon, New York, NY",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "18",
+   "mark": "2:10:01",
+   "score": 1130,
+   "competitionId": "7235564"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-01",
+   "competition": "TD Beach to Beacon 10K Road Race, 1000 Shore Road, Cape Elizabeth, ME",
+   "country": "USA",
+   "category": "C",
+   "race": "F",
+   "place": "2",
+   "mark": "27:48",
+   "score": 1150,
+   "competitionId": "7240792"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-04",
+   "competition": "Northside Hospital Peachtree Road Race, Atlanta, GA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "27:37",
+   "score": 1155,
+   "competitionId": "7240978"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-21",
+   "competition": "B.A.A. 10K, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "27:55",
+   "score": 1140,
+   "competitionId": "7240976"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-25",
+   "competition": "BOLDERBoulder, Boulder, CO - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "28:35",
+   "score": 1079,
+   "competitionId": "7238420"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-04-18",
+   "competition": "Boston 5K, Boston, MA - Invitational Events",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "13:26",
+   "score": 1116,
+   "competitionId": "7239474"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "United Airlines NYC Half, New York, NY - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "8",
+   "mark": "1:00:01",
+   "score": 1186,
+   "competitionId": "7237506"
+  },
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-01-30",
+   "competition": "UW Invite/Mile City, Dempsey Indoor, Seattle, WA (i) - Invitational Events",
+   "country": "USA",
+   "category": "F",
+   "race": "F1",
+   "place": "8",
+   "mark": "7:57.62",
+   "score": 1070,
+   "competitionId": "7235401"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "59:14",
+   "score": 1217,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "4:12.01",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "14 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "4:08.65",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "13 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "4:07.15",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "12 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "4:01.96",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "15 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "4:12.01",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "14 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "4:08.65",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "13 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "4:07.15",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "12 JAN 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "4:01.96",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "15 FEB 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:26",
+     "venue": "Boston, MA (USA)",
+     "date": "18 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "27:36",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "02 AUG 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:48",
+     "venue": "1000 Shore Road, Cape Elizabeth, ME (USA)",
+     "date": "01 AUG 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "34:08",
+     "venue": "Spokane, WA (USA)",
+     "date": "04 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "43:37",
+     "venue": "Utica, NY (USA)",
+     "date": "13 JUL 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:01:19",
+     "venue": "Chicago, IL (USA)",
+     "date": "01 JUN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:14",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:10:01",
+     "venue": "New York, NY (USA)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 29,
+   "rankingScore": 1204
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 179,
+   "rankingScore": 1176
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 856,
+   "rankingScore": 1204
+  }
+ ],
+ "representative": {
+  "name": "Merhawi KEFLEZIGHI",
+  "country": "United States",
+  "website": "http://www.hawimanagement.com"
+ },
+ "fetched": "2026-11-25",
+ "source": "https://worldathletics.org/athletes/kenya/patrick-kiptoo-kiprop-14975463"
+}
