@@ -1,0 +1,99 @@
+{
+ "id": "15193094",
+ "givenName": "Sufaro",
+ "familyName": "WOLIYI",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2003-01-09",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:35",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1230,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:35",
+   "venue": "Seoul (KOR)",
+   "date": "15 MAR 2026",
+   "resultScore": 1230,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Seoul Marathon",
+   "listPosition": "35"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "2",
+   "mark": "2:08:55",
+   "score": 1150,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "2:04:35",
+   "score": 1230,
+   "competitionId": "7235569"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:07:19",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:04:35",
+     "venue": "Seoul (KOR)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 61,
+   "rankingScore": 1241
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 476,
+   "rankingScore": 1241
+  }
+ ],
+ "representative": {
+  "name": "Roy ZHANG",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/ethiopia/sufaro-woliyi-15193094"
+}

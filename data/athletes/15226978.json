@@ -1,0 +1,166 @@
+{
+ "id": "15226978",
+ "givenName": "Vincent",
+ "familyName": "KIPKORIR",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2002-05-25",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:08",
+   "venue": "Herzogenaurach (GER)",
+   "date": "26 APR 2025",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:30",
+   "venue": "Málaga (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:46",
+   "venue": "Abbeville (FRA)",
+   "date": "07 JUN 2026",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Mémorial Bruno Willecoq",
+   "listPosition": "75"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:30",
+   "venue": "Málaga (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1206,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TotalEnergies Medio Maratón de Málaga",
+   "listPosition": "41"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-08-23",
+   "competition": "Antrim Coast Half Marathon, Larne",
+   "country": "GBR",
+   "category": "C",
+   "race": "F",
+   "place": "3",
+   "mark": "1:00:39",
+   "score": 1160,
+   "competitionId": "7238724"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-13",
+   "competition": "Corrida International de Langueux, Langueux",
+   "country": "FRA",
+   "category": "E",
+   "race": "F",
+   "place": "20",
+   "mark": "29:20",
+   "score": 1012,
+   "competitionId": "7236021"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-07",
+   "competition": "Mémorial Bruno Willecoq, Abbeville",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "27:46",
+   "score": 1153,
+   "competitionId": "7234908"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-26",
+   "competition": "TCS World 10K Bengaluru, Bengaluru",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "15",
+   "mark": "28:59",
+   "score": 1043,
+   "competitionId": "7236016"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "TotalEnergies Medio Maratón de Málaga, Málaga",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "59:30",
+   "score": 1206,
+   "competitionId": "7236008"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "27:08",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:46",
+     "venue": "Abbeville (FRA)",
+     "date": "07 JUN 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "59:30",
+     "venue": "Málaga (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 39,
+   "rankingScore": 1193
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1040,
+   "rankingScore": 1193
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/kenya/vincent-kipkorir-15226978"
+}

@@ -1,0 +1,111 @@
+{
+ "id": "15266477",
+ "givenName": "Andrea",
+ "familyName": "KIPTOO",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2002-02-12",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:11",
+   "venue": "Berlin (GER)",
+   "date": "29 MAR 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:11",
+   "venue": "Berlin (GER)",
+   "date": "29 MAR 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Generali Berliner Halbmarathon",
+   "listPosition": "26"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-08",
+   "competition": "Boston Half, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "1:01:03",
+   "score": 1144,
+   "competitionId": "7245289"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Generali Berliner Halbmarathon, Berlin",
+   "country": "GER",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "59:11",
+   "score": 1219,
+   "competitionId": "7237042"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-22",
+   "competition": "Coelmo Napoli City Half Marathon, Napoli",
+   "country": "ITA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "59:27",
+   "score": 1208,
+   "competitionId": "7235982"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:01:30",
+     "venue": "Boston, MA (USA)",
+     "date": "09 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:11",
+     "venue": "Berlin (GER)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 32,
+   "rankingScore": 1200
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 922,
+   "rankingScore": 1200
+  }
+ ],
+ "representative": {
+  "name": "Eric Lilot",
+  "country": "United States",
+  "website": null
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/kenya/andrea-kiptoo-15266477"
+}

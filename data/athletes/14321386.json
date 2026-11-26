@@ -1,0 +1,690 @@
+{
+ "id": "14321386",
+ "givenName": "Emily",
+ "familyName": "SISSON",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "1991-10-12",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:40.98",
+   "venue": "Baltimore, MD (USA)",
+   "date": "30 JUL 2006",
+   "resultScore": 899,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:38.49",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "23 FEB 2013",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:38.49",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "23 FEB 2013",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:49.61",
+   "venue": "Cork (IRL)",
+   "date": "16 JUL 2018",
+   "resultScore": 1141,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:52.60",
+   "venue": "New York, NY (USA) (i)",
+   "date": "14 FEB 2015",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "10:10.21",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "12 MAR 2010",
+   "resultScore": 1036,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "10:10.21",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "12 MAR 2010",
+   "resultScore": 1036,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:53.84",
+   "venue": "Irvine, CA (USA)",
+   "date": "15 MAY 2021",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "15:02.10",
+   "venue": "Boston, MA (USA) (i)",
+   "date": "26 FEB 2017",
+   "resultScore": 1183,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:49.57",
+   "venue": "Palo Alto, CA (USA)",
+   "date": "29 MAR 2019",
+   "resultScore": 1202,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "35:32",
+   "venue": "Falmouth High School, Falmouth, MA (USA)",
+   "date": "20 AUG 2023",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:38",
+   "venue": "New York, NY (USA)",
+   "date": "03 NOV 2018",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:03",
+   "venue": "Manchester (GBR)",
+   "date": "18 MAY 2025",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "mark": "38:21",
+   "venue": "Alexandria, VA (USA)",
+   "date": "16 NOV 2014",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:28",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "05 MAR 2022",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "52:03",
+   "venue": "Pittsburgh, PA (USA)",
+   "date": "06 NOV 2016",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:04:35",
+   "venue": "New Haven, CT (USA)",
+   "date": "05 SEP 2022",
+   "resultScore": 1165,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:06:52",
+   "venue": "Houston, TX (USA)",
+   "date": "15 JAN 2023",
+   "resultScore": 1195,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:29",
+   "venue": "Chicago, IL (USA)",
+   "date": "09 OCT 2022",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:06",
+   "venue": "New York, NY (USA)",
+   "date": "15 MAR 2026",
+   "resultScore": 1148,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "United Airlines NYC Half",
+   "listPosition": "139"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:22:39",
+   "venue": "Boston, MA (USA)",
+   "date": "20 APR 2026",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Boston Marathon"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-20",
+   "competition": "Boston Marathon, Boston, MA",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:22:39",
+   "score": 1168,
+   "competitionId": "7235561"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "United Airlines NYC Half, New York, NY - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "6",
+   "mark": "1:09:06",
+   "score": 1148,
+   "competitionId": "7237506"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "4:44.02",
+     "venue": "Icahn Stadium, New York, NY (USA)",
+     "date": "12 JUN 2010"
+    },
+    {
+     "season": "2012",
+     "mark": "4:38.91",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "27 JAN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "4:38.49",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "23 FEB 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "4:40.00",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "24 JAN 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "4:45.20",
+     "venue": "Kingston, RI (USA) (i)",
+     "date": "07 FEB 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "4:38.91",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "27 JAN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "4:38.49",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "23 FEB 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "4:40.00",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "24 JAN 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "4:45.20",
+     "venue": "Kingston, RI (USA) (i)",
+     "date": "07 FEB 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2007",
+     "mark": "10:29.97",
+     "venue": "Greensboro, NC (USA)",
+     "date": "15 JUN 2007"
+    },
+    {
+     "season": "2008",
+     "mark": "10:38.68",
+     "venue": "Lisle, IL (USA)",
+     "date": "14 JUN 2008"
+    },
+    {
+     "season": "2010",
+     "mark": "10:10.21",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "12 MAR 2010"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "results": [
+    {
+     "season": "2010",
+     "mark": "10:10.21",
+     "venue": "Boston, MA (USA) (i)",
+     "date": "12 MAR 2010"
+    }
+   ]
+  },
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "35:32",
+     "venue": "Falmouth High School, Falmouth, MA (USA)",
+     "date": "20 AUG 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "15:44",
+     "venue": "Providence, RI (USA)",
+     "date": "21 SEP 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "15:48",
+     "venue": "Providence, RI (USA)",
+     "date": "20 SEP 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "15:42",
+     "venue": "Providence, RI (USA)",
+     "date": "18 SEP 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "15:38",
+     "venue": "New York, NY (USA)",
+     "date": "03 NOV 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "31:57",
+     "venue": "Boston, MA (USA)",
+     "date": "13 OCT 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "32:18",
+     "venue": "Boston, MA (USA)",
+     "date": "12 OCT 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "31:47",
+     "venue": "Boston, MA (USA)",
+     "date": "10 OCT 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "32:10",
+     "venue": "Cape Elizabeth, ME (USA)",
+     "date": "04 AUG 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "32:03",
+     "venue": "Boston, MA (USA)",
+     "date": "26 JUN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "31:35",
+     "venue": "Boston, MA (USA)",
+     "date": "25 JUN 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "31:03",
+     "venue": "Manchester (GBR)",
+     "date": "18 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "12 Kilometres Road",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "38:21",
+     "venue": "Alexandria, VA (USA)",
+     "date": "16 NOV 2014"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "48:09",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "20 MAR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "47:28",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "05 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "48:26",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "04 MAR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "52:03",
+     "venue": "Pittsburgh, PA (USA)",
+     "date": "06 NOV 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:06:03",
+     "venue": "New Haven, CT (USA)",
+     "date": "05 SEP 2016"
+    },
+    {
+     "season": "2022",
+     "mark": "1:04:35",
+     "venue": "New Haven, CT (USA)",
+     "date": "05 SEP 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:09",
+     "venue": "New Haven, CT (USA)",
+     "date": "04 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:08:21",
+     "venue": "New York, NY (USA)",
+     "date": "19 MAR 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "1:07:30",
+     "venue": "Houston, TX (USA)",
+     "date": "20 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "1:07:26",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "1:07:11",
+     "venue": "Indianapolis, IN (USA)",
+     "date": "07 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:06:52",
+     "venue": "Houston, TX (USA)",
+     "date": "15 JAN 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:09:19",
+     "venue": "New York, NY (USA)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:06",
+     "venue": "New York, NY (USA)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:23:08",
+     "venue": "London (GBR)",
+     "date": "28 APR 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:18:29",
+     "venue": "Chicago, IL (USA)",
+     "date": "09 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:22:09",
+     "venue": "Chicago, IL (USA)",
+     "date": "08 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:42",
+     "venue": "Orlando, FL (USA)",
+     "date": "03 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:05",
+     "venue": "New York, NY (USA)",
+     "date": "02 NOV 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World Junior Championships",
+     "mark": "15:48.91",
+     "date": "21 JUL 2010"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:18:29",
+     "date": "09 OCT 2022"
+    },
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "Bank of America Chicago Marathon",
+     "mark": "2:22:09",
+     "date": "08 OCT 2023"
+    },
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "TCS New York City Marathon",
+     "mark": "2:25:05",
+     "date": "02 NOV 2025"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Virgin Money London Marathon",
+     "mark": "2:23:08",
+     "date": "28 APR 2019"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Half Marathon",
+     "competition": "USA Half Marathon Championships",
+     "mark": "1:07:11",
+     "date": "07 MAY 2022"
+    },
+    {
+     "place": "1.",
+     "discipline": "10,000 Metres",
+     "competition": "U.S. Olympic Trials",
+     "mark": "31:03.82",
+     "date": "26 JUN 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "15 Kilometres Road",
+     "competition": "Gate River Run",
+     "mark": "48:26",
+     "date": "04 MAR 2023"
+    }
+   ]
+  },
+  {
+   "category": "NCAA Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Eugene NCAA Div. I Championships",
+     "mark": "15:34.10",
+     "date": "13 JUN 2015"
+    }
+   ]
+  },
+  {
+   "category": "NCAA Indoor Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "5000 Metres Short Track",
+     "competition": "NCAA Div. I Indoor Championships",
+     "mark": "15:32.15",
+     "date": "13 MAR 2015"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 106,
+   "rankingScore": 1201
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 153,
+   "rankingScore": 1141
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 710,
+   "rankingScore": 1201
+  }
+ ],
+ "representative": {
+  "name": "Bradley YEWER",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.flynnsports.com"
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/united-states/emily-sisson-14321386"
+}
