@@ -1,0 +1,261 @@
+{
+ "id": "14625896",
+ "givenName": "Merhawi",
+ "familyName": "KESETE",
+ "country": "ERI",
+ "countryName": "Eritrea",
+ "birthDate": "1986-01-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:38.65",
+   "venue": "Asmara (ERI)",
+   "date": "27 APR 2014",
+   "resultScore": 875,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:13",
+   "venue": "Appingedam (NED)",
+   "date": "27 JUN 2015",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "46:41",
+   "venue": "Tilburg (NED)",
+   "date": "04 SEP 2016",
+   "resultScore": 1110,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "46:35",
+   "venue": "Amsterdam (NED)",
+   "date": "20 SEP 2015",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:52",
+   "venue": "Hamburg (GER)",
+   "date": "21 JUN 2015",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:36",
+   "venue": "Amsterdam (NED)",
+   "date": "17 OCT 2021",
+   "resultScore": 1192,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:21",
+   "venue": "Amsterdam (NED)",
+   "date": "18 OCT 2026",
+   "resultScore": 1179,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS Amsterdam Marathon",
+   "listPosition": "178"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "TCS Amsterdam Marathon, Amsterdam",
+   "country": "NED",
+   "category": "GW",
+   "race": "F",
+   "place": "19",
+   "mark": "2:07:21",
+   "score": 1179,
+   "competitionId": "7235581"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-10",
+   "competition": "Copenhagen Marathon, Copenhagen",
+   "country": "DEN",
+   "category": "E",
+   "race": "F1",
+   "place": "4",
+   "mark": "2:09:16",
+   "score": 1143,
+   "competitionId": "7236125"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Tata Mumbai Marathon, Mumbai",
+   "country": "IND",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:10:22",
+   "score": 1124,
+   "competitionId": "7235567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "28:13",
+     "venue": "Appingedam (NED)",
+     "date": "27 JUN 2015"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "46:41",
+     "venue": "Tilburg (NED)",
+     "date": "04 SEP 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2014",
+     "mark": "1:02:51",
+     "venue": "Keren (ERI)",
+     "date": "05 JAN 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "1:00:52",
+     "venue": "Hamburg (GER)",
+     "date": "21 JUN 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "1:09:01",
+     "venue": "Olomouc (CZE)",
+     "date": "25 JUN 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:04:32",
+     "venue": "Hamburg (GER)",
+     "date": "25 JUN 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:04:07",
+     "venue": "Belfort (FRA)",
+     "date": "23 SEP 2018"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:12:21",
+     "venue": "Hamburg (GER)",
+     "date": "17 APR 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "2:17:01",
+     "venue": "Taipei City (TPE)",
+     "date": "09 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:09:06",
+     "venue": "Linz (AUT)",
+     "date": "14 APR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:10:36",
+     "venue": "Mumbai (IND)",
+     "date": "19 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:06:36",
+     "venue": "Amsterdam (NED)",
+     "date": "17 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:08:24",
+     "venue": "Sevilla (ESP)",
+     "date": "20 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:06",
+     "venue": "Osaka (JPN)",
+     "date": "26 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:05",
+     "venue": "Košice (SVK)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:27",
+     "venue": "Amsterdam (NED)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:21",
+     "venue": "Amsterdam (NED)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 151,
+   "rankingScore": 1185
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1188,
+   "rankingScore": 1185
+  }
+ ],
+ "representative": {
+  "name": "Jos HERMENS",
+  "country": "Netherlands",
+  "website": "http://www.globalsportscommunication.nl"
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/eritrea/merhawi-kesete-14625896"
+}

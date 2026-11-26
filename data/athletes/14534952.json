@@ -1,0 +1,417 @@
+{
+ "id": "14534952",
+ "givenName": "Shuangshuang",
+ "familyName": "XU",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "1996-04-06",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "400 Metres",
+   "mark": "58.83",
+   "venue": "Shanghai (CHN)",
+   "date": "07 MAY 2022",
+   "resultScore": 877,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "800 Metres",
+   "mark": "2:10.48",
+   "venue": "Zibo (CHN)",
+   "date": "27 MAY 2012",
+   "resultScore": 982,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:12.50",
+   "venue": "Portland, OR (USA)",
+   "date": "19 JUL 2019",
+   "resultScore": 1107,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "4:25.49",
+   "venue": "Shandong Sports Training Center, Jinan (CHN) (i)",
+   "date": "12 MAR 2024",
+   "resultScore": 1028,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:33.53",
+   "venue": "Seattle, WA (USA) (i)",
+   "date": "15 FEB 2019",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:00.50",
+   "venue": "Dempsey Indoor, Seattle, WA (USA) (i)",
+   "date": "01 FEB 2020",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "9:04.87",
+   "venue": "Jiangsu Sports Bureau Training Center, Nanjing (CHN) (i)",
+   "date": "17 MAR 2024",
+   "resultScore": 1111,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:26.44",
+   "venue": "Azusa, CA (USA)",
+   "date": "09 JUL 2019",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "32:45.91",
+   "venue": "Guangdong Ersha Sports Training Center, Guangzhou (CHN)",
+   "date": "20 NOV 2025",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:21.85",
+   "venue": "Olympiastadion, Berlin (GER)",
+   "date": "01 SEP 2019",
+   "resultScore": 1100,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "9:30.39",
+   "venue": "Shangyu Stadium, Shaoxing (CHN)",
+   "date": "13 JUN 2021",
+   "resultScore": 1168,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "33:28",
+   "venue": "Shanghai (CHN)",
+   "date": "15 OCT 2023",
+   "resultScore": 1063,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:34",
+   "venue": "Shanghai (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:28:25",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "4x800 Metres Relay",
+   "mark": "8:39.16",
+   "venue": "Shangyu Stadium, Shaoxing (CHN)",
+   "date": "15 SEP 2023",
+   "resultScore": 1066,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:34",
+   "venue": "Shanghai (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Shanghai Half Marathon",
+   "listPosition": "177"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:28:25",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Beijing Marathon",
+   "listPosition": "299"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "2:28:25",
+   "score": 1132,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-12",
+   "competition": "Beijing Half Marathon, Beijing",
+   "country": "CHN",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:09:54",
+   "score": 1132,
+   "competitionId": "7236075"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "East Asian Half Marathon Championships, Yangzhou",
+   "country": "CHN",
+   "category": "D",
+   "race": "F",
+   "place": "5",
+   "mark": "1:13:25",
+   "score": 1060,
+   "competitionId": "7241126"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Shanghai Half Marathon, Shanghai",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:09:34",
+   "score": 1139,
+   "competitionId": "7236073"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "4:33.53",
+     "venue": "Seattle, WA (USA) (i)",
+     "date": "15 FEB 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "33:28",
+     "venue": "Shanghai (CHN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "38:24",
+     "venue": "Shanghai (CHN)",
+     "date": "27 OCT 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:19:13",
+     "venue": "Shanghai (CHN)",
+     "date": "23 APR 2017"
+    },
+    {
+     "season": "2023",
+     "mark": "1:11:30",
+     "venue": "Shanghai (CHN)",
+     "date": "16 APR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:10:17",
+     "venue": "Meishan (CHN)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:09:34",
+     "venue": "Shanghai (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:28:25",
+     "venue": "Beijing (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Asian Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Asian Athletics Championships",
+     "mark": "9:44.54",
+     "date": "14 JUL 2023"
+    },
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Asian Athletics Championships",
+     "mark": "9:51.76",
+     "date": "23 APR 2019"
+    },
+    {
+     "place": "4.",
+     "discipline": "1500 Metres",
+     "competition": "Asian Athletics Championships",
+     "mark": "4:18.84",
+     "date": "12 JUL 2023"
+    },
+    {
+     "place": "8.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "26th Asian Athletics Championships",
+     "mark": "10:04.96",
+     "date": "30 MAY 2025"
+    }
+   ]
+  },
+  {
+   "category": "Asian Games",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Jakarta Asian Games",
+     "mark": "9:47.42",
+     "date": "27 AUG 2018"
+    }
+   ]
+  },
+  {
+   "category": "Asian U20 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "1500 Metres",
+     "competition": "Taipei Asian Junior Championships",
+     "mark": "4:28.78",
+     "date": "13 JUN 2014"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Chinese Championships",
+     "mark": "9:36.91",
+     "date": "30 JUN 2024"
+    },
+    {
+     "place": "1.",
+     "discipline": "4x800 Metres Relay",
+     "competition": "Chinese Relays Championships",
+     "mark": "8:39.16",
+     "date": "15 SEP 2023"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Chinese Championships",
+     "mark": "9:30.39",
+     "date": "13 JUN 2021"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Chinese Championships",
+     "mark": "9:56.53",
+     "date": "18 SEP 2020"
+    },
+    {
+     "place": "1.",
+     "discipline": "5000 Metres",
+     "competition": "Chinese Championships",
+     "mark": "16:18.08",
+     "date": "17 SEP 2020"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Chinese Championships",
+     "mark": "10:05.18",
+     "date": "14 SEP 2018"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 206,
+   "rankingScore": 1121
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 268,
+   "rankingScore": 1144
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1675,
+   "rankingScore": 1147
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/pr-of-china/shuangshuang-xu-14534952"
+}

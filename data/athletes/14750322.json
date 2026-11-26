@@ -1,0 +1,301 @@
+{
+ "id": "14750322",
+ "givenName": "Rose",
+ "familyName": "HARVEY",
+ "country": "GBR",
+ "countryName": "Great Britain & N.I.",
+ "birthDate": "1992-08-25",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:57.40",
+   "venue": "JSerra Catholic HS, San Juan Capistrano, CA (USA)",
+   "date": "04 MAR 2023",
+   "resultScore": 1038,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Road Race",
+   "mark": "38:53",
+   "venue": "Falmouth, MA (USA)",
+   "date": "21 AUG 2022",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "34:10",
+   "venue": "Monkton Stadium, Jarrow (GBR)",
+   "date": "18 OCT 2026",
+   "resultScore": 1027,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "1:01:53",
+   "venue": "Twickenham (GBR)",
+   "date": "13 OCT 2019",
+   "resultScore": 881,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:02",
+   "venue": "London (GBR)",
+   "date": "03 SEP 2023",
+   "resultScore": 1129,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:21",
+   "venue": "Chicago, IL (USA)",
+   "date": "08 OCT 2023",
+   "resultScore": 1180,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "34:10",
+   "venue": "Monkton Stadium, Jarrow (GBR)",
+   "date": "18 OCT 2026",
+   "resultScore": 1027,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Top Flight by RunThrough - Jarrow 10K",
+   "listPosition": "672"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:11:53",
+   "venue": "Valencia (ESP)",
+   "date": "25 OCT 2026",
+   "resultScore": 1091,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich",
+   "listPosition": "385"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:14",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "193"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-25",
+   "competition": "Medio Marathon Valencia Trinidad Alfonso Zurich, Valencia",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "40",
+   "mark": "1:11:53",
+   "score": 1091,
+   "competitionId": "7236005"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-18",
+   "competition": "Top Flight by RunThrough - Jarrow 10K, Monkton Stadium, Jarrow",
+   "country": "GBR",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "34:10",
+   "score": 1027,
+   "competitionId": "7245127"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-16",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "14",
+   "mark": "2:30:34",
+   "score": 1112,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:26:14",
+   "score": 1153,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "EDP Lisbon Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "14",
+   "mark": "1:12:47",
+   "score": 1073,
+   "competitionId": "7236103"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "38:53",
+     "venue": "Falmouth, MA (USA)",
+     "date": "21 AUG 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "34:10",
+     "venue": "Monkton Stadium, Jarrow (GBR)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "1:01:53",
+     "venue": "Twickenham (GBR)",
+     "date": "13 OCT 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:21:37",
+     "venue": "Bristol (GBR)",
+     "date": "25 SEP 2016"
+    },
+    {
+     "season": "2023",
+     "mark": "1:10:02",
+     "venue": "London (GBR)",
+     "date": "03 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:11:59",
+     "venue": "Nice (FRA)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:12:52",
+     "venue": "New York, NY (USA)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:11:53",
+     "venue": "Valencia (ESP)",
+     "date": "25 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:55:41",
+     "venue": "London (GBR)",
+     "date": "24 APR 2016"
+    },
+    {
+     "season": "2021",
+     "mark": "2:29:45",
+     "venue": "London (GBR)",
+     "date": "03 OCT 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:27:20",
+     "venue": "Sevilla (ESP)",
+     "date": "20 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:23:21",
+     "venue": "Chicago, IL (USA)",
+     "date": "08 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:51:03",
+     "venue": "Stade de France, Paris (FRA)",
+     "date": "11 AUG 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:01",
+     "venue": "London (GBR)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:26:14",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 248,
+   "rankingScore": 1148
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 439,
+   "rankingScore": 1064
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1652,
+   "rankingScore": 1148
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/great-britain-ni/rose-harvey-14750322"
+}

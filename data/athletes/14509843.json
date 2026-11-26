@@ -1,0 +1,233 @@
+{
+ "id": "14509843",
+ "givenName": "Mekuant",
+ "familyName": "AYENEW",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1991-10-24",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:21",
+   "venue": "Wien (AUT)",
+   "date": "14 APR 2013",
+   "resultScore": 1094,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:04:46",
+   "venue": "Sevilla (ESP)",
+   "date": "23 FEB 2020",
+   "resultScore": 1227,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:40",
+   "venue": "Barcelona (ESP)",
+   "date": "15 MAR 2026",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Zurich Marató de Barcelona",
+   "listPosition": "202"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:12:55",
+   "score": 1078,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:12:54",
+   "score": 1078,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Zurich Marató de Barcelona, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "9",
+   "mark": "2:07:40",
+   "score": 1173,
+   "competitionId": "7236009"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Standard Chartered Hong Kong Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "A",
+   "race": "F",
+   "place": "9",
+   "mark": "2:11:07",
+   "score": 1110,
+   "competitionId": "7235568"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2013",
+     "mark": "1:02:21",
+     "venue": "Wien (AUT)",
+     "date": "14 APR 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "1:03:08",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 FEB 2014"
+    },
+    {
+     "season": "2024",
+     "mark": "1:03:55",
+     "venue": "Guadalajara (MEX)",
+     "date": "25 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2012",
+     "mark": "2:12:19",
+     "venue": "Dubai (UAE)",
+     "date": "27 JAN 2012"
+    },
+    {
+     "season": "2013",
+     "mark": "2:10:05",
+     "venue": "Hannover (GER)",
+     "date": "05 MAY 2013"
+    },
+    {
+     "season": "2014",
+     "mark": "2:11:46",
+     "venue": "Hannover (GER)",
+     "date": "27 APR 2014"
+    },
+    {
+     "season": "2015",
+     "mark": "2:11:01",
+     "venue": "Hefei (CHN)",
+     "date": "25 OCT 2015"
+    },
+    {
+     "season": "2016",
+     "mark": "2:11:09",
+     "venue": "Beijing (CHN)",
+     "date": "17 SEP 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:09:00",
+     "venue": "Praha (CZE)",
+     "date": "07 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:09:20",
+     "venue": "Dubai (UAE)",
+     "date": "26 JAN 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:11:16",
+     "venue": "Mumbai (IND)",
+     "date": "20 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:04:46",
+     "venue": "Sevilla (ESP)",
+     "date": "23 FEB 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:09:34",
+     "venue": "Milano (ITA)",
+     "date": "16 MAY 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:10:11",
+     "venue": "Paris (FRA)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:24",
+     "venue": "Sevilla (ESP)",
+     "date": "19 FEB 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:17",
+     "venue": "Guangzhou (CHN)",
+     "date": "08 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:18",
+     "venue": "Barcelona (ESP)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:40",
+     "venue": "Barcelona (ESP)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 333,
+   "rankingScore": 1143
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 2305,
+   "rankingScore": 1143
+  }
+ ],
+ "representative": {
+  "name": "Jose Enrique MUNOZ",
+  "country": "Spain",
+  "website": null
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/ethiopia/mekuant-ayenew-14509843"
+}

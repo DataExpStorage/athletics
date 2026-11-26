@@ -1,0 +1,310 @@
+{
+ "id": "14472843",
+ "givenName": "Magdalyne",
+ "familyName": "MASAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1993-11-21",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:15.70",
+   "venue": "Auckland (NZL)",
+   "date": "26 FEB 2015",
+   "resultScore": 1083,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:01.63",
+   "venue": "Luzern (SUI)",
+   "date": "17 JUL 2012",
+   "resultScore": 1100,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:58.54",
+   "venue": "Shanghai Stadium, Shanghai (CHN)",
+   "date": "17 MAY 2015",
+   "resultScore": 1166,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2000 Metres Steeplechase",
+   "mark": "6:10.82",
+   "venue": "Olympiastadion, Berlin (GER)",
+   "date": "06 SEP 2015",
+   "resultScore": 1145,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "9:29.16",
+   "venue": "Alexander Stadium, Birmingham (GBR)",
+   "date": "07 JUN 2015",
+   "resultScore": 1171,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "31:44",
+   "venue": "New York, NY (USA)",
+   "date": "09 APR 2017",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:42",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:07",
+   "venue": "Roma (ITA)",
+   "date": "05 MAR 2023",
+   "resultScore": 1181,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:31",
+   "venue": "Ostia (ITA)",
+   "date": "13 MAR 2016",
+   "resultScore": 1169,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:18:58",
+   "venue": "Frankfurt (GER)",
+   "date": "27 OCT 2024",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:07:42",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks",
+   "listPosition": "83"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:19:17",
+   "venue": "Paris (FRA)",
+   "date": "12 APR 2026",
+   "resultScore": 1219,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Schneider Electric Marathon de Paris",
+   "listPosition": "32"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:21:11",
+   "score": 1201,
+   "competitionId": "7235563"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "Schneider Electric Marathon de Paris, Paris - Elite Event",
+   "country": "FRA",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:19:17",
+   "score": 1219,
+   "competitionId": "7235597"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-15",
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "5",
+   "mark": "1:07:42",
+   "score": 1177,
+   "competitionId": "7237513"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "34:06",
+     "venue": "Bengaluru (IND)",
+     "date": "15 MAY 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "31:44",
+     "venue": "New York, NY (USA)",
+     "date": "09 APR 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "33:05",
+     "venue": "New Orleans, LA (USA)",
+     "date": "01 APR 2018"
+    },
+    {
+     "season": "2025",
+     "mark": "33:05",
+     "venue": "Chon Buri (THA)",
+     "date": "25 MAY 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:12:57",
+     "venue": "Lisboa (POR)",
+     "date": "02 OCT 2016"
+    },
+    {
+     "season": "2018",
+     "mark": "1:11:49",
+     "venue": "Lisboa (POR)",
+     "date": "11 MAR 2018"
+    },
+    {
+     "season": "2026",
+     "mark": "1:07:42",
+     "venue": "Barcelona (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:28:22",
+     "venue": "Hefei (CHN)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:22:16",
+     "venue": "Toronto (CAN)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "2:25:39",
+     "venue": "Toronto (CAN)",
+     "date": "16 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:24:12",
+     "venue": "Wien (AUT)",
+     "date": "23 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:18:58",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:19:28",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:19:17",
+     "venue": "Paris (FRA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Brazzaville All-Africa Games",
+     "mark": "9:56.76",
+     "date": "15 SEP 2015"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:19:28",
+     "date": "02 MAR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 47,
+   "rankingScore": 1243
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 347,
+   "rankingScore": 1243
+  }
+ ],
+ "representative": {
+  "name": "Tom BROADBENT",
+  "country": "Great Britain & N.I.",
+  "website": "http://www.mezzomanagement.com/"
+ },
+ "fetched": "2026-11-26",
+ "source": "https://worldathletics.org/athletes/kenya/magdalyne-masai-14472843"
+}
