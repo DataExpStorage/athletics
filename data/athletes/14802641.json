@@ -1,0 +1,262 @@
+{
+ "id": "14802641",
+ "givenName": "Stanley Waithaka",
+ "familyName": "MBURU",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2000-04-09",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:50.64",
+   "venue": "Kasarani, Nairobi (KEN)",
+   "date": "16 JUL 2017",
+   "resultScore": 1111,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:05.21",
+   "venue": "Heusden-Zolder (BEL)",
+   "date": "20 JUL 2019",
+   "resultScore": 1191,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "26:56.36",
+   "venue": "Hayward Field, Eugene, OR (USA)",
+   "date": "05 JUL 2025",
+   "resultScore": 1232,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:28",
+   "venue": "Lille (FRA)",
+   "date": "09 NOV 2019",
+   "resultScore": 1109,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:18",
+   "venue": "Lille (FRA)",
+   "date": "19 MAR 2023",
+   "resultScore": 1197,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:33",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:18.63",
+   "venue": "Nishishina Athletic Stadium, Nobeoka (JPN)",
+   "date": "04 MAY 2026",
+   "resultScore": 1142,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "37th Golden Games in Nobeoka",
+   "listPosition": "112"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:33",
+   "venue": "New Delhi (IND)",
+   "date": "18 OCT 2026",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Vedanta Delhi Half Marathon",
+   "listPosition": "45"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Vedanta Delhi Half Marathon, New Delhi",
+   "country": "IND",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "59:33",
+   "score": 1204,
+   "competitionId": "7236424"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-07-18",
+   "competition": "Night of Athletics, Stadion De Veen, Heusden-Zolder",
+   "country": "BEL",
+   "category": "C",
+   "race": "F1",
+   "place": "9",
+   "mark": "13:23.11",
+   "score": 1126,
+   "competitionId": "7235037"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-31",
+   "competition": "22nd Nittaidai Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "2",
+   "mark": "13:32.39",
+   "score": 1094,
+   "competitionId": "7241367"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-04",
+   "competition": "37th Golden Games in Nobeoka, Nishishina Athletic Stadium, Nobeoka",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "6",
+   "mark": "13:18.63",
+   "score": 1142,
+   "competitionId": "7239067"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-25",
+   "competition": "21st Nittaidai Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7238520"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-08",
+   "competition": "EDP Lisbon Half Marathon, Lisboa",
+   "country": "POR",
+   "category": "C",
+   "race": "F",
+   "place": "7",
+   "mark": "1:00:17",
+   "score": 1175,
+   "competitionId": "7236103"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "13:28",
+     "venue": "Lille (FRA)",
+     "date": "09 NOV 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "27:18",
+     "venue": "Lille (FRA)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "27:33",
+     "venue": "Lille (FRA)",
+     "date": "16 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "59:33",
+     "venue": "New Delhi (IND)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "10,000 Metres",
+     "competition": "World Athletics Championships, Oregon 2022",
+     "mark": "27:27.90",
+     "date": "17 JUL 2022"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "IAAF World U20 Championships",
+     "mark": "13:20.57",
+     "date": "14 JUL 2018"
+    }
+   ]
+  },
+  {
+   "category": "World U18 Championships",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres",
+     "competition": "IAAF World U18 Championships",
+     "mark": "7:50.64",
+     "date": "16 JUL 2017"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 124,
+   "rankingScore": 1126
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1594,
+   "rankingScore": 1166
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/stanley-waithaka-mburu-14802641"
+}

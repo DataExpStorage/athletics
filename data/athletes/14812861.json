@@ -1,0 +1,176 @@
+{
+ "id": "14812861",
+ "givenName": "Nicholas",
+ "familyName": "KIRWA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1994-06-16",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:55",
+   "venue": "Ziwa (KEN)",
+   "date": "30 NOV 2019",
+   "resultScore": 1007,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:04:25",
+   "venue": "Yangzhou (CHN)",
+   "date": "30 MAR 2025",
+   "resultScore": 1015,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:01",
+   "venue": "Milano (ITA)",
+   "date": "16 MAY 2021",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:56",
+   "venue": "Doha (QAT)",
+   "date": "16 JAN 2026",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Doha Marathon by Ooredoo",
+   "listPosition": "529"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Hangzhou Marathon, Hangzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:12:49",
+   "score": 1080,
+   "competitionId": "7235594"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "New Taipei City Wan Jin Shi Marathon, New Taipei City",
+   "country": "TPE",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:14:25",
+   "score": 1052,
+   "competitionId": "7235571"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "9",
+   "mark": "2:10:56",
+   "score": 1113,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:04:25",
+     "venue": "Yangzhou (CHN)",
+     "date": "30 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:27:55",
+     "venue": "Medellín (COL)",
+     "date": "17 SEP 2017"
+    },
+    {
+     "season": "2019",
+     "mark": "2:10:24",
+     "venue": "Chuncheon (KOR)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:05:01",
+     "venue": "Milano (ITA)",
+     "date": "16 MAY 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:11:20",
+     "venue": "Daegu (KOR)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:11:16",
+     "venue": "Shanghai (CHN)",
+     "date": "26 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:57",
+     "venue": "Wuxi (CHN)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:03",
+     "venue": "Doha (QAT)",
+     "date": "17 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:10:56",
+     "venue": "Doha (QAT)",
+     "date": "16 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 393,
+   "rankingScore": 1132
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 2726,
+   "rankingScore": 1132
+  }
+ ],
+ "representative": {
+  "name": "Derek FROUDE",
+  "country": "United States",
+  "website": "http://www.possosports.com"
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/nicholas-kirwa-014812861"
+}

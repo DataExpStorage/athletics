@@ -1,0 +1,330 @@
+{
+ "id": "14754378",
+ "givenName": "Yuhei",
+ "familyName": "URANO",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1997-11-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:01.78",
+   "venue": "Juntendo University Stadium, Inzai (JPN)",
+   "date": "26 MAR 2022",
+   "resultScore": 1045,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:29.37",
+   "venue": "Takebishi Stadium, Kyoto (JPN)",
+   "date": "10 DEC 2022",
+   "resultScore": 1104,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:54.53",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "21 NOV 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "9:04.04",
+   "venue": "Yokohama (JPN)",
+   "date": "21 MAY 2016",
+   "resultScore": 977,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:48",
+   "venue": "Herzogenaurach (GER)",
+   "date": "26 APR 2025",
+   "resultScore": 1040,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "mark": "1:00:16",
+   "venue": "Tachikawa (JPN)",
+   "date": "14 OCT 2017",
+   "resultScore": 1033,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:02",
+   "venue": "Tachikawa (JPN)",
+   "date": "13 OCT 2018",
+   "resultScore": 1106,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:09",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:35.94",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "31 MAY 2026",
+   "resultScore": 1081,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "22nd Nittaidai Challenge Games",
+   "listPosition": "399"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "27:54.53",
+   "venue": "NITTAIDAI Athletic Stadium, Yokohama (JPN)",
+   "date": "21 NOV 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "27th NITTAIDAI Challenge Games",
+   "listPosition": "74"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:09",
+   "venue": "Berlin (GER)",
+   "date": "27 SEP 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BMW Berlin Marathon",
+   "listPosition": "98"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-11-21",
+   "competition": "27th NITTAIDAI Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F4",
+   "place": "10",
+   "mark": "27:54.53",
+   "score": 1140,
+   "competitionId": "7245694"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:06:09",
+   "score": 1201,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-07-05",
+   "competition": "74th Japan Corporate Teams Athletics Championships 10000m, Aoba Park Athletic Field, Chitose",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7243923"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-31",
+   "competition": "22nd Nittaidai Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "5",
+   "mark": "13:35.94",
+   "score": 1081,
+   "competitionId": "7241367"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-04",
+   "competition": "37th Golden Games in Nobeoka, Nishishina Athletic Stadium, Nobeoka",
+   "country": "JPN",
+   "category": "F",
+   "race": "F1",
+   "place": "23",
+   "mark": "14:06.37",
+   "score": 978,
+   "competitionId": "7239067"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-26",
+   "competition": "21st Nittaidai Challenge Games, NITTAIDAI Athletic Stadium, Yokohama",
+   "country": "JPN",
+   "category": "F",
+   "race": "F2",
+   "place": "14",
+   "mark": "14:00.37",
+   "score": 998,
+   "competitionId": "7238520"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Osaka Marathon, Osaka",
+   "country": "JPN",
+   "category": "A",
+   "race": "F",
+   "place": "8",
+   "mark": "2:06:41",
+   "score": 1191,
+   "competitionId": "7235570"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "13:48",
+     "venue": "Herzogenaurach (GER)",
+     "date": "26 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "20 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:01:51",
+     "venue": "Tachikawa (JPN)",
+     "date": "16 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:00:16",
+     "venue": "Tachikawa (JPN)",
+     "date": "14 OCT 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "1:02:02",
+     "venue": "Tachikawa (JPN)",
+     "date": "13 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:02:14",
+     "venue": "Tachikawa (JPN)",
+     "date": "10 MAR 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "2:07:52",
+     "venue": "Osaka (JPN)",
+     "date": "27 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:10:41",
+     "venue": "Tokyo (JPN)",
+     "date": "15 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:08:21",
+     "venue": "Tokyo (JPN)",
+     "date": "03 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:23",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:06:09",
+     "venue": "Berlin (GER)",
+     "date": "27 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:07:35",
+     "date": "21 SEP 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 67,
+   "rankingScore": 1233
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 152,
+   "rankingScore": 1126
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 527,
+   "rankingScore": 1019
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 542,
+   "rankingScore": 1233
+  }
+ ],
+ "representative": {
+  "name": "Gen YANAGIHARA",
+  "country": "Japan",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/japan/yuhei-urano-14754378"
+}

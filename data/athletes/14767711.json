@@ -1,0 +1,171 @@
+{
+ "id": "14767711",
+ "givenName": "Medina Deme",
+ "familyName": "ARMINO",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-10-22",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:09",
+   "venue": "Enschede (NED)",
+   "date": "13 APR 2025",
+   "resultScore": 1163,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:28:19",
+   "venue": "Dongying (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Yellow River Estuary Dongying Marathon",
+   "listPosition": "293"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:28:19",
+   "score": 1133,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:30:26",
+   "score": 1113,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-15",
+   "competition": "Seoul Marathon, Seoul",
+   "country": "KOR",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235569"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Tata Mumbai Marathon, Mumbai",
+   "country": "IND",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:33:02",
+   "score": 1089,
+   "competitionId": "7235567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "2:49:26",
+     "venue": "Beirut (LBN)",
+     "date": "13 NOV 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "2:45:09",
+     "venue": "Mont-Saint-Michel (FRA)",
+     "date": "28 MAY 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:29:31",
+     "venue": "Beirut (LBN)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:27:25",
+     "venue": "Xiamen (CHN)",
+     "date": "06 JAN 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:26:12",
+     "venue": "Xiamen (CHN)",
+     "date": "05 JAN 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "2:27:07",
+     "venue": "Riyadh (KSA)",
+     "date": "05 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:27:27",
+     "venue": "Daegu (KOR)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:26:01",
+     "venue": "Paris (FRA)",
+     "date": "07 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:25:09",
+     "venue": "Enschede (NED)",
+     "date": "13 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:28:19",
+     "venue": "Dongying (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 137,
+   "rankingScore": 1184
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 923,
+   "rankingScore": 1184
+  }
+ ],
+ "representative": {
+  "name": "Marieke VAN DE VEEN",
+  "country": "Netherlands",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/ethiopia/medina-deme-armino-014767711"
+}

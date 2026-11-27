@@ -1,0 +1,319 @@
+{
+ "id": "14786619",
+ "givenName": "Hani Idriss",
+ "familyName": "HERSI",
+ "country": "DJI",
+ "countryName": "Djibouti",
+ "birthDate": "1999-11-15",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:24.05",
+   "venue": "Stade Gouled, Djibouti (DJI)",
+   "date": "25 MAR 2022",
+   "resultScore": 919,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:20.09",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "17 MAY 2026",
+   "resultScore": 1137,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:35.54",
+   "venue": "Miloud HEDEFI Athletics Stadium, Oran (ALG)",
+   "date": "30 APR 2025",
+   "resultScore": 1078,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:16",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:09",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:20.09",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "17 MAY 2026",
+   "resultScore": 1137,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "African Athletics Championships",
+   "listPosition": "131"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:41.44",
+   "venue": "University of Ghana Sports Stadium, Accra (GHA)",
+   "date": "13 MAY 2026",
+   "resultScore": 1069,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "African Athletics Championships",
+   "listPosition": "384"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:16",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1201,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "tRUNsylvania International 10K Brasov",
+   "listPosition": "15"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:09",
+   "venue": "København (DEN)",
+   "date": "20 SEP 2026",
+   "resultScore": 1221,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "World Athletics Road Running Championships",
+   "listPosition": "25"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "5",
+   "mark": "27:16",
+   "score": 1201,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "6",
+   "mark": "59:09",
+   "score": 1221,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-13",
+   "competition": "Corrida International de Langueux, Langueux",
+   "country": "FRA",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "27:46",
+   "score": 1153,
+   "competitionId": "7236021"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-07",
+   "competition": "Mémorial Bruno Willecoq, Abbeville",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "4",
+   "mark": "27:48",
+   "score": 1150,
+   "competitionId": "7234908"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-05-17",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "13:20.09",
+   "score": 1137,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-05-13",
+   "competition": "African Athletics Championships, University of Ghana Sports Stadium, Accra",
+   "country": "GHA",
+   "category": "GL",
+   "race": "F",
+   "place": "5",
+   "mark": "28:41.44",
+   "score": 1069,
+   "competitionId": "7238651"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-17",
+   "competition": "Meeting International de Djibouti, Stade Gouled, Djibouti",
+   "country": "DJI",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "28:46.89",
+   "score": 1061,
+   "competitionId": "7236787"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Urban Trail de Lille - 5 et 10km, Lille",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "12",
+   "mark": "27:44",
+   "score": 1157,
+   "competitionId": "7236174"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-23",
+   "competition": "Semi Marathon International de Djibouti Telecom, Djibouti",
+   "country": "DJI",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "1:02:49",
+   "score": 1076,
+   "competitionId": "7237294"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "28:56",
+     "venue": "Djibouti (DJI)",
+     "date": "25 NOV 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "29:46",
+     "venue": "Djibouti (DJI)",
+     "date": "27 JAN 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "27:16",
+     "venue": "Brasov (ROU)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:01:03",
+     "venue": "Vila Nova de Famalicão (POR)",
+     "date": "19 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:09",
+     "venue": "København (DEN)",
+     "date": "20 SEP 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Road Running Championships",
+   "results": [
+    {
+     "place": "6.",
+     "discipline": "Half Marathon",
+     "competition": "World Athletics Road Running Championships",
+     "mark": "59:09",
+     "date": "20 SEP 2026"
+    }
+   ]
+  },
+  {
+   "category": "African Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "5000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "13:20.09",
+     "date": "17 MAY 2026"
+    },
+    {
+     "place": "5.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "28:41.44",
+     "date": "13 MAY 2026"
+    },
+    {
+     "place": "7.",
+     "discipline": "10,000 Metres",
+     "competition": "African Athletics Championships",
+     "mark": "29:12.80",
+     "date": "22 JUN 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 26,
+   "rankingScore": 1207
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 72,
+   "rankingScore": 1154
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 745,
+   "rankingScore": 1212
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/djibouti/hani-idriss-hersi-14786619"
+}

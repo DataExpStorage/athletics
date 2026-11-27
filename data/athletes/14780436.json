@@ -1,0 +1,263 @@
+{
+ "id": "14780436",
+ "givenName": "Shadrack",
+ "familyName": "KIMINING",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1996-02-10",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:08",
+   "venue": "Atlanta, GA (USA)",
+   "date": "04 JUL 2022",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:03",
+   "venue": "Istanbul (TUR)",
+   "date": "11 NOV 2018",
+   "resultScore": 1128,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "45:48",
+   "venue": "Washington, DC (USA)",
+   "date": "02 APR 2022",
+   "resultScore": 1159,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:27",
+   "venue": "Houston, TX (USA)",
+   "date": "19 JAN 2020",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:35",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:35",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1174,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Chevron Houston Marathon",
+   "listPosition": "192"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-22",
+   "competition": "Incheon Marathon, Incheon",
+   "country": "KOR",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "2:11:38",
+   "score": 1101,
+   "competitionId": "7248973"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Kigali International Peace Marathon, Kigali",
+   "country": "RWA",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:15:18",
+   "score": 1036,
+   "competitionId": "7239888"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-11",
+   "competition": "Chevron Houston Marathon, Houston, TX",
+   "country": "USA",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:07:35",
+   "score": 1174,
+   "competitionId": "7235560"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "29:16",
+     "venue": "Kabarnet (KEN)",
+     "date": "24 AUG 2019"
+    },
+    {
+     "season": "2022",
+     "mark": "28:08",
+     "venue": "Atlanta, GA (USA)",
+     "date": "04 JUL 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "43:03",
+     "venue": "Istanbul (TUR)",
+     "date": "11 NOV 2018"
+    },
+    {
+     "season": "2022",
+     "mark": "43:23",
+     "venue": "Utica, NY (USA)",
+     "date": "10 JUL 2022"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "45:48",
+     "venue": "Washington, DC (USA)",
+     "date": "02 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "47:46",
+     "venue": "Washington Monument Grounds, Washington, DC (USA)",
+     "date": "02 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "46:46",
+     "venue": "Washington, DC (USA)",
+     "date": "07 APR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "1:00:53",
+     "venue": "Cardiff (GBR)",
+     "date": "02 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "1:00:07",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "10 FEB 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:00:57",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "09 FEB 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "59:32",
+     "venue": "Cardiff (GBR)",
+     "date": "06 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "59:27",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:12",
+     "venue": "København (DEN)",
+     "date": "19 SEP 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:00:34",
+     "venue": "Riga (LAT)",
+     "date": "15 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:00:48",
+     "venue": "Cardiff (GBR)",
+     "date": "01 OCT 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:10:17",
+     "venue": "St. Paul, Minneapolis, MN (USA)",
+     "date": "06 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:29",
+     "venue": "Houston, TX (USA)",
+     "date": "19 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:07:35",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 269,
+   "rankingScore": 1155
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1894,
+   "rankingScore": 1155
+  }
+ ],
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/shadrack-kimining-14780436"
+}

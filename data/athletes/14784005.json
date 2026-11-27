@@ -1,0 +1,215 @@
+{
+ "id": "14784005",
+ "givenName": "Bernard",
+ "familyName": "WAMBUA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1999-05-24",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:58.93",
+   "venue": "Centro Gabre Gabric, Brescia (ITA)",
+   "date": "13 APR 2024",
+   "resultScore": 1043,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:26",
+   "venue": "Beograd (SRB)",
+   "date": "09 SEP 2023",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "47:34",
+   "venue": "Le Puy-en-Velay (FRA)",
+   "date": "01 MAY 2023",
+   "resultScore": 876,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:00:51",
+   "venue": "Arezzo (ITA)",
+   "date": "30 OCT 2022",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:03:39",
+   "venue": "Jakarta (INA)",
+   "date": "14 JUN 2026",
+   "resultScore": 1044,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BTN Jakarta International Marathon - Half Marathon, 10K & 5K"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-08",
+   "competition": "PLN Electric Run, South Tangerang",
+   "country": "INA",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "1:06:15",
+   "score": 948,
+   "competitionId": "7246097"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-24",
+   "competition": "Jakarta Running Festival - Half Marathon, Jakarta",
+   "country": "INA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:05:05",
+   "score": 991,
+   "competitionId": "7236427"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-06-14",
+   "competition": "BTN Jakarta International Marathon - Half Marathon, 10K & 5K, Jakarta",
+   "country": "INA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "1:03:39",
+   "score": 1044,
+   "competitionId": "7244531"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "28:35",
+     "venue": "Berlin (GER)",
+     "date": "08 AUG 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "28:55",
+     "venue": "Trieste (ITA)",
+     "date": "22 MAY 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "28:26",
+     "venue": "Beograd (SRB)",
+     "date": "09 SEP 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "28:56",
+     "venue": "Lille (FRA)",
+     "date": "17 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "47:34",
+     "venue": "Le Puy-en-Velay (FRA)",
+     "date": "01 MAY 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:06:48",
+     "venue": "Moshi (TAN)",
+     "date": "19 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "1:05:15",
+     "venue": "Moshi (TAN)",
+     "date": "04 MAR 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "1:02:34",
+     "venue": "Yangzhou (CHN)",
+     "date": "21 APR 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "1:01:55",
+     "venue": "Dresden (GER)",
+     "date": "21 MAR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "1:00:51",
+     "venue": "Arezzo (ITA)",
+     "date": "30 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:07",
+     "venue": "Warszawa (POL)",
+     "date": "26 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:01:04",
+     "venue": "Milano (ITA)",
+     "date": "24 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:04:19",
+     "venue": "Jakarta (INA)",
+     "date": "25 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:03:39",
+     "venue": "Jakarta (INA)",
+     "date": "14 JUN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 721,
+   "rankingScore": 1028
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 10007,
+   "rankingScore": 1028
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/bernard-wambua-14784005"
+}

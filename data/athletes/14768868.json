@@ -1,0 +1,186 @@
+{
+ "id": "14768868",
+ "givenName": "Sisay Meseret",
+ "familyName": "GOLA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1997-12-30",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:02",
+   "venue": "Gdynia (POL)",
+   "date": "17 OCT 2020",
+   "resultScore": 1150,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:50",
+   "venue": "Sevilla (ESP)",
+   "date": "20 FEB 2022",
+   "resultScore": 1204,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:20",
+   "venue": "Wuxi (CHN)",
+   "date": "22 MAR 2026",
+   "resultScore": 1152,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wuxi Marathon",
+   "listPosition": "200"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:26:20",
+   "score": 1152,
+   "competitionId": "7235574"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2020",
+     "mark": "1:09:02",
+     "venue": "Gdynia (POL)",
+     "date": "17 OCT 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:09",
+     "venue": "Verona (ITA)",
+     "date": "01 MAY 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "1:10:53",
+     "venue": "Nanjing (CHN)",
+     "date": "13 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "2:35:08",
+     "venue": "Taiyuan (CHN)",
+     "date": "10 SEP 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "2:34:15",
+     "venue": "Amsterdam (NED)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:31:30",
+     "venue": "Kobe (JPN)",
+     "date": "17 NOV 2019"
+    },
+    {
+     "season": "2021",
+     "mark": "2:24:09",
+     "venue": "Barcelona (ESP)",
+     "date": "07 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:20:50",
+     "venue": "Sevilla (ESP)",
+     "date": "20 FEB 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:22:12",
+     "venue": "Osaka (JPN)",
+     "date": "29 JAN 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:23:36",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:29:54",
+     "venue": "Beijing (CHN)",
+     "date": "02 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:26:20",
+     "venue": "Wuxi (CHN)",
+     "date": "22 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "11.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "45th World Athletics Cross Country Championships",
+     "mark": "32:30",
+     "date": "30 MAR 2024"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:20:58",
+     "date": "25 SEP 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 215,
+   "rankingScore": 1158
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1426,
+   "rankingScore": 1158
+  }
+ ],
+ "representative": {
+  "name": "Pan FENG",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/ethiopia/sisay-meseret-gola-14768868"
+}
