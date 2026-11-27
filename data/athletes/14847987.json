@@ -1,0 +1,183 @@
+{
+ "id": "14847987",
+ "givenName": "Francis Kipkorir",
+ "familyName": "LANGAT",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2000-07-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "400 Metres",
+   "mark": "48.80",
+   "venue": "Nairobi (KEN)",
+   "date": "11 JUN 2018",
+   "resultScore": 931,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:10",
+   "venue": "Changzhou (CHN)",
+   "date": "02 NOV 2024",
+   "resultScore": 1101,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:06",
+   "venue": "Zhenning (CHN)",
+   "date": "29 JUN 2025",
+   "resultScore": 1073,
+   "indoor": false,
+   "notLegal": true
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:29",
+   "venue": "Wuxi (CHN)",
+   "date": "23 MAR 2025",
+   "resultScore": 1176,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:08",
+   "venue": "Zhenning (CHN)",
+   "date": "28 JUN 2026",
+   "resultScore": 1072,
+   "indoor": false,
+   "notLegal": true,
+   "competition": "Guizhou Zhenning Huangguoshu Half Marathon"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:09:29",
+   "venue": "Dalian (CHN)",
+   "date": "26 APR 2026",
+   "resultScore": 1139,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "The 36th Dalian Marathon",
+   "listPosition": "363"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "10",
+   "mark": "2:13:27",
+   "score": 1069,
+   "competitionId": "7235596"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-06",
+   "competition": "Shenyang Marathon, Shenyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:12:12",
+   "score": 1091,
+   "competitionId": "7238739"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-06-28",
+   "competition": "Guizhou Zhenning Huangguoshu Half Marathon, Zhenning",
+   "country": "CHN",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:08",
+   "score": 1072,
+   "competitionId": "7239322"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "The 36th Dalian Marathon, Dalian",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:09:29",
+   "score": 1139,
+   "competitionId": "7236080"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Standard Chartered Hong Kong Marathon, Hong Kong",
+   "country": "HKG",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:09:59",
+   "score": 1130,
+   "competitionId": "7235568"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:02:10",
+     "venue": "Changzhou (CHN)",
+     "date": "02 NOV 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:07:29",
+     "venue": "Wuxi (CHN)",
+     "date": "23 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:09:29",
+     "venue": "Dalian (CHN)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 216,
+   "rankingScore": 1168
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1567,
+   "rankingScore": 1168
+  }
+ ],
+ "representative": {
+  "name": "Jia hui SUN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/francis-kipkorir-langat-14847987"
+}

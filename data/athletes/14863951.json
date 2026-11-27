@@ -1,0 +1,192 @@
+{
+ "id": "14863951",
+ "givenName": "Balew",
+ "familyName": "YIHUNLE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "1998-09-21",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:59",
+   "venue": "Incheon (KOR)",
+   "date": "22 MAR 2026",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:57",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:59",
+   "venue": "Incheon (KOR)",
+   "date": "22 MAR 2026",
+   "resultScore": 1108,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "The 26th Incheon International Half Marathon",
+   "listPosition": "451"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:57",
+   "venue": "Hamburg (GER)",
+   "date": "26 APR 2026",
+   "resultScore": 1205,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "40. Haspa Marathon Hamburg",
+   "listPosition": "87"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-30",
+   "competition": "Mexico City Marathon Telcel, Ciudad de México",
+   "country": "MEX",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:11:58",
+   "score": 1088,
+   "competitionId": "7235589"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "40. Haspa Marathon Hamburg, Hamburg",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "10",
+   "mark": "2:05:57",
+   "score": 1205,
+   "competitionId": "7241782"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-22",
+   "competition": "The 26th Incheon International Half Marathon, Incheon",
+   "country": "KOR",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "1:01:59",
+   "score": 1108,
+   "competitionId": "7237366"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "5",
+   "mark": "2:07:07",
+   "score": 1183,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "1:01:59",
+     "venue": "Incheon (KOR)",
+     "date": "22 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "2:10:53",
+     "venue": "Guangzhou (CHN)",
+     "date": "09 DEC 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "2:07:22",
+     "venue": "Chuncheon (KOR)",
+     "date": "27 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:07:26",
+     "venue": "Dubai (UAE)",
+     "date": "24 JAN 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:09:38",
+     "venue": "Izmir (TUR)",
+     "date": "11 APR 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:07:27",
+     "venue": "Daegu (KOR)",
+     "date": "03 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:07:12",
+     "venue": "Seoul (KOR)",
+     "date": "05 NOV 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:06:22",
+     "venue": "Seoul (KOR)",
+     "date": "17 MAR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:36",
+     "venue": "Doha (QAT)",
+     "date": "17 JAN 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:57",
+     "venue": "Hamburg (GER)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 109,
+   "rankingScore": 1204
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 867,
+   "rankingScore": 1204
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/ethiopia/balew-yihunle-014863951"
+}

@@ -1,0 +1,151 @@
+{
+ "id": "14820095",
+ "givenName": "Pascalia",
+ "familyName": "CHEPKOGEI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1989-08-20",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:07",
+   "venue": "København (DEN)",
+   "date": "17 SEP 2023",
+   "resultScore": 1127,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:39",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:21:39",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "68"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-12",
+   "competition": "NN Marathon Rotterdam, Rotterdam",
+   "country": "NED",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:24:34",
+   "score": 1168,
+   "competitionId": "7235576"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "9",
+   "mark": "2:21:39",
+   "score": 1196,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "1:16:58",
+     "venue": "Pune (IND)",
+     "date": "03 DEC 2017"
+    },
+    {
+     "season": "2022",
+     "mark": "1:10:59",
+     "venue": "Laayoune (MAR)",
+     "date": "06 NOV 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:10:07",
+     "venue": "København (DEN)",
+     "date": "17 SEP 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "2:34:06",
+     "venue": "Istanbul (TUR)",
+     "date": "07 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:22:47",
+     "venue": "Eindhoven (NED)",
+     "date": "09 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:26:14",
+     "venue": "Frankfurt (GER)",
+     "date": "29 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:22:49",
+     "venue": "Cape Town (RSA)",
+     "date": "20 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:22:11",
+     "venue": "Praha (CZE)",
+     "date": "04 MAY 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:21:39",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 79,
+   "rankingScore": 1212
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 585,
+   "rankingScore": 1212
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/pascalia-chepkogei-14820095"
+}

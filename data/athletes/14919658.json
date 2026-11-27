@@ -1,0 +1,226 @@
+{
+ "id": "14919658",
+ "givenName": "Oqbe Kibrom",
+ "familyName": "RUESOM",
+ "country": "ERI",
+ "countryName": "Eritrea",
+ "birthDate": "1998-01-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Road Race",
+   "mark": "21:19",
+   "venue": "Genève (SUI)",
+   "date": "08 DEC 2024",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:57",
+   "venue": "Asmara (ERI)",
+   "date": "18 DEC 2016",
+   "resultScore": 959,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:01",
+   "venue": "Sevilla (ESP)",
+   "date": "29 JAN 2023",
+   "resultScore": 1146,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:37",
+   "venue": "Berlin (GER)",
+   "date": "29 SEP 2024",
+   "resultScore": 1211,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:05:46",
+   "venue": "Ljubljana (SLO)",
+   "date": "18 OCT 2026",
+   "resultScore": 1208,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "NLB Ljubljana Marathon",
+   "listPosition": "74"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "NLB Ljubljana Marathon, Ljubljana",
+   "country": "SLO",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:05:46",
+   "score": 1208,
+   "competitionId": "7235593"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-19",
+   "competition": "Vienna City Marathon, Wien",
+   "country": "AUT",
+   "category": "B",
+   "race": "F",
+   "place": "2",
+   "mark": "2:08:10",
+   "score": 1164,
+   "competitionId": "7236128"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-16",
+   "competition": "Doha Marathon by Ooredoo, Doha - Elite Event",
+   "country": "QAT",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:07:55",
+   "score": 1168,
+   "competitionId": "7235566"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Road Race",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "21:19",
+     "venue": "Genève (SUI)",
+     "date": "08 DEC 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "29:57",
+     "venue": "Asmara (ERI)",
+     "date": "18 DEC 2016"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:01:01",
+     "venue": "Sevilla (ESP)",
+     "date": "29 JAN 2023"
+    },
+    {
+     "season": "2025",
+     "mark": "1:02:23",
+     "venue": "Poznan (POL)",
+     "date": "13 APR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:10:01",
+     "venue": "Lisboa (POR)",
+     "date": "20 OCT 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:05:53",
+     "venue": "Valencia (ESP)",
+     "date": "06 DEC 2020"
+    },
+    {
+     "season": "2021",
+     "mark": "2:11:49",
+     "venue": "Firenze (ITA)",
+     "date": "28 NOV 2021"
+    },
+    {
+     "season": "2022",
+     "mark": "2:07:25",
+     "venue": "Wien (AUT)",
+     "date": "24 APR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:05:51",
+     "venue": "Barcelona (ESP)",
+     "date": "19 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:05:37",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:06:04",
+     "venue": "Daegu (KOR)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:05:46",
+     "venue": "Ljubljana (SLO)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "8.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:05:37",
+     "date": "29 SEP 2024"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 84,
+   "rankingScore": 1216
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 700,
+   "rankingScore": 1216
+  }
+ ],
+ "representative": {
+  "name": "Tadesse ABRAHAM",
+  "country": "Switzerland",
+  "website": null
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/eritrea/oqbe-kibrom-ruesom-14919658"
+}

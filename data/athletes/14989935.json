@@ -1,0 +1,214 @@
+{
+ "id": "14989935",
+ "givenName": "Filex Kibet",
+ "familyName": "MASAI",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2002-02-05",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:37.53",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "29 APR 2023",
+   "resultScore": 1076,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:04.80",
+   "venue": "Stade Gouled, Djibouti (DJI)",
+   "date": "17 MAR 2023",
+   "resultScore": 1034,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:19",
+   "venue": "Praha (CZE)",
+   "date": "05 SEP 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:22",
+   "venue": "Roma (ITA)",
+   "date": "18 OCT 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:19",
+   "venue": "Praha (CZE)",
+   "date": "05 SEP 2026",
+   "resultScore": 1196,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Prague 10K Night Race",
+   "listPosition": "20"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:22",
+   "venue": "Roma (ITA)",
+   "date": "18 OCT 2026",
+   "resultScore": 1212,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wizz Air Rome Half Marathon",
+   "listPosition": "34"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Wizz Air Rome Half Marathon, Roma",
+   "country": "ITA",
+   "category": "C",
+   "race": "F",
+   "place": "1",
+   "mark": "59:22",
+   "score": 1212,
+   "competitionId": "7245167"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-05",
+   "competition": "Prague 10K Night Race, Praha",
+   "country": "CZE",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "27:19",
+   "score": 1196,
+   "competitionId": "7236035"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-07-12",
+   "competition": "ABSA Run Yor City 10km, Kings Park Athletics Stadium, Durban",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "9",
+   "mark": "28:13",
+   "score": 1112,
+   "competitionId": "7237456"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-28",
+   "competition": "10KM Port Gentil, Port Gentil",
+   "country": "GAB",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "28:27",
+   "score": 1091,
+   "competitionId": "7239719"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-06-13",
+   "competition": "Corrida International de Langueux, Langueux",
+   "country": "FRA",
+   "category": "E",
+   "race": "F",
+   "place": "2",
+   "mark": "27:45",
+   "score": 1155,
+   "competitionId": "7236021"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-04-04",
+   "competition": "Urban Trail de Lille - 5 et 10km, Lille",
+   "country": "FRA",
+   "category": "F",
+   "race": "F",
+   "place": "7",
+   "mark": "27:24",
+   "score": 1188,
+   "competitionId": "7236174"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "NN CPC Loop Den Haag Halve Marathon, Den Haag",
+   "country": "NED",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "59:52",
+   "score": 1192,
+   "competitionId": "7248645"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "27:27",
+     "venue": "Lille (FRA)",
+     "date": "18 NOV 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "27:19",
+     "venue": "Praha (CZE)",
+     "date": "05 SEP 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:00:51",
+     "venue": "Den Haag (NED)",
+     "date": "09 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:22",
+     "venue": "Roma (ITA)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 23,
+   "rankingScore": 1209
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 791,
+   "rankingScore": 1209
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/kenya/filex-kibet-masai-14989935"
+}

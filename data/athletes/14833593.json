@@ -1,0 +1,409 @@
+{
+ "id": "14833593",
+ "givenName": "Mohammed",
+ "familyName": "EL YOUSSFI",
+ "country": "MAR",
+ "countryName": "Morocco",
+ "birthDate": "1997-07-25",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:54.91",
+   "venue": "Berkane (MAR)",
+   "date": "17 MAR 2019",
+   "resultScore": 915,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "4:10.45",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "08 MAR 2025",
+   "resultScore": 999,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:10.45",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "08 MAR 2025",
+   "resultScore": 999,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:06.75",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "01 FEB 2025",
+   "resultScore": 1038,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:06.75",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "01 FEB 2025",
+   "resultScore": 1038,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:56.82",
+   "venue": "Gowans Stadium, Hutchinson, KS (USA)",
+   "date": "17 MAY 2025",
+   "resultScore": 1010,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "14:07.28",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "07 MAR 2025",
+   "resultScore": 1018,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:32.04",
+   "venue": "Gowans Stadium, Hutchinson, KS (USA)",
+   "date": "15 MAY 2025",
+   "resultScore": 1083,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:31",
+   "venue": "Boston, MA (USA)",
+   "date": "18 APR 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:28",
+   "venue": "Meknés (MAR)",
+   "date": "18 FEB 2018",
+   "resultScore": 1000,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:26",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "07 MAR 2026",
+   "resultScore": 1106,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "46:17",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:21",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley Short Track",
+   "mark": "9:57.22",
+   "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+   "date": "30 JAN 2025",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:31",
+   "venue": "Boston, MA (USA)",
+   "date": "18 APR 2026",
+   "resultScore": 1099,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Boston 5K",
+   "listPosition": "57"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:48",
+   "venue": "Boulder, CO (USA)",
+   "date": "25 MAY 2026",
+   "resultScore": 972,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "BOLDERBoulder"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "43:26",
+   "venue": "Jacksonville, FL (USA)",
+   "date": "07 MAR 2026",
+   "resultScore": 1106,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Gate River Run 15K",
+   "listPosition": "15"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "46:17",
+   "venue": "Washington Monument Grounds, Washington, DC (USA)",
+   "date": "12 APR 2026",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Credit Union Cherry Blossom 10 Mile",
+   "listPosition": "3"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "59:21",
+   "venue": "Houston, TX (USA)",
+   "date": "11 JAN 2026",
+   "resultScore": 1213,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Aramco Houston Half Marathon",
+   "listPosition": "33"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-11-08",
+   "competition": "Boston Half, Boston, MA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "1:01:29",
+   "score": 1127,
+   "competitionId": "7245289"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-25",
+   "competition": "BOLDERBoulder, Boulder, CO - Elite Event",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "6",
+   "mark": "29:48",
+   "score": 972,
+   "competitionId": "7238420"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-05-03",
+   "competition": "UPMC Health Plan Pittsburgh Half Marathon, Pittsburgh, PA",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "1:01:45",
+   "score": 1117,
+   "competitionId": "7240794"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-04-18",
+   "competition": "Boston 5K, Boston, MA - Invitational Events",
+   "country": "USA",
+   "category": "E",
+   "race": "F",
+   "place": "7",
+   "mark": "13:31",
+   "score": 1099,
+   "competitionId": "7239474"
+  },
+  {
+   "discipline": "10 Miles Road",
+   "date": "2026-04-12",
+   "competition": "Credit Union Cherry Blossom 10 Mile, Washington Monument Grounds, Washington, DC",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "46:17",
+   "score": 1132,
+   "competitionId": "7239460"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-03-07",
+   "competition": "Gate River Run 15K, Jacksonville, FL",
+   "country": "USA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "43:26",
+   "score": 1106,
+   "competitionId": "7237320"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-01-11",
+   "competition": "Aramco Houston Half Marathon, Houston, TX",
+   "country": "USA",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "59:21",
+   "score": 1213,
+   "competitionId": "7236794"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "4:10.45",
+     "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+     "date": "08 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "4:10.45",
+     "venue": "Sports Performance Center, Lubbock, TX (USA) (i)",
+     "date": "08 MAR 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:31",
+     "venue": "Boston, MA (USA)",
+     "date": "18 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "29:28",
+     "venue": "Meknés (MAR)",
+     "date": "18 FEB 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "30:02",
+     "venue": "Casablanca (MAR)",
+     "date": "09 FEB 2020"
+    },
+    {
+     "season": "2026",
+     "mark": "29:48",
+     "venue": "Boulder, CO (USA)",
+     "date": "25 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "43:26",
+     "venue": "Jacksonville, FL (USA)",
+     "date": "07 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "46:17",
+     "venue": "Washington Monument Grounds, Washington, DC (USA)",
+     "date": "12 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "1:03:34",
+     "venue": "Rabat (MAR)",
+     "date": "30 APR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:29",
+     "venue": "Sale, Rabat (MAR)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:01:47",
+     "venue": "Philadelphia, PA (USA)",
+     "date": "23 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "59:21",
+     "venue": "Houston, TX (USA)",
+     "date": "11 JAN 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 72,
+   "rankingScore": 1166
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1596,
+   "rankingScore": 1166
+  }
+ ],
+ "representative": {
+  "name": "Christopher Gooding",
+  "country": "United States",
+  "website": "http://www.esmintl.com"
+ },
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/morocco/mohammed-el-youssfi-14833593"
+}

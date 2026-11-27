@@ -1,0 +1,410 @@
+{
+ "id": "14977271",
+ "givenName": "Rui",
+ "familyName": "MA",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "2002-04-01",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:21.74",
+   "venue": "Xipu Training Base Indoor Athletics Stadium, Chengdu (CHN) (i)",
+   "date": "28 FEB 2024",
+   "resultScore": 952,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:21.74",
+   "venue": "Xipu Training Base Indoor Athletics Stadium, Chengdu (CHN) (i)",
+   "date": "28 FEB 2024",
+   "resultScore": 952,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:04.94",
+   "venue": "Henan Provincial Stadium, Zhengzhou (CHN)",
+   "date": "18 APR 2026",
+   "resultScore": 983,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:03.60",
+   "venue": "Taian sports center stadium, Taian (CHN)",
+   "date": "29 APR 2026",
+   "resultScore": 1036,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:51",
+   "venue": "Shanghai (CHN)",
+   "date": "15 OCT 2023",
+   "resultScore": 967,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:49",
+   "venue": "Shanghai (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1076,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:13:09",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1074,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "14:04.94",
+   "venue": "Henan Provincial Stadium, Zhengzhou (CHN)",
+   "date": "18 APR 2026",
+   "resultScore": 983,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "National Middle and Long Distance Running Meeting"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:03.60",
+   "venue": "Taian sports center stadium, Taian (CHN)",
+   "date": "29 APR 2026",
+   "resultScore": 1036,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "National Middle and Long Distance Running Meeting 2",
+   "listPosition": "588"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:02:49",
+   "venue": "Shanghai (CHN)",
+   "date": "15 MAR 2026",
+   "resultScore": 1076,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Shanghai Half Marathon",
+   "listPosition": "759"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:13:09",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1074,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Beijing Marathon",
+   "listPosition": "745"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "22",
+   "mark": "2:13:09",
+   "score": 1074,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-09-20",
+   "competition": "World Athletics Road Running Championships, København",
+   "country": "DEN",
+   "category": "GW",
+   "race": "F",
+   "place": "98",
+   "mark": "1:05:42",
+   "score": 968,
+   "competitionId": "7204187"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-08-16",
+   "competition": "Chinese Championships, Sports Center, Quzhou",
+   "country": "CHN",
+   "category": "B",
+   "race": "F2",
+   "place": "8",
+   "mark": "14:13.07",
+   "score": 956,
+   "competitionId": "7243221"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-08-12",
+   "competition": "Chinese Championships, Sports Center, Quzhou",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "29:17.06",
+   "score": 1016,
+   "competitionId": "7243221"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-07-05",
+   "competition": "ASICS Gold Coast Marathon, Gold Coast",
+   "country": "AUS",
+   "category": "E",
+   "race": "F",
+   "place": "64",
+   "mark": "2:34:24",
+   "score": 732,
+   "competitionId": "7239889"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-29",
+   "competition": "National Middle and Long Distance Running Meeting 2, Taian sports center stadium, Taian",
+   "country": "CHN",
+   "category": "F",
+   "race": "F2",
+   "place": "2",
+   "mark": "29:03.60",
+   "score": 1036,
+   "competitionId": "7241008"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-28",
+   "competition": "National Middle and Long Distance Running Meeting 2, Taian sports center stadium, Taian",
+   "country": "CHN",
+   "category": "F",
+   "race": "F1",
+   "place": "1",
+   "mark": "14:11.14",
+   "score": 963,
+   "competitionId": "7241008"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-04-19",
+   "competition": "National Middle and Long Distance Running Meeting, Henan Provincial Stadium, Zhengzhou",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "29:24.25",
+   "score": 1006,
+   "competitionId": "7240947"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-18",
+   "competition": "National Middle and Long Distance Running Meeting, Henan Provincial Stadium, Zhengzhou",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "14:04.94",
+   "score": 983,
+   "competitionId": "7240947"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-12",
+   "competition": "Nanjing Xianlin Half Marathon, Nanjing",
+   "country": "CHN",
+   "category": "C",
+   "race": "F",
+   "place": "5",
+   "mark": "1:03:39",
+   "score": 1044,
+   "competitionId": "7236074"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-04-12",
+   "competition": "Beijing Half Marathon, Beijing",
+   "country": "CHN",
+   "category": "E",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7236075"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-29",
+   "competition": "Shijiazhuang Marathon, Shijiazhuang",
+   "country": "CHN",
+   "category": "E",
+   "race": "F",
+   "place": "19",
+   "mark": "2:29:25",
+   "score": 806,
+   "competitionId": "7237041"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Wuxi Marathon, Wuxi",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "95",
+   "mark": "2:27:10",
+   "score": 841,
+   "competitionId": "7235574"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-15",
+   "competition": "Shanghai Half Marathon, Shanghai",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "1:02:49",
+   "score": 1076,
+   "competitionId": "7236073"
+  },
+  {
+   "discipline": "Cross Country",
+   "date": "2026-03-08",
+   "competition": "Chinese Cross Country Championships 1, Maoshan Cross Country Training Base, Huangshan - XC 10.0km",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "31:39",
+   "score": 0,
+   "competitionId": "7237491"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:13:32",
+   "score": 1067,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "29:51",
+     "venue": "Shanghai (CHN)",
+     "date": "15 OCT 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "1:06:09",
+     "venue": "Meishan (CHN)",
+     "date": "05 APR 2021"
+    },
+    {
+     "season": "2023",
+     "mark": "1:04:36",
+     "venue": "Meishan (CHN)",
+     "date": "12 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "1:02:51",
+     "venue": "Meishan (CHN)",
+     "date": "25 FEB 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:04:26",
+     "venue": "Lohrheidestadion, Wattenscheid, Bochum (GER)",
+     "date": "26 JUL 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:02:49",
+     "venue": "Shanghai (CHN)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:13:26",
+     "venue": "Shanghai (CHN)",
+     "date": "30 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:13:09",
+     "venue": "Beijing (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 493,
+   "rankingScore": 1058
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 555,
+   "rankingScore": 1043
+  },
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 653,
+   "rankingScore": 1089
+  },
+  {
+   "eventGroup": "Men's 5000m",
+   "place": 838,
+   "rankingScore": 973
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 4235,
+   "rankingScore": 1100
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-27",
+ "source": "https://worldathletics.org/athletes/pr-of-china/rui-ma-14977271"
+}
