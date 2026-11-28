@@ -1,0 +1,192 @@
+{
+ "id": "14672593",
+ "givenName": "Ai",
+ "familyName": "HOSODA",
+ "country": "JPN",
+ "countryName": "Japan",
+ "birthDate": "1995-11-27",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:59.62",
+   "venue": "Athletics Stadium, Fukagawa (JPN)",
+   "date": "06 JUL 2022",
+   "resultScore": 1107,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "15:15.87",
+   "venue": "National Stadium, Tokyo (JPN)",
+   "date": "04 JUL 2025",
+   "resultScore": 1132,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "31:35.44",
+   "venue": "Athletic Track, Abashiri (JPN)",
+   "date": "13 JUL 2022",
+   "resultScore": 1161,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:31",
+   "venue": "Hakodate (JPN)",
+   "date": "30 JUN 2024",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:20:31",
+   "venue": "Berlin (GER)",
+   "date": "29 SEP 2024",
+   "resultScore": 1207,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:23:39",
+   "venue": "Tokyo (JPN)",
+   "date": "01 MAR 2026",
+   "resultScore": 1177,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Marathon",
+   "listPosition": "102"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-01",
+   "competition": "Tokyo Marathon, Tokyo",
+   "country": "JPN",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:23:39",
+   "score": 1177,
+   "competitionId": "7236397"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:09:31",
+     "venue": "Hakodate (JPN)",
+     "date": "30 JUN 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2019",
+     "mark": "2:29:27",
+     "venue": "Nagoya (JPN)",
+     "date": "10 MAR 2019"
+    },
+    {
+     "season": "2020",
+     "mark": "2:26:34",
+     "venue": "Nagoya (JPN)",
+     "date": "08 MAR 2020"
+    },
+    {
+     "season": "2022",
+     "mark": "2:21:42",
+     "venue": "London (GBR)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "2:22:08",
+     "venue": "Tokyo (JPN)",
+     "date": "05 MAR 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:20:31",
+     "venue": "Berlin (GER)",
+     "date": "29 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:27:43",
+     "venue": "Tokyo (JPN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:23:39",
+     "venue": "Tokyo (JPN)",
+     "date": "01 MAR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Marathon",
+     "competition": "BMW Berlin Marathon",
+     "mark": "2:20:31",
+     "date": "29 SEP 2024"
+    },
+    {
+     "place": "6.",
+     "discipline": "Marathon",
+     "competition": "Tokyo Marathon",
+     "mark": "2:22:08",
+     "date": "05 MAR 2023"
+    }
+   ]
+  },
+  {
+   "category": "World University Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "10,000 Metres",
+     "competition": "Universiade",
+     "mark": "33:27.89",
+     "date": "23 AUG 2017"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 82,
+   "rankingScore": 1211
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 599,
+   "rankingScore": 1211
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/japan/ai-hosoda-14672593"
+}

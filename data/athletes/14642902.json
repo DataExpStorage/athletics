@@ -1,0 +1,397 @@
+{
+ "id": "14642902",
+ "givenName": "Mahamed",
+ "familyName": "MAHAMED",
+ "country": "GBR",
+ "countryName": "Great Britain & N.I.",
+ "birthDate": "1997-09-18",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:57.91",
+   "venue": "Basingstoke (GBR)",
+   "date": "21 MAY 2016",
+   "resultScore": 813,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:48.94",
+   "venue": "Wigan (GBR)",
+   "date": "04 AUG 2019",
+   "resultScore": 990,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres Short Track",
+   "mark": "3:59.22",
+   "venue": "EIS Don Valley Stadium, Sheffield (GBR) (i)",
+   "date": "15 FEB 2020",
+   "resultScore": 904,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "8:13.34",
+   "venue": "Loughborough (GBR)",
+   "date": "20 MAY 2018",
+   "resultScore": 979,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "8:18.31",
+   "venue": "Sheffield (GBR) (i)",
+   "date": "17 FEB 2019",
+   "resultScore": 971,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:53.12",
+   "venue": "Putbosstadion, Oordegem (BEL)",
+   "date": "25 MAY 2019",
+   "resultScore": 1023,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "28:19.27",
+   "venue": "Parliament Hill Fields Athletics Track, London (GBR)",
+   "date": "14 MAY 2022",
+   "resultScore": 1102,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "14:07",
+   "venue": "Armagh (GBR)",
+   "date": "15 FEB 2018",
+   "resultScore": 976,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:16",
+   "venue": "Valencia (ESP)",
+   "date": "09 JAN 2022",
+   "resultScore": 1107,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Miles Road",
+   "mark": "48:08",
+   "venue": "Portsmouth (GBR)",
+   "date": "20 OCT 2019",
+   "resultScore": 1033,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:09",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:14",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "28:38",
+   "venue": "Manchester (GBR)",
+   "date": "31 MAY 2026",
+   "resultScore": 1074,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Great Manchester Run",
+   "listPosition": "337"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:01:09",
+   "venue": "Barcelona (ESP)",
+   "date": "15 FEB 2026",
+   "resultScore": 1140,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks",
+   "listPosition": "239"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:14",
+   "venue": "London (GBR)",
+   "date": "26 APR 2026",
+   "resultScore": 1199,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "TCS London Marathon",
+   "listPosition": "102"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Cross Country",
+   "date": "2026-11-08",
+   "competition": "Cardiff Cross Challenge, Llandaff Fields, Cardiff - XC 9.6km",
+   "country": "GBR",
+   "category": "A",
+   "race": "F",
+   "place": "11",
+   "mark": "28:24",
+   "score": 0,
+   "competitionId": "7247453"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-08-16",
+   "competition": "European Athletics Championships, Alexander Stadium, Birmingham",
+   "country": "GBR",
+   "category": "GL",
+   "race": "F",
+   "place": "7",
+   "mark": "2:09:43",
+   "score": 1135,
+   "competitionId": "7192415"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-31",
+   "competition": "Great Manchester Run, Manchester - UK 10km Road Running Championships",
+   "country": "GBR",
+   "category": "B",
+   "race": "F",
+   "place": "12",
+   "mark": "28:38",
+   "score": 1074,
+   "competitionId": "7243517"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "TCS London Marathon, London",
+   "country": "GBR",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:06:14",
+   "score": 1199,
+   "competitionId": "7235562"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-02-15",
+   "competition": "Hyundai Mitja Marató de Barcelona by Brooks, Barcelona",
+   "country": "ESP",
+   "category": "B",
+   "race": "F",
+   "place": "11",
+   "mark": "1:01:09",
+   "score": 1140,
+   "competitionId": "7237513"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2018",
+     "mark": "14:07",
+     "venue": "Armagh (GBR)",
+     "date": "15 FEB 2018"
+    },
+    {
+     "season": "2020",
+     "mark": "14:48",
+     "venue": "Kingsley (GBR)",
+     "date": "28 AUG 2020"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "28:16",
+     "venue": "Valencia (ESP)",
+     "date": "09 JAN 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "28:47",
+     "venue": "Valencia (ESP)",
+     "date": "15 JAN 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "28:38",
+     "venue": "Manchester (GBR)",
+     "date": "31 MAY 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Miles Road",
+   "results": [
+    {
+     "season": "2016",
+     "mark": "51:32",
+     "venue": "Portsmouth (GBR)",
+     "date": "23 OCT 2016"
+    },
+    {
+     "season": "2017",
+     "mark": "49:05",
+     "venue": "Portsmouth (GBR)",
+     "date": "22 OCT 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "48:45",
+     "venue": "Portsmouth (GBR)",
+     "date": "21 OCT 2018"
+    },
+    {
+     "season": "2019",
+     "mark": "48:08",
+     "venue": "Portsmouth (GBR)",
+     "date": "20 OCT 2019"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:02:08",
+     "venue": "Breda (NED)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "1:01:16",
+     "venue": "London (GBR)",
+     "date": "03 SEP 2023"
+    },
+    {
+     "season": "2026",
+     "mark": "1:01:09",
+     "venue": "Barcelona (ESP)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:08:42",
+     "venue": "Valencia (ESP)",
+     "date": "03 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:05",
+     "venue": "London (GBR)",
+     "date": "21 APR 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:52",
+     "venue": "London (GBR)",
+     "date": "27 APR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:06:14",
+     "venue": "London (GBR)",
+     "date": "26 APR 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "European Championships",
+   "results": [
+    {
+     "place": "7.",
+     "discipline": "Marathon",
+     "competition": "European Athletics Championships",
+     "mark": "2:09:43",
+     "date": "16 AUG 2026"
+    }
+   ]
+  },
+  {
+   "category": "Major Marathon",
+   "results": [
+    {
+     "place": "4.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:07:05",
+     "date": "21 APR 2024"
+    }
+   ]
+  },
+  {
+   "category": "National Championships",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "Marathon",
+     "competition": "TCS London Marathon",
+     "mark": "2:08:52",
+     "date": "27 APR 2025"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 126,
+   "rankingScore": 1193
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1038,
+   "rankingScore": 1193
+  }
+ ],
+ "representative": {
+  "name": "Daniel DAVIS",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.fortemodelmanagement.com/"
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/great-britain-ni/mahamed-mahamed-14642902"
+}

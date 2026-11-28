@@ -1,0 +1,430 @@
+{
+ "id": "14707661",
+ "givenName": "Peruth",
+ "familyName": "CHEMUTAI",
+ "country": "UGA",
+ "countryName": "Uganda",
+ "birthDate": "1999-07-10",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:09.25",
+   "venue": "Mandela National Stadium, Kampala (UGA)",
+   "date": "01 JUN 2019",
+   "resultScore": 1003,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "4:17.18",
+   "venue": "Oordegem (BEL)",
+   "date": "29 MAY 2016",
+   "resultScore": 1071,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "9:12.60",
+   "venue": "Mandela National Stadium, Kampala (UGA)",
+   "date": "22 MAY 2021",
+   "resultScore": 1064,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "17:40.0h",
+   "venue": "Kampala (UGA)",
+   "date": "30 MAY 2015",
+   "resultScore": 873,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:48.03",
+   "venue": "Stadio Olimpico, Roma (ITA)",
+   "date": "30 AUG 2024",
+   "resultScore": 1275,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "15:05",
+   "venue": "Lille (FRA)",
+   "date": "20 MAR 2022",
+   "resultScore": 1153,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:57",
+   "venue": "Berlin (GER)",
+   "date": "11 OCT 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "45:56",
+   "venue": "Nijmegen (NED)",
+   "date": "15 NOV 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "mark": "8:51.06",
+   "venue": "Egret Stadium, Xiamen (CHN)",
+   "date": "23 MAY 2026",
+   "resultScore": 1267,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Wanda Diamond League Xiamen",
+   "listPosition": "1"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "29:57",
+   "venue": "Berlin (GER)",
+   "date": "11 OCT 2026",
+   "resultScore": 1250,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "The Great 10K",
+   "listPosition": "10"
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "mark": "45:56",
+   "venue": "Nijmegen (NED)",
+   "date": "15 NOV 2026",
+   "resultScore": 1222,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Garmin Zevenheuvelenloop",
+   "listPosition": "2"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "15 Kilometres Road",
+   "date": "2026-11-15",
+   "competition": "Garmin Zevenheuvelenloop, Nijmegen",
+   "country": "NED",
+   "category": "F",
+   "race": "F",
+   "place": "2",
+   "mark": "45:56",
+   "score": 1222,
+   "competitionId": "7246259"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-11",
+   "competition": "The Great 10K, Berlin",
+   "country": "GER",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "29:57",
+   "score": 1250,
+   "competitionId": "7246206"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-09-04",
+   "competition": "Allianz Memorial van Damme, Boudewijnstadion, Bruxelles - Diamond Discipline",
+   "country": "BEL",
+   "category": "DF",
+   "race": "F",
+   "place": "5",
+   "mark": "8:59.77",
+   "score": 1245,
+   "competitionId": "7214029"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-08-27",
+   "competition": "Weltklasse Zürich, Letzigrund, Zürich - Diamond Discipline",
+   "country": "SUI",
+   "category": "GW",
+   "race": "F",
+   "place": "3",
+   "mark": "8:58.28",
+   "score": 1249,
+   "competitionId": "7214028"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-07-29",
+   "competition": "XXIII Commonwealth Games, Scotstoun Stadium, Glasgow",
+   "country": "GBR",
+   "category": "A",
+   "race": "F1",
+   "place": "3",
+   "mark": "9:09.96",
+   "score": 1219,
+   "competitionId": "7187518"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-07-04",
+   "competition": "Prefontaine Classic, Hayward Field, Eugene, OR - Diamond Discipline",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "5",
+   "mark": "9:05.39",
+   "score": 1231,
+   "competitionId": "7214024"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-05-23",
+   "competition": "Wanda Diamond League Xiamen, Egret Stadium, Xiamen - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "8:51.06",
+   "score": 1267,
+   "competitionId": "7214017"
+  },
+  {
+   "discipline": "3000 Metres Steeplechase",
+   "date": "2026-05-16",
+   "competition": "Wanda Diamond League, China Textile City Sports Centre, Shaoxing/Keqiao - Diamond Discipline",
+   "country": "CHN",
+   "category": "GW",
+   "race": "F",
+   "place": "1",
+   "mark": "8:51.47",
+   "score": 1266,
+   "competitionId": "7214016"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "15:05",
+     "venue": "Lille (FRA)",
+     "date": "20 MAR 2022"
+    },
+    {
+     "season": "2023",
+     "mark": "15:12",
+     "venue": "Lille (FRA)",
+     "date": "19 MAR 2023"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2015",
+     "mark": "34:50",
+     "venue": "Kampala (UGA)",
+     "date": "22 NOV 2015"
+    },
+    {
+     "season": "2017",
+     "mark": "34:12",
+     "venue": "Kampala (UGA)",
+     "date": "19 NOV 2017"
+    },
+    {
+     "season": "2018",
+     "mark": "35:00",
+     "venue": "Kampala (UGA)",
+     "date": "25 NOV 2018"
+    },
+    {
+     "season": "2026",
+     "mark": "29:57",
+     "venue": "Berlin (GER)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "15 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "45:56",
+     "venue": "Nijmegen (NED)",
+     "date": "15 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "Olympic Games",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "The XXXII Olympic Games",
+     "mark": "9:01.45",
+     "date": "04 AUG 2021"
+    },
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "The XXXIII Olympic Games",
+     "mark": "8:53.34",
+     "date": "06 AUG 2024"
+    }
+   ]
+  },
+  {
+   "category": "World Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "IAAF World Championships in Athletics",
+     "mark": "9:11.08",
+     "date": "30 SEP 2019"
+    },
+    {
+     "place": "6.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "World Athletics Championships, Budapest 2023",
+     "mark": "9:10.26",
+     "date": "27 AUG 2023"
+    }
+   ]
+  },
+  {
+   "category": "World Cross Country Championships",
+   "results": [
+    {
+     "place": "5.",
+     "discipline": "Cross Country Senior Race",
+     "competition": "43rd IAAF World Cross Country Championships",
+     "mark": "36:49",
+     "date": "30 MAR 2019"
+    },
+    {
+     "place": "7.",
+     "discipline": "Cross Country U20 Race",
+     "competition": "42nd IAAF World Cross Country Championships",
+     "mark": "19:29",
+     "date": "26 MAR 2017"
+    }
+   ]
+  },
+  {
+   "category": "World U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "IAAF World U20 Championships",
+     "mark": "9:18.87",
+     "date": "13 JUL 2018"
+    },
+    {
+     "place": "7.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "IAAF World U20 Championships",
+     "mark": "9:49.29",
+     "date": "22 JUL 2016"
+    }
+   ]
+  },
+  {
+   "category": "All-African Games",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "African Games",
+     "mark": "9:16.07",
+     "date": "20 MAR 2024"
+    }
+   ]
+  },
+  {
+   "category": "Diamond League",
+   "results": [
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Wanda Diamond League Xiamen",
+     "mark": "8:51.06",
+     "date": "23 MAY 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Wanda Diamond League",
+     "mark": "8:51.47",
+     "date": "16 MAY 2026"
+    },
+    {
+     "place": "1.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "Prefontaine Classic",
+     "mark": "8:55.09",
+     "date": "25 MAY 2024"
+    }
+   ]
+  },
+  {
+   "category": "Commonwealth Games",
+   "results": [
+    {
+     "place": "3.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "XXIII Commonwealth Games",
+     "mark": "9:09.96",
+     "date": "29 JUL 2026"
+    },
+    {
+     "place": "3.",
+     "discipline": "3000 Metres Steeplechase",
+     "competition": "XXII Commonwealth Games",
+     "mark": "9:23.24",
+     "date": "05 AUG 2022"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's 3000mSC",
+   "place": 5,
+   "rankingScore": 1365
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 48,
+   "rankingScore": 1369
+  }
+ ],
+ "representative": {
+  "name": "Valentijn TROUW",
+  "country": "Netherlands",
+  "website": "http://www.globalsportscommunication.nl"
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/athlete=14707661"
+}

@@ -1,0 +1,226 @@
+{
+ "id": "15186305",
+ "givenName": "Biniyam",
+ "familyName": "MELAK",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-12-29",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:37.73",
+   "venue": "Stadio Quercia, Rovereto (ITA)",
+   "date": "08 SEP 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:32.79",
+   "venue": "Olympiastadion, Stockholm (SWE)",
+   "date": "15 JUN 2025",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:00.30",
+   "venue": "Ethiopian Sport Academy, Addis Ababa (ETH)",
+   "date": "25 MAR 2026",
+   "resultScore": 1041,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:25",
+   "venue": "Nijmegen (NED)",
+   "date": "18 APR 2026",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:10",
+   "venue": "Castellón (ESP)",
+   "date": "22 FEB 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:37.73",
+   "venue": "Stadio Quercia, Rovereto (ITA)",
+   "date": "08 SEP 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "62° Palio Città della Quercia",
+   "listPosition": "63"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "29:00.30",
+   "venue": "Ethiopian Sport Academy, Addis Ababa (ETH)",
+   "date": "25 MAR 2026",
+   "resultScore": 1041,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Ethiopian Championships",
+   "listPosition": "564"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:25",
+   "venue": "Nijmegen (NED)",
+   "date": "18 APR 2026",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Seven Hills Record Run",
+   "listPosition": "36"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:10",
+   "venue": "Castellón (ESP)",
+   "date": "22 FEB 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "10K Facsa Castellón",
+   "listPosition": "10"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "3000 Metres",
+   "date": "2026-09-08",
+   "competition": "62° Palio Città della Quercia, Stadio Quercia, Rovereto",
+   "country": "ITA",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "7:37.73",
+   "score": 1190,
+   "competitionId": "7234845"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-17",
+   "competition": "Wecasablanca International Challenge, Casablanca",
+   "country": "MAR",
+   "category": "E",
+   "race": "F",
+   "place": "3",
+   "mark": "28:02",
+   "score": 1129,
+   "competitionId": "7247146"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-04-18",
+   "competition": "Seven Hills Record Run, Nijmegen - Elite Event",
+   "country": "NED",
+   "category": "F",
+   "race": "F3",
+   "place": "2",
+   "mark": "13:25",
+   "score": 1120,
+   "competitionId": "7235962"
+  },
+  {
+   "discipline": "10,000 Metres",
+   "date": "2026-03-25",
+   "competition": "Ethiopian Championships, Ethiopian Sport Academy, Addis Ababa",
+   "country": "ETH",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "29:00.30",
+   "score": 1041,
+   "competitionId": "7234052"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-02-22",
+   "competition": "10K Facsa Castellón, Castellón",
+   "country": "ESP",
+   "category": "E",
+   "race": "F",
+   "place": "5",
+   "mark": "27:10",
+   "score": 1210,
+   "competitionId": "7237361"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:25",
+     "venue": "Nijmegen (NED)",
+     "date": "18 APR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "29:11",
+     "venue": "Addis Ababa (ETH)",
+     "date": "17 NOV 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "28:31",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:10",
+     "venue": "Castellón (ESP)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 86,
+   "rankingScore": 1155
+  },
+  {
+   "eventGroup": "Men's 10,000m",
+   "place": 120,
+   "rankingScore": 1134
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1805,
+   "rankingScore": 1158
+  }
+ ],
+ "representative": {
+  "name": "Aziz EL KAHLAOUI",
+  "country": "France",
+  "website": null
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/biniyam-melak-15186305"
+}

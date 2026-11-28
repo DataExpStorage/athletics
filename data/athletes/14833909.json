@@ -1,0 +1,219 @@
+{
+ "id": "14833909",
+ "givenName": "Vincent",
+ "familyName": "MAURI",
+ "country": "USA",
+ "countryName": "United States",
+ "birthDate": "2001-01-19",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "1:49.40",
+   "venue": "Sun Angel Stadium, Tempe, AZ (USA)",
+   "date": "22 APR 2022",
+   "resultScore": 1043,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "1500 Metres",
+   "mark": "3:41.22",
+   "venue": "Cushing Stadium, College Station, TX (USA)",
+   "date": "29 MAY 2021",
+   "resultScore": 1090,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile",
+   "mark": "3:59.05",
+   "venue": "Loftus Sports Center, Notre Dame, IN (USA) (i)",
+   "date": "03 FEB 2024",
+   "resultScore": 1086,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Mile Short Track",
+   "mark": "4:08.82",
+   "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+   "date": "05 FEB 2021",
+   "resultScore": 1019,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres",
+   "mark": "7:50.33",
+   "venue": "Loftus Sports Center, Notre Dame, IN (USA) (i)",
+   "date": "31 JAN 2025",
+   "resultScore": 1113,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "3000 Metres Short Track",
+   "mark": "7:56.74",
+   "venue": "The Track at New Balance, Boston, MA (USA) (i)",
+   "date": "24 FEB 2024",
+   "resultScore": 1098,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles",
+   "mark": "9:33.00",
+   "venue": "New York, NY (USA) (i)",
+   "date": "10 MAR 2017",
+   "resultScore": 804,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "mark": "9:33.00",
+   "venue": "New York, NY (USA) (i)",
+   "date": "10 MAR 2017",
+   "resultScore": 804,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:34.03",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "14 FEB 2025",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres Short Track",
+   "mark": "13:34.03",
+   "venue": "Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+   "date": "14 FEB 2025",
+   "resultScore": 1136,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:45",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Distance Medley",
+   "mark": "9:24.79",
+   "venue": "Loftus Sports Center, Notre Dame, IN (USA) (i)",
+   "date": "22 FEB 2025",
+   "resultScore": 0,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:06:45",
+   "venue": "Chicago, IL (USA)",
+   "date": "11 OCT 2026",
+   "resultScore": 1190,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of America Chicago Marathon",
+   "listPosition": "128"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-11",
+   "competition": "Bank of America Chicago Marathon, Chicago, IL - Elite Event",
+   "country": "USA",
+   "category": "GW",
+   "race": "F",
+   "place": "10",
+   "mark": "2:06:45",
+   "score": 1190,
+   "competitionId": "7235563"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Mile",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "4:08.82",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "05 FEB 2021"
+    },
+    {
+     "season": "2024",
+     "mark": "3:59.05",
+     "venue": "Loftus Sports Center, Notre Dame, IN (USA) (i)",
+     "date": "03 FEB 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Mile Short Track",
+   "results": [
+    {
+     "season": "2021",
+     "mark": "4:08.82",
+     "venue": "Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",
+     "date": "05 FEB 2021"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "9:33.00",
+     "venue": "New York, NY (USA) (i)",
+     "date": "10 MAR 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "2 Miles Short Track",
+   "results": [
+    {
+     "season": "2017",
+     "mark": "9:33.00",
+     "venue": "New York, NY (USA) (i)",
+     "date": "10 MAR 2017"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:06:45",
+     "venue": "Chicago, IL (USA)",
+     "date": "11 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": {
+  "name": "Merhawi KEFLEZIGHI",
+  "country": "United States",
+  "website": "http://www.hawimanagement.com"
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/united-states/vincent-mauri-14833909"
+}

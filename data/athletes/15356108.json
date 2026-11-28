@@ -1,0 +1,66 @@
+{
+ "id": "15356108",
+ "givenName": "Diribe",
+ "familyName": "HİRKO",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:01",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:25:01",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1164,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Marathon",
+   "listPosition": "150"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:25:01",
+   "score": 1164,
+   "competitionId": "7235596"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:25:01",
+     "venue": "Istanbul (TUR)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/diribe-hirko-15356108"
+}

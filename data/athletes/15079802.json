@@ -1,0 +1,201 @@
+{
+ "id": "15079802",
+ "givenName": "Ayele",
+ "familyName": "TADESSE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-09-17",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:30.52",
+   "venue": "Stade Gouled, Djibouti (DJI)",
+   "date": "17 MAR 2023",
+   "resultScore": 1100,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "30:02.5h",
+   "venue": "Levy Mwanawasa Stadion, Ndola (ZAM)",
+   "date": "29 APR 2023",
+   "resultScore": 951,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:44",
+   "venue": "Quai Albert 1er, Monaco (MON)",
+   "date": "15 FEB 2026",
+   "resultScore": 1054,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:10",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "5000 Metres",
+   "mark": "13:55.75",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "24 APR 2026",
+   "resultScore": 1014,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Kip Keino Classic"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "mark": "13:44",
+   "venue": "Quai Albert 1er, Monaco (MON)",
+   "date": "15 FEB 2026",
+   "resultScore": 1054,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "MONACO RUN",
+   "listPosition": "132"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "27:10",
+   "venue": "Brasov (ROU)",
+   "date": "04 OCT 2026",
+   "resultScore": 1210,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "tRUNsylvania International 10K Brasov",
+   "listPosition": "10"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-11-22",
+   "competition": "Great Ethiopian Run 10km Presented by Bank of America, Addis Ababa",
+   "country": "ETH",
+   "category": "E",
+   "race": "F",
+   "place": "4",
+   "mark": "28:40",
+   "score": 1071,
+   "competitionId": "7244363"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "3",
+   "mark": "27:10",
+   "score": 1210,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "5000 Metres",
+   "date": "2026-04-24",
+   "competition": "Kip Keino Classic, Nyayo National Stadium, Nairobi",
+   "country": "KEN",
+   "category": "A",
+   "race": "F",
+   "place": "12",
+   "mark": "13:55.75",
+   "score": 1014,
+   "competitionId": "7233226"
+  },
+  {
+   "discipline": "5 Kilometres Road",
+   "date": "2026-02-15",
+   "competition": "MONACO RUN, Quai Albert 1er, Monaco",
+   "country": "MON",
+   "category": "F",
+   "race": "F",
+   "place": "9",
+   "mark": "13:44",
+   "score": 1054,
+   "competitionId": "7233654"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "5 Kilometres Road",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "13:44",
+     "venue": "Quai Albert 1er, Monaco (MON)",
+     "date": "15 FEB 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "27:40",
+     "venue": "Brasov (ROU)",
+     "date": "22 SEP 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "28:48",
+     "venue": "Addis Ababa (ETH)",
+     "date": "23 NOV 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "27:10",
+     "venue": "Brasov (ROU)",
+     "date": "04 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [
+  {
+   "category": "African U20 Championships",
+   "results": [
+    {
+     "place": "2.",
+     "discipline": "5000 Metres",
+     "competition": "African U20 Championships",
+     "mark": "13:45.93",
+     "date": "02 MAY 2023"
+    }
+   ]
+  }
+ ],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Road Running",
+   "place": 190,
+   "rankingScore": 1119
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 3243,
+   "rankingScore": 1119
+  }
+ ],
+ "representative": {
+  "name": "Marc CORSTJENS",
+  "country": "Belgium",
+  "website": "https://www.sport.be/personae/"
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/ayele-tadesse-15079802"
+}
