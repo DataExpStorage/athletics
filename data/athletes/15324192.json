@@ -1,0 +1,66 @@
+{
+ "id": "15324192",
+ "givenName": "Getaw",
+ "familyName": "WGAGEN",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:38:59",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1035,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:38:59",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1035,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Access Bank Lagos City Marathon",
+   "listPosition": "789"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-14",
+   "competition": "Access Bank Lagos City Marathon, Lagos",
+   "country": "NGR",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:38:59",
+   "score": 1035,
+   "competitionId": "7235572"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:38:59",
+     "venue": "Lagos (NGR)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/getaw-wgagen-15324192"
+}

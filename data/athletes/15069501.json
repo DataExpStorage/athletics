@@ -1,0 +1,119 @@
+{
+ "id": "15069501",
+ "givenName": "Challa",
+ "familyName": "GOSSA",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2000-11-25",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:07:32",
+   "venue": "Sevilla (ESP)",
+   "date": "23 FEB 2025",
+   "resultScore": 1175,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:10:59",
+   "venue": "Daegu (KOR)",
+   "date": "22 FEB 2026",
+   "resultScore": 1112,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Daegu Marathon",
+   "listPosition": "533"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Yellow River Estuary Dongying Marathon, Dongying",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:11:06",
+   "score": 1110,
+   "competitionId": "7235592"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-03",
+   "competition": "Maraton de Cali, Cali - Elite Event",
+   "country": "COL",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:11:49",
+   "score": 1098,
+   "competitionId": "7238443"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-22",
+   "competition": "Daegu Marathon, Daegu",
+   "country": "KOR",
+   "category": "A",
+   "race": "F",
+   "place": "7",
+   "mark": "2:10:59",
+   "score": 1112,
+   "competitionId": "7235573"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:07:43",
+     "venue": "Ljubljana (SLO)",
+     "date": "22 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:07:35",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:07:32",
+     "venue": "Sevilla (ESP)",
+     "date": "23 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:10:59",
+     "venue": "Daegu (KOR)",
+     "date": "22 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 146,
+   "rankingScore": 1186
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1163,
+   "rankingScore": 1186
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/challa-gossa-15069501"
+}

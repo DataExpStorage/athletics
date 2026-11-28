@@ -1,0 +1,95 @@
+{
+ "id": "15115357",
+ "givenName": "Vincent",
+ "familyName": "RONOH",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:08:32",
+   "venue": "Eindhoven (NED)",
+   "date": "12 OCT 2025",
+   "resultScore": 1157,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:08:58",
+   "venue": "Istanbul (TUR)",
+   "date": "01 NOV 2026",
+   "resultScore": 1149,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Istanbul Marathon",
+   "listPosition": "314"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-11-01",
+   "competition": "Istanbul Marathon, Istanbul",
+   "country": "TUR",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:08:58",
+   "score": 1149,
+   "competitionId": "7235596"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:14:56",
+     "venue": "Nairobi (KEN)",
+     "date": "29 OCT 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:11:43",
+     "venue": "Frankfurt (GER)",
+     "date": "27 OCT 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:08:32",
+     "venue": "Eindhoven (NED)",
+     "date": "12 OCT 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:08:58",
+     "venue": "Istanbul (TUR)",
+     "date": "01 NOV 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 196,
+   "rankingScore": 1171
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 1500,
+   "rankingScore": 1171
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/kenya/vincent-ronoh-15115357"
+}

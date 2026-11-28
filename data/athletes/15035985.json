@@ -1,0 +1,260 @@
+{
+ "id": "15035985",
+ "givenName": "Fridah",
+ "familyName": "NDINDA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "2001-07-14",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "800 Metres",
+   "mark": "2:13.89",
+   "venue": "Ulinzi Sports Complex, Langata, Nairobi (KEN)",
+   "date": "15 MAY 2025",
+   "resultScore": 927,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "5000 Metres",
+   "mark": "16:12.3h",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "29 APR 2023",
+   "resultScore": 1027,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10,000 Metres",
+   "mark": "33:41.49",
+   "venue": "Nyayo National Stadium, Nairobi (KEN)",
+   "date": "23 JUN 2023",
+   "resultScore": 1051,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:21",
+   "venue": "Macao (MAC)",
+   "date": "15 MAR 2026",
+   "resultScore": 1121,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:09:49",
+   "venue": "Ras Al Khaimah (UAE)",
+   "date": "01 FEB 2025",
+   "resultScore": 1133,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:35:22",
+   "venue": "Nairobi (KEN)",
+   "date": "26 OCT 2025",
+   "resultScore": 1068,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "10 Kilometres Road",
+   "mark": "32:21",
+   "venue": "Macao (MAC)",
+   "date": "15 MAR 2026",
+   "resultScore": 1121,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Sands China Macao International 10K",
+   "listPosition": "184"
+  },
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:10:29",
+   "venue": "Tokyo (JPN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1120,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Tokyo Legacy Half Marathon 2026",
+   "listPosition": "248"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-10-18",
+   "competition": "Tokyo Legacy Half Marathon 2026, Tokyo",
+   "country": "JPN",
+   "category": "C",
+   "race": "F",
+   "place": "4",
+   "mark": "1:10:29",
+   "score": 1120,
+   "competitionId": "7242303"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-10-04",
+   "competition": "tRUNsylvania International 10K Brasov, Brasov",
+   "country": "ROU",
+   "category": "C",
+   "race": "F",
+   "place": "13",
+   "mark": "32:27",
+   "score": 1115,
+   "competitionId": "7237512"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-09-13",
+   "competition": "Bangsaen10, Chon Buri",
+   "country": "THA",
+   "category": "C",
+   "race": "F",
+   "place": "6",
+   "mark": "33:40",
+   "score": 1052,
+   "competitionId": "7238743"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-08-02",
+   "competition": "Totalsports Women's Race Series 1, Durban",
+   "country": "RSA",
+   "category": "F",
+   "race": "F",
+   "place": "3",
+   "mark": "33:15",
+   "score": 1074,
+   "competitionId": "7245042"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-06-14",
+   "competition": "BTN Jakarta International Marathon - Half Marathon, 10K & 5K, Jakarta",
+   "country": "INA",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "1:15:22",
+   "score": 1022,
+   "competitionId": "7244531"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-05-30",
+   "competition": "Okpekpe 10KM Road Race, Okpekpe",
+   "country": "NGR",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "34:50",
+   "score": 994,
+   "competitionId": "7241271"
+  },
+  {
+   "discipline": "10 Kilometres Road",
+   "date": "2026-03-15",
+   "competition": "Sands China Macao International 10K, Macao",
+   "country": "MAC",
+   "category": "E",
+   "race": "F",
+   "place": "1",
+   "mark": "32:21",
+   "score": 1121,
+   "competitionId": "7237364"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "10 Kilometres Road",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "32:25",
+     "venue": "Durban (RSA)",
+     "date": "10 JUL 2022"
+    },
+    {
+     "season": "2024",
+     "mark": "33:18",
+     "venue": "Gqeberha (RSA)",
+     "date": "07 APR 2024"
+    },
+    {
+     "season": "2026",
+     "mark": "32:21",
+     "venue": "Macao (MAC)",
+     "date": "15 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2022",
+     "mark": "1:13:40",
+     "venue": "Breda (NED)",
+     "date": "02 OCT 2022"
+    },
+    {
+     "season": "2025",
+     "mark": "1:09:49",
+     "venue": "Ras Al Khaimah (UAE)",
+     "date": "01 FEB 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:10:29",
+     "venue": "Tokyo (JPN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "2:35:22",
+     "venue": "Nairobi (KEN)",
+     "date": "26 OCT 2025"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 197,
+   "rankingScore": 1124
+  },
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 489,
+   "rankingScore": 1094
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 2347,
+   "rankingScore": 1124
+  }
+ ],
+ "representative": {
+  "name": "Anon Adirojananon   ",
+  "country": "Thailand",
+  "website": null
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/kenya/fridah-ndinda-15035985"
+}

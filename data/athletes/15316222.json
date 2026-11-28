@@ -1,0 +1,125 @@
+{
+ "id": "15316222",
+ "givenName": "Kephar Lumbasi",
+ "familyName": "NAMUTALA",
+ "country": "KEN",
+ "countryName": "Kenya",
+ "birthDate": "1999-07-09",
+ "male": true,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:05:14",
+   "venue": "Abuja (NGR)",
+   "date": "06 DEC 2025",
+   "resultScore": 985,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:12:25",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:12:25",
+   "venue": "Lagos (NGR)",
+   "date": "14 FEB 2026",
+   "resultScore": 1087,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Access Bank Lagos City Marathon",
+   "listPosition": "676"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-25",
+   "competition": "Irish Life Dublin Marathon, Dublin",
+   "country": "IRL",
+   "category": "B",
+   "race": "F",
+   "place": "7",
+   "mark": "2:14:41",
+   "score": 1047,
+   "competitionId": "7238744"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-06-14",
+   "competition": "Kigali International Peace Marathon, Kigali",
+   "country": "RWA",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:14:19",
+   "score": 1053,
+   "competitionId": "7239888"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-02-14",
+   "competition": "Access Bank Lagos City Marathon, Lagos",
+   "country": "NGR",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:12:25",
+   "score": 1087,
+   "competitionId": "7235572"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2025",
+     "mark": "1:05:14",
+     "venue": "Abuja (NGR)",
+     "date": "06 DEC 2025"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2026",
+     "mark": "2:12:25",
+     "venue": "Lagos (NGR)",
+     "date": "14 FEB 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Men's Marathon",
+   "place": 552,
+   "rankingScore": 1103
+  },
+  {
+   "eventGroup": "Men's Overall Ranking",
+   "place": 4080,
+   "rankingScore": 1103
+  }
+ ],
+ "representative": {
+  "name": "Jia hui SUN",
+  "country": "PR of China",
+  "website": null
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/kenya/kephar-lumbasi-namutala-15316222"
+}

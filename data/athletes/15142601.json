@@ -1,0 +1,125 @@
+{
+ "id": "15142601",
+ "givenName": "Gojjam",
+ "familyName": "TSEGAYE",
+ "country": "ETH",
+ "countryName": "Ethiopia",
+ "birthDate": "2005-03-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:13:25",
+   "venue": "Milano (ITA)",
+   "date": "24 MAR 2024",
+   "resultScore": 1060,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:24:02",
+   "venue": "Barcelona (ESP)",
+   "date": "16 MAR 2025",
+   "resultScore": 1173,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Marathon",
+   "mark": "2:26:24",
+   "venue": "Green Point Stadium, Cape Town (RSA)",
+   "date": "24 MAY 2026",
+   "resultScore": 1151,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Cape Town City Marathon",
+   "listPosition": "202"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Cape Town City Marathon, Green Point Stadium, Cape Town",
+   "country": "RSA",
+   "category": "B",
+   "race": "F",
+   "place": "6",
+   "mark": "2:26:24",
+   "score": 1151,
+   "competitionId": "7237458"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Tata Mumbai Marathon, Mumbai",
+   "country": "IND",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:28:27",
+   "score": 1132,
+   "competitionId": "7235567"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:13:25",
+     "venue": "Milano (ITA)",
+     "date": "24 MAR 2024"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "2:26:13",
+     "venue": "Málaga (ESP)",
+     "date": "15 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:24:02",
+     "venue": "Barcelona (ESP)",
+     "date": "16 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:26:24",
+     "venue": "Green Point Stadium, Cape Town (RSA)",
+     "date": "24 MAY 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 199,
+   "rankingScore": 1164
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 1312,
+   "rankingScore": 1164
+  }
+ ],
+ "representative": {
+  "name": "Malcolm ANDERSON",
+  "country": "Great Britain & N.I.",
+  "website": "https://www.moyo-sports.com"
+ },
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/ethiopia/gojjam-tsegaye-15142601"
+}

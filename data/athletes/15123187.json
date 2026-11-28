@@ -1,0 +1,227 @@
+{
+ "id": "15123187",
+ "givenName": "Qing",
+ "familyName": "ZHU",
+ "country": "CHN",
+ "countryName": "PR of China",
+ "birthDate": "1996-01-19",
+ "male": false,
+ "personalBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:11:52",
+   "venue": "Shijiazhuang (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:27:26",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1141,
+   "indoor": false,
+   "notLegal": false
+  }
+ ],
+ "seasonBests": [
+  {
+   "discipline": "Half Marathon",
+   "mark": "1:11:52",
+   "venue": "Shijiazhuang (CHN)",
+   "date": "29 MAR 2026",
+   "resultScore": 1092,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Shijiazhuang Half Marathon",
+   "listPosition": "385"
+  },
+  {
+   "discipline": "Marathon",
+   "mark": "2:27:26",
+   "venue": "Beijing (CHN)",
+   "date": "18 OCT 2026",
+   "resultScore": 1141,
+   "indoor": false,
+   "notLegal": false,
+   "competition": "Bank of China Beijing Marathon",
+   "listPosition": "247"
+  }
+ ],
+ "seasonYear": 2026,
+ "seasonResults": [
+  {
+   "discipline": "Marathon",
+   "date": "2026-10-18",
+   "competition": "Bank of China Beijing Marathon, Beijing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "4",
+   "mark": "2:27:26",
+   "score": 1141,
+   "competitionId": "7235591"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-27",
+   "competition": "BMW Berlin Marathon, Berlin",
+   "country": "GER",
+   "category": "GW",
+   "race": "F",
+   "place": "",
+   "mark": "DNF",
+   "score": 0,
+   "competitionId": "7235580"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-09-06",
+   "competition": "Shenyang Marathon, Shenyang",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "3",
+   "mark": "2:30:49",
+   "score": 1110,
+   "competitionId": "7238739"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-05-24",
+   "competition": "Lanzhou Marathon, Lanzhou",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "6",
+   "mark": "2:37:48",
+   "score": 1046,
+   "competitionId": "7235588"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-04-26",
+   "competition": "The 36th Dalian Marathon, Dalian",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "1",
+   "mark": "2:29:02",
+   "score": 1126,
+   "competitionId": "7236080"
+  },
+  {
+   "discipline": "Half Marathon",
+   "date": "2026-03-29",
+   "competition": "Shijiazhuang Half Marathon, Shijiazhuang",
+   "country": "CHN",
+   "category": "F",
+   "race": "F",
+   "place": "1",
+   "mark": "1:11:52",
+   "score": 1092,
+   "competitionId": "7245740"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-03-22",
+   "competition": "Bank of China Wuhan Marathon, Wuhan",
+   "country": "CHN",
+   "category": "B",
+   "race": "F",
+   "place": "4",
+   "mark": "2:28:45",
+   "score": 1129,
+   "competitionId": "7238456"
+  },
+  {
+   "discipline": "Marathon",
+   "date": "2026-01-18",
+   "competition": "Chang'an Automobile Chongqing Marathon, Chongqing",
+   "country": "CHN",
+   "category": "A",
+   "race": "F",
+   "place": "3",
+   "mark": "2:28:53",
+   "score": 1128,
+   "competitionId": "7235935"
+  }
+ ],
+ "roadProgression": [
+  {
+   "discipline": "Half Marathon",
+   "results": [
+    {
+     "season": "2024",
+     "mark": "1:13:33",
+     "venue": "Shenzhen (CHN)",
+     "date": "15 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "1:12:04",
+     "venue": "Shenzhen (CHN)",
+     "date": "14 DEC 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "1:11:52",
+     "venue": "Shijiazhuang (CHN)",
+     "date": "29 MAR 2026"
+    }
+   ]
+  },
+  {
+   "discipline": "Marathon",
+   "results": [
+    {
+     "season": "2023",
+     "mark": "2:48:15",
+     "venue": "Shenzhen (CHN)",
+     "date": "31 DEC 2023"
+    },
+    {
+     "season": "2024",
+     "mark": "2:36:26",
+     "venue": "Shenzhen (CHN)",
+     "date": "01 DEC 2024"
+    },
+    {
+     "season": "2025",
+     "mark": "2:30:28",
+     "venue": "Chongqing (CHN)",
+     "date": "02 MAR 2025"
+    },
+    {
+     "season": "2026",
+     "mark": "2:27:26",
+     "venue": "Beijing (CHN)",
+     "date": "18 OCT 2026"
+    }
+   ]
+  }
+ ],
+ "honours": [],
+ "worldRankings": [
+  {
+   "eventGroup": "Women's Marathon",
+   "place": 190,
+   "rankingScore": 1166
+  },
+  {
+   "eventGroup": "Women's Road Running",
+   "place": 476,
+   "rankingScore": 1055
+  },
+  {
+   "eventGroup": "Women's Overall Ranking",
+   "place": 868,
+   "rankingScore": 1188
+  }
+ ],
+ "representative": null,
+ "fetched": "2026-11-28",
+ "source": "https://worldathletics.org/athletes/pr-of-china/qing-zhu-15123187"
+}
